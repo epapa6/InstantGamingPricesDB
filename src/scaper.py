@@ -132,5 +132,11 @@ games.sort(key=sort_by_price)
 with open('games.json', 'w') as json_file:
     json.dump(games, json_file, indent=2)
 
+# Filter and save games with 'updated' or 'par' status to a separate file
+par_or_updated_games = [game for game in games if (game.get("status") == "updated" or game.get("status") == "par")]
+
+with open('games_par_or_updated.json', 'w') as json_file:
+    json.dump(par_or_updated_games, json_file, indent=2)
+
 # Print execution time
 print("--- %s seconds ---" % (time.time() - start_time))
