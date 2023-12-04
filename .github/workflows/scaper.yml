@@ -1,0 +1,39 @@
+name: Run Scraper
+
+on:
+  schedule:
+    - cron: '* */1 * * *'
+      branches:
+        - outputs
+      
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        ref: develop
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install cloudscraper beautifulsoup4
+
+    - name: Run scraper.py
+      run: python ./src/scraper.py
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "epapa6"
+        git config user.email "e.papa6@campus.unimib.it"
+        git add ./games.json
+        git add ./games_par_or_updated.json
+        git commit -m "Save program output as JSON"
+        git push
