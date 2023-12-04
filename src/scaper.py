@@ -45,6 +45,17 @@ def find_game_by_title(games, title):
             return game
     return None
 
+def sort_by_price(game_dict):
+    """
+    Sorting key function to sort games by price.
+
+    :param game_dict: The game dictionary.
+    :return: The price or a default value for sorting.
+    """
+    if game_dict['price']:
+        return float(game_dict['price'])
+    return float('inf')
+
 # Initialize variables
 start_time = time.time()
 today = str(date.today().strftime("%d-%m-%Y"))
@@ -70,7 +81,7 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
         title = title_element.text.strip() if title_element else None
         type = type_element.text.strip() if type_element else None
         discount = discount_element.text.strip() if discount_element else None
-        price = price_element.text.strip() if price_element else None
+        price = float(price_element.text.strip()[:-1]) if price_element else None
 
         # Process game information
         current_game = None
@@ -113,6 +124,9 @@ for index in range(1, get_last_page(url_fragment_instock + "1") + 1, 1):
 
         games.remove(saved_game_with_title)
         games.append(current_game.to_dict())
+
+# Sort games by price
+games.sort(key=sort_by_price)
 
 # Save all games to a JSON file
 with open('games.json', 'w') as json_file:
