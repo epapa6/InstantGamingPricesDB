@@ -3,6 +3,7 @@ from game import Game
 from datetime import date
 import cloudscraper
 import time
+import json
 
 def get_last_page(url):
     """
@@ -20,6 +21,7 @@ def get_last_page(url):
 start_time = time.time()
 today = str(date.today().strftime("%d-%m-%Y"))
 scraper = cloudscraper.create_scraper()
+games = []
 url_fragment_search = "https://www.instant-gaming.com/it/ricerca/?platform%5B0%5D=pc&type%5B0%5D=steam&version=2&page="
 
 # Loop through pages for games search
@@ -43,7 +45,11 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
         price = price_element.text.strip() if price_element else None
 
         current_game = Game(title, type, discount, price, None, None, None, today)
-        print(current_game.to_dict())
+        games.append(current_game.to_dict())
+
+# Save all games to a JSON file
+with open('games.json', 'w') as json_file:
+    json.dump(games, json_file, indent=2)
 
 # Print execution time
 print("--- %s seconds ---" % (time.time() - start_time))
