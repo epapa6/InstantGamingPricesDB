@@ -78,21 +78,40 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
 
         if not saved_game_with_title:
             # Game is new
-            current_game = Game(title, type, discount, price, price, None, "new", today)
+            current_game = Game(title, type, discount, price, price, "out of stock", "new", today)
         else:
             old_saved_game = Game.create_from_dict(saved_game_with_title)
             if (price and not old_saved_game.lowest) or (price and old_saved_game.lowest and price <= old_saved_game.lowest):
                 if old_saved_game.lowest and price < old_saved_game.lowest:
                     # Game just got a lower price than the lowest
-                    current_game = Game(title, type, discount, price, price, None, "updated", today)
+                    current_game = Game(title, type, discount, price, price, "out of stock", "updated", today)
                 else:
                     # Game is par with the lowest price
-                    current_game = Game(title, type, discount, price, price, None, "par", today)
+                    current_game = Game(title, type, discount, price, price, "out of stock", "par", today)
             else:
                 # Game is priced higher than the lowest 
-                current_game = Game(title, type, discount, price, old_saved_game.lowest, None, "unchanged", old_saved_game.last_time_updated)
+                current_game = Game(title, type, discount, price, old_saved_game.lowest, "out of stock", "unchanged", old_saved_game.last_time_updated)
             games.remove(saved_game_with_title)
 
+        games.append(current_game.to_dict())
+
+# Process games with stock information
+url_fragment_instock = "https://www.instant-gaming.com/it/ricerca/?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=1&gametype=all&search_tags=0&query=&page="
+
+for index in range(1, get_last_page(url_fragment_instock + "1") + 1, 1):
+    url_instock_page = url_fragment_instock + str(index)
+    page = scraper.get(url_instock_page).text
+    soup = BeautifulSoup(page, "html.parser")
+    items = soup.find_all("div", class_="item force-badge")
+
+    # Loop through items with stock information
+    for item in items:
+        game_title = item.find("span", class_="title").text.strip()
+        saved_game_with_title = find_game_by_title(games, game_title)
+        current_game = Game.create_from_dict(saved_game_with_title)
+        current_game.stock = "in stock"
+
+        games.remove(saved_game_with_title)
         games.append(current_game.to_dict())
 
 # Save all games to a JSON file
