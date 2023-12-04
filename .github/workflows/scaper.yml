@@ -2,10 +2,11 @@ name: Run Scraper
 
 on:
   schedule:
-    - cron: '* */1 * * *'
-      branches:
-        - outputs
-      
+    - cron: '0 */1 * * *'
+  push:
+    branches:
+      - outputs
+
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
@@ -13,8 +14,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-      with:
-        ref: develop
 
     - name: Set up Python
       uses: actions/setup-python@v2
