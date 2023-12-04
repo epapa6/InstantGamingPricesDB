@@ -81,7 +81,7 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
         title = title_element.text.strip() if title_element else None
         type = type_element.text.strip() if type_element else None
         discount = discount_element.text.strip() if discount_element else None
-        price = float(price_element.text.strip()[:-1]) if price_element else None
+        price = float(price_element.text.strip()[1:]) if price_element else None
 
         # Process game information
         current_game = None
