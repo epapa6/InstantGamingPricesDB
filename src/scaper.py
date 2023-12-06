@@ -61,7 +61,7 @@ start_time = time.time()
 today = str(date.today().strftime("%d-%m-%Y"))
 scraper = cloudscraper.create_scraper()
 games = load_or_create_json('games.json')
-url_fragment_search = "https://www.instant-gaming.com/it/ricerca/?platform%5B0%5D=pc&type%5B0%5D=steam&version=2&page="
+url_fragment_search = "https://www.instant-gaming.com/it/ricerca/?currency=EUR&?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=0&gametype=all&search_tags=0&query=&page="
 
 # Loop through pages for games search
 for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
@@ -107,7 +107,7 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
         games.append(current_game.to_dict())
 
 # Process games with stock information
-url_fragment_instock = "https://www.instant-gaming.com/it/ricerca/?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=1&gametype=all&search_tags=0&query=&page="
+url_fragment_instock = "https://www.instant-gaming.com/it/ricerca/?currency=EUR&?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=1&gametype=all&search_tags=0&query=&page="
 
 for index in range(1, get_last_page(url_fragment_instock + "1") + 1, 1):
     url_instock_page = url_fragment_instock + str(index)
