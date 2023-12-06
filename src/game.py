@@ -8,7 +8,7 @@ class Game:
         :param discount: The discount percentage for the game.
         :param price: The current price of the game.
         :param lowest: The lowest price the game has been offered for.
-        :param stock: The stock quantity of the game.
+        :param stock: The game is in stock or not.
         :param status: The status of the game.
         :param last_time_updated: The timestamp of the last time the game information was updated.
         """

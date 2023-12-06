@@ -27,10 +27,10 @@ def load_or_create_json(file_path):
     """
     if os.path.exists(file_path):
         with open(file_path, "r") as json_file:
-            saved_games = json.load(json_file)
+            games = json.load(json_file)
     else:
-        saved_games = []
-    return saved_games
+        games = []
+    return games
 
 def find_game_by_title(games, title):
     """
@@ -65,8 +65,8 @@ url_fragment_search = "https://www.instant-gaming.com/it/ricerca/?currency=EUR&?
 
 # Loop through pages for games search
 for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
-    url_search_page = url_fragment_search + str(index)
-    page = scraper.get(url_search_page).text
+    url_page = url_fragment_search + str(index)
+    page = scraper.get(url_page).text
     soup = BeautifulSoup(page, "html.parser")
     items = soup.find_all("div", class_="item force-badge")
 
@@ -85,15 +85,15 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
 
         # Process game information
         current_game = None
-        saved_game_with_title = find_game_by_title(games, title)
+        saved_game = find_game_by_title(games, title)
 
-        if not saved_game_with_title:
+        if not saved_game:
             # Game is new
             current_game = Game(title, type, discount, price, price, False, "new", today)
         else:
-            old_saved_game = Game.create_from_dict(saved_game_with_title)
-            if (price and not old_saved_game.lowest) or (price and old_saved_game.lowest and price <= old_saved_game.lowest):
-                if old_saved_game.lowest and price < old_saved_game.lowest:
+            old_game = Game.create_from_dict(saved_game)
+            if (price and not old_game.lowest) or (price and old_game.lowest and price <= old_game.lowest):
+                if old_game.lowest and price < old_game.lowest:
                     # Game just got a lower price than the lowest
                     current_game = Game(title, type, discount, price, price, False, "updated", today)
                 else:
@@ -101,16 +101,16 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
                     current_game = Game(title, type, discount, price, price, False, "par", today)
             else:
                 # Game is priced higher than the lowest 
-                current_game = Game(title, type, discount, price, old_saved_game.lowest, False, "unchanged", old_saved_game.last_time_updated)
-            games.remove(saved_game_with_title)
+                current_game = Game(title, type, discount, price, old_game.lowest, False, "unchanged", old_game.last_time_updated)
+            games.remove(saved_game)
 
         games.append(current_game.to_dict())
 
 # Process games with stock information
-url_fragment_instock = "https://www.instant-gaming.com/it/ricerca/?currency=EUR&?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=1&gametype=all&search_tags=0&query=&page="
+url_fragment_search_instock = "https://www.instant-gaming.com/it/ricerca/?currency=EUR&?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=1&gametype=all&search_tags=0&query=&page="
 
-for index in range(1, get_last_page(url_fragment_instock + "1") + 1, 1):
-    url_instock_page = url_fragment_instock + str(index)
+for index in range(1, get_last_page(url_fragment_search_instock + "1") + 1, 1):
+    url_instock_page = url_fragment_search_instock + str(index)
     page = scraper.get(url_instock_page).text
     soup = BeautifulSoup(page, "html.parser")
     items = soup.find_all("div", class_="item force-badge")
@@ -118,11 +118,11 @@ for index in range(1, get_last_page(url_fragment_instock + "1") + 1, 1):
     # Loop through items with stock information
     for item in items:
         game_title = item.find("span", class_="title").text.strip()
-        saved_game_with_title = find_game_by_title(games, game_title) 
-        current_game = Game.create_from_dict(saved_game_with_title)
+        saved_game = find_game_by_title(games, game_title) 
+        current_game = Game.create_from_dict(saved_game)
         current_game.stock = True
 
-        games.remove(saved_game_with_title)
+        games.remove(saved_game)
         games.append(current_game.to_dict())
 
 # Sort games by price
