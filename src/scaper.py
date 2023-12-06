@@ -53,7 +53,7 @@ def sort_by_price(game_dict):
     :return: The price or a default value for sorting.
     """
     if game_dict['price']:
-        return float(game_dict['price'])
+        return game_dict['price']
     return float('inf')
 
 # Initialize variables
@@ -81,7 +81,7 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
         title = title_element.text.strip() if title_element else None
         type = type_element.text.strip() if type_element else None
         discount = discount_element.text.strip() if discount_element else None
-        price = float(price_element.text.strip()[:-1]) if price_element else None
+        price = float(''.join(char for char in price_element.text.strip() if char.isdigit() or char == '.')) if price_element else None
 
         # Process game information
         current_game = None
@@ -89,19 +89,19 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
 
         if not saved_game_with_title:
             # Game is new
-            current_game = Game(title, type, discount, price, price, "out of stock", "new", today)
+            current_game = Game(title, type, discount, price, price, False, "new", today)
         else:
             old_saved_game = Game.create_from_dict(saved_game_with_title)
             if (price and not old_saved_game.lowest) or (price and old_saved_game.lowest and price <= old_saved_game.lowest):
                 if old_saved_game.lowest and price < old_saved_game.lowest:
                     # Game just got a lower price than the lowest
-                    current_game = Game(title, type, discount, price, price, "out of stock", "updated", today)
+                    current_game = Game(title, type, discount, price, price, False, "updated", today)
                 else:
                     # Game is par with the lowest price
-                    current_game = Game(title, type, discount, price, price, "out of stock", "par", today)
+                    current_game = Game(title, type, discount, price, price, False, "par", today)
             else:
                 # Game is priced higher than the lowest 
-                current_game = Game(title, type, discount, price, old_saved_game.lowest, "out of stock", "unchanged", old_saved_game.last_time_updated)
+                current_game = Game(title, type, discount, price, old_saved_game.lowest, False, "unchanged", old_saved_game.last_time_updated)
             games.remove(saved_game_with_title)
 
         games.append(current_game.to_dict())
@@ -118,9 +118,9 @@ for index in range(1, get_last_page(url_fragment_instock + "1") + 1, 1):
     # Loop through items with stock information
     for item in items:
         game_title = item.find("span", class_="title").text.strip()
-        saved_game_with_title = find_game_by_title(games, game_title)
+        saved_game_with_title = find_game_by_title(games, game_title) 
         current_game = Game.create_from_dict(saved_game_with_title)
-        current_game.stock = "in stock"
+        current_game.stock = True
 
         games.remove(saved_game_with_title)
         games.append(current_game.to_dict())
