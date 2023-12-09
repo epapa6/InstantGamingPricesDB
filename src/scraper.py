@@ -61,6 +61,7 @@ start_time = time.time()
 today = str(date.today().strftime("%d-%m-%Y"))
 scraper = cloudscraper.create_scraper()
 games = load_or_create_json('games.json')
+games_new, games_updated, games_par, games_unchanged = (0, 0, 0, 0)
 url_fragment_search = "https://www.instant-gaming.com/it/ricerca/?currency=EUR&?platform%5B0%5D=1&type%5B0%5D=steam&sort_by=&min_reviewsavg=10&max_reviewsavg=100&noreviews=1&min_price=0&max_price=100&noprice=1&instock=0&gametype=all&search_tags=0&query=&page="
 
 # Loop through pages for games search
@@ -90,18 +91,22 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
         if not saved_game:
             # Game is new
             current_game = Game(title, type, discount, price, price, False, "new", today)
+            games_new += 1
         else:
             old_game = Game.create_from_dict(saved_game)
             if (price and not old_game.lowest) or (price and old_game.lowest and price <= old_game.lowest):
                 if old_game.lowest and price < old_game.lowest:
                     # Game just got a lower price than the lowest
                     current_game = Game(title, type, discount, price, price, False, "updated", today)
+                    games_updated += 1
                 else:
                     # Game is par with the lowest price
                     current_game = Game(title, type, discount, price, price, False, "par", today)
+                    games_par += 1
             else:
                 # Game is priced higher than the lowest 
                 current_game = Game(title, type, discount, price, old_game.lowest, False, "unchanged", old_game.last_time_updated)
+                games_unchanged += 1
             games.remove(saved_game)
 
         games.append(current_game.to_dict())
@@ -137,6 +142,13 @@ par_or_updated_games = [game for game in games if (game.get("status") == "update
 
 with open('games_par_or_updated.json', 'w') as json_file:
     json.dump(par_or_updated_games, json_file, indent=2)
+
+# Print stats about status of the game
+print("Number of games: ", games_new + games_updated + games_par + games_unchanged)
+print("New games: ", games_new)
+print("Updated games: ", games_updated)
+print("Par games: ", games_par)
+print("Unchanged games: ", games_unchanged)
 
 # Print execution time
 print("--- %s seconds ---" % (time.time() - start_time))
