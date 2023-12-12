@@ -69,6 +69,10 @@ for index in range(1, get_last_page(url_fragment_search + "1") + 1, 1):
     url_page = url_fragment_search + str(index)
     page = scraper.get(url_page).text
     soup = BeautifulSoup(page, "html.parser")
+
+    location = soup.find("span", class_="localisation")
+    print(location.text)
+
     items = soup.find_all("div", class_="item force-badge")
 
     # Loop through items on the search page
