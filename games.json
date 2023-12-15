@@ -60,16 +60,6 @@
     "last_time_updated": "13-12-2023"
   },
   {
-    "title": "The Dig",
-    "type": "game",
-    "discount": "-83%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "World War II: Panzer Claws",
     "type": "game",
     "discount": "-80%",
@@ -1363,16 +1353,6 @@
     "title": "Europa Universalis IV: Res Publica",
     "type": "DLC",
     "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Indiana Jones and the Last Crusade",
-    "type": "game",
-    "discount": "-83%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5916,7 +5896,7 @@
     "price": 1.03,
     "lowest": 1.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -6520,6 +6500,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Torchlight",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.13,
+    "lowest": 1.13,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Drift21",
     "type": "game",
     "discount": "-96%",
@@ -6541,16 +6531,6 @@
   },
   {
     "title": "Kingdom: New Lands",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.13,
-    "lowest": 1.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Torchlight",
     "type": "game",
     "discount": "-92%",
     "price": 1.13,
@@ -7500,6 +7480,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Payday 2",
+    "type": "game",
+    "discount": "-88%",
+    "price": 1.23,
+    "lowest": 1.23,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "The Last Campfire",
     "type": "game",
     "discount": "-92%",
@@ -8010,6 +8000,16 @@
     "last_time_updated": "11-12-2023"
   },
   {
+    "title": "Generation Zero - US Weapons Pack 2",
+    "type": "DLC",
+    "discount": "-57%",
+    "price": 1.29,
+    "lowest": 1.29,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Wolfenstein 3D",
     "type": "game",
     "discount": "-74%",
@@ -8300,6 +8300,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Indiana Jones and the Last Crusade",
+    "type": "game",
+    "discount": "-78%",
+    "price": 1.32,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Tropico Reloaded",
     "type": "game",
     "discount": "-81%",
@@ -8570,6 +8580,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "The Dig",
+    "type": "game",
+    "discount": "-77%",
+    "price": 1.33,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Acron: Attack of the Squirrels!",
     "type": "game",
     "discount": "-92%",
@@ -8690,16 +8710,6 @@
     "last_time_updated": "14-12-2023"
   },
   {
-    "title": "Payday 2",
-    "type": "game",
-    "discount": "-87%",
-    "price": 1.34,
-    "lowest": 1.29,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
-  },
-  {
     "title": "Europa Universalis IV: Emperor Content Pack",
     "type": "DLC",
     "discount": "-78%",
@@ -8778,16 +8788,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Cities In Motion: Design Dreams",
-    "type": "DLC",
-    "discount": "-66%",
-    "price": 1.35,
-    "lowest": 1.16,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
   },
   {
     "title": "The Jackbox Party Pack",
@@ -9103,16 +9103,6 @@
     "title": "Magicka",
     "type": "game",
     "discount": "-86%",
-    "price": 1.4,
-    "lowest": 1.4,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Shift Happens",
-    "type": "game",
-    "discount": "-91%",
     "price": 1.4,
     "lowest": 1.4,
     "stock": true,
@@ -9860,6 +9850,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Cities In Motion: Design Dreams",
+    "type": "DLC",
+    "discount": "-63%",
+    "price": 1.46,
+    "lowest": 1.16,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
+  },
+  {
     "title": "Blinding Dark",
     "type": "game",
     "discount": "-85%",
@@ -10510,6 +10510,16 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Shift Happens",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.54,
+    "lowest": 1.4,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Chicken Police - Paint it RED!",
     "type": "game",
     "discount": "-92%",
@@ -10888,6 +10898,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Overcooked - The Lost Morsel",
+    "type": "DLC",
+    "discount": "-68%",
+    "price": 1.58,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
   },
   {
     "title": "Doodle Kingdom",
@@ -11370,16 +11390,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Graveyard Keeper - Better Save Soul",
-    "type": "DLC",
-    "discount": "-83%",
-    "price": 1.65,
-    "lowest": 1.65,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "In Sound Mind",
     "type": "game",
     "discount": "-94%",
@@ -11715,16 +11725,6 @@
     "discount": "-79%",
     "price": 1.67,
     "lowest": 1.67,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Lego Marvel's Avengers Deluxe Edition",
-    "type": "game",
-    "discount": "-96%",
-    "price": 1.68,
-    "lowest": 1.68,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -13160,6 +13160,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Sid Meier's Civilization: Beyond Earth",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.89,
+    "lowest": 1.82,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "12-12-2023"
+  },
+  {
     "title": "X3: Reunion",
     "type": "game",
     "discount": "-81%",
@@ -14260,16 +14270,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Sid Meier's Civilization: Beyond Earth",
-    "type": "game",
-    "discount": "-95%",
-    "price": 2.0,
-    "lowest": 1.82,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
-  },
-  {
     "title": "Darkest Dungeon: The Color Of Madness",
     "type": "DLC",
     "discount": "-60%",
@@ -14525,6 +14525,16 @@
     "discount": "-90%",
     "price": 2.01,
     "lowest": 1.86,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Graveyard Keeper - Better Save Soul",
+    "type": "DLC",
+    "discount": "-79%",
+    "price": 2.01,
+    "lowest": 1.65,
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "15-12-2023"
@@ -15210,6 +15220,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "WRC 9 Audi Quattro A2 1984",
+    "type": "DLC",
+    "discount": "-47%",
+    "price": 2.13,
+    "lowest": 1.35,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
+  },
+  {
     "title": "LOOM",
     "type": "game",
     "discount": "-64%",
@@ -15303,6 +15323,16 @@
     "title": "7'scarlet",
     "type": "game",
     "discount": "-91%",
+    "price": 2.14,
+    "lowest": 2.14,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "MIAZMA or the Devil's Stone",
+    "type": "game",
+    "discount": "-74%",
     "price": 2.14,
     "lowest": 2.14,
     "stock": true,
@@ -15518,6 +15548,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Batman: Arkham Origins Season Pass",
+    "type": "DLC",
+    "discount": "-89%",
+    "price": 2.18,
+    "lowest": 1.72,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
   },
   {
     "title": "OlliOlli World Rad Edition",
@@ -16170,16 +16210,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "MIAZMA or the Devil's Stone",
-    "type": "game",
-    "discount": "-73%",
-    "price": 2.25,
-    "lowest": 2.14,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
-  },
-  {
     "title": "Real Farm",
     "type": "game",
     "discount": "-89%",
@@ -16520,6 +16550,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Battle Chasers: Nightwar",
+    "type": "game",
+    "discount": "-92%",
+    "price": 2.28,
+    "lowest": 2.28,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Gonner2",
     "type": "game",
     "discount": "-82%",
@@ -16618,16 +16658,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Batman: Arkham Origins Season Pass",
-    "type": "DLC",
-    "discount": "-88%",
-    "price": 2.3,
-    "lowest": 1.72,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
   },
   {
     "title": "RollerCoaster Tycoon 3: Complete Edition",
@@ -16767,6 +16797,16 @@
     "lowest": 2.32,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Lego Marvel's Avengers Deluxe Edition",
+    "type": "game",
+    "discount": "-94%",
+    "price": 2.33,
+    "lowest": 1.68,
+    "stock": true,
+    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -17080,6 +17120,16 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack",
+    "type": "DLC",
+    "discount": "-82%",
+    "price": 2.37,
+    "lowest": 2.37,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "My Big Sister",
     "type": "game",
     "discount": "-60%",
@@ -17218,16 +17268,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Battle Chasers: Nightwar",
-    "type": "game",
-    "discount": "-92%",
-    "price": 2.4,
-    "lowest": 2.28,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
   },
   {
     "title": "Dice Legacy",
@@ -17490,16 +17530,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Aragami",
-    "type": "game",
-    "discount": "-88%",
-    "price": 2.44,
-    "lowest": 2.44,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Spellcaster University",
     "type": "game",
     "discount": "-88%",
@@ -17710,16 +17740,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Graveyard Keeper",
-    "type": "game",
-    "discount": "-87%",
-    "price": 2.47,
-    "lowest": 2.42,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
-  },
-  {
     "title": "LEGO Indiana Jones 2: The Adventure Continues",
     "type": "game",
     "discount": "-87%",
@@ -17798,16 +17818,6 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "14-12-2023"
-  },
-  {
-    "title": "Carrier Deck",
-    "type": "game",
-    "discount": "-75%",
-    "price": 2.48,
-    "lowest": 2.48,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Planet Coaster - Collezione Attrazioni Magnifiche",
@@ -18430,6 +18440,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "The Park",
+    "type": "game",
+    "discount": "-80%",
+    "price": 2.55,
+    "lowest": 2.55,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Hitchhiker - A Mystery Game",
     "type": "game",
     "discount": "-81%",
@@ -18487,6 +18507,26 @@
     "lowest": 2.56,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Tales of Vesperia: Definitive Edition",
+    "type": "game",
+    "discount": "-94%",
+    "price": 2.57,
+    "lowest": 2.49,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "14-12-2023"
+  },
+  {
+    "title": "Aragami",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.57,
+    "lowest": 2.44,
+    "stock": true,
+    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -19170,16 +19210,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "The Park",
-    "type": "game",
-    "discount": "-80%",
-    "price": 2.66,
-    "lowest": 2.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Bioshock Infinite: Season Pass",
     "type": "DLC",
     "discount": "-87%",
@@ -19211,16 +19241,6 @@
   },
   {
     "title": "Frostpunk: On The Edge",
-    "type": "DLC",
-    "discount": "-80%",
-    "price": 2.66,
-    "lowest": 2.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack",
     "type": "DLC",
     "discount": "-80%",
     "price": 2.66,
@@ -19350,16 +19370,6 @@
     "last_time_updated": "12-12-2023"
   },
   {
-    "title": "Tales of Vesperia: Definitive Edition",
-    "type": "game",
-    "discount": "-93%",
-    "price": 2.68,
-    "lowest": 2.49,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
-  },
-  {
     "title": "GOD EATER 3",
     "type": "game",
     "discount": "-95%",
@@ -19441,16 +19451,6 @@
   },
   {
     "title": "Total War: Rome II - Beasts of War Unit Pack",
-    "type": "DLC",
-    "discount": "-10%",
-    "price": 2.69,
-    "lowest": 2.69,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Generation Zero - US Weapons Pack 2",
     "type": "DLC",
     "discount": "-10%",
     "price": 2.69,
@@ -20306,7 +20306,7 @@
     "price": 2.84,
     "lowest": 2.84,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -20957,6 +20957,16 @@
     "lowest": 2.93,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Blood And Zombies",
+    "type": "game",
+    "discount": "-80%",
+    "price": 2.93,
+    "lowest": 2.93,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -21970,31 +21980,11 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Blood And Zombies",
-    "type": "game",
-    "discount": "-79%",
-    "price": 3.08,
-    "lowest": 3.08,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Metal: Hellsinger",
     "type": "game",
     "discount": "-90%",
     "price": 3.09,
     "lowest": 2.8,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
-  },
-  {
-    "title": "Farmer's Dynasty",
-    "type": "game",
-    "discount": "-90%",
-    "price": 3.09,
-    "lowest": 2.88,
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "14-12-2023"
@@ -22590,6 +22580,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Farmer's Dynasty",
+    "type": "game",
+    "discount": "-89%",
+    "price": 3.2,
+    "lowest": 2.88,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "14-12-2023"
+  },
+  {
     "title": "Europa Universalis IV: Mandate of Heaven Content Pack",
     "type": "DLC",
     "discount": "-60%",
@@ -22653,6 +22653,16 @@
     "title": "Bridge! 3",
     "type": "game",
     "discount": "-75%",
+    "price": 3.2,
+    "lowest": 3.2,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Armored Brigade Nation Pack: Czechoslovakia - Netherlands",
+    "type": "DLC",
+    "discount": "-78%",
     "price": 3.2,
     "lowest": 3.2,
     "stock": true,
@@ -22843,6 +22853,16 @@
     "title": "Japanese School",
     "type": "game",
     "discount": "-67%",
+    "price": 3.25,
+    "lowest": 3.25,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Murdered: Soul Suspect",
+    "type": "game",
+    "discount": "-84%",
     "price": 3.25,
     "lowest": 3.25,
     "stock": true,
@@ -23570,6 +23590,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Golf With Your Friends",
+    "type": "game",
+    "discount": "-78%",
+    "price": 3.36,
+    "lowest": 3.36,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Dragon Ball Xenoverse 2 - Legendary Pack 2",
     "type": "DLC",
     "discount": "-66%",
@@ -23647,16 +23677,6 @@
     "lowest": 3.37,
     "stock": true,
     "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Golf With Your Friends",
-    "type": "game",
-    "discount": "-77%",
-    "price": 3.38,
-    "lowest": 3.36,
-    "stock": true,
-    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -24160,6 +24180,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Kona",
+    "type": "game",
+    "discount": "-77%",
+    "price": 3.47,
+    "lowest": 3.47,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "HELLDIVERS Digital Deluxe Edition",
     "type": "game",
     "discount": "-88%",
@@ -24418,6 +24448,26 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "14-12-2023"
+  },
+  {
+    "title": "Act of Aggression - Reboot Edition",
+    "type": "game",
+    "discount": "-88%",
+    "price": 3.51,
+    "lowest": 3.51,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Fling to the Finish",
+    "type": "game",
+    "discount": "-77%",
+    "price": 3.52,
+    "lowest": 2.4,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Starpoint Gemini 2 Gold Pack",
@@ -25000,6 +25050,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Marsupilami - Hoobadventure",
+    "type": "game",
+    "discount": "-82%",
+    "price": 3.61,
+    "lowest": 3.61,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "The Banner Saga 2",
     "type": "game",
     "discount": "-86%",
@@ -25138,6 +25198,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Graveyard Keeper",
+    "type": "game",
+    "discount": "-81%",
+    "price": 3.66,
+    "lowest": 2.42,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
   },
   {
     "title": "House Flipper - HGTV",
@@ -26710,6 +26780,16 @@
     "last_time_updated": "14-12-2023"
   },
   {
+    "title": "Tails of Iron",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.97,
+    "lowest": 3.97,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Arma 3 Marksmen",
     "type": "DLC",
     "discount": "-56%",
@@ -27530,6 +27610,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Metal Slug XX",
+    "type": "game",
+    "discount": "-76%",
+    "price": 4.07,
+    "lowest": 3.51,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "14-12-2023"
+  },
+  {
     "title": "Call of Cthulhu",
     "type": "game",
     "discount": "-80%",
@@ -27547,16 +27637,6 @@
     "lowest": 3.91,
     "stock": true,
     "status": "unchanged",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Tails of Iron",
-    "type": "game",
-    "discount": "-84%",
-    "price": 4.08,
-    "lowest": 4.08,
-    "stock": true,
-    "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -27608,6 +27688,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Potion Craft: Alchemist Simulator",
+    "type": "game",
+    "discount": "-79%",
+    "price": 4.09,
+    "lowest": 3.72,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
   },
   {
     "title": "Legend of Keepers: Return of the Goddess",
@@ -27743,16 +27833,6 @@
     "title": "Hearts of Iron IV: Death or Dishonor",
     "type": "DLC",
     "discount": "-59%",
-    "price": 4.13,
-    "lowest": 4.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Wreckfest - Season Pass 2",
-    "type": "DLC",
-    "discount": "-68%",
     "price": 4.13,
     "lowest": 4.13,
     "stock": true,
@@ -28050,16 +28130,6 @@
     "last_time_updated": "12-12-2023"
   },
   {
-    "title": "Metal Slug XX",
-    "type": "game",
-    "discount": "-75%",
-    "price": 4.2,
-    "lowest": 3.51,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
-  },
-  {
     "title": "Chronos: Before the Ashes",
     "type": "game",
     "discount": "-86%",
@@ -28158,16 +28228,6 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Potion Craft: Alchemist Simulator",
-    "type": "game",
-    "discount": "-78%",
-    "price": 4.22,
-    "lowest": 3.72,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
   },
   {
     "title": "We Happy Few Season Pass",
@@ -28380,6 +28440,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Panzer Corps 2: Axis Operations - 1941",
+    "type": "DLC",
+    "discount": "-56%",
+    "price": 4.28,
+    "lowest": 4.28,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Deus Ex: Mankind Divided",
     "type": "game",
     "discount": "-86%",
@@ -28403,16 +28473,6 @@
     "title": "Bus Simulator 16 Gold Edition",
     "type": "game",
     "discount": "-79%",
-    "price": 4.28,
-    "lowest": 4.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Panzer Corps 2: Axis Operations - 1941",
-    "type": "DLC",
-    "discount": "-56%",
     "price": 4.28,
     "lowest": 4.28,
     "stock": true,
@@ -28798,6 +28858,16 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "10-12-2023"
+  },
+  {
+    "title": "Jurassic World Evolution: Secrets of Dr Wu",
+    "type": "DLC",
+    "discount": "-71%",
+    "price": 4.36,
+    "lowest": 4.36,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Ori and the Blind Forest Definitive Edition",
@@ -29190,16 +29260,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Jurassic World Evolution: Secrets of Dr Wu",
-    "type": "DLC",
-    "discount": "-70%",
-    "price": 4.47,
-    "lowest": 4.47,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Transient",
     "type": "game",
     "discount": "-77%",
@@ -29270,16 +29330,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Airport Firefighters - The Simulation",
-    "type": "game",
-    "discount": "-70%",
-    "price": 4.49,
-    "lowest": 4.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Shogun: Total War - Collection",
     "type": "game",
     "discount": "-55%",
@@ -29337,6 +29387,16 @@
     "lowest": 4.5,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Airport Firefighters - The Simulation",
+    "type": "game",
+    "discount": "-70%",
+    "price": 4.5,
+    "lowest": 4.49,
+    "stock": true,
+    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -29640,6 +29700,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Carrier Deck",
+    "type": "game",
+    "discount": "-53%",
+    "price": 4.6,
+    "lowest": 2.48,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "A Memoir Blue",
     "type": "game",
     "discount": "-39%",
@@ -29906,7 +29976,7 @@
     "price": 4.66,
     "lowest": 4.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -32060,16 +32130,6 @@
     "last_time_updated": "12-12-2023"
   },
   {
-    "title": "MX vs ATV All Out",
-    "type": "game",
-    "discount": "-87%",
-    "price": 5.17,
-    "lowest": 5.14,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
-  },
-  {
     "title": "Mortal Kombat 11 - Nightwolf",
     "type": "DLC",
     "discount": "-14%",
@@ -32318,6 +32378,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Deliver Us The Moon",
+    "type": "game",
+    "discount": "-79%",
+    "price": 5.21,
+    "lowest": 4.68,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
   },
   {
     "title": "Train Simulator: DR BR 86 Loco",
@@ -32610,16 +32680,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Deliver Us The Moon",
-    "type": "game",
-    "discount": "-79%",
-    "price": 5.32,
-    "lowest": 4.68,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
-  },
-  {
     "title": "Dead by Daylight - Chains of Hate Chapter",
     "type": "DLC",
     "discount": "-24%",
@@ -32890,6 +32950,16 @@
     "last_time_updated": "14-12-2023"
   },
   {
+    "title": "MX vs ATV All Out",
+    "type": "game",
+    "discount": "-87%",
+    "price": 5.33,
+    "lowest": 5.14,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "14-12-2023"
+  },
+  {
     "title": "Warhammer Age of Sigmar: Storm Ground",
     "type": "game",
     "discount": "-73%",
@@ -32980,13 +33050,13 @@
     "last_time_updated": "14-12-2023"
   },
   {
-    "title": "Mortal Kombat 11 Premium Edition",
+    "title": "AK-xolotl",
     "type": "game",
-    "discount": "-89%",
-    "price": 5.35,
-    "lowest": 5.34,
+    "discount": "-72%",
+    "price": 5.36,
+    "lowest": 5.36,
     "stock": true,
-    "status": "unchanged",
+    "status": "updated",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -33118,6 +33188,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Europa Universalis IV: Rights of Man",
+    "type": "DLC",
+    "discount": "-73%",
+    "price": 5.42,
+    "lowest": 5.41,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "12-12-2023"
   },
   {
     "title": "Retreat To Enen",
@@ -33410,6 +33490,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Mortal Kombat 11 Premium Edition",
+    "type": "game",
+    "discount": "-89%",
+    "price": 5.5,
+    "lowest": 5.34,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Shadow Warrior 2 Deluxe",
     "type": "game",
     "discount": "-86%",
@@ -33580,6 +33670,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Unpacking",
+    "type": "game",
+    "discount": "-72%",
+    "price": 5.58,
+    "lowest": 5.58,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Total War: MEDIEVAL II Definitive Edition",
     "type": "game",
     "discount": "-78%",
@@ -33608,16 +33708,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Europa Universalis IV: Rights of Man",
-    "type": "DLC",
-    "discount": "-72%",
-    "price": 5.6,
-    "lowest": 5.41,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
   },
   {
     "title": "Barotrauma - Supporter Pack",
@@ -33910,16 +34000,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Unpacking",
-    "type": "game",
-    "discount": "-71%",
-    "price": 5.7,
-    "lowest": 5.7,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Song of Horror Complete Edition",
     "type": "game",
     "discount": "-81%",
@@ -34150,6 +34230,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Dragon Ball FighterZ",
+    "type": "game",
+    "discount": "-90%",
+    "price": 5.78,
+    "lowest": 5.65,
+    "stock": false,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Wizard Of Legend",
     "type": "game",
     "discount": "-64%",
@@ -34158,16 +34248,6 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "10-12-2023"
-  },
-  {
-    "title": "Dragon Ball FighterZ",
-    "type": "game",
-    "discount": "-90%",
-    "price": 5.78,
-    "lowest": 5.65,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Project Winter",
@@ -34230,6 +34310,16 @@
     "last_time_updated": "14-12-2023"
   },
   {
+    "title": "Warhammer 40,000: Gladius - Craftworld Aeldari",
+    "type": "DLC",
+    "discount": "-65%",
+    "price": 5.8,
+    "lowest": 3.98,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
+  },
+  {
     "title": "Gurumin: A Monstrous Adventure",
     "type": "game",
     "discount": "-27%",
@@ -34257,6 +34347,16 @@
     "lowest": 5.81,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Toy Tinker Simulator",
+    "type": "game",
+    "discount": "-55%",
+    "price": 5.81,
+    "lowest": 5.81,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -34520,6 +34620,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Hitman GOTY Edition",
+    "type": "game",
+    "discount": "-90%",
+    "price": 5.93,
+    "lowest": 5.72,
+    "stock": false,
+    "status": "unchanged",
+    "last_time_updated": "14-12-2023"
+  },
+  {
     "title": "Dead Rising 3 Apocalypse Edition",
     "type": "game",
     "discount": "-80%",
@@ -34540,31 +34650,11 @@
     "last_time_updated": "13-12-2023"
   },
   {
-    "title": "Hitman GOTY Edition",
-    "type": "game",
-    "discount": "-90%",
-    "price": 5.93,
-    "lowest": 5.72,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
-  },
-  {
     "title": "Dead by Daylight - Portrait of a Murder",
     "type": "DLC",
     "discount": "-15%",
     "price": 5.93,
     "lowest": 5.82,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
-  },
-  {
-    "title": "Marsupilami - Hoobadventure",
-    "type": "game",
-    "discount": "-70%",
-    "price": 5.93,
-    "lowest": 4.9,
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "14-12-2023"
@@ -35137,6 +35227,16 @@
     "lowest": 6.05,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Wreckfest - Season Pass 2",
+    "type": "DLC",
+    "discount": "-53%",
+    "price": 6.06,
+    "lowest": 4.13,
+    "stock": true,
+    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -35890,29 +35990,9 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Chivalry 2 Special Edition",
-    "type": "game",
-    "discount": "-87%",
-    "price": 6.32,
-    "lowest": 6.32,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "I Am Dead",
     "type": "game",
     "discount": "-67%",
-    "price": 6.32,
-    "lowest": 6.32,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Her Majesty's Spiffing",
-    "type": "game",
-    "discount": "-47%",
     "price": 6.32,
     "lowest": 6.32,
     "stock": true,
@@ -36055,6 +36135,16 @@
     "discount": "-8%",
     "price": 6.37,
     "lowest": 5.15,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
+  },
+  {
+    "title": "Total War: SHOGUN 2 - Rise of the Samurai Campaign",
+    "type": "DLC",
+    "discount": "-36%",
+    "price": 6.37,
+    "lowest": 2.9,
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "10-12-2023"
@@ -36417,6 +36507,16 @@
     "lowest": 6.49,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Yet Another Zombie Survivors",
+    "type": "game",
+    "discount": "-33%",
+    "price": 6.49,
+    "lowest": 6.49,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -36800,6 +36900,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Her Majesty's Spiffing",
+    "type": "game",
+    "discount": "-46%",
+    "price": 6.53,
+    "lowest": 6.32,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Slap City",
     "type": "game",
     "discount": "-61%",
@@ -36835,16 +36945,6 @@
     "discount": "-48%",
     "price": 6.53,
     "lowest": 6.53,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Redout 2",
-    "type": "game",
-    "discount": "-78%",
-    "price": 6.54,
-    "lowest": 6.54,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -37430,6 +37530,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Chivalry 2 Special Edition",
+    "type": "game",
+    "discount": "-86%",
+    "price": 6.66,
+    "lowest": 6.32,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Slime Rancher",
     "type": "game",
     "discount": "-65%",
@@ -37528,6 +37638,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Mordheim: City of the Damned - Undead",
+    "type": "DLC",
+    "discount": "-33%",
+    "price": 6.67,
+    "lowest": 2.13,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "11-12-2023"
   },
   {
     "title": "Kingdom of the Dead",
@@ -37765,6 +37885,16 @@
     "discount": "-43%",
     "price": 6.77,
     "lowest": 6.6,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Redout 2",
+    "type": "game",
+    "discount": "-77%",
+    "price": 6.78,
+    "lowest": 6.54,
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "15-12-2023"
@@ -38040,16 +38170,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Toy Tinker Simulator",
-    "type": "game",
-    "discount": "-46%",
-    "price": 6.87,
-    "lowest": 6.87,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Oaken",
     "type": "game",
     "discount": "-66%",
@@ -38205,16 +38325,6 @@
     "discount": "-12%",
     "price": 6.87,
     "lowest": 6.87,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "AK-xolotl",
-    "type": "game",
-    "discount": "-64%",
-    "price": 6.88,
-    "lowest": 6.88,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -38790,6 +38900,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Europa Universalis IV: Cradle of Civilization",
+    "type": "DLC",
+    "discount": "-65%",
+    "price": 7.06,
+    "lowest": 7.06,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Farming Simulator 22 - Vermeer Pack",
     "type": "DLC",
     "discount": "-12%",
@@ -39310,16 +39430,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Europa Universalis IV: Cradle of Civilization",
-    "type": "DLC",
-    "discount": "-63%",
-    "price": 7.32,
-    "lowest": 7.06,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Captain Tsubasa Rise of New Champions",
     "type": "game",
     "discount": "-82%",
@@ -39535,7 +39645,7 @@
     "discount": "-85%",
     "price": 7.41,
     "lowest": 7.41,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
   },
@@ -40210,16 +40320,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "The House of Da Vinci",
-    "type": "game",
-    "discount": "-62%",
-    "price": 7.64,
-    "lowest": 7.37,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Panzer Corps 2",
     "type": "game",
     "discount": "-80%",
@@ -40247,6 +40347,16 @@
     "lowest": 7.65,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "The House of Da Vinci",
+    "type": "game",
+    "discount": "-62%",
+    "price": 7.66,
+    "lowest": 7.37,
+    "stock": true,
+    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -41110,6 +41220,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Field of Glory II: Medieval - Rise of the Swiss",
+    "type": "DLC",
+    "discount": "-45%",
+    "price": 8.12,
+    "lowest": 8.12,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Endless Voyage / \u65e0\u5c3d\u822a\u7ebf",
     "type": "game",
     "discount": "-46%",
@@ -41920,6 +42040,16 @@
     "last_time_updated": "12-12-2023"
   },
   {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Neon Blight",
     "type": "game",
     "discount": "-57%",
@@ -42590,16 +42720,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-1%",
-    "price": 8.89,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "The Stronghold Collection",
     "type": "game",
     "discount": "-64%",
@@ -42860,19 +42980,19 @@
     "last_time_updated": "13-12-2023"
   },
   {
-    "title": "Amazing Cultivation Simulator",
+    "title": "Super Bomberman R",
     "type": "game",
-    "discount": "-57%",
+    "discount": "-77%",
     "price": 9.01,
     "lowest": 9.01,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Super Bomberman R",
+    "title": "Amazing Cultivation Simulator",
     "type": "game",
-    "discount": "-77%",
+    "discount": "-57%",
     "price": 9.01,
     "lowest": 9.01,
     "stock": true,
@@ -43680,6 +43800,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Dragon Ball FighterZ: FighterZ Pass 2",
+    "type": "DLC",
+    "discount": "-62%",
+    "price": 9.57,
+    "lowest": 9.57,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "SpellForce: Conquest of Eo",
     "type": "game",
     "discount": "-68%",
@@ -43815,16 +43945,6 @@
     "discount": "-19%",
     "price": 9.66,
     "lowest": 9.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Dragon Ball FighterZ: FighterZ Pass 2",
-    "type": "DLC",
-    "discount": "-61%",
-    "price": 9.68,
-    "lowest": 9.68,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -44890,6 +45010,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Project Cars: Digital Edition",
+    "type": "game",
+    "discount": "-49%",
+    "price": 10.25,
+    "lowest": 10.25,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "IL-2 Sturmovik: Desert Wings - Tobruk",
     "type": "DLC",
     "discount": "-74%",
@@ -44956,7 +45086,7 @@
     "price": 10.26,
     "lowest": 10.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -44976,7 +45106,7 @@
     "price": 10.26,
     "lowest": 10.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -45350,16 +45480,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Project Cars: Digital Edition",
-    "type": "game",
-    "discount": "-47%",
-    "price": 10.58,
-    "lowest": 10.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Monster Hunter Rise",
     "type": "game",
     "discount": "-74%",
@@ -45685,7 +45805,7 @@
     "discount": "-89%",
     "price": 10.82,
     "lowest": 10.82,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-12-2023"
   },
@@ -45827,6 +45947,16 @@
     "lowest": 10.96,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Dungeon Defenders: Awakened",
+    "type": "game",
+    "discount": "-56%",
+    "price": 10.98,
+    "lowest": 10.98,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -46530,6 +46660,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Across the Obelisk",
+    "type": "game",
+    "discount": "-43%",
+    "price": 11.43,
+    "lowest": 11.43,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Nine Noir Lives",
     "type": "game",
     "discount": "-43%",
@@ -46607,16 +46747,6 @@
     "lowest": 11.47,
     "stock": true,
     "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Solasta: Crown of the Magister - Palace of Ice",
-    "type": "DLC",
-    "discount": "-23%",
-    "price": 11.48,
-    "lowest": 9.74,
-    "stock": true,
-    "status": "unchanged",
     "last_time_updated": "15-12-2023"
   },
   {
@@ -46880,6 +47010,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Solasta: Crown of the Magister - Palace of Ice",
+    "type": "DLC",
+    "discount": "-21%",
+    "price": 11.8,
+    "lowest": 9.74,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Payday 2 GOTY Edition",
     "type": "game",
     "discount": "-61%",
@@ -46918,6 +47058,16 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "10-12-2023"
+  },
+  {
+    "title": "PHOGS!",
+    "type": "game",
+    "discount": "-53%",
+    "price": 11.83,
+    "lowest": 11.83,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Close Combat: The Bloody First",
@@ -47638,6 +47788,16 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "11-12-2023"
+  },
+  {
+    "title": "Strategic Command WWII: World at War",
+    "type": "game",
+    "discount": "-70%",
+    "price": 12.25,
+    "lowest": 12.25,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Thymesia",
@@ -48720,6 +48880,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Scorn Deluxe Edition",
+    "type": "game",
+    "discount": "-74%",
+    "price": 12.99,
+    "lowest": 12.99,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Age of Conan: Unchained - Hyborian Conqueror Collection",
     "type": "DLC",
     "discount": "-78%",
@@ -49203,16 +49373,6 @@
     "title": "Redfall",
     "type": "game",
     "discount": "-80%",
-    "price": 13.79,
-    "lowest": 13.79,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Scorn Deluxe Edition",
-    "type": "game",
-    "discount": "-72%",
     "price": 13.79,
     "lowest": 13.79,
     "stock": true,
@@ -49845,16 +50005,6 @@
     "discount": "-56%",
     "price": 14.58,
     "lowest": 14.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Strategic Command WWII: World at War",
-    "type": "game",
-    "discount": "-64%",
-    "price": 14.63,
-    "lowest": 14.63,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -50795,7 +50945,7 @@
     "discount": "-48%",
     "price": 15.74,
     "lowest": 15.74,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-12-2023"
   },
@@ -51320,16 +51470,6 @@
     "last_time_updated": "11-12-2023"
   },
   {
-    "title": "Across the Obelisk",
-    "type": "game",
-    "discount": "-18%",
-    "price": 16.41,
-    "lowest": 16.03,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
-  },
-  {
     "title": "Backbone",
     "type": "game",
     "discount": "-34%",
@@ -51368,16 +51508,6 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "12-12-2023"
-  },
-  {
-    "title": "Dungeon Defenders: Awakened",
-    "type": "game",
-    "discount": "-34%",
-    "price": 16.47,
-    "lowest": 16.47,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Namco Museum Archives Vol. 2",
@@ -52450,6 +52580,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Roboquest",
+    "type": "game",
+    "discount": "-28%",
+    "price": 18.0,
+    "lowest": 18.0,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Battles For Spain",
     "type": "game",
     "discount": "-28%",
@@ -52870,6 +53010,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Surviving Mars: Below and Beyond",
+    "type": "DLC",
+    "discount": "-5%",
+    "price": 18.99,
+    "lowest": 14.88,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
+  },
+  {
     "title": "RWBY: Arrowfell",
     "type": "game",
     "discount": "-34%",
@@ -53140,6 +53290,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Total War: Pharaoh",
+    "type": "game",
+    "discount": "-51%",
+    "price": 19.6,
+    "lowest": 17.19,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "14-12-2023"
+  },
+  {
     "title": "Railroads Online",
     "type": "game",
     "discount": "-35%",
@@ -53168,16 +53328,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Total War: Pharaoh",
-    "type": "game",
-    "discount": "-67%",
-    "price": 19.65,
-    "lowest": 17.19,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "14-12-2023"
   },
   {
     "title": "Train Sim World 4",
@@ -53850,6 +54000,26 @@
     "last_time_updated": "14-12-2023"
   },
   {
+    "title": "Mount & Blade II: Bannerlord",
+    "type": "game",
+    "discount": "-57%",
+    "price": 21.3,
+    "lowest": 21.3,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Dark Souls 2: Season Pass",
+    "type": "DLC",
+    "discount": "-15%",
+    "price": 21.3,
+    "lowest": 21.3,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Crimson Tactics: The Rise of The White Banner",
     "type": "game",
     "discount": "-29%",
@@ -53990,6 +54160,16 @@
     "last_time_updated": "14-12-2023"
   },
   {
+    "title": "Total War: Warhammer III",
+    "type": "game",
+    "discount": "-64%",
+    "price": 21.8,
+    "lowest": 21.8,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Potion Tycoon Supporter Bundle",
     "type": "game",
     "discount": "-27%",
@@ -54025,16 +54205,6 @@
     "discount": "-11%",
     "price": 21.84,
     "lowest": 21.84,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Total War: Warhammer III",
-    "type": "game",
-    "discount": "-63%",
-    "price": 21.92,
-    "lowest": 21.92,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -54490,6 +54660,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "Combat Mission Black Sea",
+    "type": "game",
+    "discount": "-62%",
+    "price": 23.33,
+    "lowest": 23.33,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
     "title": "Dead Or Alive 6 Digital Deluxe Edition",
     "type": "game",
     "discount": "-72%",
@@ -54530,6 +54710,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "The Callisto Protocol",
+    "type": "game",
+    "discount": "-61%",
+    "price": 23.62,
+    "lowest": 23.4,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
+  },
+  {
     "title": "Remnant 2",
     "type": "game",
     "discount": "-53%",
@@ -54558,16 +54748,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "The Callisto Protocol",
-    "type": "game",
-    "discount": "-60%",
-    "price": 23.73,
-    "lowest": 23.4,
-    "stock": true,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
   },
   {
     "title": "2k Ball N' Brawl Bundle",
@@ -54820,6 +55000,16 @@
     "last_time_updated": "15-12-2023"
   },
   {
+    "title": "TT Isle of Man: Ride on the Edge 3",
+    "type": "game",
+    "discount": "-50%",
+    "price": 24.93,
+    "lowest": 22.59,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
+  },
+  {
     "title": "Nights of Azure",
     "type": "game",
     "discount": "-17%",
@@ -55045,6 +55235,16 @@
     "discount": "-25%",
     "price": 26.1,
     "lowest": 26.1,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "TT Isle Of Man: Ride on the Edge 3 - Racing Fan Edition",
+    "type": "game",
+    "discount": "-56%",
+    "price": 26.11,
+    "lowest": 26.11,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-12-2023"
@@ -55588,6 +55788,16 @@
     "stock": true,
     "status": "unchanged",
     "last_time_updated": "13-12-2023"
+  },
+  {
+    "title": "Gary Grigsby's War in the East 2",
+    "type": "game",
+    "discount": "-61%",
+    "price": 30.88,
+    "lowest": 19.88,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "12-12-2023"
   },
   {
     "title": "Asterix & Obelix XXXL : The Ram From Hibernia",
@@ -57230,16 +57440,6 @@
     "last_time_updated": "12-12-2023"
   },
   {
-    "title": "Roboquest",
-    "type": "game",
-    "discount": "-21%",
-    "price": null,
-    "lowest": 19.64,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "The Repair House: Restoration Sim",
     "type": "game",
     "discount": "-62%",
@@ -57720,16 +57920,6 @@
     "last_time_updated": "14-12-2023"
   },
   {
-    "title": "Fling to the Finish",
-    "type": "game",
-    "discount": "-84%",
-    "price": null,
-    "lowest": 2.4,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
-  },
-  {
     "title": "Warhammer 40.000: Dawn of War III",
     "type": "game",
     "discount": "-87%",
@@ -57970,16 +58160,6 @@
     "last_time_updated": "09-12-2023"
   },
   {
-    "title": "Yet Another Zombie Survivors",
-    "type": "game",
-    "discount": "-21%",
-    "price": null,
-    "lowest": 7.75,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
-  },
-  {
     "title": "Kingdom Two Crowns: Norse Lands Edition",
     "type": "game",
     "discount": "-74%",
@@ -58038,26 +58218,6 @@
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "14-12-2023"
-  },
-  {
-    "title": "Commandos: Behind Enemy Lines",
-    "type": "game",
-    "discount": "-76%",
-    "price": null,
-    "lowest": 1.0,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
-  },
-  {
-    "title": "The Night of the Rabbit",
-    "type": "game",
-    "discount": "-95%",
-    "price": null,
-    "lowest": 1.0,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
   },
   {
     "title": "SimCity 4 Deluxe Edition",
@@ -58120,6 +58280,16 @@
     "last_time_updated": "10-12-2023"
   },
   {
+    "title": "The Night of the Rabbit",
+    "type": "game",
+    "discount": "-95%",
+    "price": null,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "unchanged",
+    "last_time_updated": "13-12-2023"
+  },
+  {
     "title": "Fell Seal: Arbiter's Mark",
     "type": "game",
     "discount": "-96%",
@@ -58128,16 +58298,6 @@
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "15-12-2023"
-  },
-  {
-    "title": "Warhammer 40,000: Gladius - Craftworld Aeldari",
-    "type": "DLC",
-    "discount": "-76%",
-    "price": null,
-    "lowest": 3.98,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
   },
   {
     "title": "Sherlock Holmes Chapter One",
@@ -58420,26 +58580,6 @@
     "last_time_updated": "09-12-2023"
   },
   {
-    "title": "Gary Grigsby's War in the East 2",
-    "type": "game",
-    "discount": "-72%",
-    "price": null,
-    "lowest": 19.88,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
-  },
-  {
-    "title": "Mordheim: City of the Damned - Undead",
-    "type": "DLC",
-    "discount": "-46%",
-    "price": null,
-    "lowest": 2.13,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "11-12-2023"
-  },
-  {
     "title": "Tales of Symphonia",
     "type": "game",
     "discount": "-84%",
@@ -58455,16 +58595,6 @@
     "discount": "-66%",
     "price": null,
     "lowest": 13.52,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
-  },
-  {
-    "title": "Total War: SHOGUN 2 - Rise of the Samurai Campaign",
-    "type": "DLC",
-    "discount": "-68%",
-    "price": null,
-    "lowest": 2.9,
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "10-12-2023"
@@ -58880,16 +59010,6 @@
     "last_time_updated": "14-12-2023"
   },
   {
-    "title": "Surviving Mars: Below and Beyond",
-    "type": "DLC",
-    "discount": "-26%",
-    "price": null,
-    "lowest": 14.88,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "13-12-2023"
-  },
-  {
     "title": "Internet Cafe Simulator",
     "type": "game",
     "discount": "-59%",
@@ -58995,16 +59115,6 @@
     "discount": "-76%",
     "price": null,
     "lowest": 7.25,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "12-12-2023"
-  },
-  {
-    "title": "Kona",
-    "type": "game",
-    "discount": "-67%",
-    "price": null,
-    "lowest": 4.96,
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "12-12-2023"
@@ -59260,16 +59370,6 @@
     "last_time_updated": "11-12-2023"
   },
   {
-    "title": "Overcooked - The Lost Morsel",
-    "type": "DLC",
-    "discount": "-80%",
-    "price": null,
-    "lowest": 1.0,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
-  },
-  {
     "title": "Dishonored: Complete Collection",
     "type": "game",
     "discount": "-76%",
@@ -59320,16 +59420,6 @@
     "last_time_updated": "11-12-2023"
   },
   {
-    "title": "WRC 9 Audi Quattro A2 1984",
-    "type": "DLC",
-    "discount": "-66%",
-    "price": null,
-    "lowest": 1.35,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
-  },
-  {
     "title": "Total War: Pharaoh - Dynasty Edition",
     "type": "game",
     "discount": "-23%",
@@ -59348,26 +59438,6 @@
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "11-12-2023"
-  },
-  {
-    "title": "TT Isle Of Man: Ride on the Edge 3 - Racing Fan Edition",
-    "type": "game",
-    "discount": "-55%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
-    "title": "TT Isle of Man: Ride on the Edge 3",
-    "type": "game",
-    "discount": "-55%",
-    "price": null,
-    "lowest": 22.59,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "10-12-2023"
   },
   {
     "title": "Mount & Blade: With Fire & Sword",
@@ -59740,16 +59810,6 @@
     "last_time_updated": "12-12-2023"
   },
   {
-    "title": "Mount & Blade II: Bannerlord",
-    "type": "game",
-    "discount": "-55%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
     "title": "F1 2021",
     "type": "game",
     "discount": "-33%",
@@ -59848,16 +59908,6 @@
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "10-12-2023"
-  },
-  {
-    "title": "Act of Aggression - Reboot Edition",
-    "type": "game",
-    "discount": "-87%",
-    "price": null,
-    "lowest": 3.85,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Disney Pixar Cars Mater-National Championship",
@@ -59970,16 +60020,6 @@
     "last_time_updated": "15-12-2023"
   },
   {
-    "title": "Armored Brigade Nation Pack: Czechoslovakia - Netherlands",
-    "type": "DLC",
-    "discount": "-83%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
     "title": "Power & Revolution 2022 Edition",
     "type": "game",
     "discount": "-62%",
@@ -60003,16 +60043,6 @@
     "title": "The Lamplighters League",
     "type": "game",
     "discount": "-48%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
-    "title": "Field of Glory II: Medieval - Rise of the Swiss",
-    "type": "DLC",
-    "discount": "-39%",
     "price": null,
     "lowest": null,
     "stock": false,
@@ -64090,16 +64120,6 @@
     "last_time_updated": "09-12-2023"
   },
   {
-    "title": "Combat Mission Black Sea",
-    "type": "game",
-    "discount": "-61%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
     "title": "Remnants",
     "type": "game",
     "discount": "-32%",
@@ -64403,16 +64423,6 @@
     "title": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
     "type": "game",
     "discount": "-55%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
-    "title": "PHOGS!",
-    "type": "game",
-    "discount": "-66%",
     "price": null,
     "lowest": null,
     "stock": false,
@@ -69780,16 +69790,6 @@
     "last_time_updated": "09-12-2023"
   },
   {
-    "title": "NEO Scavenger",
-    "type": "game",
-    "discount": "-10%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
     "title": "Narcissu 10th Anniversary Anthology Project",
     "type": "game",
     "discount": "-66%",
@@ -71640,16 +71640,6 @@
     "last_time_updated": "09-12-2023"
   },
   {
-    "title": "Dark Souls 2: Season Pass",
-    "type": "DLC",
-    "discount": "-66%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
     "title": "Euro Truck Simulator 2 GOTY Edition",
     "type": "game",
     "discount": "-15%",
@@ -73463,16 +73453,6 @@
     "title": "Just Cause 4: Expansion Pass",
     "type": "DLC",
     "discount": "-81%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
-    "title": "Battletech: Flashpoint",
-    "type": "DLC",
-    "discount": "-91%",
     "price": null,
     "lowest": null,
     "stock": false,
@@ -75720,16 +75700,6 @@
     "last_time_updated": "09-12-2023"
   },
   {
-    "title": "Murdered: Soul Suspect",
-    "type": "game",
-    "discount": "-90%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
     "title": "Stormworks: Build and Rescue",
     "type": "game",
     "discount": "-50%",
@@ -76798,6 +76768,26 @@
     "stock": false,
     "status": "unchanged",
     "last_time_updated": "09-12-2023"
+  },
+  {
+    "title": "Across The Obelisk: Spooky night in Senenthia",
+    "type": "DLC",
+    "discount": "-56%",
+    "price": null,
+    "lowest": null,
+    "stock": false,
+    "status": "new",
+    "last_time_updated": "15-12-2023"
+  },
+  {
+    "title": "Across The Obelisk: Sands of Ulminin",
+    "type": "DLC",
+    "discount": "-50%",
+    "price": null,
+    "lowest": null,
+    "stock": false,
+    "status": "new",
+    "last_time_updated": "15-12-2023"
   },
   {
     "title": "Prison Architect - Future Tech Pack",
@@ -78133,16 +78123,6 @@
     "title": "Apollo Justice: Ace Attorney Trilogy",
     "type": "game",
     "discount": "-25%",
-    "price": null,
-    "lowest": null,
-    "stock": false,
-    "status": "unchanged",
-    "last_time_updated": "09-12-2023"
-  },
-  {
-    "title": "En Garde!",
-    "type": "game",
-    "discount": "-51%",
     "price": null,
     "lowest": null,
     "stock": false,
@@ -83020,6 +83000,16 @@
     "last_time_updated": "09-12-2023"
   },
   {
+    "title": "Commandos: Behind Enemy Lines",
+    "type": "game",
+    "discount": "-76%",
+    "price": null,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "10-12-2023"
+  },
+  {
     "title": "The Elder Scrolls Online Upgrade: Necrom",
     "type": "DLC",
     "discount": "-60%",
@@ -83370,9 +83360,39 @@
     "last_time_updated": "09-12-2023"
   },
   {
+    "title": "NEO Scavenger",
+    "type": "game",
+    "discount": "-10%",
+    "price": null,
+    "lowest": null,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "09-12-2023"
+  },
+  {
+    "title": "Battletech: Flashpoint",
+    "type": "DLC",
+    "discount": "-91%",
+    "price": null,
+    "lowest": null,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "09-12-2023"
+  },
+  {
     "title": "Playerunknown's Battlegrounds",
     "type": "game",
     "discount": null,
+    "price": null,
+    "lowest": null,
+    "stock": true,
+    "status": "unchanged",
+    "last_time_updated": "09-12-2023"
+  },
+  {
+    "title": "En Garde!",
+    "type": "game",
+    "discount": "-51%",
     "price": null,
     "lowest": null,
     "stock": true,
