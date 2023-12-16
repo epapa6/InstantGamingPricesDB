@@ -6235,7 +6235,7 @@
     "discount": "-93%",
     "price": 1.08,
     "lowest": 1.08,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -6647,6 +6647,16 @@
     "lowest": 1.14,
     "stock": true,
     "status": "par",
+    "last_time_updated": "16-12-2023"
+  },
+  {
+    "title": "Impossible Creatures Steam Edition",
+    "type": "game",
+    "discount": "-89%",
+    "price": 1.14,
+    "lowest": 1.14,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -7270,16 +7280,6 @@
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Impossible Creatures Steam Edition",
-    "type": "game",
-    "discount": "-87%",
-    "price": 1.25,
-    "lowest": 1.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
     "title": "Endless Space - Definitive Edition",
     "type": "game",
     "discount": "-87%",
@@ -7510,16 +7510,6 @@
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Wolfenstein 3D",
-    "type": "game",
-    "discount": "-74%",
-    "price": 1.29,
-    "lowest": 1.29,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
     "title": "Generation Zero - US Weapons Pack 2",
     "type": "DLC",
     "discount": "-57%",
@@ -7700,6 +7690,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "Egyptian Senet",
+    "type": "game",
+    "discount": "-81%",
+    "price": 1.32,
+    "lowest": 1.32,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "S.T.A.L.K.E.R.: Clear Sky",
     "type": "game",
     "discount": "-87%",
@@ -7793,16 +7793,6 @@
     "title": "Crash Time 2",
     "type": "game",
     "discount": "-74%",
-    "price": 1.32,
-    "lowest": 1.32,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Egyptian Senet",
-    "type": "game",
-    "discount": "-81%",
     "price": 1.32,
     "lowest": 1.32,
     "stock": true,
@@ -11026,7 +11016,7 @@
     "price": 1.81,
     "lowest": 1.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -17126,7 +17116,7 @@
     "price": 2.88,
     "lowest": 2.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -17315,7 +17305,7 @@
     "discount": "-93%",
     "price": 2.9,
     "lowest": 2.9,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -17940,19 +17930,19 @@
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Outlast 2",
+    "title": "Condemned: Criminal Origins",
     "type": "game",
-    "discount": "-90%",
+    "discount": "-70%",
     "price": 3.0,
     "lowest": 3.0,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Condemned: Criminal Origins",
+    "title": "Outlast 2",
     "type": "game",
-    "discount": "-70%",
+    "discount": "-90%",
     "price": 3.0,
     "lowest": 3.0,
     "stock": true,
@@ -18440,6 +18430,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "Viking Heroes 3",
+    "type": "game",
+    "discount": "-22%",
+    "price": 3.1,
+    "lowest": 3.1,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Total War: Rome II - Nomadic Tribes Culture Pack",
     "type": "DLC",
     "discount": "-65%",
@@ -18873,16 +18873,6 @@
     "title": "Crusader Kings II: Way of Life Collection",
     "type": "DLC",
     "discount": "-60%",
-    "price": 3.21,
-    "lowest": 3.21,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Viking Heroes 3",
-    "type": "game",
-    "discount": "-20%",
     "price": 3.21,
     "lowest": 3.21,
     "stock": true,
@@ -19765,7 +19755,7 @@
     "discount": "-13%",
     "price": 3.46,
     "lowest": 3.46,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -20850,6 +20840,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "Transport INC",
+    "type": "game",
+    "discount": "-63%",
+    "price": 3.7,
+    "lowest": 3.7,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Endless Space 2 - Penumbra",
     "type": "DLC",
     "discount": "-71%",
@@ -21280,12 +21280,12 @@
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Transport INC",
+    "title": "Guacamelee! 2",
     "type": "game",
-    "discount": "-62%",
-    "price": 3.82,
-    "lowest": 3.82,
-    "stock": true,
+    "discount": "-80%",
+    "price": 3.84,
+    "lowest": 3.84,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -21323,16 +21323,6 @@
     "title": "Pathfinder: Wrath of the Righteous Commander Pack",
     "type": "DLC",
     "discount": "-81%",
-    "price": 3.84,
-    "lowest": 3.84,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Guacamelee! 2",
-    "type": "game",
-    "discount": "-80%",
     "price": 3.84,
     "lowest": 3.84,
     "stock": true,
@@ -24960,19 +24950,19 @@
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Conan Exiles - The Imperial East Pack",
-    "type": "DLC",
-    "discount": "-52%",
+    "title": "Monster Jam Steel Titans 2",
+    "type": "game",
+    "discount": "-84%",
     "price": 4.81,
     "lowest": 4.81,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Monster Jam Steel Titans 2",
-    "type": "game",
-    "discount": "-84%",
+    "title": "Conan Exiles - The Imperial East Pack",
+    "type": "DLC",
+    "discount": "-52%",
     "price": 4.81,
     "lowest": 4.81,
     "stock": true,
@@ -26040,6 +26030,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "Agatha Christie - Hercule Poirot: The First Cases",
+    "type": "game",
+    "discount": "-74%",
+    "price": 5.13,
+    "lowest": 5.13,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Pathfinder: Wrath of the Righteous \u2013 The Treasure of the Midnight Isles",
     "type": "DLC",
     "discount": "-61%",
@@ -26555,16 +26555,6 @@
     "discount": "-58%",
     "price": 5.28,
     "lowest": 5.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Agatha Christie - Hercule Poirot: The First Cases",
-    "type": "game",
-    "discount": "-74%",
-    "price": 5.29,
-    "lowest": 5.29,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
@@ -27286,7 +27276,7 @@
     "price": 5.58,
     "lowest": 5.58,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -28910,16 +28900,6 @@
     "last_time_updated": "16-12-2023"
   },
   {
-    "title": "Railway Empire Complete Collection",
-    "type": "game",
-    "discount": "-87%",
-    "price": 6.31,
-    "lowest": 6.31,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
     "title": "Just Cause 2 DLC Collection",
     "type": "DLC",
     "discount": "-58%",
@@ -29015,7 +28995,7 @@
     "discount": "-51%",
     "price": 6.36,
     "lowest": 6.36,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -31250,6 +31230,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "DjMax Respect V - Technika 2 Pack",
+    "type": "DLC",
+    "discount": "-58%",
+    "price": 7.07,
+    "lowest": 7.07,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Viscera Cleanup Detail",
     "type": "game",
     "discount": "-44%",
@@ -31453,16 +31443,6 @@
     "title": "Call of the Sea Deluxe Edition",
     "type": "game",
     "discount": "-75%",
-    "price": 7.18,
-    "lowest": 7.18,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "DjMax Respect V - Technika 2 Pack",
-    "type": "DLC",
-    "discount": "-57%",
     "price": 7.18,
     "lowest": 7.18,
     "stock": true,
@@ -33226,7 +33206,7 @@
     "price": 8.19,
     "lowest": 8.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -33625,6 +33605,16 @@
     "discount": "-72%",
     "price": 8.53,
     "lowest": 8.53,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "16-12-2023"
+  },
+  {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
@@ -35265,16 +35255,6 @@
     "discount": "-66%",
     "price": 9.76,
     "lowest": 9.76,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "The Elder Scrolls V: Skyrim Special Edition",
-    "type": "game",
-    "discount": "-75%",
-    "price": 9.81,
-    "lowest": 9.81,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
@@ -37236,7 +37216,7 @@
     "price": 11.35,
     "lowest": 11.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -37835,7 +37815,7 @@
     "discount": "-33%",
     "price": 11.99,
     "lowest": 11.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -38630,6 +38610,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "Emergency Call 112 \u2013 The Fire Fighting Simulation 2",
+    "type": "game",
+    "discount": "-58%",
+    "price": 12.49,
+    "lowest": 12.49,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Tale of Wuxia:The Pre-Sequel",
     "type": "game",
     "discount": "-26%",
@@ -38775,16 +38765,6 @@
     "discount": "-25%",
     "price": 12.58,
     "lowest": 12.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Emergency Call 112 \u2013 The Fire Fighting Simulation 2",
-    "type": "game",
-    "discount": "-58%",
-    "price": 12.63,
-    "lowest": 12.63,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
@@ -39306,7 +39286,7 @@
     "price": 13.3,
     "lowest": 13.3,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -40780,6 +40760,16 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "Definitely Not Fried Chicken",
+    "type": "game",
+    "discount": "-24%",
+    "price": 15.88,
+    "lowest": 15.88,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "GORN",
     "type": "game",
     "discount": "-19%",
@@ -40865,16 +40855,6 @@
     "discount": "-35%",
     "price": 15.99,
     "lowest": 15.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Definitely Not Fried Chicken",
-    "type": "game",
-    "discount": "-24%",
-    "price": 16.0,
-    "lowest": 16.0,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
@@ -41146,7 +41126,7 @@
     "price": 16.52,
     "lowest": 16.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -41855,7 +41835,17 @@
     "discount": "-34%",
     "price": 17.99,
     "lowest": 17.99,
-    "stock": true,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "16-12-2023"
+  },
+  {
+    "title": "Steam Gift Card 20$",
+    "type": "game",
+    "discount": "-1%",
+    "price": 17.99,
+    "lowest": 17.99,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -41873,16 +41863,6 @@
     "title": "Satisfactory",
     "type": "game",
     "discount": "-40%",
-    "price": 17.99,
-    "lowest": 17.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "Steam Gift Card 20$",
-    "type": "game",
-    "discount": "-1%",
     "price": 17.99,
     "lowest": 17.99,
     "stock": true,
@@ -43440,21 +43420,21 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "The Callisto Protocol",
+    "type": "game",
+    "discount": "-61%",
+    "price": 23.11,
+    "lowest": 23.11,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Cities: Skylines - Hotels & Retreats Bundle",
     "type": "DLC",
     "discount": "-21%",
     "price": 23.19,
     "lowest": 23.19,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "The Callisto Protocol",
-    "type": "game",
-    "discount": "-61%",
-    "price": 23.25,
-    "lowest": 23.25,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
@@ -44333,10 +44313,10 @@
     "title": "Dragon Ball Z Kakarot Season Pass 2",
     "type": "DLC",
     "discount": "-25%",
-    "price": 30.17,
-    "lowest": 30.17,
+    "price": 30.06,
+    "lowest": 30.06,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "16-12-2023"
   },
   {
@@ -44405,7 +44385,7 @@
     "discount": "-60%",
     "price": 31.66,
     "lowest": 31.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-12-2023"
   },
@@ -45180,21 +45160,21 @@
     "last_time_updated": "16-12-2023"
   },
   {
+    "title": "SnowRunner - 3-Year Anniversary Edition",
+    "type": "game",
+    "discount": "-57%",
+    "price": 44.82,
+    "lowest": 44.82,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-12-2023"
+  },
+  {
     "title": "Steam Gift Card 50$",
     "type": "game",
     "discount": "-1%",
     "price": 44.9,
     "lowest": 44.9,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-12-2023"
-  },
-  {
-    "title": "SnowRunner - 3-Year Anniversary Edition",
-    "type": "game",
-    "discount": "-57%",
-    "price": 44.94,
-    "lowest": 44.94,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-12-2023"
