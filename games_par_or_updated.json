@@ -60,6 +60,16 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Disney's Hercules",
+    "type": "game",
+    "discount": "-83%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -383,16 +393,6 @@
     "title": "Alone in the Dark Anthology",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Disney's Hercules",
-    "type": "game",
-    "discount": "-83%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -4236,7 +4236,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -7116,7 +7116,7 @@
     "price": 1.21,
     "lowest": 1.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -7687,6 +7687,16 @@
     "lowest": 1.32,
     "stock": true,
     "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
+    "title": "Circle Empires",
+    "type": "game",
+    "discount": "-83%",
+    "price": 1.32,
+    "lowest": 1.32,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -8726,7 +8736,7 @@
     "price": 1.48,
     "lowest": 1.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -10566,7 +10576,7 @@
     "price": 1.8,
     "lowest": 1.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -12516,7 +12526,7 @@
     "price": 2.12,
     "lowest": 2.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -12643,16 +12653,6 @@
     "title": "The Big Con",
     "type": "game",
     "discount": "-83%",
-    "price": 2.14,
-    "lowest": 2.14,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "MIAZMA or the Devil's Stone",
-    "type": "game",
-    "discount": "-74%",
     "price": 2.14,
     "lowest": 2.14,
     "stock": true,
@@ -14430,6 +14430,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Electrician Simulator",
+    "type": "game",
+    "discount": "-86%",
+    "price": 2.5,
+    "lowest": 2.5,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "The Great Gatsby: Secret Treasure",
     "type": "game",
     "discount": "-58%",
@@ -14996,7 +15006,7 @@
     "price": 2.62,
     "lowest": 2.62,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -15875,7 +15885,7 @@
     "discount": "-94%",
     "price": 2.79,
     "lowest": 2.79,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "21-12-2023"
   },
@@ -16290,6 +16300,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Staxel",
+    "type": "game",
+    "discount": "-86%",
+    "price": 2.88,
+    "lowest": 2.88,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Little Big Workshop - The Evil DLC",
     "type": "DLC",
     "discount": "-71%",
@@ -16577,6 +16597,16 @@
     "lowest": 2.93,
     "stock": true,
     "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
+    "title": "Carto",
+    "type": "game",
+    "discount": "-85%",
+    "price": 2.93,
+    "lowest": 2.93,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -16920,16 +16950,6 @@
     "last_time_updated": "21-12-2023"
   },
   {
-    "title": "Staxel",
-    "type": "game",
-    "discount": "-85%",
-    "price": 2.99,
-    "lowest": 2.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
     "title": "Hood: Outlaws & Legends",
     "type": "game",
     "discount": "-85%",
@@ -17265,16 +17285,6 @@
     "discount": "-80%",
     "price": 3.03,
     "lowest": 3.03,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Carto",
-    "type": "game",
-    "discount": "-85%",
-    "price": 3.04,
-    "lowest": 3.04,
     "stock": true,
     "status": "par",
     "last_time_updated": "21-12-2023"
@@ -17820,6 +17830,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Victoria II: Heart of Darkness",
+    "type": "DLC",
+    "discount": "-84%",
+    "price": 3.17,
+    "lowest": 3.17,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Overpass",
     "type": "game",
     "discount": "-89%",
@@ -18046,7 +18066,7 @@
     "price": 3.21,
     "lowest": 3.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -18240,16 +18260,6 @@
     "last_time_updated": "21-12-2023"
   },
   {
-    "title": "Victoria II: Heart of Darkness",
-    "type": "DLC",
-    "discount": "-84%",
-    "price": 3.28,
-    "lowest": 3.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
     "title": "Mugsters",
     "type": "game",
     "discount": "-34%",
@@ -18356,7 +18366,7 @@
     "price": 3.3,
     "lowest": 3.3,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -18366,7 +18376,7 @@
     "price": 3.3,
     "lowest": 3.3,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -19766,7 +19776,7 @@
     "price": 3.69,
     "lowest": 3.69,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -20236,7 +20246,7 @@
     "price": 3.81,
     "lowest": 3.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -20816,7 +20826,7 @@
     "price": 3.95,
     "lowest": 3.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -20996,7 +21006,7 @@
     "price": 3.99,
     "lowest": 3.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -21516,7 +21526,7 @@
     "price": 4.04,
     "lowest": 4.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -21536,7 +21546,7 @@
     "price": 4.05,
     "lowest": 4.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -21716,7 +21726,7 @@
     "price": 4.14,
     "lowest": 4.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -22290,6 +22300,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Batman: Arkham VR",
+    "type": "game",
+    "discount": "-78%",
+    "price": 4.34,
+    "lowest": 4.34,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "LEGO Star Wars: Il Risveglio della Forza Deluxe Edition",
     "type": "game",
     "discount": "-89%",
@@ -22535,16 +22555,6 @@
     "discount": "-11%",
     "price": 4.45,
     "lowest": 4.45,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Batman: Arkham VR",
-    "type": "game",
-    "discount": "-78%",
-    "price": 4.46,
-    "lowest": 4.46,
     "stock": true,
     "status": "par",
     "last_time_updated": "21-12-2023"
@@ -23666,7 +23676,7 @@
     "price": 4.83,
     "lowest": 4.83,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -23887,16 +23897,6 @@
     "lowest": 4.89,
     "stock": true,
     "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Fallout 3: GOTY Edition",
-    "type": "game",
-    "discount": "-76%",
-    "price": 4.89,
-    "lowest": 4.89,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -24806,7 +24806,7 @@
     "price": 5.18,
     "lowest": 5.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -25486,7 +25486,7 @@
     "price": 5.35,
     "lowest": 5.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -26286,7 +26286,7 @@
     "price": 5.78,
     "lowest": 5.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -26750,6 +26750,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Borderlands 3: Director's Cut",
+    "type": "DLC",
+    "discount": "-60%",
+    "price": 5.99,
+    "lowest": 5.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Apocalypse Party",
     "type": "game",
     "discount": "-40%",
@@ -26813,16 +26823,6 @@
     "title": "Warhammer 40,000: Sanctus Reach - Sons of Cadia",
     "type": "DLC",
     "discount": "-59%",
-    "price": 5.99,
-    "lowest": 5.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Borderlands 3: Director's Cut",
-    "type": "DLC",
-    "discount": "-60%",
     "price": 5.99,
     "lowest": 5.99,
     "stock": true,
@@ -28446,7 +28446,7 @@
     "price": 6.64,
     "lowest": 6.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -29216,7 +29216,7 @@
     "price": 6.89,
     "lowest": 6.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -29226,7 +29226,7 @@
     "price": 6.9,
     "lowest": 6.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -29726,7 +29726,7 @@
     "price": 7.1,
     "lowest": 7.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -29896,7 +29896,7 @@
     "price": 7.19,
     "lowest": 7.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -30056,7 +30056,7 @@
     "price": 7.33,
     "lowest": 7.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -30636,7 +30636,7 @@
     "price": 7.59,
     "lowest": 7.59,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -30936,7 +30936,7 @@
     "price": 7.9,
     "lowest": 7.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -31046,7 +31046,7 @@
     "price": 7.98,
     "lowest": 7.98,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -31930,6 +31930,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Freedom Planet",
     "type": "game",
     "discount": "-39%",
@@ -32166,7 +32176,7 @@
     "price": 8.75,
     "lowest": 8.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -32176,7 +32186,7 @@
     "price": 8.75,
     "lowest": 8.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -32656,7 +32666,7 @@
     "price": 9.11,
     "lowest": 9.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -33166,7 +33176,7 @@
     "price": 9.5,
     "lowest": 9.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -33276,7 +33286,7 @@
     "price": 9.64,
     "lowest": 9.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -33460,6 +33470,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "New Gundam Breaker",
+    "type": "game",
+    "discount": "-80%",
+    "price": 9.81,
+    "lowest": 9.81,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Oxygen",
     "type": "game",
     "discount": "-34%",
@@ -33550,6 +33570,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Leader Pass di Civilization VI",
+    "type": "DLC",
+    "discount": "-51%",
+    "price": 9.88,
+    "lowest": 9.88,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Field of Glory II: Medieval - Swords and Scimitars",
     "type": "DLC",
     "discount": "-33%",
@@ -33596,7 +33626,7 @@
     "price": 9.9,
     "lowest": 9.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -33940,16 +33970,6 @@
     "last_time_updated": "21-12-2023"
   },
   {
-    "title": "Leader Pass di Civilization VI",
-    "type": "DLC",
-    "discount": "-50%",
-    "price": 10.0,
-    "lowest": 10.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
     "title": "Slay the Spire",
     "type": "game",
     "discount": "-57%",
@@ -34030,6 +34050,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Train Sim World: Canadian National Oakville Subdivision: Hamilton - Oakville Route Add-On",
+    "type": "DLC",
+    "discount": "-66%",
+    "price": 10.06,
+    "lowest": 10.06,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Tribe: Primitive Builder",
     "type": "game",
     "discount": "-49%",
@@ -34080,16 +34110,6 @@
     "last_time_updated": "21-12-2023"
   },
   {
-    "title": "Train Sim World: Canadian National Oakville Subdivision: Hamilton - Oakville Route Add-On",
-    "type": "DLC",
-    "discount": "-66%",
-    "price": 10.18,
-    "lowest": 10.18,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
     "title": "Moonstone Island",
     "type": "game",
     "discount": "-48%",
@@ -34116,7 +34136,7 @@
     "price": 10.2,
     "lowest": 10.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -34295,6 +34315,16 @@
     "discount": "-16%",
     "price": 10.43,
     "lowest": 10.43,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "21-12-2023"
+  },
+  {
+    "title": "Per Aspera Deluxe Edition",
+    "type": "game",
+    "discount": "-70%",
+    "price": 10.45,
+    "lowest": 10.45,
     "stock": true,
     "status": "par",
     "last_time_updated": "21-12-2023"
@@ -35060,6 +35090,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Ride 4",
+    "type": "game",
+    "discount": "-72%",
+    "price": 11.19,
+    "lowest": 11.19,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Metamorphosis",
     "type": "game",
     "discount": "-54%",
@@ -35445,16 +35485,6 @@
     "discount": "-53%",
     "price": 11.73,
     "lowest": 11.73,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Strategic Command WWII: World at War",
-    "type": "game",
-    "discount": "-71%",
-    "price": 11.75,
-    "lowest": 11.75,
     "stock": true,
     "status": "par",
     "last_time_updated": "21-12-2023"
@@ -36396,7 +36426,7 @@
     "price": 12.44,
     "lowest": 12.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -36466,7 +36496,7 @@
     "price": 12.5,
     "lowest": 12.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -37226,7 +37256,7 @@
     "price": 13.69,
     "lowest": 13.69,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -38420,6 +38450,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Sword Art Online: Alicization Lycoris Premium Pass",
+    "type": "DLC",
+    "discount": "-65%",
+    "price": 15.79,
+    "lowest": 15.79,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Broken Sword: Complete Pack",
     "type": "game",
     "discount": "-47%",
@@ -38700,6 +38740,16 @@
     "last_time_updated": "21-12-2023"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Master Edition",
+    "type": "game",
+    "discount": "-45%",
+    "price": 16.38,
+    "lowest": 16.38,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "21-12-2023"
+  },
+  {
     "title": "Backbone",
     "type": "game",
     "discount": "-34%",
@@ -38805,16 +38855,6 @@
     "discount": "-70%",
     "price": 16.5,
     "lowest": 16.5,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "21-12-2023"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Master Edition",
-    "type": "game",
-    "discount": "-45%",
-    "price": 16.51,
-    "lowest": 16.51,
     "stock": true,
     "status": "par",
     "last_time_updated": "21-12-2023"
@@ -39086,7 +39126,7 @@
     "price": 17.13,
     "lowest": 17.13,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -39886,7 +39926,7 @@
     "price": 19.27,
     "lowest": 19.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -40196,7 +40236,7 @@
     "price": 20.04,
     "lowest": 20.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -40376,7 +40416,7 @@
     "price": 20.63,
     "lowest": 20.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -40456,7 +40496,7 @@
     "price": 21.05,
     "lowest": 21.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -40916,7 +40956,7 @@
     "price": 22.97,
     "lowest": 22.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -40996,7 +41036,7 @@
     "price": 23.24,
     "lowest": 23.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -41726,7 +41766,7 @@
     "price": 30.27,
     "lowest": 30.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
@@ -42136,7 +42176,7 @@
     "price": 36.06,
     "lowest": 36.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-12-2023"
   },
   {
