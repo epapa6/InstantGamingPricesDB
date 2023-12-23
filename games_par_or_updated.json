@@ -950,16 +950,6 @@
     "last_time_updated": "23-12-2023"
   },
   {
-    "title": "Mars Horizon",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
     "title": "Stealth Bastard Deluxe",
     "type": "game",
     "discount": "-89%",
@@ -1406,7 +1396,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -7706,7 +7696,7 @@
     "price": 1.33,
     "lowest": 1.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -8226,7 +8216,7 @@
     "price": 1.42,
     "lowest": 1.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -11196,7 +11186,7 @@
     "price": 1.94,
     "lowest": 1.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -11420,6 +11410,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Radio Commander",
+    "type": "game",
+    "discount": "-88%",
+    "price": 1.99,
+    "lowest": 1.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "LEGO Harry Potter: Years 1-4",
     "type": "game",
     "discount": "-90%",
@@ -11433,16 +11433,6 @@
     "title": "Escape from Monkey Island",
     "type": "game",
     "discount": "-71%",
-    "price": 1.99,
-    "lowest": 1.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Radio Commander",
-    "type": "game",
-    "discount": "-88%",
     "price": 1.99,
     "lowest": 1.99,
     "stock": true,
@@ -11706,7 +11696,7 @@
     "price": 2.0,
     "lowest": 2.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -12100,6 +12090,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Sniper Elite: Nazi Zombie Army 2",
+    "type": "game",
+    "discount": "-86%",
+    "price": 2.06,
+    "lowest": 2.06,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "My Memory of Us",
     "type": "game",
     "discount": "-86%",
@@ -12203,16 +12203,6 @@
     "title": "Dead Cells: Fatal Falls",
     "type": "DLC",
     "discount": "-58%",
-    "price": 2.1,
-    "lowest": 2.1,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Death end re;Quest 2",
-    "type": "game",
-    "discount": "-94%",
     "price": 2.1,
     "lowest": 2.1,
     "stock": true,
@@ -12513,16 +12503,6 @@
     "title": "Dead Island: Riptide Definitive Edition",
     "type": "game",
     "discount": "-89%",
-    "price": 2.17,
-    "lowest": 2.17,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Sniper Elite: Nazi Zombie Army 2",
-    "type": "game",
-    "discount": "-85%",
     "price": 2.17,
     "lowest": 2.17,
     "stock": true,
@@ -13660,6 +13640,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Mothergunship",
+    "type": "game",
+    "discount": "-90%",
+    "price": 2.4,
+    "lowest": 2.4,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "Planet Zoo: Pacchetto Australia",
     "type": "DLC",
     "discount": "-76%",
@@ -13673,16 +13663,6 @@
     "title": "Dice Legacy",
     "type": "game",
     "discount": "-84%",
-    "price": 2.4,
-    "lowest": 2.4,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Mothergunship",
-    "type": "game",
-    "discount": "-90%",
     "price": 2.4,
     "lowest": 2.4,
     "stock": true,
@@ -14416,7 +14396,7 @@
     "price": 2.54,
     "lowest": 2.54,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -15536,7 +15516,7 @@
     "price": 2.78,
     "lowest": 2.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -15556,7 +15536,7 @@
     "price": 2.78,
     "lowest": 2.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -15846,7 +15826,7 @@
     "price": 2.85,
     "lowest": 2.85,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -15930,6 +15910,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Never Alone Arctic Collection",
+    "type": "game",
+    "discount": "-84%",
+    "price": 2.86,
+    "lowest": 2.86,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "Mr. Shifty",
     "type": "game",
     "discount": "-81%",
@@ -15970,6 +15960,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Little Big Workshop - The Evil DLC",
+    "type": "DLC",
+    "discount": "-71%",
+    "price": 2.88,
+    "lowest": 2.88,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "HUMANKIND - Pacchetto Meraviglie Para Bellum",
     "type": "DLC",
     "discount": "-4%",
@@ -15983,16 +15983,6 @@
     "title": "Dungeon Rushers",
     "type": "game",
     "discount": "-81%",
-    "price": 2.88,
-    "lowest": 2.88,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Little Big Workshop - The Evil DLC",
-    "type": "DLC",
-    "discount": "-71%",
     "price": 2.88,
     "lowest": 2.88,
     "stock": true,
@@ -16926,7 +16916,7 @@
     "price": 3.01,
     "lowest": 3.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -17007,6 +16997,16 @@
     "lowest": 3.05,
     "stock": true,
     "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
+    "title": "LEGO Star Wars: The Force Awakens",
+    "type": "game",
+    "discount": "-90%",
+    "price": 3.06,
+    "lowest": 3.06,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -17710,16 +17710,6 @@
     "last_time_updated": "23-12-2023"
   },
   {
-    "title": "Kingdom Two Crowns",
-    "type": "game",
-    "discount": "-84%",
-    "price": 3.22,
-    "lowest": 3.22,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "23-12-2023"
-  },
-  {
     "title": "Injustice 2 - Fighter Pack 3",
     "type": "DLC",
     "discount": "-84%",
@@ -18395,16 +18385,6 @@
     "discount": "-52%",
     "price": 3.36,
     "lowest": 3.36,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "7 Days to Die",
-    "type": "game",
-    "discount": "-85%",
-    "price": 3.37,
-    "lowest": 3.37,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-12-2023"
@@ -19875,7 +19855,7 @@
     "discount": "-61%",
     "price": 3.81,
     "lowest": 3.81,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-12-2023"
   },
@@ -21047,6 +21027,16 @@
     "lowest": 4.01,
     "stock": true,
     "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
+    "title": "Renegade Ops Collection",
+    "type": "game",
+    "discount": "-76%",
+    "price": 4.01,
+    "lowest": 4.01,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -22343,16 +22333,6 @@
     "title": "Dreamfall: The Longest Journey",
     "type": "game",
     "discount": "-78%",
-    "price": 4.49,
-    "lowest": 4.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Renegade Ops Collection",
-    "type": "game",
-    "discount": "-74%",
     "price": 4.49,
     "lowest": 4.49,
     "stock": true,
@@ -24905,7 +24885,7 @@
     "discount": "-87%",
     "price": 5.33,
     "lowest": 5.33,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-12-2023"
   },
@@ -27756,7 +27736,7 @@
     "price": 6.62,
     "lowest": 6.62,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -27947,6 +27927,16 @@
     "lowest": 6.66,
     "stock": true,
     "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
+    "title": "The Witch of Fern Island",
+    "type": "game",
+    "discount": "-70%",
+    "price": 6.66,
+    "lowest": 6.66,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -29107,16 +29097,6 @@
     "lowest": 7.13,
     "stock": true,
     "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "The Witch of Fern Island",
-    "type": "game",
-    "discount": "-68%",
-    "price": 7.14,
-    "lowest": 7.14,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -31230,16 +31210,6 @@
     "last_time_updated": "23-12-2023"
   },
   {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
     "title": "Freedom Planet",
     "type": "game",
     "discount": "-39%",
@@ -31363,6 +31333,16 @@
     "title": "Trigon: Space Story",
     "type": "game",
     "discount": "-57%",
+    "price": 8.63,
+    "lowest": 8.63,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
+    "title": "Anvil Saga",
+    "type": "game",
+    "discount": "-56%",
     "price": 8.63,
     "lowest": 8.63,
     "stock": true,
@@ -32700,16 +32680,6 @@
     "last_time_updated": "23-12-2023"
   },
   {
-    "title": "The Elder Scrolls V: Skyrim Special Edition",
-    "type": "game",
-    "discount": "-75%",
-    "price": 9.81,
-    "lowest": 9.81,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
     "title": "Devil May Cry 5 Deluxe + Vergil",
     "type": "game",
     "discount": "-75%",
@@ -33900,6 +33870,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Company of Heroes 2: Master Collection",
+    "type": "game",
+    "discount": "-17%",
+    "price": 10.81,
+    "lowest": 10.81,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "Rhythm Sprout: Sick Beats & Bad Sweets",
     "type": "game",
     "discount": "-27%",
@@ -34505,16 +34485,6 @@
     "discount": "-37%",
     "price": 11.31,
     "lowest": 11.31,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Company of Heroes 2: Master Collection",
-    "type": "game",
-    "discount": "-13%",
-    "price": 11.33,
-    "lowest": 11.33,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-12-2023"
@@ -35515,6 +35485,16 @@
     "discount": "-1%",
     "price": 12.34,
     "lowest": 12.34,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
+    "title": "Life is Strange: Before The Storm",
+    "type": "game",
+    "discount": "-27%",
+    "price": 12.35,
+    "lowest": 12.35,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-12-2023"
@@ -36780,6 +36760,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Definitely Not Fried Chicken",
+    "type": "game",
+    "discount": "-32%",
+    "price": 14.31,
+    "lowest": 14.31,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "Sifu",
     "type": "game",
     "discount": "-64%",
@@ -36885,16 +36875,6 @@
     "discount": "-28%",
     "price": 14.45,
     "lowest": 14.45,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Definitely Not Fried Chicken",
-    "type": "game",
-    "discount": "-31%",
-    "price": 14.48,
-    "lowest": 14.48,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-12-2023"
@@ -39720,6 +39700,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
+    "type": "game",
+    "discount": "-68%",
+    "price": 22.32,
+    "lowest": 22.32,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "Redout 2 Ultimate Edition",
     "type": "game",
     "discount": "-55%",
@@ -39875,16 +39865,6 @@
     "discount": "-24%",
     "price": 22.79,
     "lowest": 22.79,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
-    "type": "game",
-    "discount": "-67%",
-    "price": 22.8,
-    "lowest": 22.8,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-12-2023"
@@ -40450,6 +40430,16 @@
     "last_time_updated": "23-12-2023"
   },
   {
+    "title": "Mega Man Battle Network Legacy Collection (Vol.1 + Vol.2)",
+    "type": "game",
+    "discount": "-56%",
+    "price": 26.32,
+    "lowest": 26.32,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-12-2023"
+  },
+  {
     "title": "Street Outlaws 2: Winner Takes All",
     "type": "game",
     "discount": "-47%",
@@ -40530,16 +40520,6 @@
     "last_time_updated": "23-12-2023"
   },
   {
-    "title": "Mega Man Battle Network Legacy Collection (Vol.1 + Vol.2)",
-    "type": "game",
-    "discount": "-54%",
-    "price": 27.64,
-    "lowest": 27.64,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "23-12-2023"
-  },
-  {
     "title": "RoboCop: Rogue City",
     "type": "game",
     "discount": "-44%",
@@ -40576,7 +40556,7 @@
     "price": 28.21,
     "lowest": 28.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -40746,7 +40726,7 @@
     "price": 29.91,
     "lowest": 29.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -40767,6 +40747,16 @@
     "lowest": 30.27,
     "stock": true,
     "status": "par",
+    "last_time_updated": "23-12-2023"
+  },
+  {
+    "title": "Cities: Skylines II",
+    "type": "game",
+    "discount": "-39%",
+    "price": 30.42,
+    "lowest": 30.42,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "23-12-2023"
   },
   {
@@ -41435,16 +41425,6 @@
     "discount": "-30%",
     "price": 42.27,
     "lowest": 42.27,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-12-2023"
-  },
-  {
-    "title": "SnowRunner - 3-Year Anniversary Edition",
-    "type": "game",
-    "discount": "-53%",
-    "price": 42.81,
-    "lowest": 42.81,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-12-2023"
