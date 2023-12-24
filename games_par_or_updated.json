@@ -60,6 +60,16 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Desperados: Wanted Dead or Alive",
+    "type": "game",
+    "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -1213,16 +1223,6 @@
     "title": "Joe Danger",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
-    "title": "Desperados: Wanted Dead or Alive",
-    "type": "game",
-    "discount": "-80%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6320,16 +6320,6 @@
     "last_time_updated": "24-12-2023"
   },
   {
-    "title": "Peaky Blinders: Mastermind",
-    "type": "game",
-    "discount": "-96%",
-    "price": 1.09,
-    "lowest": 1.09,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
     "title": "Necronomicon: The Dawning of Darkness",
     "type": "game",
     "discount": "-78%",
@@ -6936,7 +6926,7 @@
     "price": 1.2,
     "lowest": 1.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -9313,6 +9303,16 @@
     "title": "Total War: Attila - Blood & Burning",
     "type": "DLC",
     "discount": "-46%",
+    "price": 1.6,
+    "lowest": 1.6,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
+    "title": "Genital Jousting",
+    "type": "game",
+    "discount": "-77%",
     "price": 1.6,
     "lowest": 1.6,
     "stock": true,
@@ -11880,19 +11880,19 @@
     "last_time_updated": "24-12-2023"
   },
   {
-    "title": "Batman: Arkham Knight",
+    "title": "Aven Colony",
     "type": "game",
-    "discount": "-90%",
+    "discount": "-93%",
     "price": 2.01,
     "lowest": 2.01,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
-    "title": "Aven Colony",
+    "title": "Batman: Arkham Knight",
     "type": "game",
-    "discount": "-93%",
+    "discount": "-90%",
     "price": 2.01,
     "lowest": 2.01,
     "stock": true,
@@ -15000,6 +15000,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Staxel",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.66,
+    "lowest": 2.66,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "The Incredible Adventures of Van Helsing Complete Pack",
     "type": "game",
     "discount": "-87%",
@@ -15435,16 +15445,6 @@
     "discount": "-86%",
     "price": 2.76,
     "lowest": 2.76,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
-    "title": "Staxel",
-    "type": "game",
-    "discount": "-86%",
-    "price": 2.77,
-    "lowest": 2.77,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-12-2023"
@@ -16766,7 +16766,7 @@
     "price": 3.01,
     "lowest": 3.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -16836,7 +16836,7 @@
     "price": 3.02,
     "lowest": 3.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -18246,7 +18246,7 @@
     "price": 3.35,
     "lowest": 3.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -18416,7 +18416,7 @@
     "price": 3.43,
     "lowest": 3.43,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -19800,6 +19800,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Renegade Ops Collection",
+    "type": "game",
+    "discount": "-77%",
+    "price": 3.85,
+    "lowest": 3.85,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Ghost Platoon",
     "type": "game",
     "discount": "-74%",
@@ -20850,16 +20860,6 @@
     "last_time_updated": "24-12-2023"
   },
   {
-    "title": "Renegade Ops Collection",
-    "type": "game",
-    "discount": "-76%",
-    "price": 4.01,
-    "lowest": 4.01,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
     "title": "Total War: Attila",
     "type": "game",
     "discount": "-91%",
@@ -20886,7 +20886,7 @@
     "price": 4.03,
     "lowest": 4.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -22126,7 +22126,7 @@
     "price": 4.49,
     "lowest": 4.49,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-12-2023"
   },
   {
@@ -23210,6 +23210,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Deus Ex: Mankind Divided - Digital Deluxe Edition",
+    "type": "game",
+    "discount": "-89%",
+    "price": 4.87,
+    "lowest": 4.87,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Children of Morta: Complete Edition",
     "type": "game",
     "discount": "-81%",
@@ -23230,22 +23240,12 @@
     "last_time_updated": "24-12-2023"
   },
   {
-    "title": "Don't Starve Together",
-    "type": "game",
-    "discount": "-74%",
-    "price": 4.89,
-    "lowest": 4.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
     "title": "Hearts of Iron IV: Battle for the Bosporus",
     "type": "DLC",
     "discount": "-51%",
     "price": 4.89,
     "lowest": 4.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "24-12-2023"
   },
@@ -23253,6 +23253,16 @@
     "title": "The Dwarves",
     "type": "game",
     "discount": "-88%",
+    "price": 4.89,
+    "lowest": 4.89,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
+    "title": "Don't Starve Together",
+    "type": "game",
+    "discount": "-74%",
     "price": 4.89,
     "lowest": 4.89,
     "stock": true,
@@ -23545,16 +23555,6 @@
     "discount": "-75%",
     "price": 4.96,
     "lowest": 4.96,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
-    "title": "Deus Ex: Mankind Divided - Digital Deluxe Edition",
-    "type": "game",
-    "discount": "-89%",
-    "price": 4.98,
-    "lowest": 4.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-12-2023"
@@ -27163,6 +27163,16 @@
     "title": "Killing Floor",
     "type": "game",
     "discount": "-67%",
+    "price": 6.52,
+    "lowest": 6.52,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
+    "title": "Assetto Corsa Porsche Season Pass",
+    "type": "DLC",
+    "discount": "-56%",
     "price": 6.52,
     "lowest": 6.52,
     "stock": true,
@@ -31000,6 +31010,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Freedom Planet",
     "type": "game",
     "discount": "-39%",
@@ -32400,6 +32420,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "type": "game",
+    "discount": "-75%",
+    "price": 9.81,
+    "lowest": 9.81,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Devil May Cry 5 Deluxe + Vergil",
     "type": "game",
     "discount": "-75%",
@@ -33000,6 +33030,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Company of Heroes 2: Master Collection",
+    "type": "game",
+    "discount": "-22%",
+    "price": 10.15,
+    "lowest": 10.15,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Neptunia Virtual Stars",
     "type": "game",
     "discount": "-70%",
@@ -33495,16 +33535,6 @@
     "discount": "-64%",
     "price": 10.67,
     "lowest": 10.67,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
-    "title": "Company of Heroes 2: Master Collection",
-    "type": "game",
-    "discount": "-18%",
-    "price": 10.68,
-    "lowest": 10.68,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-12-2023"
@@ -37750,6 +37780,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Return to Monkey Island",
+    "type": "game",
+    "discount": "-30%",
+    "price": 17.05,
+    "lowest": 17.05,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Endling - Extinction is Forever",
     "type": "game",
     "discount": "-43%",
@@ -40050,6 +40090,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Mega Man Battle Network Legacy Collection (Vol.1 + Vol.2)",
+    "type": "game",
+    "discount": "-57%",
+    "price": 25.88,
+    "lowest": 25.88,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Life is Strange: True Colors - Ultimate Edition",
     "type": "game",
     "discount": "-77%",
@@ -40095,16 +40145,6 @@
     "discount": "-3%",
     "price": 26.29,
     "lowest": 26.29,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
-    "title": "Mega Man Battle Network Legacy Collection (Vol.1 + Vol.2)",
-    "type": "game",
-    "discount": "-56%",
-    "price": 26.32,
-    "lowest": 26.32,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-12-2023"
@@ -40190,21 +40230,21 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Remnant 2 - Ultimate Edition",
+    "type": "game",
+    "discount": "-60%",
+    "price": 27.87,
+    "lowest": 27.87,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "RoboCop: Rogue City",
     "type": "game",
     "discount": "-44%",
     "price": 27.91,
     "lowest": 27.91,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-12-2023"
-  },
-  {
-    "title": "Remnant 2 - Ultimate Edition",
-    "type": "game",
-    "discount": "-60%",
-    "price": 27.98,
-    "lowest": 27.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-12-2023"
@@ -40930,6 +40970,16 @@
     "last_time_updated": "24-12-2023"
   },
   {
+    "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "type": "game",
+    "discount": "-36%",
+    "price": 38.53,
+    "lowest": 38.53,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
     "title": "Atelier Lulua The Scion of Arland",
     "type": "game",
     "discount": "-36%",
@@ -41075,6 +41125,16 @@
     "discount": "-48%",
     "price": 41.68,
     "lowest": 41.68,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-12-2023"
+  },
+  {
+    "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition",
+    "type": "game",
+    "discount": "-44%",
+    "price": 41.79,
+    "lowest": 41.79,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-12-2023"
