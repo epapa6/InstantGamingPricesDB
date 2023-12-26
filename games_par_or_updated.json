@@ -3716,7 +3716,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -6226,7 +6226,7 @@
     "price": 1.11,
     "lowest": 1.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -8086,7 +8086,7 @@
     "price": 1.46,
     "lowest": 1.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -11285,7 +11285,7 @@
     "discount": "-90%",
     "price": 2.01,
     "lowest": 2.01,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-12-2023"
   },
@@ -11336,7 +11336,7 @@
     "price": 2.02,
     "lowest": 2.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -13206,7 +13206,7 @@
     "price": 2.46,
     "lowest": 2.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -13817,6 +13817,16 @@
     "lowest": 2.57,
     "stock": true,
     "status": "par",
+    "last_time_updated": "26-12-2023"
+  },
+  {
+    "title": "Rising Storm 2: Vietnam Deluxe Edition",
+    "type": "game",
+    "discount": "-91%",
+    "price": 2.58,
+    "lowest": 2.58,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -15116,7 +15126,7 @@
     "price": 2.88,
     "lowest": 2.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -15640,6 +15650,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Star Wars Battlefront (Classic, 2004)",
+    "type": "game",
+    "discount": "-69%",
+    "price": 2.99,
+    "lowest": 2.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "FatalZone",
     "type": "game",
     "discount": "-40%",
@@ -15680,16 +15700,6 @@
     "last_time_updated": "26-12-2023"
   },
   {
-    "title": "Star Wars Battlefront (Classic, 2004)",
-    "type": "game",
-    "discount": "-69%",
-    "price": 2.99,
-    "lowest": 2.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
     "title": "Bots Are Stupid",
     "type": "game",
     "discount": "-77%",
@@ -15716,7 +15726,7 @@
     "price": 2.99,
     "lowest": 2.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -16896,7 +16906,7 @@
     "price": 3.26,
     "lowest": 3.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -17016,7 +17026,7 @@
     "price": 3.29,
     "lowest": 3.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -19106,7 +19116,7 @@
     "price": 3.89,
     "lowest": 3.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -22320,16 +22330,6 @@
     "last_time_updated": "26-12-2023"
   },
   {
-    "title": "Operation: Tango",
-    "type": "game",
-    "discount": "-71%",
-    "price": 4.92,
-    "lowest": 4.92,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
     "title": "Surviving Mars: In-Dome Buildings Pack",
     "type": "DLC",
     "discount": "-1%",
@@ -22376,7 +22376,7 @@
     "price": 4.93,
     "lowest": 4.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -23505,8 +23505,8 @@
     "discount": "-82%",
     "price": 5.31,
     "lowest": 5.31,
-    "stock": true,
-    "status": "updated",
+    "stock": false,
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -24136,7 +24136,7 @@
     "price": 5.56,
     "lowest": 5.56,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -25410,6 +25410,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Mudrunner American Wilds Edition",
+    "type": "game",
+    "discount": "-75%",
+    "price": 6.26,
+    "lowest": 6.26,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "Catizens",
     "type": "game",
     "discount": "-65%",
@@ -25590,13 +25600,13 @@
     "last_time_updated": "26-12-2023"
   },
   {
-    "title": "Mudrunner American Wilds Edition",
+    "title": "Toy Soldiers",
     "type": "game",
-    "discount": "-74%",
-    "price": 6.38,
-    "lowest": 6.38,
+    "discount": "-29%",
+    "price": 6.37,
+    "lowest": 6.37,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -26010,6 +26020,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Warhammer: Chaosbane Deluxe Edition",
+    "type": "game",
+    "discount": "-78%",
+    "price": 6.53,
+    "lowest": 6.53,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "S.T.A.L.K.E.R. Bundle",
     "type": "game",
     "discount": "-81%",
@@ -26023,16 +26043,6 @@
     "title": "Metal: Hellsinger - Pacchetto hit essenziale",
     "type": "DLC",
     "discount": "-35%",
-    "price": 6.53,
-    "lowest": 6.53,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
-    "title": "Warhammer: Chaosbane Deluxe Edition",
-    "type": "game",
-    "discount": "-78%",
     "price": 6.53,
     "lowest": 6.53,
     "stock": true,
@@ -26185,16 +26195,6 @@
     "discount": "-45%",
     "price": 6.56,
     "lowest": 6.56,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
-    "title": "Toy Soldiers",
-    "type": "game",
-    "discount": "-27%",
-    "price": 6.57,
-    "lowest": 6.57,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-12-2023"
@@ -26886,7 +26886,7 @@
     "price": 6.85,
     "lowest": 6.85,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -28486,7 +28486,7 @@
     "price": 7.61,
     "lowest": 7.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -28986,7 +28986,7 @@
     "price": 8.01,
     "lowest": 8.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -30267,6 +30267,16 @@
     "lowest": 8.99,
     "stock": true,
     "status": "par",
+    "last_time_updated": "26-12-2023"
+  },
+  {
+    "title": "Dragon Ball FighterZ: FighterZ Pass 2",
+    "type": "DLC",
+    "discount": "-64%",
+    "price": 8.99,
+    "lowest": 8.99,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -31870,6 +31880,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Per Aspera Deluxe Edition",
+    "type": "game",
+    "discount": "-74%",
+    "price": 10.45,
+    "lowest": 10.45,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "Total War: Rome Remastered",
     "type": "game",
     "discount": "-65%",
@@ -32120,6 +32140,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "SD Gundam Battle Alliance",
+    "type": "game",
+    "discount": "-79%",
+    "price": 10.65,
+    "lowest": 10.65,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "Tekken 7 Season Pass 2",
     "type": "DLC",
     "discount": "-64%",
@@ -32155,16 +32185,6 @@
     "discount": "-57%",
     "price": 10.75,
     "lowest": 10.75,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
-    "title": "SD Gundam Battle Alliance",
-    "type": "game",
-    "discount": "-78%",
-    "price": 10.76,
-    "lowest": 10.76,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-12-2023"
@@ -32786,7 +32806,7 @@
     "price": 11.33,
     "lowest": 11.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -34130,6 +34150,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Definitely Not Fried Chicken",
+    "type": "game",
+    "discount": "-39%",
+    "price": 12.84,
+    "lowest": 12.84,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "The Amazing American Circus - The Ringmaster's Edition",
     "type": "game",
     "discount": "-46%",
@@ -34390,16 +34420,6 @@
     "last_time_updated": "26-12-2023"
   },
   {
-    "title": "Definitely Not Fried Chicken",
-    "type": "game",
-    "discount": "-38%",
-    "price": 13.01,
-    "lowest": 13.01,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
     "title": "Autobahn Police Simulator 3",
     "type": "game",
     "discount": "-57%",
@@ -34650,6 +34670,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Digital Deluxe",
+    "type": "DLC",
+    "discount": "-73%",
+    "price": 13.65,
+    "lowest": 13.65,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "Tekken 7 - Definitive Edition",
     "type": "game",
     "discount": "-88%",
@@ -34675,16 +34705,6 @@
     "discount": "-7%",
     "price": 13.75,
     "lowest": 13.75,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Digital Deluxe",
-    "type": "DLC",
-    "discount": "-72%",
-    "price": 13.76,
-    "lowest": 13.76,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-12-2023"
@@ -34756,7 +34776,7 @@
     "price": 13.92,
     "lowest": 13.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -35915,7 +35935,7 @@
     "discount": "-87%",
     "price": 16.23,
     "lowest": 16.23,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-12-2023"
   },
@@ -36990,6 +37010,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "God of War",
+    "type": "game",
+    "discount": "-63%",
+    "price": 18.71,
+    "lowest": 18.71,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "SGS Halls of Montezuma",
     "type": "game",
     "discount": "-11%",
@@ -37007,16 +37037,6 @@
     "lowest": 18.75,
     "stock": true,
     "status": "par",
-    "last_time_updated": "26-12-2023"
-  },
-  {
-    "title": "God of War",
-    "type": "game",
-    "discount": "-62%",
-    "price": 18.85,
-    "lowest": 18.85,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -37256,7 +37276,7 @@
     "price": 19.8,
     "lowest": 19.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -37430,6 +37450,16 @@
     "last_time_updated": "26-12-2023"
   },
   {
+    "title": "Deadlink",
+    "type": "game",
+    "discount": "-17%",
+    "price": 20.31,
+    "lowest": 20.31,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-12-2023"
+  },
+  {
     "title": "Naruto X Boruto Ultimate Ninja Storm Connections - Season Pass",
     "type": "DLC",
     "discount": "-18%",
@@ -37576,7 +37606,7 @@
     "price": 21.01,
     "lowest": 21.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-12-2023"
   },
   {
@@ -38815,7 +38845,7 @@
     "discount": "-25%",
     "price": 29.91,
     "lowest": 29.91,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-12-2023"
   },
