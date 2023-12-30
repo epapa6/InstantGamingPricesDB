@@ -60,6 +60,46 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Banners of Ruin",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Two Worlds Epic Edition",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Dub Dash",
+    "type": "game",
+    "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Age of Wonders II: The Wizard's Throne",
+    "type": "game",
+    "discount": "-89%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -613,16 +653,6 @@
     "title": "Industria",
     "type": "game",
     "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Banners of Ruin",
-    "type": "game",
-    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -2010,16 +2040,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Two Worlds Epic Edition",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Goat Simulator: PAYDAY",
     "type": "DLC",
     "discount": "-80%",
@@ -2863,16 +2883,6 @@
     "title": "Journey of a Roach",
     "type": "game",
     "discount": "-86%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Dub Dash",
-    "type": "game",
-    "discount": "-80%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -4663,16 +4673,6 @@
     "title": "Alien Spidy",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Age of Wonders II: The Wizard's Throne",
-    "type": "game",
-    "discount": "-89%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -13360,6 +13360,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Bulletstorm Full Clip Edition",
+    "type": "game",
+    "discount": "-93%",
+    "price": 2.73,
+    "lowest": 2.73,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Whispers of a Machine",
     "type": "game",
     "discount": "-82%",
@@ -13523,16 +13533,6 @@
     "title": "Mortal Kombat XL",
     "type": "game",
     "discount": "-93%",
-    "price": 2.8,
-    "lowest": 2.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Dead Island Definitive Edition",
-    "type": "game",
-    "discount": "-86%",
     "price": 2.8,
     "lowest": 2.8,
     "stock": true,
@@ -14925,7 +14925,7 @@
     "discount": "-84%",
     "price": 3.08,
     "lowest": 3.08,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -18760,16 +18760,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Black Mirror",
-    "type": "game",
-    "discount": "-86%",
-    "price": 4.25,
-    "lowest": 4.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Trafficker - 4th Generation Warfare",
     "type": "DLC",
     "discount": "-29%",
@@ -20807,6 +20797,16 @@
     "lowest": 4.95,
     "stock": true,
     "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Train Simulator: Duchess of Sutherland Loco",
+    "type": "DLC",
+    "discount": "-65%",
+    "price": 4.95,
+    "lowest": 4.95,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -24126,7 +24126,7 @@
     "price": 6.51,
     "lowest": 6.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -27796,7 +27796,7 @@
     "price": 8.65,
     "lowest": 8.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -28120,6 +28120,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "King Of The Castle",
+    "type": "game",
+    "discount": "-10%",
+    "price": 8.97,
+    "lowest": 8.97,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Sanabi",
     "type": "game",
     "discount": "-28%",
@@ -28265,16 +28275,6 @@
     "discount": "-9%",
     "price": 9.06,
     "lowest": 9.06,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "King Of The Castle",
-    "type": "game",
-    "discount": "-9%",
-    "price": 9.08,
-    "lowest": 9.08,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -31926,7 +31926,7 @@
     "price": 12.91,
     "lowest": 12.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -32796,7 +32796,7 @@
     "price": 14.63,
     "lowest": 14.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -33415,7 +33415,7 @@
     "discount": "-20%",
     "price": 15.97,
     "lowest": 15.97,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -34005,7 +34005,7 @@
     "discount": "-14%",
     "price": 17.25,
     "lowest": 17.25,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -35320,6 +35320,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
+    "type": "game",
+    "discount": "-68%",
+    "price": 22.17,
+    "lowest": 22.17,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Sengoku Dynasty - Digital Supporter Edition",
     "type": "game",
     "discount": "-47%",
@@ -35345,16 +35355,6 @@
     "discount": "-11%",
     "price": 22.27,
     "lowest": 22.27,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
-    "type": "game",
-    "discount": "-68%",
-    "price": 22.28,
-    "lowest": 22.28,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
