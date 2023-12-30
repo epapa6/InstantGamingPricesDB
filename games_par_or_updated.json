@@ -60,6 +60,26 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Honey, I Joined a Cult",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Behind the Frame: The Finest Scenery",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Banners of Ruin",
     "type": "game",
     "discount": "-94%",
@@ -280,16 +300,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Honey, I Joined a Cult",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Windjammers 2",
     "type": "game",
     "discount": "-95%",
@@ -493,16 +503,6 @@
     "title": "NASCAR Heat 5 - Ultimate DLC",
     "type": "DLC",
     "discount": "-99%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Behind the Frame: The Finest Scenery",
-    "type": "game",
-    "discount": "-92%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5626,7 +5626,7 @@
     "price": 1.08,
     "lowest": 1.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -5695,7 +5695,7 @@
     "discount": "-97%",
     "price": 1.1,
     "lowest": 1.1,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -5790,19 +5790,19 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Mount & Blade",
+    "title": "Tropico 3: Gold Edition",
     "type": "game",
-    "discount": "-89%",
+    "discount": "-93%",
     "price": 1.12,
     "lowest": 1.12,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Tropico 3: Gold Edition",
+    "title": "Mount & Blade",
     "type": "game",
-    "discount": "-93%",
+    "discount": "-89%",
     "price": 1.12,
     "lowest": 1.12,
     "stock": true,
@@ -6167,6 +6167,16 @@
     "lowest": 1.18,
     "stock": true,
     "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "LostWinds 2: Winter of the Melodias",
+    "type": "game",
+    "discount": "-88%",
+    "price": 1.18,
+    "lowest": 1.18,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -7140,16 +7150,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "LostWinds 2: Winter of the Melodias",
-    "type": "game",
-    "discount": "-86%",
-    "price": 1.38,
-    "lowest": 1.38,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Tropico 5 - Espionage",
     "type": "DLC",
     "discount": "-83%",
@@ -7630,16 +7630,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "The Final Station",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.48,
-    "lowest": 1.48,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Men of Valor",
     "type": "game",
     "discount": "-85%",
@@ -7890,6 +7880,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Shoppe Keep",
+    "type": "game",
+    "discount": "-62%",
+    "price": 1.53,
+    "lowest": 1.53,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "TheHunter: Call of the Wild - Tents & Ground Blinds",
     "type": "DLC",
     "discount": "-62%",
@@ -7983,16 +7983,6 @@
     "title": "10 Second Ninja X",
     "type": "game",
     "discount": "-85%",
-    "price": 1.53,
-    "lowest": 1.53,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Shoppe Keep",
-    "type": "game",
-    "discount": "-62%",
     "price": 1.53,
     "lowest": 1.53,
     "stock": true,
@@ -10105,16 +10095,6 @@
     "discount": "-50%",
     "price": 1.99,
     "lowest": 1.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Warhammer: Chaosbane - Slayer Edition",
-    "type": "game",
-    "discount": "-98%",
-    "price": 2.0,
-    "lowest": 2.0,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -12535,7 +12515,7 @@
     "discount": "-80%",
     "price": 2.57,
     "lowest": 2.57,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -15705,7 +15685,7 @@
     "discount": "-96%",
     "price": 3.33,
     "lowest": 3.33,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -16590,6 +16570,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Necesse",
+    "type": "game",
+    "discount": "-64%",
+    "price": 3.61,
+    "lowest": 3.61,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Evergate",
     "type": "game",
     "discount": "-64%",
@@ -16837,16 +16827,6 @@
     "lowest": 3.72,
     "stock": true,
     "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Necesse",
-    "type": "game",
-    "discount": "-63%",
-    "price": 3.72,
-    "lowest": 3.72,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -18910,6 +18890,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Sword of the Necromancer",
+    "type": "game",
+    "discount": "-71%",
+    "price": 4.33,
+    "lowest": 4.33,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "ArcaniA Gold Edition",
     "type": "game",
     "discount": "-78%",
@@ -18953,16 +18943,6 @@
     "title": "Journey For Elysium",
     "type": "game",
     "discount": "-57%",
-    "price": 4.33,
-    "lowest": 4.33,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Sword of the Necromancer",
-    "type": "game",
-    "discount": "-71%",
     "price": 4.33,
     "lowest": 4.33,
     "stock": true,
@@ -22506,7 +22486,7 @@
     "price": 5.7,
     "lowest": 5.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -24846,7 +24826,7 @@
     "price": 6.81,
     "lowest": 6.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -25170,6 +25150,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Master of Magic: Rise of the Soultrapped",
+    "type": "DLC",
+    "discount": "-45%",
+    "price": 6.99,
+    "lowest": 6.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Remnant 2 - The Awakened King",
     "type": "DLC",
     "discount": "-28%",
@@ -25183,16 +25173,6 @@
     "title": "Sticky Business",
     "type": "game",
     "discount": "-30%",
-    "price": 6.99,
-    "lowest": 6.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Master of Magic: Rise of the Soultrapped",
-    "type": "DLC",
-    "discount": "-45%",
     "price": 6.99,
     "lowest": 6.99,
     "stock": true,
@@ -25890,6 +25870,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Astebreed Definitive Edition",
+    "type": "game",
+    "discount": "-63%",
+    "price": 7.43,
+    "lowest": 7.43,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Blasphemous Digital Deluxe Edition",
     "type": "game",
     "discount": "-80%",
@@ -26230,16 +26220,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Astebreed Definitive Edition",
-    "type": "game",
-    "discount": "-62%",
-    "price": 7.54,
-    "lowest": 7.54,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Gang Beasts",
     "type": "game",
     "discount": "-60%",
@@ -26425,7 +26405,7 @@
     "discount": "-22%",
     "price": 7.79,
     "lowest": 7.79,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -26733,8 +26713,8 @@
     "title": "Tales & Tactics",
     "type": "game",
     "discount": "-54%",
-    "price": 8.02,
-    "lowest": 8.02,
+    "price": 8.01,
+    "lowest": 8.01,
     "stock": true,
     "status": "updated",
     "last_time_updated": "30-12-2023"
@@ -27433,16 +27413,6 @@
     "title": "My Little Pony: Avventura a Maretime Bay",
     "type": "game",
     "discount": "-79%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
     "price": 8.55,
     "lowest": 8.55,
     "stock": true,
@@ -29260,6 +29230,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "IL-2 Sturmovik: Desert Wings - Tobruk",
+    "type": "DLC",
+    "discount": "-75%",
+    "price": 10.0,
+    "lowest": 10.0,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Field of Glory II: Medieval - Sublime Porte",
     "type": "DLC",
     "discount": "-32%",
@@ -29325,16 +29305,6 @@
     "discount": "-40%",
     "price": 10.11,
     "lowest": 10.11,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "IL-2 Sturmovik: Desert Wings - Tobruk",
-    "type": "DLC",
-    "discount": "-75%",
-    "price": 10.12,
-    "lowest": 10.12,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -32240,16 +32210,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Dark Souls Remastered",
-    "type": "game",
-    "discount": "-65%",
-    "price": 13.85,
-    "lowest": 13.85,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Phantom Abyss",
     "type": "game",
     "discount": "-43%",
@@ -34030,6 +33990,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "God of War",
+    "type": "game",
+    "discount": "-65%",
+    "price": 17.58,
+    "lowest": 17.58,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Romancelvania",
     "type": "game",
     "discount": "-28%",
@@ -34085,16 +34055,6 @@
     "discount": "-61%",
     "price": 17.72,
     "lowest": 17.72,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "God of War",
-    "type": "game",
-    "discount": "-64%",
-    "price": 17.79,
-    "lowest": 17.79,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -34490,6 +34450,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "type": "game",
+    "discount": "-52%",
+    "price": 19.28,
+    "lowest": 19.28,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Redout 2 Deluxe Edition",
     "type": "game",
     "discount": "-60%",
@@ -34505,16 +34475,6 @@
     "discount": "-61%",
     "price": 19.31,
     "lowest": 19.31,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
-    "type": "game",
-    "discount": "-51%",
-    "price": 19.44,
-    "lowest": 19.44,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -34610,6 +34570,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Death's Door Deluxe Edition",
+    "type": "game",
+    "discount": "-31%",
+    "price": 19.73,
+    "lowest": 19.73,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "DreamWorks All-Star Kart Racing",
     "type": "game",
     "discount": "-51%",
@@ -34625,16 +34595,6 @@
     "discount": "-29%",
     "price": 19.82,
     "lowest": 19.82,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Death's Door Deluxe Edition",
-    "type": "game",
-    "discount": "-30%",
-    "price": 19.84,
-    "lowest": 19.84,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -35146,7 +35106,7 @@
     "price": 22.06,
     "lowest": 22.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -35820,21 +35780,21 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Remnant 2 - Ultimate Edition",
+    "type": "game",
+    "discount": "-63%",
+    "price": 25.95,
+    "lowest": 25.95,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Exoprimal",
     "type": "game",
     "discount": "-57%",
     "price": 25.99,
     "lowest": 25.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Remnant 2 - Ultimate Edition",
-    "type": "game",
-    "discount": "-63%",
-    "price": 26.06,
-    "lowest": 26.06,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
