@@ -6006,7 +6006,7 @@
     "price": 1.14,
     "lowest": 1.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -6226,7 +6226,7 @@
     "price": 1.2,
     "lowest": 1.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -6466,7 +6466,7 @@
     "price": 1.25,
     "lowest": 1.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -8435,7 +8435,7 @@
     "discount": "-92%",
     "price": 1.62,
     "lowest": 1.62,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -9096,7 +9096,7 @@
     "price": 1.77,
     "lowest": 1.77,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -9656,7 +9656,7 @@
     "price": 1.89,
     "lowest": 1.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -10646,7 +10646,7 @@
     "price": 2.1,
     "lowest": 2.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -12466,7 +12466,7 @@
     "price": 2.53,
     "lowest": 2.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -13826,7 +13826,7 @@
     "price": 2.86,
     "lowest": 2.86,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -13896,7 +13896,7 @@
     "price": 2.88,
     "lowest": 2.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -15515,7 +15515,7 @@
     "discount": "-92%",
     "price": 3.23,
     "lowest": 3.23,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "30-12-2023"
   },
@@ -16106,7 +16106,7 @@
     "price": 3.38,
     "lowest": 3.38,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -16186,7 +16186,7 @@
     "price": 3.43,
     "lowest": 3.43,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -18486,7 +18486,7 @@
     "price": 4.1,
     "lowest": 4.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -18753,6 +18753,16 @@
     "title": "WRC 10 Mitsubishi Lancer Evo V 1998",
     "type": "DLC",
     "discount": "-15%",
+    "price": 4.25,
+    "lowest": 4.25,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Black Mirror",
+    "type": "game",
+    "discount": "-86%",
     "price": 4.25,
     "lowest": 4.25,
     "stock": true,
@@ -19886,7 +19896,7 @@
     "price": 4.65,
     "lowest": 4.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -20946,7 +20956,7 @@
     "price": 4.99,
     "lowest": 4.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -21496,7 +21506,7 @@
     "price": 5.2,
     "lowest": 5.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -23476,7 +23486,7 @@
     "price": 6.09,
     "lowest": 6.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -23585,6 +23595,16 @@
     "discount": "-33%",
     "price": 6.18,
     "lowest": 6.18,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Lightning Returns: Final Fantasy XIII",
+    "type": "game",
+    "discount": "-61%",
+    "price": 6.19,
+    "lowest": 6.19,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -23940,16 +23960,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Total War: Attila - Tyrants and Kings Edition",
-    "type": "game",
-    "discount": "-86%",
-    "price": 6.47,
-    "lowest": 6.47,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Hitman 2 Expansion Pass",
     "type": "DLC",
     "discount": "-84%",
@@ -24103,6 +24113,16 @@
     "title": "Redout 2",
     "type": "game",
     "discount": "-78%",
+    "price": 6.51,
+    "lowest": 6.51,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Mega Man X Legacy Collection",
+    "type": "game",
+    "discount": "-67%",
     "price": 6.51,
     "lowest": 6.51,
     "stock": true,
@@ -24523,16 +24543,6 @@
     "title": "Naruto to Boruto: Shinobi Striker Season Pass 4",
     "type": "DLC",
     "discount": "-56%",
-    "price": 6.63,
-    "lowest": 6.63,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Mega Man X Legacy Collection",
-    "type": "game",
-    "discount": "-67%",
     "price": 6.63,
     "lowest": 6.63,
     "stock": true,
@@ -25010,16 +25020,6 @@
     "last_time_updated": "30-12-2023"
   },
   {
-    "title": "Monster Hunter: World",
-    "type": "game",
-    "discount": "-77%",
-    "price": 6.84,
-    "lowest": 6.84,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
     "title": "Outward",
     "type": "game",
     "discount": "-83%",
@@ -25243,6 +25243,16 @@
     "title": "While True: Learn()",
     "type": "game",
     "discount": "-36%",
+    "price": 6.92,
+    "lowest": 6.92,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Train Simulator: Class A4 Pacifics Loco",
+    "type": "DLC",
+    "discount": "-69%",
     "price": 6.92,
     "lowest": 6.92,
     "stock": true,
@@ -26706,7 +26716,7 @@
     "price": 7.91,
     "lowest": 7.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -27610,6 +27620,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Assetto Corsa Competizione - The American Track Pack",
     "type": "DLC",
     "discount": "-52%",
@@ -27770,6 +27790,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Valor & Victory",
+    "type": "game",
+    "discount": "-56%",
+    "price": 8.65,
+    "lowest": 8.65,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "The Surge 2 Premium Edition",
     "type": "game",
     "discount": "-78%",
@@ -27926,7 +27956,7 @@
     "price": 8.77,
     "lowest": 8.77,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -28756,7 +28786,7 @@
     "price": 9.56,
     "lowest": 9.56,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -29660,6 +29690,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Per Aspera Deluxe Edition",
+    "type": "game",
+    "discount": "-74%",
+    "price": 10.45,
+    "lowest": 10.45,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Total War: Rome Remastered",
     "type": "game",
     "discount": "-65%",
@@ -30496,7 +30536,7 @@
     "price": 11.32,
     "lowest": 11.32,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -31480,6 +31520,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Life is Strange: Before The Storm",
+    "type": "game",
+    "discount": "-27%",
+    "price": 12.35,
+    "lowest": 12.35,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Arena Renovation",
     "type": "game",
     "discount": "-37%",
@@ -31867,6 +31917,16 @@
     "lowest": 12.89,
     "stock": true,
     "status": "par",
+    "last_time_updated": "30-12-2023"
+  },
+  {
+    "title": "Farming Simulator 22 - Premium Expansion",
+    "type": "DLC",
+    "discount": "-35%",
+    "price": 12.91,
+    "lowest": 12.91,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -32730,6 +32790,16 @@
     "last_time_updated": "30-12-2023"
   },
   {
+    "title": "Bus Simulator 21 Next Stop - Season Pass",
+    "type": "DLC",
+    "discount": "-41%",
+    "price": 14.63,
+    "lowest": 14.63,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "30-12-2023"
+  },
+  {
     "title": "Harvest Days: My Dream Farm",
     "type": "game",
     "discount": "-2%",
@@ -32765,16 +32835,6 @@
     "discount": "-26%",
     "price": 14.72,
     "lowest": 14.72,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Bus Simulator 21 Next Stop - Season Pass",
-    "type": "DLC",
-    "discount": "-41%",
-    "price": 14.74,
-    "lowest": 14.74,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
@@ -33356,7 +33416,7 @@
     "price": 15.97,
     "lowest": 15.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "30-12-2023"
   },
   {
@@ -35215,16 +35275,6 @@
     "discount": "-45%",
     "price": 21.95,
     "lowest": 21.95,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "30-12-2023"
-  },
-  {
-    "title": "Six Days in Fallujah",
-    "type": "game",
-    "discount": "-44%",
-    "price": 21.96,
-    "lowest": 21.96,
     "stock": true,
     "status": "par",
     "last_time_updated": "30-12-2023"
