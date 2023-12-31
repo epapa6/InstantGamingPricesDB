@@ -60,9 +60,39 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Levelhead",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Dream Pinball 3D",
+    "type": "game",
+    "discount": "-86%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Death Squared",
     "type": "game",
     "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Tropico 5 - The Big Cheese",
+    "type": "DLC",
+    "discount": "-75%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -1630,16 +1660,6 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Levelhead",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
     "title": "Sid Meier's Starships",
     "type": "game",
     "discount": "-93%",
@@ -1983,16 +2003,6 @@
     "title": "Super Time Force Ultra",
     "type": "game",
     "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Dream Pinball 3D",
-    "type": "game",
-    "discount": "-86%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -3711,16 +3721,6 @@
   },
   {
     "title": "Tropico 5 - Mad World",
-    "type": "DLC",
-    "discount": "-75%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Tropico 5 - The Big Cheese",
     "type": "DLC",
     "discount": "-75%",
     "price": 1.0,
@@ -5460,16 +5460,6 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "FlatOut 2",
-    "type": "game",
-    "discount": "-89%",
-    "price": 1.07,
-    "lowest": 1.07,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
     "title": "Party Hard",
     "type": "game",
     "discount": "-89%",
@@ -6980,16 +6970,6 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Urban Empire",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.38,
-    "lowest": 1.38,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
     "title": "Tropico 5 - Espionage",
     "type": "DLC",
     "discount": "-83%",
@@ -7563,6 +7543,16 @@
     "title": "Warung Nasi Campur",
     "type": "game",
     "discount": "-85%",
+    "price": 1.49,
+    "lowest": 1.49,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Deluxe Content - Cossacks 3: Path to Grandeur",
+    "type": "DLC",
+    "discount": "-70%",
     "price": 1.49,
     "lowest": 1.49,
     "stock": true,
@@ -8215,7 +8205,7 @@
     "discount": "-92%",
     "price": 1.66,
     "lowest": 1.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "31-12-2023"
   },
@@ -11646,7 +11636,7 @@
     "price": 2.41,
     "lowest": 2.41,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -13440,6 +13430,16 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Metro: Exodus Expansion Pass",
+    "type": "DLC",
+    "discount": "-81%",
+    "price": 2.87,
+    "lowest": 2.87,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Risen 3: Complete Edition",
     "type": "game",
     "discount": "-86%",
@@ -13453,16 +13453,6 @@
     "title": "Prison Architect - Psych Ward: Warden's Edition",
     "type": "DLC",
     "discount": "-52%",
-    "price": 2.87,
-    "lowest": 2.87,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Metro: Exodus Expansion Pass",
-    "type": "DLC",
-    "discount": "-81%",
     "price": 2.87,
     "lowest": 2.87,
     "stock": true,
@@ -14827,6 +14817,16 @@
     "lowest": 3.17,
     "stock": true,
     "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Last Day of June",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.17,
+    "lowest": 3.17,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -21375,7 +21375,7 @@
     "discount": "-79%",
     "price": 5.33,
     "lowest": 5.33,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "31-12-2023"
   },
@@ -24356,7 +24356,7 @@
     "price": 6.81,
     "lowest": 6.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -25240,16 +25240,6 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Cafe Owner Simulator",
-    "type": "game",
-    "discount": "-61%",
-    "price": 7.3,
-    "lowest": 7.3,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
     "title": "Vagante",
     "type": "game",
     "discount": "-51%",
@@ -25317,6 +25307,16 @@
     "lowest": 7.37,
     "stock": true,
     "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Conan Exiles: Isle of Siptah",
+    "type": "DLC",
+    "discount": "-63%",
+    "price": 7.39,
+    "lowest": 7.39,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -25635,16 +25635,6 @@
     "discount": "-25%",
     "price": 7.49,
     "lowest": 7.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Conan Exiles: Isle of Siptah",
-    "type": "DLC",
-    "discount": "-62%",
-    "price": 7.5,
-    "lowest": 7.5,
     "stock": true,
     "status": "par",
     "last_time_updated": "31-12-2023"
@@ -27277,6 +27267,16 @@
     "lowest": 8.85,
     "stock": true,
     "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "9 Years of Shadows",
+    "type": "game",
+    "discount": "-56%",
+    "price": 8.86,
+    "lowest": 8.86,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -29250,6 +29250,16 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Beyond The Edge Of Owlsgard",
+    "type": "game",
+    "discount": "-56%",
+    "price": 10.83,
+    "lowest": 10.83,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Empires of the Undergrowth",
     "type": "game",
     "discount": "-46%",
@@ -29445,16 +29455,6 @@
     "discount": "-34%",
     "price": 11.05,
     "lowest": 11.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Beyond The Edge Of Owlsgard",
-    "type": "game",
-    "discount": "-55%",
-    "price": 11.06,
-    "lowest": 11.06,
     "stock": true,
     "status": "par",
     "last_time_updated": "31-12-2023"
@@ -32705,7 +32705,7 @@
     "discount": "-69%",
     "price": 16.17,
     "lowest": 16.17,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "31-12-2023"
   },
@@ -34240,19 +34240,19 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Mount & Blade II: Bannerlord",
+    "title": "Sifu Digital Deluxe Edition",
     "type": "game",
-    "discount": "-58%",
+    "discount": "-62%",
     "price": 20.89,
     "lowest": 20.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Sifu Digital Deluxe Edition",
+    "title": "Mount & Blade II: Bannerlord",
     "type": "game",
-    "discount": "-62%",
+    "discount": "-58%",
     "price": 20.89,
     "lowest": 20.89,
     "stock": true,
@@ -34356,7 +34356,7 @@
     "price": 21.29,
     "lowest": 21.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -34486,7 +34486,7 @@
     "price": 21.95,
     "lowest": 21.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
