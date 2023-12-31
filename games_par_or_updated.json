@@ -50,6 +50,26 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Outcast: Second Contact",
+    "type": "game",
+    "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Death Squared",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -691,16 +711,6 @@
   },
   {
     "title": "Worms World Party Remastered",
-    "type": "game",
-    "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Outcast: Second Contact",
     "type": "game",
     "discount": "-93%",
     "price": 1.0,
@@ -2133,16 +2143,6 @@
     "title": "EarthNight",
     "type": "game",
     "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Death Squared",
-    "type": "game",
-    "discount": "-92%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -7480,19 +7480,29 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Car Trader Simulator",
+    "title": "Vendetta - Curse of Raven's Cry Deluxe Edition",
     "type": "game",
-    "discount": "-85%",
+    "discount": "-96%",
     "price": 1.49,
     "lowest": 1.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Vendetta - Curse of Raven's Cry Deluxe Edition",
+    "title": "Crusader Kings II: Legacy of Rome",
+    "type": "DLC",
+    "discount": "-70%",
+    "price": 1.49,
+    "lowest": 1.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Car Trader Simulator",
     "type": "game",
-    "discount": "-96%",
+    "discount": "-85%",
     "price": 1.49,
     "lowest": 1.49,
     "stock": true,
@@ -7530,16 +7540,6 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "Crusader Kings II: Legacy of Rome",
-    "type": "DLC",
-    "discount": "-70%",
-    "price": 1.49,
-    "lowest": 1.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
     "title": "Worms Reloaded: The \"Pre-order Forts and Hats\" DLC Pack",
     "type": "DLC",
     "discount": "-25%",
@@ -7563,16 +7563,6 @@
     "title": "Warung Nasi Campur",
     "type": "game",
     "discount": "-85%",
-    "price": 1.49,
-    "lowest": 1.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Deluxe Content - Cossacks 3: Path to Grandeur",
-    "type": "DLC",
-    "discount": "-70%",
     "price": 1.49,
     "lowest": 1.49,
     "stock": true,
@@ -8730,6 +8720,16 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Sniper Elite",
+    "type": "game",
+    "discount": "-78%",
+    "price": 1.76,
+    "lowest": 1.76,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Torchlight II",
     "type": "game",
     "discount": "-91%",
@@ -8743,16 +8743,6 @@
     "title": "Borderlands: The Pre-Sequel Season Pass",
     "type": "DLC",
     "discount": "-94%",
-    "price": 1.76,
-    "lowest": 1.76,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Sniper Elite",
-    "type": "game",
-    "discount": "-78%",
     "price": 1.76,
     "lowest": 1.76,
     "stock": true,
@@ -9105,6 +9095,16 @@
     "discount": "-54%",
     "price": 1.84,
     "lowest": 1.84,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Redout Enhanced Edition",
+    "type": "game",
+    "discount": "-91%",
+    "price": 1.85,
+    "lowest": 1.85,
     "stock": true,
     "status": "par",
     "last_time_updated": "31-12-2023"
@@ -10136,7 +10136,7 @@
     "price": 2.04,
     "lowest": 2.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -11640,6 +11640,16 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Stay Safe",
+    "type": "game",
+    "discount": "-52%",
+    "price": 2.41,
+    "lowest": 2.41,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "The Last Crown: Midnight Horror",
     "type": "game",
     "discount": "-52%",
@@ -12023,16 +12033,6 @@
     "title": "Breach & Clear: Deadline",
     "type": "game",
     "discount": "-75%",
-    "price": 2.52,
-    "lowest": 2.52,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Stay Safe",
-    "type": "game",
-    "discount": "-49%",
     "price": 2.52,
     "lowest": 2.52,
     "stock": true,
@@ -14796,7 +14796,7 @@
     "price": 3.16,
     "lowest": 3.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -15546,7 +15546,7 @@
     "price": 3.34,
     "lowest": 3.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -19976,7 +19976,7 @@
     "price": 4.88,
     "lowest": 4.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -24350,6 +24350,16 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Tinkertown",
+    "type": "game",
+    "discount": "-60%",
+    "price": 6.81,
+    "lowest": 6.81,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Train Simulator: Class A4 Pacifics Loco",
     "type": "DLC",
     "discount": "-69%",
@@ -24633,16 +24643,6 @@
     "title": "The Escapists 2 - Game of the Year Edition",
     "type": "game",
     "discount": "-81%",
-    "price": 6.93,
-    "lowest": 6.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Tinkertown",
-    "type": "game",
-    "discount": "-59%",
     "price": 6.93,
     "lowest": 6.93,
     "stock": true,
@@ -27506,7 +27506,7 @@
     "price": 9.03,
     "lowest": 9.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -30360,16 +30360,6 @@
     "last_time_updated": "31-12-2023"
   },
   {
-    "title": "GetsuFumaDen: Undying Moon Deluxe",
-    "type": "game",
-    "discount": "-66%",
-    "price": 12.05,
-    "lowest": 12.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
     "title": "Wanderlust Travel Stories",
     "type": "game",
     "discount": "-18%",
@@ -30693,6 +30683,16 @@
     "title": "Worldless",
     "type": "game",
     "discount": "-38%",
+    "price": 12.35,
+    "lowest": 12.35,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "31-12-2023"
+  },
+  {
+    "title": "Life is Strange: Before The Storm",
+    "type": "game",
+    "discount": "-27%",
     "price": 12.35,
     "lowest": 12.35,
     "stock": true,
@@ -31996,7 +31996,7 @@
     "price": 14.7,
     "lowest": 14.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -33226,7 +33226,7 @@
     "price": 17.33,
     "lowest": 17.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "31-12-2023"
   },
   {
@@ -34350,6 +34350,16 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Doraemon Story of Seasons: Friends of the Great Kingdom Deluxe Edition",
+    "type": "game",
+    "discount": "-67%",
+    "price": 21.29,
+    "lowest": 21.29,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Crimson Tactics: The Rise of The White Banner",
     "type": "game",
     "discount": "-29%",
@@ -34470,21 +34480,21 @@
     "last_time_updated": "31-12-2023"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
+    "type": "game",
+    "discount": "-69%",
+    "price": 21.95,
+    "lowest": 21.95,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "31-12-2023"
+  },
+  {
     "title": "Clash: Artifacts of Chaos - Zeno Edition",
     "type": "game",
     "discount": "-45%",
     "price": 21.99,
     "lowest": 21.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
-    "type": "game",
-    "discount": "-68%",
-    "price": 22.06,
-    "lowest": 22.06,
     "stock": true,
     "status": "par",
     "last_time_updated": "31-12-2023"
@@ -35385,16 +35395,6 @@
     "discount": "-28%",
     "price": 28.99,
     "lowest": 28.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "31-12-2023"
-  },
-  {
-    "title": "Doraemon Story of Seasons: Friends of the Great Kingdom Deluxe Edition",
-    "type": "game",
-    "discount": "-55%",
-    "price": 29.16,
-    "lowest": 29.16,
     "stock": true,
     "status": "par",
     "last_time_updated": "31-12-2023"
