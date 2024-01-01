@@ -80,6 +80,16 @@
     "last_time_updated": "01-01-2024"
   },
   {
+    "title": "Bear With Me - Collector's Edition",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "01-01-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -357,6 +367,16 @@
     "lowest": 1.0,
     "stock": true,
     "status": "par",
+    "last_time_updated": "01-01-2024"
+  },
+  {
+    "title": "Fobia - St. Dinfna Hotel",
+    "type": "game",
+    "discount": "-96%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "01-01-2024"
   },
   {
@@ -2643,16 +2663,6 @@
     "title": "The Dark Stone From Mebara",
     "type": "game",
     "discount": "-86%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-01-2024"
-  },
-  {
-    "title": "Bear With Me - Collector's Edition",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5205,16 +5215,6 @@
     "discount": "-95%",
     "price": 1.03,
     "lowest": 1.03,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-01-2024"
-  },
-  {
-    "title": "Fobia - St. Dinfna Hotel",
-    "type": "game",
-    "discount": "-96%",
-    "price": 1.04,
-    "lowest": 1.04,
     "stock": true,
     "status": "par",
     "last_time_updated": "01-01-2024"
@@ -8940,6 +8940,16 @@
     "last_time_updated": "01-01-2024"
   },
   {
+    "title": "Ridge Racer Unbounded",
+    "type": "game",
+    "discount": "-81%",
+    "price": 1.85,
+    "lowest": 1.85,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "01-01-2024"
+  },
+  {
     "title": "Redout Enhanced Edition",
     "type": "game",
     "discount": "-91%",
@@ -9120,19 +9130,19 @@
     "last_time_updated": "01-01-2024"
   },
   {
-    "title": "Terra di Mezzo: L'Ombra di Mordor - Edizione Game of the Year",
-    "type": "game",
-    "discount": "-91%",
+    "title": "Dead Cells: Fatal Falls",
+    "type": "DLC",
+    "discount": "-62%",
     "price": 1.89,
     "lowest": 1.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
   {
-    "title": "Dead Cells: Fatal Falls",
-    "type": "DLC",
-    "discount": "-62%",
+    "title": "Terra di Mezzo: L'Ombra di Mordor - Edizione Game of the Year",
+    "type": "game",
+    "discount": "-91%",
     "price": 1.89,
     "lowest": 1.89,
     "stock": true,
@@ -9425,16 +9435,6 @@
     "discount": "-87%",
     "price": 1.97,
     "lowest": 1.97,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-01-2024"
-  },
-  {
-    "title": "Ridge Racer Unbounded",
-    "type": "game",
-    "discount": "-80%",
-    "price": 1.98,
-    "lowest": 1.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "01-01-2024"
@@ -9935,7 +9935,7 @@
     "discount": "-95%",
     "price": 2.01,
     "lowest": 2.01,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
@@ -14560,19 +14560,19 @@
     "last_time_updated": "01-01-2024"
   },
   {
-    "title": "Unrailed",
+    "title": "Tales of Zestiria",
     "type": "game",
-    "discount": "-84%",
+    "discount": "-94%",
     "price": 3.16,
     "lowest": 3.16,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
   {
-    "title": "Tales of Zestiria",
+    "title": "Unrailed",
     "type": "game",
-    "discount": "-94%",
+    "discount": "-84%",
     "price": 3.16,
     "lowest": 3.16,
     "stock": true,
@@ -14826,7 +14826,7 @@
     "price": 3.21,
     "lowest": 3.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-01-2024"
   },
   {
@@ -16225,7 +16225,7 @@
     "discount": "-71%",
     "price": 3.71,
     "lowest": 3.71,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
@@ -16296,7 +16296,7 @@
     "price": 3.73,
     "lowest": 3.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-01-2024"
   },
   {
@@ -19697,6 +19697,16 @@
     "lowest": 4.86,
     "stock": true,
     "status": "par",
+    "last_time_updated": "01-01-2024"
+  },
+  {
+    "title": "The Last Oricru",
+    "type": "game",
+    "discount": "-76%",
+    "price": 4.86,
+    "lowest": 4.86,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "01-01-2024"
   },
   {
@@ -26590,6 +26600,16 @@
     "last_time_updated": "01-01-2024"
   },
   {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "01-01-2024"
+  },
+  {
     "title": "Assetto Corsa Competizione - The American Track Pack",
     "type": "DLC",
     "discount": "-52%",
@@ -29725,7 +29745,7 @@
     "discount": "-20%",
     "price": 11.82,
     "lowest": 11.82,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
@@ -30716,7 +30736,7 @@
     "price": 12.8,
     "lowest": 12.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-01-2024"
   },
   {
@@ -30835,16 +30855,6 @@
     "discount": "-34%",
     "price": 12.94,
     "lowest": 12.94,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-01-2024"
-  },
-  {
-    "title": "Youtubers Life 2",
-    "type": "game",
-    "discount": "-57%",
-    "price": 12.96,
-    "lowest": 12.96,
     "stock": true,
     "status": "par",
     "last_time_updated": "01-01-2024"
@@ -33085,7 +33095,7 @@
     "discount": "-34%",
     "price": 17.99,
     "lowest": 17.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
@@ -34020,21 +34030,21 @@
     "last_time_updated": "01-01-2024"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
+    "type": "game",
+    "discount": "-69%",
+    "price": 21.71,
+    "lowest": 21.71,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "01-01-2024"
+  },
+  {
     "title": "Potion Tycoon Supporter Bundle",
     "type": "game",
     "discount": "-27%",
     "price": 21.8,
     "lowest": 21.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-01-2024"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Master Edition Digital Deluxe",
-    "type": "game",
-    "discount": "-69%",
-    "price": 21.82,
-    "lowest": 21.82,
     "stock": true,
     "status": "par",
     "last_time_updated": "01-01-2024"
@@ -34815,7 +34825,7 @@
     "discount": "-69%",
     "price": 26.57,
     "lowest": 26.57,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-01-2024"
   },
