@@ -6356,7 +6356,7 @@
     "price": 1.31,
     "lowest": 1.31,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -7296,7 +7296,7 @@
     "price": 1.52,
     "lowest": 1.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -9696,7 +9696,7 @@
     "price": 2.03,
     "lowest": 2.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -11001,6 +11001,16 @@
   },
   {
     "title": "Prodeus",
+    "type": "game",
+    "discount": "-90%",
+    "price": 2.39,
+    "lowest": 2.39,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "Rising Storm 2: Vietnam",
     "type": "game",
     "discount": "-90%",
     "price": 2.39,
@@ -12546,7 +12556,7 @@
     "price": 2.74,
     "lowest": 2.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -13790,6 +13800,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "Castlevania Anniversary Collection",
+    "type": "game",
+    "discount": "-85%",
+    "price": 3.05,
+    "lowest": 3.05,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "Red Solstice 2: Survivors",
     "type": "game",
     "discount": "-90%",
@@ -13970,6 +13990,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "Ori and the Blind Forest Definitive Edition",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.1,
+    "lowest": 3.1,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "Disney High School Musical 3: Senior Year Dance",
     "type": "game",
     "discount": "-84%",
@@ -14036,7 +14066,7 @@
     "price": 3.1,
     "lowest": 3.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -14263,16 +14293,6 @@
     "title": "Saints Row: The Third - The Full Package",
     "type": "game",
     "discount": "-79%",
-    "price": 3.18,
-    "lowest": 3.18,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Castlevania Anniversary Collection",
-    "type": "game",
-    "discount": "-84%",
     "price": 3.18,
     "lowest": 3.18,
     "stock": true,
@@ -14693,6 +14713,16 @@
     "title": "Might & Magic: Heroes III - HD Edition",
     "type": "game",
     "discount": "-78%",
+    "price": 3.33,
+    "lowest": 3.33,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "TOKYO GHOUL:re [CALL to EXIST]",
+    "type": "game",
+    "discount": "-93%",
     "price": 3.33,
     "lowest": 3.33,
     "stock": true,
@@ -17466,23 +17496,13 @@
     "price": 4.22,
     "lowest": 4.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
     "title": "Crusader Kings III: Friends & Foes",
     "type": "DLC",
     "discount": "-15%",
-    "price": 4.25,
-    "lowest": 4.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Black Mirror",
-    "type": "game",
-    "discount": "-86%",
     "price": 4.25,
     "lowest": 4.25,
     "stock": true,
@@ -17603,16 +17623,6 @@
     "title": "Close to the Sun",
     "type": "game",
     "discount": "-79%",
-    "price": 4.26,
-    "lowest": 4.26,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Sunless Sea",
-    "type": "game",
-    "discount": "-78%",
     "price": 4.26,
     "lowest": 4.26,
     "stock": true,
@@ -18056,7 +18066,7 @@
     "price": 4.41,
     "lowest": 4.41,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -18966,7 +18976,7 @@
     "price": 4.77,
     "lowest": 4.77,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -19200,16 +19210,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "The Last Oricru",
-    "type": "game",
-    "discount": "-76%",
-    "price": 4.86,
-    "lowest": 4.86,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Landlord's Super",
     "type": "game",
     "discount": "-75%",
@@ -19387,6 +19387,16 @@
     "lowest": 4.93,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "Wolcen: Lords of Mayhem",
+    "type": "game",
+    "discount": "-86%",
+    "price": 4.93,
+    "lowest": 4.93,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -19865,16 +19875,6 @@
     "discount": "-32%",
     "price": 5.02,
     "lowest": 5.02,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Wolcen: Lords of Mayhem",
-    "type": "game",
-    "discount": "-86%",
-    "price": 5.04,
-    "lowest": 5.04,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-01-2024"
@@ -20386,7 +20386,7 @@
     "price": 5.25,
     "lowest": 5.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -21596,7 +21596,7 @@
     "price": 5.91,
     "lowest": 5.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -22336,7 +22336,7 @@
     "price": 6.32,
     "lowest": 6.32,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -24836,7 +24836,7 @@
     "price": 7.51,
     "lowest": 7.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -25950,16 +25950,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Assetto Corsa Competizione - The American Track Pack",
     "type": "DLC",
     "discount": "-52%",
@@ -26306,7 +26296,7 @@
     "price": 8.81,
     "lowest": 8.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -29986,7 +29976,7 @@
     "price": 12.69,
     "lowest": 12.69,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -30366,7 +30356,7 @@
     "price": 13.2,
     "lowest": 13.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -31840,16 +31830,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "God of War",
-    "type": "game",
-    "discount": "-66%",
-    "price": 16.75,
-    "lowest": 16.75,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "R-Type Final 2",
     "type": "game",
     "discount": "-58%",
@@ -32095,7 +32075,7 @@
     "discount": "-14%",
     "price": 17.25,
     "lowest": 17.25,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-01-2024"
   },
@@ -33060,6 +33040,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "Super Robot Wars 30 Digital Deluxe Edition",
+    "type": "game",
+    "discount": "-59%",
+    "price": 20.55,
+    "lowest": 20.55,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "Scars Above",
     "type": "game",
     "discount": "-49%",
@@ -33075,16 +33065,6 @@
     "discount": "-29%",
     "price": 20.59,
     "lowest": 20.59,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Super Robot Wars 30 Digital Deluxe Edition",
-    "type": "game",
-    "discount": "-59%",
-    "price": 20.66,
-    "lowest": 20.66,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-01-2024"
