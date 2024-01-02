@@ -60,6 +60,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "Levelhead",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -1560,16 +1570,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Goat Simulator: Waste of Space",
-    "type": "DLC",
-    "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Dungeons 3: Famous Last Words",
     "type": "DLC",
     "discount": "-80%",
@@ -1893,16 +1893,6 @@
     "title": "Keep in Mind: Remastered",
     "type": "game",
     "discount": "-50%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Levelhead",
-    "type": "game",
-    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -3796,7 +3786,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -5495,7 +5485,7 @@
     "discount": "-92%",
     "price": 1.13,
     "lowest": 1.13,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-01-2024"
   },
@@ -6110,19 +6100,19 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Lifeless Planet Premier Edition",
-    "type": "game",
-    "discount": "-94%",
+    "title": "Europa Universalis IV: Catholic League Unit Pack",
+    "type": "DLC",
+    "discount": "-37%",
     "price": 1.26,
     "lowest": 1.26,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Europa Universalis IV: Catholic League Unit Pack",
-    "type": "DLC",
-    "discount": "-37%",
+    "title": "Lifeless Planet Premier Edition",
+    "type": "game",
+    "discount": "-94%",
     "price": 1.26,
     "lowest": 1.26,
     "stock": true,
@@ -6497,6 +6487,16 @@
     "lowest": 1.32,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "Dying Light - Hellraid",
+    "type": "DLC",
+    "discount": "-87%",
+    "price": 1.33,
+    "lowest": 1.33,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -8206,7 +8206,7 @@
     "price": 1.73,
     "lowest": 1.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -8515,16 +8515,6 @@
     "discount": "-78%",
     "price": 1.79,
     "lowest": 1.79,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Mad Max",
-    "type": "game",
-    "discount": "-91%",
-    "price": 1.8,
-    "lowest": 1.8,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-01-2024"
@@ -12220,6 +12210,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "Virginia",
+    "type": "game",
+    "discount": "-73%",
+    "price": 2.66,
+    "lowest": 2.66,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "Move or Die",
     "type": "game",
     "discount": "-82%",
@@ -12246,23 +12246,13 @@
     "price": 2.66,
     "lowest": 2.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
     "title": "Shadowrun Returns",
     "type": "game",
     "discount": "-82%",
-    "price": 2.66,
-    "lowest": 2.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Virginia",
-    "type": "game",
-    "discount": "-73%",
     "price": 2.66,
     "lowest": 2.66,
     "stock": true,
@@ -14476,7 +14466,17 @@
     "price": 3.23,
     "lowest": 3.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "Forager",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.25,
+    "lowest": 3.25,
+    "stock": true,
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -14767,16 +14767,6 @@
     "lowest": 3.33,
     "stock": true,
     "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Endzone - A World Apart: Prosperity",
-    "type": "DLC",
-    "discount": "-67%",
-    "price": 3.33,
-    "lowest": 3.33,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -17410,16 +17400,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Star Wars Classic Collection",
-    "type": "game",
-    "discount": "-94%",
-    "price": 4.18,
-    "lowest": 4.18,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Little Nightmares - Secrets of The Maw Expansion Pass",
     "type": "DLC",
     "discount": "-58%",
@@ -17523,6 +17503,16 @@
     "title": "Crusader Kings III: Friends & Foes",
     "type": "DLC",
     "discount": "-15%",
+    "price": 4.25,
+    "lowest": 4.25,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "Black Mirror",
+    "type": "game",
+    "discount": "-86%",
     "price": 4.25,
     "lowest": 4.25,
     "stock": true,
@@ -17746,7 +17736,7 @@
     "price": 4.29,
     "lowest": 4.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -19996,7 +19986,7 @@
     "price": 5.06,
     "lowest": 5.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -21140,6 +21130,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
+    "type": "game",
+    "discount": "-83%",
+    "price": 5.66,
+    "lowest": 5.66,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "Age of Empires II: Definitive Edition - Dynasties of India",
     "type": "DLC",
     "discount": "-43%",
@@ -21153,16 +21153,6 @@
     "title": "Heave Ho",
     "type": "game",
     "discount": "-42%",
-    "price": 5.66,
-    "lowest": 5.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
-    "type": "game",
-    "discount": "-83%",
     "price": 5.66,
     "lowest": 5.66,
     "stock": true,
@@ -21280,19 +21270,19 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Dead Rising 3 Apocalypse Edition",
-    "type": "game",
-    "discount": "-81%",
+    "title": "A Total War Saga: TROY \u2013 Ajax & Diomedes",
+    "type": "DLC",
+    "discount": "-43%",
     "price": 5.7,
     "lowest": 5.7,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "A Total War Saga: TROY \u2013 Ajax & Diomedes",
-    "type": "DLC",
-    "discount": "-43%",
+    "title": "Dead Rising 3 Apocalypse Edition",
+    "type": "game",
+    "discount": "-81%",
     "price": 5.7,
     "lowest": 5.7,
     "stock": true,
@@ -25316,7 +25306,7 @@
     "price": 8.0,
     "lowest": 8.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -25980,16 +25970,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Assetto Corsa Competizione - The American Track Pack",
     "type": "DLC",
     "discount": "-52%",
@@ -26426,7 +26406,7 @@
     "price": 8.92,
     "lowest": 8.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -26506,7 +26486,7 @@
     "price": 8.99,
     "lowest": 8.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -27386,7 +27366,7 @@
     "price": 9.87,
     "lowest": 9.87,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -29755,7 +29735,7 @@
     "discount": "-38%",
     "price": 12.35,
     "lowest": 12.35,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-01-2024"
   },
@@ -30680,6 +30660,16 @@
     "last_time_updated": "02-01-2024"
   },
   {
+    "title": "Forts",
+    "type": "game",
+    "discount": "-7%",
+    "price": 13.99,
+    "lowest": 13.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
     "title": "Master of Magic",
     "type": "game",
     "discount": "-64%",
@@ -30693,16 +30683,6 @@
     "title": "Above Snakes",
     "type": "game",
     "discount": "-44%",
-    "price": 13.99,
-    "lowest": 13.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
-    "title": "Forts",
-    "type": "game",
-    "discount": "-7%",
     "price": 13.99,
     "lowest": 13.99,
     "stock": true,
@@ -32340,16 +32320,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Story of Seasons: A Wonderful Life",
-    "type": "game",
-    "discount": "-56%",
-    "price": 17.72,
-    "lowest": 17.72,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Aquanox Deep Descent The Collector's Edition",
     "type": "game",
     "discount": "-61%",
@@ -33126,7 +33096,7 @@
     "price": 20.88,
     "lowest": 20.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-01-2024"
   },
   {
@@ -33460,16 +33430,6 @@
     "last_time_updated": "02-01-2024"
   },
   {
-    "title": "Subnautica Deep Ocean Bundle",
-    "type": "game",
-    "discount": "-62%",
-    "price": 22.59,
-    "lowest": 22.59,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-01-2024"
-  },
-  {
     "title": "Citadel: Forged with Fire",
     "type": "game",
     "discount": "-34%",
@@ -33707,6 +33667,16 @@
     "lowest": 23.49,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-01-2024"
+  },
+  {
+    "title": "Worms Collection 2014",
+    "type": "game",
+    "discount": "-91%",
+    "price": 23.72,
+    "lowest": 23.72,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-01-2024"
   },
   {
