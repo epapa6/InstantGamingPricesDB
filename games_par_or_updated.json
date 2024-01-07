@@ -5656,7 +5656,7 @@
     "price": 1.01,
     "lowest": 1.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -5726,7 +5726,7 @@
     "price": 1.02,
     "lowest": 1.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -5817,6 +5817,16 @@
     "lowest": 1.04,
     "stock": true,
     "status": "par",
+    "last_time_updated": "07-01-2024"
+  },
+  {
+    "title": "Graveyard Keeper - Stranger Sins",
+    "type": "DLC",
+    "discount": "-89%",
+    "price": 1.05,
+    "lowest": 1.05,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -6420,16 +6430,6 @@
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "Graveyard Keeper - Stranger Sins",
-    "type": "DLC",
-    "discount": "-88%",
-    "price": 1.16,
-    "lowest": 1.16,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
     "title": "Dungeons 3 - Evil of the Caribbean",
     "type": "DLC",
     "discount": "-77%",
@@ -6630,6 +6630,16 @@
     "last_time_updated": "07-01-2024"
   },
   {
+    "title": "Tomb Raider IV: The Last Revelation",
+    "type": "game",
+    "discount": "-83%",
+    "price": 1.21,
+    "lowest": 1.21,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-01-2024"
+  },
+  {
     "title": "ATOM RPG Trudograd",
     "type": "game",
     "discount": "-89%",
@@ -6736,7 +6746,7 @@
     "price": 1.23,
     "lowest": 1.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -6786,7 +6796,7 @@
     "price": 1.25,
     "lowest": 1.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -6876,7 +6886,7 @@
     "price": 1.28,
     "lowest": 1.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -7061,16 +7071,6 @@
   },
   {
     "title": "Monument Valley 2: Panoramic Edition",
-    "type": "game",
-    "discount": "-81%",
-    "price": 1.32,
-    "lowest": 1.32,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "Tomb Raider IV: The Last Revelation",
     "type": "game",
     "discount": "-81%",
     "price": 1.32,
@@ -7466,7 +7466,7 @@
     "price": 1.39,
     "lowest": 1.39,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -8075,7 +8075,7 @@
     "discount": "-92%",
     "price": 1.51,
     "lowest": 1.51,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-01-2024"
   },
@@ -8696,7 +8696,7 @@
     "price": 1.64,
     "lowest": 1.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -9280,6 +9280,16 @@
     "last_time_updated": "07-01-2024"
   },
   {
+    "title": "Midnight Fight Express",
+    "type": "game",
+    "discount": "-91%",
+    "price": 1.77,
+    "lowest": 1.77,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-01-2024"
+  },
+  {
     "title": "Before We Leave",
     "type": "game",
     "discount": "-90%",
@@ -9760,16 +9770,6 @@
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "Midnight Fight Express",
-    "type": "game",
-    "discount": "-91%",
-    "price": 1.88,
-    "lowest": 1.88,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
     "title": "Jydge",
     "type": "game",
     "discount": "-87%",
@@ -10116,7 +10116,7 @@
     "price": 1.99,
     "lowest": 1.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -10680,16 +10680,6 @@
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "Dead Island: Riptide Definitive Edition",
-    "type": "game",
-    "discount": "-90%",
-    "price": 2.06,
-    "lowest": 2.06,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
     "title": "Batman: Arkham Knight Season Pass",
     "type": "DLC",
     "discount": "-90%",
@@ -10786,7 +10776,7 @@
     "price": 2.09,
     "lowest": 2.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -11586,7 +11576,7 @@
     "price": 2.27,
     "lowest": 2.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -11756,7 +11746,7 @@
     "price": 2.32,
     "lowest": 2.32,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -12110,16 +12100,6 @@
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "Stay Safe",
-    "type": "game",
-    "discount": "-52%",
-    "price": 2.41,
-    "lowest": 2.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
     "title": "The Last Crown: Midnight Horror",
     "type": "game",
     "discount": "-52%",
@@ -12466,7 +12446,7 @@
     "price": 2.5,
     "lowest": 2.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -12765,7 +12745,7 @@
     "discount": "-87%",
     "price": 2.58,
     "lowest": 2.58,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-01-2024"
   },
@@ -13476,7 +13456,7 @@
     "price": 2.78,
     "lowest": 2.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -13623,6 +13603,16 @@
     "title": "Adam Wolfe",
     "type": "game",
     "discount": "-53%",
+    "price": 2.8,
+    "lowest": 2.8,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "07-01-2024"
+  },
+  {
+    "title": "Amnesia Collection",
+    "type": "game",
+    "discount": "-89%",
     "price": 2.8,
     "lowest": 2.8,
     "stock": true,
@@ -13925,7 +13915,7 @@
     "discount": "-85%",
     "price": 2.9,
     "lowest": 2.9,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-01-2024"
   },
@@ -14790,6 +14780,16 @@
     "last_time_updated": "07-01-2024"
   },
   {
+    "title": "Insurmountable",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.12,
+    "lowest": 3.12,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-01-2024"
+  },
+  {
     "title": "Ultimate Fishing Simulator",
     "type": "game",
     "discount": "-84%",
@@ -15175,16 +15175,6 @@
     "discount": "-79%",
     "price": 3.21,
     "lowest": 3.21,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "Insurmountable",
-    "type": "game",
-    "discount": "-84%",
-    "price": 3.23,
-    "lowest": 3.23,
     "stock": true,
     "status": "par",
     "last_time_updated": "07-01-2024"
@@ -16000,6 +15990,16 @@
     "last_time_updated": "07-01-2024"
   },
   {
+    "title": "Panzer Corps 2: Axis Operations - 1940",
+    "type": "DLC",
+    "discount": "-64%",
+    "price": 3.49,
+    "lowest": 3.49,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-01-2024"
+  },
+  {
     "title": "Mining & Tunneling Simulator",
     "type": "game",
     "discount": "-30%",
@@ -16496,7 +16496,7 @@
     "price": 3.7,
     "lowest": 3.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -16816,7 +16816,7 @@
     "price": 3.83,
     "lowest": 3.83,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -16940,19 +16940,19 @@
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "Scum Weapon Skins pack",
-    "type": "DLC",
-    "discount": "-23%",
+    "title": "NASCAR Heat 5 Gold Edition",
+    "type": "game",
+    "discount": "-74%",
     "price": 3.86,
     "lowest": 3.86,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "NASCAR Heat 5 Gold Edition",
-    "type": "game",
-    "discount": "-74%",
+    "title": "Scum Weapon Skins pack",
+    "type": "DLC",
+    "discount": "-23%",
     "price": 3.86,
     "lowest": 3.86,
     "stock": true,
@@ -18306,7 +18306,7 @@
     "price": 4.28,
     "lowest": 4.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -19466,7 +19466,7 @@
     "price": 4.73,
     "lowest": 4.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -19886,7 +19886,7 @@
     "price": 4.91,
     "lowest": 4.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -20706,7 +20706,7 @@
     "price": 5.2,
     "lowest": 5.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -20856,7 +20856,7 @@
     "price": 5.23,
     "lowest": 5.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -21216,7 +21216,7 @@
     "price": 5.35,
     "lowest": 5.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -21386,7 +21386,7 @@
     "price": 5.46,
     "lowest": 5.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -21426,7 +21426,7 @@
     "price": 5.46,
     "lowest": 5.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -22866,7 +22866,7 @@
     "price": 6.39,
     "lowest": 6.39,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -23776,7 +23776,7 @@
     "price": 6.68,
     "lowest": 6.68,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -23857,6 +23857,16 @@
     "lowest": 6.72,
     "stock": true,
     "status": "par",
+    "last_time_updated": "07-01-2024"
+  },
+  {
+    "title": "The Artful Escape",
+    "type": "game",
+    "discount": "-65%",
+    "price": 6.72,
+    "lowest": 6.72,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -24023,16 +24033,6 @@
     "title": "Dead Cells",
     "type": "game",
     "discount": "-73%",
-    "price": 6.83,
-    "lowest": 6.83,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "The Artful Escape",
-    "type": "game",
-    "discount": "-64%",
     "price": 6.83,
     "lowest": 6.83,
     "stock": true,
@@ -24616,7 +24616,7 @@
     "price": 7.1,
     "lowest": 7.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -25425,7 +25425,7 @@
     "discount": "-41%",
     "price": 7.72,
     "lowest": 7.72,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-01-2024"
   },
@@ -27296,7 +27296,7 @@
     "price": 9.41,
     "lowest": 9.41,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -27366,7 +27366,7 @@
     "price": 9.48,
     "lowest": 9.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -28080,6 +28080,16 @@
     "last_time_updated": "07-01-2024"
   },
   {
+    "title": "Star Renegades Deluxe Edition",
+    "type": "game",
+    "discount": "-66%",
+    "price": 10.13,
+    "lowest": 10.13,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-01-2024"
+  },
+  {
     "title": "Neptunia Virtual Stars",
     "type": "game",
     "discount": "-70%",
@@ -28135,16 +28145,6 @@
     "discount": "-39%",
     "price": 10.22,
     "lowest": 10.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "Star Renegades Deluxe Edition",
-    "type": "game",
-    "discount": "-66%",
-    "price": 10.24,
-    "lowest": 10.24,
     "stock": true,
     "status": "par",
     "last_time_updated": "07-01-2024"
@@ -29286,7 +29286,7 @@
     "price": 11.69,
     "lowest": 11.69,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -29337,16 +29337,6 @@
     "lowest": 11.78,
     "stock": true,
     "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "Ranch Simulator",
-    "type": "game",
-    "discount": "-53%",
-    "price": 11.81,
-    "lowest": 11.81,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -29806,7 +29796,7 @@
     "price": 12.2,
     "lowest": 12.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -30267,16 +30257,6 @@
     "lowest": 12.82,
     "stock": true,
     "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "Football Manager 2022",
-    "type": "game",
-    "discount": "-77%",
-    "price": 12.83,
-    "lowest": 12.83,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -30796,7 +30776,7 @@
     "price": 13.77,
     "lowest": 13.77,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -31120,6 +31100,16 @@
     "last_time_updated": "07-01-2024"
   },
   {
+    "title": "Hatsune Miku: Project DIVA Mega Mix+",
+    "type": "game",
+    "discount": "-63%",
+    "price": 14.69,
+    "lowest": 14.69,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-01-2024"
+  },
+  {
     "title": "Blood Bowl 3 Imperial Nobility Edition",
     "type": "game",
     "discount": "-63%",
@@ -31416,7 +31406,7 @@
     "price": 15.18,
     "lowest": 15.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -31776,7 +31766,7 @@
     "price": 16.23,
     "lowest": 16.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -32410,16 +32400,6 @@
     "last_time_updated": "07-01-2024"
   },
   {
-    "title": "Void Crew",
-    "type": "game",
-    "discount": "-18%",
-    "price": 17.96,
-    "lowest": 17.96,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
     "title": "Party Animals Deluxe Edition",
     "type": "game",
     "discount": "-34%",
@@ -32635,6 +32615,16 @@
     "discount": "-11%",
     "price": 18.73,
     "lowest": 18.73,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "07-01-2024"
+  },
+  {
+    "title": "Endless Space 2 Definitive Edition",
+    "type": "game",
+    "discount": "-80%",
+    "price": 18.75,
+    "lowest": 18.75,
     "stock": true,
     "status": "par",
     "last_time_updated": "07-01-2024"
@@ -32996,7 +32986,7 @@
     "price": 20.23,
     "lowest": 20.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -33376,7 +33366,7 @@
     "price": 22.29,
     "lowest": 22.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -34156,7 +34146,7 @@
     "price": 27.61,
     "lowest": 27.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
@@ -34471,16 +34461,6 @@
   },
   {
     "title": "Etrian Odyssey III HD",
-    "type": "game",
-    "discount": "-17%",
-    "price": 33.22,
-    "lowest": 33.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "07-01-2024"
-  },
-  {
-    "title": "Etrian Odyssey II HD",
     "type": "game",
     "discount": "-17%",
     "price": 33.22,
@@ -35136,7 +35116,7 @@
     "price": 54.24,
     "lowest": 54.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-01-2024"
   },
   {
