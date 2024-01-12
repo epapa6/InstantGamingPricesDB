@@ -2426,7 +2426,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -6626,7 +6626,7 @@
     "price": 1.18,
     "lowest": 1.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -6751,6 +6751,16 @@
   },
   {
     "title": "Tomb Raider IV: The Last Revelation",
+    "type": "game",
+    "discount": "-83%",
+    "price": 1.21,
+    "lowest": 1.21,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Tomb Raider V: Chronicles",
     "type": "game",
     "discount": "-83%",
     "price": 1.21,
@@ -8200,6 +8210,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Distant Star: Revenant Fleet",
+    "type": "game",
+    "discount": "-85%",
+    "price": 1.53,
+    "lowest": 1.53,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "AI War - Fleet Command",
     "type": "game",
     "discount": "-84%",
@@ -8675,16 +8695,6 @@
     "discount": "-88%",
     "price": 1.62,
     "lowest": 1.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Distant Star: Revenant Fleet",
-    "type": "game",
-    "discount": "-84%",
-    "price": 1.64,
-    "lowest": 1.64,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -9550,6 +9560,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Saints Row 2",
+    "type": "game",
+    "discount": "-82%",
+    "price": 1.83,
+    "lowest": 1.83,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Kingdom Come: Deliverance The Amorous Adventures of Bold Sir Hans Capon",
     "type": "DLC",
     "discount": "-69%",
@@ -9866,7 +9886,7 @@
     "price": 1.9,
     "lowest": 1.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -9916,7 +9936,7 @@
     "price": 1.92,
     "lowest": 1.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -10066,7 +10086,7 @@
     "price": 1.96,
     "lowest": 1.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -10976,7 +10996,7 @@
     "price": 2.15,
     "lowest": 2.15,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -11006,7 +11026,7 @@
     "price": 2.16,
     "lowest": 2.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -11106,7 +11126,7 @@
     "price": 2.19,
     "lowest": 2.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -11656,7 +11676,7 @@
     "price": 2.28,
     "lowest": 2.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -11906,7 +11926,7 @@
     "price": 2.36,
     "lowest": 2.36,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -12266,7 +12286,7 @@
     "price": 2.48,
     "lowest": 2.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -12276,7 +12296,7 @@
     "price": 2.48,
     "lowest": 2.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -12776,7 +12796,7 @@
     "price": 2.59,
     "lowest": 2.59,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -14140,17 +14160,17 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Planet Zoo: Pacchetto Salvaguardia",
+    "title": "Stellaris: Humanoids Species Pack",
     "type": "DLC",
     "discount": "-70%",
     "price": 2.98,
     "lowest": 2.98,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Stellaris: Humanoids Species Pack",
+    "title": "Planet Zoo: Pacchetto Salvaguardia",
     "type": "DLC",
     "discount": "-70%",
     "price": 2.98,
@@ -15370,6 +15390,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "SpiderHeck",
+    "type": "game",
+    "discount": "-78%",
+    "price": 3.3,
+    "lowest": 3.3,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "The Sojourn",
     "type": "game",
     "discount": "-87%",
@@ -16090,6 +16120,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Age of Viking Conquest",
+    "type": "game",
+    "discount": "-28%",
+    "price": 3.57,
+    "lowest": 3.57,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Realpolitiks II",
     "type": "game",
     "discount": "-86%",
@@ -16586,7 +16626,7 @@
     "price": 3.76,
     "lowest": 3.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -16637,6 +16677,16 @@
     "lowest": 3.8,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Pathfinder: Wrath of the Righteous Commander Pack",
+    "type": "DLC",
+    "discount": "-81%",
+    "price": 3.81,
+    "lowest": 3.81,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -16916,7 +16966,7 @@
     "price": 3.92,
     "lowest": 3.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -17140,6 +17190,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Train Sim World 2: Rapid Transit Route",
+    "type": "DLC",
+    "discount": "-87%",
+    "price": 3.99,
+    "lowest": 3.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Melvor Idle: Atlas of Discovery",
     "type": "DLC",
     "discount": "-20%",
@@ -17223,16 +17283,6 @@
     "title": "Generation Zero - FNIX Rising",
     "type": "DLC",
     "discount": "-50%",
-    "price": 3.99,
-    "lowest": 3.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Train Sim World 2: Rapid Transit Route",
-    "type": "DLC",
-    "discount": "-87%",
     "price": 3.99,
     "lowest": 3.99,
     "stock": true,
@@ -17666,7 +17716,7 @@
     "price": 4.08,
     "lowest": 4.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -17896,7 +17946,7 @@
     "price": 4.21,
     "lowest": 4.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -17967,6 +18017,16 @@
     "lowest": 4.26,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Sword Art Online: Fatal Bullet",
+    "type": "game",
+    "discount": "-89%",
+    "price": 4.26,
+    "lowest": 4.26,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -18316,7 +18376,7 @@
     "price": 4.39,
     "lowest": 4.39,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -18746,7 +18806,7 @@
     "price": 4.55,
     "lowest": 4.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -18916,7 +18976,7 @@
     "price": 4.64,
     "lowest": 4.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -19316,7 +19376,7 @@
     "price": 4.82,
     "lowest": 4.82,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -19476,7 +19536,7 @@
     "price": 4.87,
     "lowest": 4.87,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -20136,7 +20196,7 @@
     "price": 5.1,
     "lowest": 5.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -20816,7 +20876,7 @@
     "price": 5.42,
     "lowest": 5.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -21276,7 +21336,7 @@
     "price": 5.74,
     "lowest": 5.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -21516,7 +21576,7 @@
     "price": 5.91,
     "lowest": 5.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -21986,7 +22046,7 @@
     "price": 6.13,
     "lowest": 6.13,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -22277,6 +22337,16 @@
     "lowest": 6.42,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "X Rebirth VR Edition",
+    "type": "game",
+    "discount": "-84%",
+    "price": 6.43,
+    "lowest": 6.43,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -22690,16 +22760,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "X Rebirth VR Edition",
-    "type": "game",
-    "discount": "-84%",
-    "price": 6.54,
-    "lowest": 6.54,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Mega Man X Legacy Collection 2",
     "type": "game",
     "discount": "-67%",
@@ -22966,7 +23026,7 @@
     "price": 6.65,
     "lowest": 6.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -23156,7 +23216,7 @@
     "price": 6.68,
     "lowest": 6.68,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -23606,7 +23666,7 @@
     "price": 6.97,
     "lowest": 6.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24306,7 +24366,7 @@
     "price": 7.46,
     "lowest": 7.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24646,7 +24706,7 @@
     "price": 7.57,
     "lowest": 7.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24676,7 +24736,7 @@
     "price": 7.61,
     "lowest": 7.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24697,6 +24757,16 @@
     "lowest": 7.7,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "WRC Generations",
+    "type": "game",
+    "discount": "-81%",
+    "price": 7.73,
+    "lowest": 7.73,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24775,16 +24845,6 @@
     "discount": "-54%",
     "price": 7.83,
     "lowest": 7.83,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "WRC Generations",
-    "type": "game",
-    "discount": "-80%",
-    "price": 7.85,
-    "lowest": 7.85,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -25116,7 +25176,7 @@
     "price": 8.08,
     "lowest": 8.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -25186,7 +25246,7 @@
     "price": 8.12,
     "lowest": 8.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -25643,16 +25703,6 @@
     "title": "One Piece Pirate Warriors 4 Deluxe Edition",
     "type": "game",
     "discount": "-87%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
     "price": 8.55,
     "lowest": 8.55,
     "stock": true,
@@ -26256,7 +26306,7 @@
     "price": 9.14,
     "lowest": 9.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -26430,6 +26480,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Monster Hunter Rise",
+    "type": "game",
+    "discount": "-77%",
+    "price": 9.35,
+    "lowest": 9.35,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Unreal Life",
     "type": "game",
     "discount": "-44%",
@@ -26590,16 +26650,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Monster Hunter Rise",
-    "type": "game",
-    "discount": "-76%",
-    "price": 9.46,
-    "lowest": 9.46,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Guild of Ascension",
     "type": "game",
     "discount": "-37%",
@@ -26696,7 +26746,7 @@
     "price": 9.61,
     "lowest": 9.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -26840,6 +26890,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Star Renegades Deluxe Edition",
+    "type": "game",
+    "discount": "-67%",
+    "price": 9.8,
+    "lowest": 9.8,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "New Gundam Breaker",
     "type": "game",
     "discount": "-80%",
@@ -26975,16 +27035,6 @@
     "discount": "-83%",
     "price": 9.9,
     "lowest": 9.9,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Star Renegades Deluxe Edition",
-    "type": "game",
-    "discount": "-67%",
-    "price": 9.91,
-    "lowest": 9.91,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -27456,7 +27506,7 @@
     "price": 10.25,
     "lowest": 10.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -27535,6 +27585,16 @@
     "discount": "-16%",
     "price": 10.43,
     "lowest": 10.43,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Per Aspera Deluxe Edition",
+    "type": "game",
+    "discount": "-70%",
+    "price": 10.45,
+    "lowest": 10.45,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -28126,7 +28186,7 @@
     "price": 11.23,
     "lowest": 11.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -28266,7 +28326,7 @@
     "price": 11.33,
     "lowest": 11.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -28646,7 +28706,7 @@
     "price": 11.9,
     "lowest": 11.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -28846,7 +28906,7 @@
     "price": 12.01,
     "lowest": 12.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -28936,7 +28996,7 @@
     "price": 12.12,
     "lowest": 12.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -29366,7 +29426,7 @@
     "price": 12.73,
     "lowest": 12.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -29736,7 +29796,7 @@
     "price": 13.2,
     "lowest": 13.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -29746,7 +29806,7 @@
     "price": 13.21,
     "lowest": 13.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -29886,7 +29946,7 @@
     "price": 13.53,
     "lowest": 13.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -29936,7 +29996,7 @@
     "price": 13.75,
     "lowest": 13.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -30306,7 +30366,7 @@
     "price": 14.69,
     "lowest": 14.69,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -30616,7 +30676,7 @@
     "price": 15.22,
     "lowest": 15.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -30700,13 +30760,23 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Showgunners",
+    "type": "game",
+    "discount": "-47%",
+    "price": 15.39,
+    "lowest": 15.39,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Dolphin Spirit: Ocean Mission",
     "type": "game",
     "discount": "-38%",
     "price": 15.41,
     "lowest": 15.41,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -30725,16 +30795,6 @@
     "discount": "-37%",
     "price": 15.49,
     "lowest": 15.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Showgunners",
-    "type": "game",
-    "discount": "-47%",
-    "price": 15.5,
-    "lowest": 15.5,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -31146,7 +31206,7 @@
     "price": 16.79,
     "lowest": 16.79,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -31296,7 +31356,7 @@
     "price": 17.05,
     "lowest": 17.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -31616,7 +31676,7 @@
     "price": 17.89,
     "lowest": 17.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -31655,16 +31715,6 @@
     "discount": "-20%",
     "price": 17.94,
     "lowest": 17.94,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Void Crew",
-    "type": "game",
-    "discount": "-18%",
-    "price": 17.96,
-    "lowest": 17.96,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -31906,7 +31956,7 @@
     "price": 18.85,
     "lowest": 18.85,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -32036,7 +32086,7 @@
     "price": 19.47,
     "lowest": 19.47,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -32206,7 +32256,7 @@
     "price": 19.98,
     "lowest": 19.98,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -32246,7 +32296,7 @@
     "price": 20.27,
     "lowest": 20.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -32480,6 +32530,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "The Invincible: Deluxe Edition",
+    "type": "game",
+    "discount": "-40%",
+    "price": 21.54,
+    "lowest": 21.54,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Tekken 7 Deluxe Edition",
     "type": "game",
     "discount": "-57%",
@@ -32515,16 +32575,6 @@
     "discount": "-60%",
     "price": 21.59,
     "lowest": 21.59,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "The Invincible: Deluxe Edition",
-    "type": "game",
-    "discount": "-40%",
-    "price": 21.65,
-    "lowest": 21.65,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -32936,7 +32986,7 @@
     "price": 23.99,
     "lowest": 23.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -33056,7 +33106,7 @@
     "price": 24.67,
     "lowest": 24.67,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -33695,16 +33745,6 @@
     "discount": "-5%",
     "price": 33.21,
     "lowest": 33.21,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Etrian Odyssey II HD",
-    "type": "game",
-    "discount": "-17%",
-    "price": 33.22,
-    "lowest": 33.22,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
