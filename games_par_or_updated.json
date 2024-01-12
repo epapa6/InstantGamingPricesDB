@@ -70,6 +70,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "The Red Lantern",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "They Bleed Pixels",
     "type": "game",
     "discount": "-90%",
@@ -1180,16 +1190,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "The Red Lantern",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "X-Blades",
     "type": "game",
     "discount": "-90%",
@@ -2217,16 +2217,6 @@
     "lowest": 1.0,
     "stock": true,
     "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Ancestors Legacy",
-    "type": "game",
-    "discount": "-97%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -6400,16 +6390,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "World of Diving",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.13,
-    "lowest": 1.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Blood Bowl: Chaos Edition",
     "type": "game",
     "discount": "-92%",
@@ -6813,6 +6793,16 @@
     "title": "Sam & Max Save the World",
     "type": "game",
     "discount": "-93%",
+    "price": 1.21,
+    "lowest": 1.21,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Tomb Raider V: Chronicles",
+    "type": "game",
+    "discount": "-83%",
     "price": 1.21,
     "lowest": 1.21,
     "stock": true,
@@ -8826,7 +8816,7 @@
     "price": 1.66,
     "lowest": 1.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -10810,6 +10800,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Just Cause 2 DLC Collection",
+    "type": "DLC",
+    "discount": "-86%",
+    "price": 2.06,
+    "lowest": 2.06,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "My Memory of Us",
     "type": "game",
     "discount": "-86%",
@@ -11155,7 +11155,7 @@
     "discount": "-86%",
     "price": 2.17,
     "lowest": 2.17,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-01-2024"
   },
@@ -11770,16 +11770,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Just Cause 2 DLC Collection",
-    "type": "DLC",
-    "discount": "-85%",
-    "price": 2.28,
-    "lowest": 2.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Asterix & Obelix XXL 2",
     "type": "game",
     "discount": "-89%",
@@ -11972,6 +11962,16 @@
   {
     "title": "Gas Guzzlers Extreme: Full Metal Frenzy",
     "type": "DLC",
+    "discount": "-53%",
+    "price": 2.33,
+    "lowest": 2.33,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Between Me and The Night",
+    "type": "game",
     "discount": "-53%",
     "price": 2.33,
     "lowest": 2.33,
@@ -12320,19 +12320,19 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Hotline Miami",
-    "type": "game",
-    "discount": "-75%",
+    "title": "Total War: ROME II - Hannibal at the Gates Campaign Pack",
+    "type": "DLC",
+    "discount": "-86%",
     "price": 2.45,
     "lowest": 2.45,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Total War: ROME II - Hannibal at the Gates Campaign Pack",
-    "type": "DLC",
-    "discount": "-86%",
+    "title": "Hotline Miami",
+    "type": "game",
+    "discount": "-75%",
     "price": 2.45,
     "lowest": 2.45,
     "stock": true,
@@ -12446,7 +12446,7 @@
     "price": 2.48,
     "lowest": 2.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -12456,7 +12456,7 @@
     "price": 2.49,
     "lowest": 2.49,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -13556,7 +13556,7 @@
     "price": 2.74,
     "lowest": 2.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -13580,6 +13580,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Risen 3: Complete Edition",
+    "type": "game",
+    "discount": "-86%",
+    "price": 2.76,
+    "lowest": 2.76,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Creaks",
     "type": "game",
     "discount": "-86%",
@@ -13587,6 +13597,16 @@
     "lowest": 2.76,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Train Valley 2 - Myths and Rails",
+    "type": "DLC",
+    "discount": "-51%",
+    "price": 2.76,
+    "lowest": 2.76,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -13816,7 +13836,7 @@
     "price": 2.83,
     "lowest": 2.83,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -13915,16 +13935,6 @@
     "discount": "-71%",
     "price": 2.86,
     "lowest": 2.86,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Risen 3: Complete Edition",
-    "type": "game",
-    "discount": "-86%",
-    "price": 2.87,
-    "lowest": 2.87,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -14075,16 +14085,6 @@
     "discount": "-86%",
     "price": 2.89,
     "lowest": 2.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Train Valley 2 - Myths and Rails",
-    "type": "DLC",
-    "discount": "-49%",
-    "price": 2.9,
-    "lowest": 2.9,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -14695,16 +14695,6 @@
     "discount": "-49%",
     "price": 3.01,
     "lowest": 3.01,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "Flipon",
-    "type": "game",
-    "discount": "-24%",
-    "price": 3.02,
-    "lowest": 3.02,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-01-2024"
@@ -18000,16 +17990,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Ancestors Legacy: Complete Edition",
-    "type": "game",
-    "discount": "-91%",
-    "price": 4.12,
-    "lowest": 4.12,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Panzer Corps 2: Axis Operations - 1941",
     "type": "DLC",
     "discount": "-58%",
@@ -18165,7 +18145,7 @@
     "discount": "-83%",
     "price": 4.21,
     "lowest": 4.21,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-01-2024"
   },
@@ -21510,16 +21490,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Organs Please",
-    "type": "game",
-    "discount": "-58%",
-    "price": 5.73,
-    "lowest": 5.73,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Contra: Rogue Corps",
     "type": "game",
     "discount": "-86%",
@@ -21776,7 +21746,7 @@
     "price": 5.93,
     "lowest": 5.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -22466,7 +22436,7 @@
     "price": 6.31,
     "lowest": 6.31,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24166,7 +24136,7 @@
     "price": 7.11,
     "lowest": 7.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -24906,7 +24876,7 @@
     "price": 7.7,
     "lowest": 7.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -27280,9 +27250,9 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "JackHammer: Demolition Dodgeball",
-    "type": "game",
-    "discount": "-23%",
+    "title": "Across The Obelisk: Sands of Ulminin",
+    "type": "DLC",
+    "discount": "-50%",
     "price": 9.99,
     "lowest": 9.99,
     "stock": false,
@@ -27290,12 +27260,12 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Across The Obelisk: Sands of Ulminin",
-    "type": "DLC",
-    "discount": "-50%",
+    "title": "JackHammer: Demolition Dodgeball",
+    "type": "game",
+    "discount": "-23%",
     "price": 9.99,
     "lowest": 9.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-01-2024"
   },
@@ -28010,6 +27980,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Animal Revolt Battle Simulator",
+    "type": "game",
+    "discount": "-18%",
+    "price": 10.71,
+    "lowest": 10.71,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "Sweet Transit",
     "type": "game",
     "discount": "-51%",
@@ -28336,7 +28316,7 @@
     "price": 11.21,
     "lowest": 11.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -29710,16 +29690,6 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Animal Revolt Battle Simulator",
-    "type": "game",
-    "discount": null,
-    "price": 12.94,
-    "lowest": 12.94,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "Making History: The Great War",
     "type": "game",
     "discount": "-55%",
@@ -30936,7 +30906,7 @@
     "price": 15.4,
     "lowest": 15.4,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -32050,6 +32020,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "NBA 2K24 Kobe Bryant Edition",
+    "type": "game",
+    "discount": "-70%",
+    "price": 18.29,
+    "lowest": 18.29,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "GameGuru MAX",
     "type": "game",
     "discount": "-59%",
@@ -32057,16 +32037,6 @@
     "lowest": 18.38,
     "stock": true,
     "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
-    "title": "NBA 2K24 Kobe Bryant Edition",
-    "type": "game",
-    "discount": "-69%",
-    "price": 18.4,
-    "lowest": 18.4,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -33136,7 +33106,7 @@
     "price": 23.37,
     "lowest": 23.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
@@ -33166,6 +33136,16 @@
     "price": 23.77,
     "lowest": 23.77,
     "stock": true,
+    "status": "par",
+    "last_time_updated": "12-01-2024"
+  },
+  {
+    "title": "Ultros Deluxe Edition",
+    "type": "game",
+    "discount": "-32%",
+    "price": 23.79,
+    "lowest": 23.79,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-01-2024"
   },
@@ -33380,6 +33360,16 @@
     "last_time_updated": "12-01-2024"
   },
   {
+    "title": "Live a Live",
+    "type": "game",
+    "discount": "-49%",
+    "price": 25.25,
+    "lowest": 25.25,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-01-2024"
+  },
+  {
     "title": "TT Isle Of Man: Ride on the Edge 3 - Racing Fan Edition",
     "type": "game",
     "discount": "-58%",
@@ -33460,23 +33450,13 @@
     "last_time_updated": "12-01-2024"
   },
   {
-    "title": "Live a Live",
-    "type": "game",
-    "discount": "-49%",
-    "price": 25.72,
-    "lowest": 25.72,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-01-2024"
-  },
-  {
     "title": "The Outlast Trials",
     "type": "game",
     "discount": "-11%",
     "price": 25.76,
     "lowest": 25.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-01-2024"
   },
   {
