@@ -60,19 +60,39 @@
     "last_time_updated": "13-12-2023"
   },
   {
-    "title": "The Anacrusis",
+    "title": "Rings of Saturn",
     "type": "game",
-    "discount": "-95%",
+    "discount": "-88%",
     "price": 1.0,
     "lowest": 1.0,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Rings of Saturn",
+    "title": "Anna's Quest",
     "type": "game",
-    "discount": "-88%",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
+    "title": "Sheltered",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
+    "title": "The Anacrusis",
+    "type": "game",
+    "discount": "-95%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -263,16 +283,6 @@
     "title": "Spirit of the Island",
     "type": "game",
     "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Postal 2",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1510,16 +1520,6 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Anna's Quest",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
     "title": "My Little Riding Champion",
     "type": "game",
     "discount": "-97%",
@@ -1663,16 +1663,6 @@
     "title": "Blitzkrieg Anthology",
     "type": "game",
     "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Sheltered",
-    "type": "game",
-    "discount": "-92%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6760,16 +6750,6 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Tomb Raider V: Chronicles",
-    "type": "game",
-    "discount": "-83%",
-    "price": 1.21,
-    "lowest": 1.21,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
     "title": "Cities in Motion",
     "type": "game",
     "discount": "-94%",
@@ -7160,17 +7140,17 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Greak: Memories of Azur",
+    "title": "Life is Feudal: Your Own",
     "type": "game",
     "discount": "-93%",
     "price": 1.31,
     "lowest": 1.31,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Life is Feudal: Your Own",
+    "title": "Greak: Memories of Azur",
     "type": "game",
     "discount": "-93%",
     "price": 1.31,
@@ -7326,7 +7306,7 @@
     "price": 1.33,
     "lowest": 1.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -8700,6 +8680,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Patrician IV",
+    "type": "game",
+    "discount": "-89%",
+    "price": 1.64,
+    "lowest": 1.64,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Children of Morta: Ancient Spirits",
     "type": "DLC",
     "discount": "-67%",
@@ -9370,16 +9360,6 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Patrician IV",
-    "type": "game",
-    "discount": "-88%",
-    "price": 1.78,
-    "lowest": 1.78,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
     "title": "ChromaGun",
     "type": "game",
     "discount": "-86%",
@@ -9416,6 +9396,16 @@
     "price": 1.79,
     "lowest": 1.79,
     "stock": true,
+    "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
+    "title": "The Walking Dead",
+    "type": "game",
+    "discount": "-88%",
+    "price": 1.8,
+    "lowest": 1.8,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -9493,16 +9483,6 @@
     "title": "City of Chains",
     "type": "game",
     "discount": "-80%",
-    "price": 1.8,
-    "lowest": 1.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "The Walking Dead",
-    "type": "game",
-    "discount": "-88%",
     "price": 1.8,
     "lowest": 1.8,
     "stock": true,
@@ -9607,6 +9587,16 @@
     "lowest": 1.83,
     "stock": true,
     "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
+    "title": "Just Cause 2 DLC Collection",
+    "type": "DLC",
+    "discount": "-88%",
+    "price": 1.84,
+    "lowest": 1.84,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -10156,7 +10146,7 @@
     "price": 1.97,
     "lowest": 1.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -10740,16 +10730,6 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Just Cause 2 DLC Collection",
-    "type": "DLC",
-    "discount": "-86%",
-    "price": 2.06,
-    "lowest": 2.06,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
     "title": "My Memory of Us",
     "type": "game",
     "discount": "-86%",
@@ -10977,6 +10957,16 @@
     "lowest": 2.13,
     "stock": true,
     "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
+    "title": "Rain World",
+    "type": "game",
+    "discount": "-91%",
+    "price": 2.14,
+    "lowest": 2.14,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -11345,7 +11335,7 @@
     "discount": "-89%",
     "price": 2.21,
     "lowest": 2.21,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -11530,6 +11520,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Batman: Arkham VR",
+    "type": "game",
+    "discount": "-89%",
+    "price": 2.26,
+    "lowest": 2.26,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Rugby 20",
     "type": "game",
     "discount": "-89%",
@@ -11645,16 +11645,6 @@
     "discount": "-83%",
     "price": 2.26,
     "lowest": 2.26,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Rain World",
-    "type": "game",
-    "discount": "-91%",
-    "price": 2.27,
-    "lowest": 2.27,
     "stock": true,
     "status": "par",
     "last_time_updated": "13-01-2024"
@@ -11997,16 +11987,6 @@
     "lowest": 2.37,
     "stock": true,
     "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Batman: Arkham VR",
-    "type": "game",
-    "discount": "-88%",
-    "price": 2.38,
-    "lowest": 2.38,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -12516,7 +12496,7 @@
     "price": 2.52,
     "lowest": 2.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -13915,7 +13895,7 @@
     "discount": "-93%",
     "price": 2.89,
     "lowest": 2.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -16346,7 +16326,7 @@
     "price": 3.62,
     "lowest": 3.62,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -17075,7 +17055,7 @@
     "discount": "-34%",
     "price": 3.94,
     "lowest": 3.94,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -18640,6 +18620,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Farming Simulator 22 - Vermeer Pack",
+    "type": "DLC",
+    "discount": "-44%",
+    "price": 4.47,
+    "lowest": 4.47,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Transient",
     "type": "game",
     "discount": "-77%",
@@ -18800,6 +18790,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Sid Meier\u2019s Civilization VI",
+    "type": "game",
+    "discount": "-92%",
+    "price": 4.5,
+    "lowest": 4.5,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Arizona Sunshine",
     "type": "game",
     "discount": "-85%",
@@ -18930,16 +18930,6 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Farming Simulator 22 - Vermeer Pack",
-    "type": "DLC",
-    "discount": "-43%",
-    "price": 4.58,
-    "lowest": 4.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
     "title": "Blood Bowl 2 Team Pack",
     "type": "DLC",
     "discount": "-70%",
@@ -19035,16 +19025,6 @@
     "discount": "-44%",
     "price": 4.6,
     "lowest": 4.6,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Sid Meier\u2019s Civilization VI",
-    "type": "game",
-    "discount": "-92%",
-    "price": 4.62,
-    "lowest": 4.62,
     "stock": true,
     "status": "par",
     "last_time_updated": "13-01-2024"
@@ -19550,6 +19530,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "King's Bounty: Platinum Edition",
+    "type": "game",
+    "discount": "-76%",
+    "price": 4.86,
+    "lowest": 4.86,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Re-Volt",
     "type": "game",
     "discount": "-19%",
@@ -19573,16 +19563,6 @@
     "title": "Mystic Vale",
     "type": "game",
     "discount": "-62%",
-    "price": 4.86,
-    "lowest": 4.86,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "King's Bounty: Platinum Edition",
-    "type": "game",
-    "discount": "-76%",
     "price": 4.86,
     "lowest": 4.86,
     "stock": true,
@@ -20820,19 +20800,19 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Disney Infinity 3.0: Gold Edition",
+    "title": "The Incredible Adventures of Van Helsing Anthology",
     "type": "game",
-    "discount": "-81%",
+    "discount": "-92%",
     "price": 5.37,
     "lowest": 5.37,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "The Incredible Adventures of Van Helsing Anthology",
+    "title": "Disney Infinity 3.0: Gold Edition",
     "type": "game",
-    "discount": "-92%",
+    "discount": "-81%",
     "price": 5.37,
     "lowest": 5.37,
     "stock": true,
@@ -21105,7 +21085,7 @@
     "discount": "-86%",
     "price": 5.52,
     "lowest": 5.52,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -21216,7 +21196,7 @@
     "price": 5.6,
     "lowest": 5.6,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
@@ -21715,7 +21695,7 @@
     "discount": "-15%",
     "price": 5.97,
     "lowest": 5.97,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -24130,6 +24110,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Final Fantasy VIII Remastered",
+    "type": "game",
+    "discount": "-63%",
+    "price": 7.33,
+    "lowest": 7.33,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Seven: Enhanced Collector's Edition",
     "type": "game",
     "discount": "-82%",
@@ -24175,16 +24165,6 @@
     "discount": "-25%",
     "price": 7.35,
     "lowest": 7.35,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Final Fantasy VIII Remastered",
-    "type": "game",
-    "discount": "-63%",
-    "price": 7.36,
-    "lowest": 7.36,
     "stock": true,
     "status": "par",
     "last_time_updated": "13-01-2024"
@@ -26555,7 +26535,7 @@
     "discount": "-81%",
     "price": 9.43,
     "lowest": 9.43,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
@@ -27490,19 +27470,19 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Lost At Sea",
+    "title": "Hitman 2",
     "type": "game",
-    "discount": "-30%",
+    "discount": "-88%",
     "price": 10.48,
     "lowest": 10.48,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Hitman 2",
+    "title": "Lost At Sea",
     "type": "game",
-    "discount": "-88%",
+    "discount": "-30%",
     "price": 10.48,
     "lowest": 10.48,
     "stock": true,
@@ -27540,19 +27520,19 @@
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Saint Kotar",
+    "title": "Metal Slug Bundle",
     "type": "game",
-    "discount": "-58%",
+    "discount": "-34%",
     "price": 10.5,
     "lowest": 10.5,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-01-2024"
   },
   {
-    "title": "Metal Slug Bundle",
+    "title": "Saint Kotar",
     "type": "game",
-    "discount": "-34%",
+    "discount": "-58%",
     "price": 10.5,
     "lowest": 10.5,
     "stock": true,
@@ -28540,6 +28520,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Way of the Hunter",
+    "type": "game",
+    "discount": "-70%",
+    "price": 11.8,
+    "lowest": 11.8,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "8-Bit Invaders!",
     "type": "game",
     "discount": "-20%",
@@ -28675,16 +28665,6 @@
     "discount": "-70%",
     "price": 11.9,
     "lowest": 11.9,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Way of the Hunter",
-    "type": "game",
-    "discount": "-70%",
-    "price": 11.91,
-    "lowest": 11.91,
     "stock": true,
     "status": "par",
     "last_time_updated": "13-01-2024"
@@ -30280,6 +30260,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Magical Drop VI",
+    "type": "game",
+    "discount": "-52%",
+    "price": 14.43,
+    "lowest": 14.43,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "SuperPower 3",
     "type": "game",
     "discount": "-52%",
@@ -30690,6 +30680,16 @@
     "last_time_updated": "13-01-2024"
   },
   {
+    "title": "Dolphin Spirit: Ocean Mission",
+    "type": "game",
+    "discount": "-39%",
+    "price": 15.3,
+    "lowest": 15.3,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "13-01-2024"
+  },
+  {
     "title": "Monster Hunter Rise: Sunbreak",
     "type": "DLC",
     "discount": "-62%",
@@ -30725,16 +30725,6 @@
     "discount": "-38%",
     "price": 15.4,
     "lowest": 15.4,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-01-2024"
-  },
-  {
-    "title": "Dolphin Spirit: Ocean Mission",
-    "type": "game",
-    "discount": "-38%",
-    "price": 15.41,
-    "lowest": 15.41,
     "stock": true,
     "status": "par",
     "last_time_updated": "13-01-2024"
