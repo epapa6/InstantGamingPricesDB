@@ -8156,7 +8156,7 @@
     "price": 1.55,
     "lowest": 1.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "14-01-2024"
   },
   {
@@ -14290,16 +14290,6 @@
     "last_time_updated": "14-01-2024"
   },
   {
-    "title": "Flipon",
-    "type": "game",
-    "discount": "-24%",
-    "price": 3.02,
-    "lowest": 3.02,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "14-01-2024"
-  },
-  {
     "title": "Construction Simulator 2015",
     "type": "game",
     "discount": "-80%",
@@ -17530,6 +17520,16 @@
     "last_time_updated": "14-01-2024"
   },
   {
+    "title": "Sword Art Online: Hollow Realization Deluxe Edition",
+    "type": "game",
+    "discount": "-92%",
+    "price": 4.15,
+    "lowest": 4.15,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "14-01-2024"
+  },
+  {
     "title": "Tetragon",
     "type": "game",
     "discount": "-58%",
@@ -20515,7 +20515,7 @@
     "discount": "-89%",
     "price": 5.43,
     "lowest": 5.43,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "14-01-2024"
   },
@@ -24466,7 +24466,7 @@
     "price": 8.08,
     "lowest": 8.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "14-01-2024"
   },
   {
@@ -24973,16 +24973,6 @@
     "title": "One Piece Pirate Warriors 4 Deluxe Edition",
     "type": "game",
     "discount": "-87%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "14-01-2024"
-  },
-  {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
     "price": 8.55,
     "lowest": 8.55,
     "stock": true,
@@ -29260,21 +29250,21 @@
     "last_time_updated": "14-01-2024"
   },
   {
+    "title": "Cook Serve Forever",
+    "type": "game",
+    "discount": "-53%",
+    "price": 13.76,
+    "lowest": 13.76,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "14-01-2024"
+  },
+  {
     "title": "My Hero One's Justice 2: Deluxe Edition",
     "type": "game",
     "discount": "-75%",
     "price": 13.8,
     "lowest": 13.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "14-01-2024"
-  },
-  {
-    "title": "Cook Serve Forever",
-    "type": "game",
-    "discount": "-52%",
-    "price": 13.87,
-    "lowest": 13.87,
     "stock": true,
     "status": "par",
     "last_time_updated": "14-01-2024"
@@ -31490,19 +31480,19 @@
     "last_time_updated": "14-01-2024"
   },
   {
-    "title": "MXGP 2021 - The Official Motocross Videogame",
+    "title": "Dredge Digital Deluxe Edition",
     "type": "game",
-    "discount": "-60%",
+    "discount": "-43%",
     "price": 19.99,
     "lowest": 19.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "14-01-2024"
   },
   {
-    "title": "Dredge Digital Deluxe Edition",
+    "title": "MXGP 2021 - The Official Motocross Videogame",
     "type": "game",
-    "discount": "-43%",
+    "discount": "-60%",
     "price": 19.99,
     "lowest": 19.99,
     "stock": true,
