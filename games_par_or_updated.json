@@ -90,6 +90,16 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Praetorians",
+    "type": "game",
+    "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Age of Wonders",
     "type": "game",
     "discount": "-83%",
@@ -2660,16 +2670,6 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Praetorians",
-    "type": "game",
-    "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
     "title": "Manual Samuel",
     "type": "game",
     "discount": "-90%",
@@ -3516,7 +3516,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -5940,19 +5940,19 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Drift21",
+    "title": "R\u00f6ki",
     "type": "game",
-    "discount": "-96%",
+    "discount": "-95%",
     "price": 1.09,
     "lowest": 1.09,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "R\u00f6ki",
+    "title": "Drift21",
     "type": "game",
-    "discount": "-95%",
+    "discount": "-96%",
     "price": 1.09,
     "lowest": 1.09,
     "stock": true,
@@ -6660,6 +6660,16 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Furi - Onnamusha",
+    "type": "DLC",
+    "discount": "-82%",
+    "price": 1.26,
+    "lowest": 1.26,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Chicken Assassin: Reloaded",
     "type": "game",
     "discount": "-75%",
@@ -7180,16 +7190,6 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Furi - Onnamusha",
-    "type": "DLC",
-    "discount": "-80%",
-    "price": 1.37,
-    "lowest": 1.37,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
     "title": "Star Wars Republic Commando",
     "type": "game",
     "discount": "-86%",
@@ -7436,7 +7436,7 @@
     "price": 1.44,
     "lowest": 1.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -7796,7 +7796,7 @@
     "price": 1.5,
     "lowest": 1.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -7965,7 +7965,7 @@
     "discount": "-95%",
     "price": 1.54,
     "lowest": 1.54,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -8005,7 +8005,7 @@
     "discount": "-95%",
     "price": 1.56,
     "lowest": 1.56,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -8216,7 +8216,7 @@
     "price": 1.6,
     "lowest": 1.6,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -8430,6 +8430,16 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Monster Prom: Second Term",
+    "type": "DLC",
+    "discount": "-67%",
+    "price": 1.66,
+    "lowest": 1.66,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Star Wars Jedi Knight II: Jedi Outcast",
     "type": "game",
     "discount": "-83%",
@@ -8493,16 +8503,6 @@
     "title": "Disney Winnie The Pooh",
     "type": "game",
     "discount": "-72%",
-    "price": 1.66,
-    "lowest": 1.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Monster Prom: Second Term",
-    "type": "DLC",
-    "discount": "-67%",
     "price": 1.66,
     "lowest": 1.66,
     "stock": true,
@@ -8746,7 +8746,7 @@
     "price": 1.72,
     "lowest": 1.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -8896,7 +8896,7 @@
     "price": 1.75,
     "lowest": 1.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -9222,7 +9222,7 @@
   {
     "title": "Tools Up! Garden Party - Episode 3: Home Sweet Home",
     "type": "DLC",
-    "discount": "-57%",
+    "discount": "-60%",
     "price": 1.84,
     "lowest": 1.84,
     "stock": true,
@@ -10330,6 +10330,16 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Overlord",
+    "type": "game",
+    "discount": "-58%",
+    "price": 2.08,
+    "lowest": 2.08,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "PC Building Simulator - NZXT Workshop",
     "type": "DLC",
     "discount": "-58%",
@@ -10343,16 +10353,6 @@
     "title": "Planet Coaster - Pacchetto Vintage",
     "type": "DLC",
     "discount": "-81%",
-    "price": 2.08,
-    "lowest": 2.08,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Overlord",
-    "type": "game",
-    "discount": "-58%",
     "price": 2.08,
     "lowest": 2.08,
     "stock": true,
@@ -11420,19 +11420,19 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Hearts of Iron IV: Radio Pack",
+    "title": "The Ascent - CyberSec Pack",
     "type": "DLC",
-    "discount": "-66%",
+    "discount": "-52%",
     "price": 2.38,
     "lowest": 2.38,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "The Ascent - CyberSec Pack",
+    "title": "Hearts of Iron IV: Radio Pack",
     "type": "DLC",
-    "discount": "-52%",
+    "discount": "-66%",
     "price": 2.38,
     "lowest": 2.38,
     "stock": true,
@@ -11593,16 +11593,6 @@
     "title": "Warhammer 40,000: Sanctus Reach - Horrors of the Warp",
     "type": "DLC",
     "discount": "-84%",
-    "price": 2.41,
-    "lowest": 2.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Stay Safe",
-    "type": "game",
-    "discount": "-52%",
     "price": 2.41,
     "lowest": 2.41,
     "stock": true,
@@ -12096,7 +12086,7 @@
     "price": 2.54,
     "lowest": 2.54,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -12130,19 +12120,19 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Devil May Cry 5 - Personaggio selezionabile: Vergil",
-    "type": "DLC",
-    "discount": "-48%",
+    "title": "Stronghold Crusader 2: Special Edition",
+    "type": "game",
+    "discount": "-94%",
     "price": 2.55,
     "lowest": 2.55,
-    "stock": true,
-    "status": "updated",
+    "stock": false,
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Hitchhiker - A Mystery Game",
-    "type": "game",
-    "discount": "-81%",
+    "title": "Devil May Cry 5 - Personaggio selezionabile: Vergil",
+    "type": "DLC",
+    "discount": "-48%",
     "price": 2.55,
     "lowest": 2.55,
     "stock": true,
@@ -12150,9 +12140,9 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Stronghold Crusader 2: Special Edition",
+    "title": "Hitchhiker - A Mystery Game",
     "type": "game",
-    "discount": "-94%",
+    "discount": "-81%",
     "price": 2.55,
     "lowest": 2.55,
     "stock": true,
@@ -12416,7 +12406,7 @@
     "price": 2.62,
     "lowest": 2.62,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -13080,6 +13070,16 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Spirit of the North",
+    "type": "game",
+    "discount": "-83%",
+    "price": 2.81,
+    "lowest": 2.81,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Renegade Ops Collection",
     "type": "game",
     "discount": "-83%",
@@ -13385,16 +13385,6 @@
     "discount": "-42%",
     "price": 2.9,
     "lowest": 2.9,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Spirit of the North",
-    "type": "game",
-    "discount": "-83%",
-    "price": 2.92,
-    "lowest": 2.92,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-01-2024"
@@ -14185,7 +14175,7 @@
     "discount": "-44%",
     "price": 3.1,
     "lowest": 3.1,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -14345,7 +14335,7 @@
     "discount": "-79%",
     "price": 3.14,
     "lowest": 3.14,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -15755,7 +15745,7 @@
     "discount": "-81%",
     "price": 3.72,
     "lowest": 3.72,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -17990,19 +17980,19 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Assault Spy Elite Spy Edition",
+    "title": "Chaos Code - New Sign of Catastrophe -",
     "type": "game",
-    "discount": "-80%",
+    "discount": "-77%",
     "price": 4.52,
     "lowest": 4.52,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Chaos Code - New Sign of Catastrophe -",
+    "title": "Assault Spy Elite Spy Edition",
     "type": "game",
-    "discount": "-77%",
+    "discount": "-80%",
     "price": 4.52,
     "lowest": 4.52,
     "stock": true,
@@ -18560,6 +18550,16 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Marvel's Avengers - The Definitive Edition",
+    "type": "game",
+    "discount": "-88%",
+    "price": 4.82,
+    "lowest": 4.82,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Deus Ex: Mankind Divided - Digital Deluxe Edition",
     "type": "game",
     "discount": "-89%",
@@ -18865,16 +18865,6 @@
     "discount": "-40%",
     "price": 4.93,
     "lowest": 4.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Marvel's Avengers - The Definitive Edition",
-    "type": "game",
-    "discount": "-88%",
-    "price": 4.94,
-    "lowest": 4.94,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-01-2024"
@@ -19666,7 +19656,7 @@
     "price": 5.27,
     "lowest": 5.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -19925,17 +19915,7 @@
     "discount": "-22%",
     "price": 5.39,
     "lowest": 5.39,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Scum Dance pack",
-    "type": "DLC",
-    "discount": "-22%",
-    "price": 5.39,
-    "lowest": 5.39,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -19943,6 +19923,16 @@
     "title": "Total War: EMPIRE Definitive Edition",
     "type": "game",
     "discount": "-78%",
+    "price": 5.39,
+    "lowest": 5.39,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "16-01-2024"
+  },
+  {
+    "title": "Scum Dance pack",
+    "type": "DLC",
+    "discount": "-22%",
     "price": 5.39,
     "lowest": 5.39,
     "stock": true,
@@ -19995,6 +19985,16 @@
     "discount": "-73%",
     "price": 5.44,
     "lowest": 5.44,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "16-01-2024"
+  },
+  {
+    "title": "Surviving Mars: Martian Express",
+    "type": "DLC",
+    "discount": "-22%",
+    "price": 5.45,
+    "lowest": 5.45,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-01-2024"
@@ -20275,7 +20275,7 @@
     "discount": "-83%",
     "price": 5.66,
     "lowest": 5.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -20566,7 +20566,7 @@
     "price": 5.92,
     "lowest": 5.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -20877,6 +20877,16 @@
     "lowest": 5.99,
     "stock": true,
     "status": "par",
+    "last_time_updated": "16-01-2024"
+  },
+  {
+    "title": "Just Cause 4 Reloaded Edition",
+    "type": "game",
+    "discount": "-85%",
+    "price": 6.0,
+    "lowest": 6.0,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -22340,16 +22350,6 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "Oaken",
-    "type": "game",
-    "discount": "-66%",
-    "price": 6.87,
-    "lowest": 6.87,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
     "title": "Airport Simulator 2019",
     "type": "game",
     "discount": "-66%",
@@ -23026,7 +23026,7 @@
     "price": 7.25,
     "lowest": 7.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -23500,19 +23500,19 @@
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "The Magical Mixture Mill",
+    "title": "People Playground",
     "type": "game",
-    "discount": "-62%",
+    "discount": "-8%",
     "price": 7.55,
     "lowest": 7.55,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
-    "title": "People Playground",
+    "title": "The Magical Mixture Mill",
     "type": "game",
-    "discount": "-8%",
+    "discount": "-62%",
     "price": 7.55,
     "lowest": 7.55,
     "stock": true,
@@ -23966,7 +23966,7 @@
     "price": 8.09,
     "lowest": 8.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -24393,16 +24393,6 @@
     "title": "One Piece Pirate Warriors 4 Deluxe Edition",
     "type": "game",
     "discount": "-87%",
-    "price": 8.55,
-    "lowest": 8.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "CASE: Animatronics",
-    "type": "game",
-    "discount": "-5%",
     "price": 8.55,
     "lowest": 8.55,
     "stock": true,
@@ -25696,7 +25686,7 @@
     "price": 9.92,
     "lowest": 9.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -26050,21 +26040,21 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Farming Simulator 22 - Pumps n' Hoses Pack",
+    "type": "DLC",
+    "discount": "-44%",
+    "price": 10.02,
+    "lowest": 10.02,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Blaston Reloaded",
     "type": "game",
     "discount": "-40%",
     "price": 10.11,
     "lowest": 10.11,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Farming Simulator 22 - Pumps n' Hoses Pack",
-    "type": "DLC",
-    "discount": "-44%",
-    "price": 10.13,
-    "lowest": 10.13,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-01-2024"
@@ -26096,7 +26086,7 @@
     "price": 10.21,
     "lowest": 10.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -26626,7 +26616,7 @@
     "price": 10.94,
     "lowest": 10.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -27136,7 +27126,7 @@
     "price": 11.51,
     "lowest": 11.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
@@ -27990,21 +27980,21 @@
     "last_time_updated": "16-01-2024"
   },
   {
+    "title": "Soulslinger: Envoy of Death",
+    "type": "game",
+    "discount": "-30%",
+    "price": 12.51,
+    "lowest": 12.51,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "16-01-2024"
+  },
+  {
     "title": "Quench",
     "type": "game",
     "discount": "-25%",
     "price": 12.58,
     "lowest": 12.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "16-01-2024"
-  },
-  {
-    "title": "Soulslinger: Envoy of Death",
-    "type": "game",
-    "discount": "-30%",
-    "price": 12.62,
-    "lowest": 12.62,
     "stock": true,
     "status": "par",
     "last_time_updated": "16-01-2024"
@@ -30175,7 +30165,7 @@
     "discount": "-41%",
     "price": 17.6,
     "lowest": 17.6,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "16-01-2024"
   },
@@ -30886,7 +30876,7 @@
     "price": 20.37,
     "lowest": 20.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "16-01-2024"
   },
   {
