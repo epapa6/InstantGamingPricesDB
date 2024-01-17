@@ -100,6 +100,36 @@
     "last_time_updated": "17-01-2024"
   },
   {
+    "title": "Morkredd",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
+    "title": "SpellForce - Platinum Edition",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
+    "title": "Psychonauts",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
     "title": "HELLDIVERS - Specialist Pack",
     "type": "DLC",
     "discount": "-67%",
@@ -796,7 +826,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -1690,16 +1720,6 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Morkredd",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
     "title": "Cyber Hook",
     "type": "game",
     "discount": "-92%",
@@ -1773,16 +1793,6 @@
     "title": "Joe Danger",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "SpellForce - Platinum Edition",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1983,16 +1993,6 @@
     "title": "This War of Mine: Stories - Season Pass",
     "type": "DLC",
     "discount": "-86%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "Psychonauts",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -3336,7 +3336,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -6560,19 +6560,19 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Dungeons II",
+    "title": "7'scarlet",
     "type": "game",
-    "discount": "-94%",
+    "discount": "-95%",
     "price": 1.22,
     "lowest": 1.22,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "7'scarlet",
+    "title": "Dungeons II",
     "type": "game",
-    "discount": "-95%",
+    "discount": "-94%",
     "price": 1.22,
     "lowest": 1.22,
     "stock": true,
@@ -8216,7 +8216,7 @@
     "price": 1.6,
     "lowest": 1.6,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -8665,16 +8665,6 @@
     "discount": "-83%",
     "price": 1.69,
     "lowest": 1.69,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "Scribblenauts Unmasked: A DC Comics Adventure",
-    "type": "game",
-    "discount": "-91%",
-    "price": 1.7,
-    "lowest": 1.7,
     "stock": true,
     "status": "par",
     "last_time_updated": "17-01-2024"
@@ -11880,6 +11870,16 @@
     "last_time_updated": "17-01-2024"
   },
   {
+    "title": "Risen 3: Complete Edition",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.52,
+    "lowest": 2.52,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "17-01-2024"
+  },
+  {
     "title": "Silence",
     "type": "game",
     "discount": "-87%",
@@ -11925,6 +11925,16 @@
     "discount": "-64%",
     "price": 2.52,
     "lowest": 2.52,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
+    "title": "Return to Castle Wolfenstein",
+    "type": "game",
+    "discount": "-49%",
+    "price": 2.53,
+    "lowest": 2.53,
     "stock": true,
     "status": "par",
     "last_time_updated": "17-01-2024"
@@ -13260,6 +13270,16 @@
     "last_time_updated": "17-01-2024"
   },
   {
+    "title": "Fishing: Barents Sea",
+    "type": "game",
+    "discount": "-85%",
+    "price": 2.9,
+    "lowest": 2.9,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "17-01-2024"
+  },
+  {
     "title": "Warhammer: Chaosbane Deluxe Edition",
     "type": "game",
     "discount": "-90%",
@@ -13800,16 +13820,6 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Fishing: Barents Sea",
-    "type": "game",
-    "discount": "-85%",
-    "price": 3.01,
-    "lowest": 3.01,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
     "title": "Legend of Keepers: Return of the Goddess",
     "type": "DLC",
     "discount": "-40%",
@@ -14170,19 +14180,19 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Road 96: Mile 0",
+    "title": "Sherlock Holmes: The Silver Earring",
     "type": "game",
-    "discount": "-76%",
+    "discount": "-69%",
     "price": 3.13,
     "lowest": 3.13,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Sherlock Holmes: The Silver Earring",
+    "title": "Road 96: Mile 0",
     "type": "game",
-    "discount": "-69%",
+    "discount": "-76%",
     "price": 3.13,
     "lowest": 3.13,
     "stock": true,
@@ -14255,7 +14265,7 @@
     "discount": "-84%",
     "price": 3.16,
     "lowest": 3.16,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
@@ -14276,7 +14286,7 @@
     "price": 3.17,
     "lowest": 3.17,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -15006,7 +15016,7 @@
     "price": 3.46,
     "lowest": 3.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -17246,7 +17256,7 @@
     "price": 4.26,
     "lowest": 4.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -17780,6 +17790,16 @@
     "last_time_updated": "17-01-2024"
   },
   {
+    "title": "We. The Revolution",
+    "type": "game",
+    "discount": "-78%",
+    "price": 4.49,
+    "lowest": 4.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
     "title": "Farming Simulator 22 - OXBO Pack",
     "type": "DLC",
     "discount": "-25%",
@@ -17813,16 +17833,6 @@
     "title": "Remnant: From the Ashes - Subject 2923",
     "type": "DLC",
     "discount": "-55%",
-    "price": 4.49,
-    "lowest": 4.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "We. The Revolution",
-    "type": "game",
-    "discount": "-78%",
     "price": 4.49,
     "lowest": 4.49,
     "stock": true,
@@ -18720,19 +18730,19 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Batman: Arkham Collection",
+    "title": "One Piece World Seeker",
     "type": "game",
-    "discount": "-92%",
+    "discount": "-90%",
     "price": 4.9,
     "lowest": 4.9,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "One Piece World Seeker",
+    "title": "Batman: Arkham Collection",
     "type": "game",
-    "discount": "-90%",
+    "discount": "-92%",
     "price": 4.9,
     "lowest": 4.9,
     "stock": true,
@@ -21170,16 +21180,6 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Pathfinder: Wrath of the Righteous - Season Pass",
-    "type": "DLC",
-    "discount": "-78%",
-    "price": 6.28,
-    "lowest": 6.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
     "title": "Devil May Cry HD Collection",
     "type": "game",
     "discount": "-79%",
@@ -21260,19 +21260,19 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Predator: Hunting Grounds",
+    "title": "Game Dev Tycoon",
     "type": "game",
-    "discount": "-79%",
+    "discount": "-36%",
     "price": 6.36,
     "lowest": 6.36,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Game Dev Tycoon",
+    "title": "Predator: Hunting Grounds",
     "type": "game",
-    "discount": "-36%",
+    "discount": "-79%",
     "price": 6.36,
     "lowest": 6.36,
     "stock": true,
@@ -22500,6 +22500,16 @@
     "last_time_updated": "17-01-2024"
   },
   {
+    "title": "Potion Tycoon - Supporter Pack",
+    "type": "DLC",
+    "discount": "-30%",
+    "price": 6.95,
+    "lowest": 6.95,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "17-01-2024"
+  },
+  {
     "title": "Ben 10",
     "type": "game",
     "discount": "-72%",
@@ -22793,16 +22803,6 @@
     "title": "Syberia 3 Deluxe Edition",
     "type": "game",
     "discount": "-81%",
-    "price": 7.06,
-    "lowest": 7.06,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "Potion Tycoon - Supporter Pack",
-    "type": "DLC",
-    "discount": "-29%",
     "price": 7.06,
     "lowest": 7.06,
     "stock": true,
@@ -24015,7 +24015,7 @@
     "discount": "-59%",
     "price": 8.17,
     "lowest": 8.17,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
@@ -24323,6 +24323,16 @@
     "title": "One Piece Pirate Warriors 4 Deluxe Edition",
     "type": "game",
     "discount": "-87%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
     "price": 8.55,
     "lowest": 8.55,
     "stock": true,
@@ -25115,16 +25125,6 @@
     "discount": "-53%",
     "price": 9.34,
     "lowest": 9.34,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "Monster Hunter Rise",
-    "type": "game",
-    "discount": "-77%",
-    "price": 9.35,
-    "lowest": 9.35,
     "stock": true,
     "status": "par",
     "last_time_updated": "17-01-2024"
@@ -25950,6 +25950,16 @@
     "last_time_updated": "17-01-2024"
   },
   {
+    "title": "Overpass 2",
+    "type": "game",
+    "discount": "-75%",
+    "price": 10.0,
+    "lowest": 10.0,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "17-01-2024"
+  },
+  {
     "title": "IL-2 Sturmovik: Desert Wings - Tobruk",
     "type": "DLC",
     "discount": "-75%",
@@ -26470,16 +26480,6 @@
     "last_time_updated": "17-01-2024"
   },
   {
-    "title": "Overpass 2",
-    "type": "game",
-    "discount": "-73%",
-    "price": 10.71,
-    "lowest": 10.71,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
     "title": "Sweet Transit",
     "type": "game",
     "discount": "-51%",
@@ -26506,7 +26506,7 @@
     "price": 10.81,
     "lowest": 10.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -26527,6 +26527,16 @@
     "lowest": 10.81,
     "stock": true,
     "status": "par",
+    "last_time_updated": "17-01-2024"
+  },
+  {
+    "title": "The Great Ace Attorney Chronicles",
+    "type": "game",
+    "discount": "-73%",
+    "price": 10.83,
+    "lowest": 10.83,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -26575,16 +26585,6 @@
     "discount": "-15%",
     "price": 10.93,
     "lowest": 10.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-01-2024"
-  },
-  {
-    "title": "The Great Ace Attorney Chronicles",
-    "type": "game",
-    "discount": "-73%",
-    "price": 10.94,
-    "lowest": 10.94,
     "stock": true,
     "status": "par",
     "last_time_updated": "17-01-2024"
@@ -28816,7 +28816,7 @@
     "price": 14.31,
     "lowest": 14.31,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -29566,7 +29566,7 @@
     "price": 16.29,
     "lowest": 16.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-01-2024"
   },
   {
@@ -31545,7 +31545,7 @@
     "discount": "-51%",
     "price": 24.43,
     "lowest": 24.43,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-01-2024"
   },
