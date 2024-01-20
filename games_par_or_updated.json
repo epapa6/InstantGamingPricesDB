@@ -60,6 +60,16 @@
     "last_time_updated": "13-12-2023"
   },
   {
+    "title": "Beholder - Blissful Sleep",
+    "type": "DLC",
+    "discount": "-83%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "20-01-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-95%",
@@ -2833,16 +2843,6 @@
     "title": "This War of Mine: Stories - The Last Broadcast",
     "type": "DLC",
     "discount": "-75%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-01-2024"
-  },
-  {
-    "title": "Beholder - Blissful Sleep",
-    "type": "DLC",
-    "discount": "-83%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5945,16 +5945,6 @@
     "discount": "-95%",
     "price": 1.05,
     "lowest": 1.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-01-2024"
-  },
-  {
-    "title": "Trafic Giant",
-    "type": "game",
-    "discount": "-89%",
-    "price": 1.06,
-    "lowest": 1.06,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-01-2024"
@@ -11116,7 +11106,7 @@
     "price": 2.25,
     "lowest": 2.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-01-2024"
   },
   {
@@ -13056,7 +13046,7 @@
     "price": 2.78,
     "lowest": 2.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-01-2024"
   },
   {
@@ -15315,6 +15305,16 @@
     "discount": "-57%",
     "price": 3.41,
     "lowest": 3.41,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-01-2024"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 3 Collection 4 - Final Assault",
+    "type": "DLC",
+    "discount": "-75%",
+    "price": 3.43,
+    "lowest": 3.43,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-01-2024"
@@ -17820,6 +17820,16 @@
     "last_time_updated": "20-01-2024"
   },
   {
+    "title": "MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers",
+    "type": "DLC",
+    "discount": "-78%",
+    "price": 4.36,
+    "lowest": 4.36,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-01-2024"
+  },
+  {
     "title": "Escape Simulator: Steampunk",
     "type": "DLC",
     "discount": "-12%",
@@ -17995,16 +18005,6 @@
     "discount": "-55%",
     "price": 4.46,
     "lowest": 4.46,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-01-2024"
-  },
-  {
-    "title": "MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers",
-    "type": "DLC",
-    "discount": "-78%",
-    "price": 4.47,
-    "lowest": 4.47,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-01-2024"
@@ -19455,7 +19455,7 @@
     "discount": "-87%",
     "price": 5.05,
     "lowest": 5.05,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "20-01-2024"
   },
@@ -24240,6 +24240,16 @@
     "last_time_updated": "20-01-2024"
   },
   {
+    "title": "Green Hell",
+    "type": "game",
+    "discount": "-60%",
+    "price": 8.31,
+    "lowest": 8.31,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-01-2024"
+  },
+  {
     "title": "Crush",
     "type": "game",
     "discount": "-30%",
@@ -24305,16 +24315,6 @@
     "discount": "-51%",
     "price": 8.39,
     "lowest": 8.39,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-01-2024"
-  },
-  {
-    "title": "Green Hell",
-    "type": "game",
-    "discount": "-60%",
-    "price": 8.42,
-    "lowest": 8.42,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-01-2024"
@@ -28300,6 +28300,16 @@
     "last_time_updated": "20-01-2024"
   },
   {
+    "title": "Ad Infinitum",
+    "type": "game",
+    "discount": "-62%",
+    "price": 13.2,
+    "lowest": 13.2,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-01-2024"
+  },
+  {
     "title": "World Of Final Fantasy",
     "type": "game",
     "discount": "-47%",
@@ -28325,16 +28335,6 @@
     "discount": "-34%",
     "price": 13.26,
     "lowest": 13.26,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-01-2024"
-  },
-  {
-    "title": "Ad Infinitum",
-    "type": "game",
-    "discount": "-62%",
-    "price": 13.31,
-    "lowest": 13.31,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-01-2024"
@@ -30830,21 +30830,21 @@
     "last_time_updated": "20-01-2024"
   },
   {
+    "title": "Warhammer 40,000: Darktide - Imperial Edition",
+    "type": "game",
+    "discount": "-65%",
+    "price": 21.22,
+    "lowest": 21.22,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-01-2024"
+  },
+  {
     "title": "Teardown",
     "type": "game",
     "discount": "-29%",
     "price": 21.31,
     "lowest": 21.31,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-01-2024"
-  },
-  {
-    "title": "Warhammer 40,000: Darktide - Imperial Edition",
-    "type": "game",
-    "discount": "-64%",
-    "price": 21.33,
-    "lowest": 21.33,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-01-2024"
