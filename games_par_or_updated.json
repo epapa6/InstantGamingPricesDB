@@ -546,7 +546,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -5865,7 +5865,7 @@
     "discount": "-97%",
     "price": 1.05,
     "lowest": 1.05,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "21-01-2024"
   },
@@ -6126,7 +6126,7 @@
     "price": 1.12,
     "lowest": 1.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -10060,6 +10060,16 @@
     "last_time_updated": "21-01-2024"
   },
   {
+    "title": "Planet Coaster - Collezione Attrazioni Classiche",
+    "type": "DLC",
+    "discount": "-82%",
+    "price": 2.01,
+    "lowest": 2.01,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "21-01-2024"
+  },
+  {
     "title": "Planet Coaster - Pacchetto Fiera Mondiale",
     "type": "DLC",
     "discount": "-82%",
@@ -10806,7 +10816,7 @@
     "price": 2.22,
     "lowest": 2.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -11586,7 +11596,7 @@
     "price": 2.42,
     "lowest": 2.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -14316,7 +14326,7 @@
     "price": 3.2,
     "lowest": 3.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -14916,7 +14926,7 @@
     "price": 3.39,
     "lowest": 3.39,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -15526,7 +15536,7 @@
     "price": 3.65,
     "lowest": 3.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -15583,6 +15593,16 @@
     "title": "Dragon Ball: The Breakers",
     "type": "game",
     "discount": "-81%",
+    "price": 3.7,
+    "lowest": 3.7,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "21-01-2024"
+  },
+  {
+    "title": "Crusader Kings III: Fate of Iberia",
+    "type": "DLC",
+    "discount": "-72%",
     "price": 3.7,
     "lowest": 3.7,
     "stock": true,
@@ -17406,7 +17426,7 @@
     "price": 4.34,
     "lowest": 4.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -18166,7 +18186,7 @@
     "price": 4.67,
     "lowest": 4.67,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -18626,7 +18646,7 @@
     "price": 4.93,
     "lowest": 4.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -20426,7 +20446,7 @@
     "price": 5.97,
     "lowest": 5.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -23206,7 +23226,7 @@
     "price": 7.75,
     "lowest": 7.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -23775,7 +23795,7 @@
     "discount": "-51%",
     "price": 8.3,
     "lowest": 8.3,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "21-01-2024"
   },
@@ -24596,7 +24616,7 @@
     "price": 9.21,
     "lowest": 9.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -28546,7 +28566,7 @@
     "price": 15.15,
     "lowest": 15.15,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
@@ -29626,7 +29646,7 @@
     "price": 18.18,
     "lowest": 18.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "21-01-2024"
   },
   {
