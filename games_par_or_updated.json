@@ -70,16 +70,6 @@
     "last_time_updated": "25-01-2024"
   },
   {
-    "title": "The Invisible Hand",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "26-01-2024"
-  },
-  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -362,6 +352,16 @@
   {
     "title": "Star Wars Jedi Knight: Jedi Academy",
     "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-01-2024"
+  },
+  {
+    "title": "Graveyard Keeper - Game Of Crone",
+    "type": "DLC",
     "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
@@ -4260,6 +4260,16 @@
     "last_time_updated": "26-01-2024"
   },
   {
+    "title": "The Invisible Hand",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-01-2024"
+  },
+  {
     "title": "Cyber Hook - Lost Numbers",
     "type": "DLC",
     "discount": "-80%",
@@ -6546,7 +6556,7 @@
     "price": 1.2,
     "lowest": 1.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -8386,7 +8396,7 @@
     "price": 1.64,
     "lowest": 1.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -11236,7 +11246,7 @@
     "price": 2.33,
     "lowest": 2.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -11586,7 +11596,7 @@
     "price": 2.44,
     "lowest": 2.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -13396,7 +13406,7 @@
     "price": 2.96,
     "lowest": 2.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -21740,6 +21750,16 @@
     "last_time_updated": "26-01-2024"
   },
   {
+    "title": "Seven: Enhanced Collector's Edition",
+    "type": "game",
+    "discount": "-83%",
+    "price": 6.81,
+    "lowest": 6.81,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-01-2024"
+  },
+  {
     "title": "Tinkertown",
     "type": "game",
     "discount": "-60%",
@@ -22303,16 +22323,6 @@
     "title": "Hexarchy",
     "type": "game",
     "discount": "-64%",
-    "price": 7.08,
-    "lowest": 7.08,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-01-2024"
-  },
-  {
-    "title": "Seven: Enhanced Collector's Edition",
-    "type": "game",
-    "discount": "-82%",
     "price": 7.08,
     "lowest": 7.08,
     "stock": true,
@@ -23680,6 +23690,16 @@
     "last_time_updated": "26-01-2024"
   },
   {
+    "title": "CASE: Animatronics",
+    "type": "game",
+    "discount": "-5%",
+    "price": 8.55,
+    "lowest": 8.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-01-2024"
+  },
+  {
     "title": "Cossacks 3 Gold Edition",
     "type": "game",
     "discount": "-57%",
@@ -23996,7 +24016,7 @@
     "price": 8.87,
     "lowest": 8.87,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -24376,7 +24396,7 @@
     "price": 9.28,
     "lowest": 9.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -25366,7 +25386,7 @@
     "price": 10.25,
     "lowest": 10.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -25466,7 +25486,7 @@
     "price": 10.38,
     "lowest": 10.38,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -25955,16 +25975,6 @@
     "discount": "-42%",
     "price": 10.99,
     "lowest": 10.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-01-2024"
-  },
-  {
-    "title": "Lost in Play",
-    "type": "game",
-    "discount": "-45%",
-    "price": 11.0,
-    "lowest": 11.0,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-01-2024"
@@ -29015,7 +29025,7 @@
     "discount": "-14%",
     "price": 17.25,
     "lowest": 17.25,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-01-2024"
   },
@@ -29896,7 +29906,7 @@
     "price": 20.89,
     "lowest": 20.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-01-2024"
   },
   {
@@ -30655,7 +30665,7 @@
     "discount": "-10%",
     "price": 26.61,
     "lowest": 26.61,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-01-2024"
   },
@@ -31415,7 +31425,7 @@
     "discount": "-27%",
     "price": 43.69,
     "lowest": 43.69,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-01-2024"
   },
