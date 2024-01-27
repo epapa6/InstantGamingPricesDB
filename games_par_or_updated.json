@@ -6365,7 +6365,7 @@
     "discount": "-71%",
     "price": 1.14,
     "lowest": 1.14,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "27-01-2024"
   },
@@ -10486,7 +10486,7 @@
     "price": 2.2,
     "lowest": 2.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -12570,6 +12570,16 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "Bioshock Infinite: Burial at Sea Episode One",
+    "type": "DLC",
+    "discount": "-81%",
+    "price": 2.8,
+    "lowest": 2.8,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "The Ascent",
     "type": "game",
     "discount": "-91%",
@@ -12623,16 +12633,6 @@
     "title": "Conglomerate 451",
     "type": "game",
     "discount": "-86%",
-    "price": 2.8,
-    "lowest": 2.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Bioshock Infinite: Burial at Sea Episode One",
-    "type": "DLC",
-    "discount": "-81%",
     "price": 2.8,
     "lowest": 2.8,
     "stock": true,
@@ -13215,6 +13215,16 @@
     "discount": "-80%",
     "price": 2.97,
     "lowest": 2.97,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
+    "title": "Space Hulk: Tactics",
+    "type": "game",
+    "discount": "-80%",
+    "price": 2.98,
+    "lowest": 2.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-01-2024"
@@ -17556,7 +17566,7 @@
     "price": 4.57,
     "lowest": 4.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -30130,21 +30140,21 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "Nioh 2: The Complete Edition",
+    "type": "game",
+    "discount": "-60%",
+    "price": 23.72,
+    "lowest": 23.72,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "2k Ball N' Brawl Bundle",
     "type": "game",
     "discount": "-70%",
     "price": 23.76,
     "lowest": 23.76,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Nioh 2: The Complete Edition",
-    "type": "game",
-    "discount": "-60%",
-    "price": 23.77,
-    "lowest": 23.77,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-01-2024"
