@@ -70,9 +70,29 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "The Red Lantern",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "Lust for Darkness",
     "type": "game",
     "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
+    "title": "Tropico Reloaded",
+    "type": "game",
+    "discount": "-86%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -381,16 +401,6 @@
   },
   {
     "title": "Honey, I Joined a Cult",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "The Red Lantern",
     "type": "game",
     "discount": "-95%",
     "price": 1.0,
@@ -863,16 +873,6 @@
     "title": "Monster Train - The Last Divinity",
     "type": "DLC",
     "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "The Suicide of Rachel Foster",
-    "type": "game",
-    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1973,16 +1973,6 @@
     "title": "XEL",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Tropico Reloaded",
-    "type": "game",
-    "discount": "-86%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6880,6 +6870,16 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "WRC 9 Barcelona SSS",
+    "type": "DLC",
+    "discount": "-68%",
+    "price": 1.29,
+    "lowest": 1.29,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "City of Gangsters: The Polish Outfit",
     "type": "DLC",
     "discount": "-35%",
@@ -11690,6 +11690,16 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "Flower",
+    "type": "game",
+    "discount": "-61%",
+    "price": 2.52,
+    "lowest": 2.52,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "Dungeon Siege",
     "type": "game",
     "discount": "-64%",
@@ -11703,16 +11713,6 @@
     "title": "Silence",
     "type": "game",
     "discount": "-87%",
-    "price": 2.52,
-    "lowest": 2.52,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Flower",
-    "type": "game",
-    "discount": "-61%",
     "price": 2.52,
     "lowest": 2.52,
     "stock": true,
@@ -12760,19 +12760,19 @@
     "last_time_updated": "27-01-2024"
   },
   {
-    "title": "Jurassic World Evolution 2: Late Cretaceous Pack",
-    "type": "DLC",
-    "discount": "-64%",
+    "title": "Blood: Fresh Supply",
+    "type": "game",
+    "discount": "-65%",
     "price": 2.84,
     "lowest": 2.84,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
-    "title": "Blood: Fresh Supply",
-    "type": "game",
-    "discount": "-65%",
+    "title": "Jurassic World Evolution 2: Late Cretaceous Pack",
+    "type": "DLC",
+    "discount": "-64%",
     "price": 2.84,
     "lowest": 2.84,
     "stock": true,
@@ -12866,7 +12866,7 @@
     "price": 2.86,
     "lowest": 2.86,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -13035,7 +13035,7 @@
     "discount": "-85%",
     "price": 2.9,
     "lowest": 2.9,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "27-01-2024"
   },
@@ -15586,7 +15586,7 @@
     "price": 3.82,
     "lowest": 3.82,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -16657,6 +16657,16 @@
     "lowest": 4.13,
     "stock": true,
     "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
+    "title": "LEGO Star Wars: Il Risveglio della Forza Deluxe Edition",
+    "type": "game",
+    "discount": "-90%",
+    "price": 4.13,
+    "lowest": 4.13,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -20386,7 +20396,7 @@
     "price": 6.21,
     "lowest": 6.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -21780,6 +21790,16 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "Ex Natura: Nature Corrupted",
+    "type": "game",
+    "discount": "-64%",
+    "price": 6.99,
+    "lowest": 6.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "Turnip Boy Robs a Bank",
     "type": "game",
     "discount": "-53%",
@@ -21903,16 +21923,6 @@
     "title": "Spacebase Startopia Extended Edition",
     "type": "game",
     "discount": "-84%",
-    "price": 6.99,
-    "lowest": 6.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Ex Natura: Nature Corrupted",
-    "type": "game",
-    "discount": "-64%",
     "price": 6.99,
     "lowest": 6.99,
     "stock": true,
@@ -22346,7 +22356,7 @@
     "price": 7.45,
     "lowest": 7.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -22675,7 +22685,7 @@
     "discount": "-36%",
     "price": 7.67,
     "lowest": 7.67,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "27-01-2024"
   },
@@ -25716,7 +25726,7 @@
     "price": 10.99,
     "lowest": 10.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -25743,6 +25753,16 @@
     "title": "Final Fantasy XIII Double Pack Edition",
     "type": "game",
     "discount": "-15%",
+    "price": 11.0,
+    "lowest": 11.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "27-01-2024"
+  },
+  {
+    "title": "Lost in Play",
+    "type": "game",
+    "discount": "-45%",
     "price": 11.0,
     "lowest": 11.0,
     "stock": true,
@@ -26235,16 +26255,6 @@
     "discount": "-52%",
     "price": 11.78,
     "lowest": 11.78,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Persona 4 Arena Ultimax",
-    "type": "game",
-    "discount": "-61%",
-    "price": 11.8,
-    "lowest": 11.8,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-01-2024"
@@ -27316,7 +27326,7 @@
     "price": 13.15,
     "lowest": 13.15,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -27456,7 +27466,7 @@
     "price": 13.65,
     "lowest": 13.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -28460,6 +28470,16 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "Wobbledogs",
+    "type": "game",
+    "discount": "-19%",
+    "price": 16.17,
+    "lowest": 16.17,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "JoJo's Bizarre Adventure: All-Star Battle R Season Pass",
     "type": "DLC",
     "discount": "-19%",
@@ -28505,16 +28525,6 @@
     "discount": "-22%",
     "price": 16.35,
     "lowest": 16.35,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Wobbledogs",
-    "type": "game",
-    "discount": "-18%",
-    "price": 16.4,
-    "lowest": 16.4,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-01-2024"
@@ -28600,16 +28610,6 @@
     "last_time_updated": "27-01-2024"
   },
   {
-    "title": "Age of Empires IV: Anniversary Edition",
-    "type": "game",
-    "discount": "-59%",
-    "price": 16.5,
-    "lowest": 16.5,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
     "title": "War Hospital",
     "type": "game",
     "discount": "-45%",
@@ -28636,7 +28636,7 @@
     "price": 16.76,
     "lowest": 16.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-01-2024"
   },
   {
@@ -29210,6 +29210,16 @@
     "last_time_updated": "27-01-2024"
   },
   {
+    "title": "Strategic Command: American Civil War",
+    "type": "game",
+    "discount": "-55%",
+    "price": 18.42,
+    "lowest": 18.42,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-01-2024"
+  },
+  {
     "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
     "type": "game",
     "discount": "-54%",
@@ -29235,16 +29245,6 @@
     "discount": "-7%",
     "price": 18.59,
     "lowest": 18.59,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-01-2024"
-  },
-  {
-    "title": "Strategic Command: American Civil War",
-    "type": "game",
-    "discount": "-54%",
-    "price": 18.63,
-    "lowest": 18.63,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-01-2024"
