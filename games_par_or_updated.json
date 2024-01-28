@@ -1376,7 +1376,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-01-2024"
   },
   {
@@ -6820,6 +6820,16 @@
     "last_time_updated": "28-01-2024"
   },
   {
+    "title": "WRC 9 Barcelona SSS",
+    "type": "DLC",
+    "discount": "-68%",
+    "price": 1.29,
+    "lowest": 1.29,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "28-01-2024"
+  },
+  {
     "title": "Neon Abyss - Lovable Rogues Pack",
     "type": "DLC",
     "discount": "-35%",
@@ -7300,16 +7310,6 @@
     "last_time_updated": "28-01-2024"
   },
   {
-    "title": "Lightmatter",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.42,
-    "lowest": 1.42,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-01-2024"
-  },
-  {
     "title": "Battlestar Galactica Deadlock: Modern Ships Pack",
     "type": "DLC",
     "discount": "-72%",
@@ -7757,6 +7757,16 @@
     "lowest": 1.53,
     "stock": true,
     "status": "par",
+    "last_time_updated": "28-01-2024"
+  },
+  {
+    "title": "Homefront: The Revolution - Aftermath",
+    "type": "DLC",
+    "discount": "-74%",
+    "price": 1.53,
+    "lowest": 1.53,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "28-01-2024"
   },
   {
@@ -11370,16 +11380,6 @@
     "last_time_updated": "28-01-2024"
   },
   {
-    "title": "Homefront: The Revolution - Aftermath",
-    "type": "DLC",
-    "discount": "-59%",
-    "price": 2.46,
-    "lowest": 2.46,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-01-2024"
-  },
-  {
     "title": "Inmates",
     "type": "game",
     "discount": "-75%",
@@ -13630,19 +13630,19 @@
     "last_time_updated": "28-01-2024"
   },
   {
-    "title": "Rounds",
-    "type": "game",
-    "discount": "-44%",
+    "title": "American Truck Simulator: New Mexico",
+    "type": "DLC",
+    "discount": "-74%",
     "price": 3.1,
     "lowest": 3.1,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "28-01-2024"
   },
   {
-    "title": "American Truck Simulator: New Mexico",
-    "type": "DLC",
-    "discount": "-74%",
+    "title": "Rounds",
+    "type": "game",
+    "discount": "-44%",
     "price": 3.1,
     "lowest": 3.1,
     "stock": true,
@@ -17146,7 +17146,7 @@
     "price": 4.46,
     "lowest": 4.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-01-2024"
   },
   {
@@ -19466,7 +19466,7 @@
     "price": 5.76,
     "lowest": 5.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-01-2024"
   },
   {
@@ -20066,7 +20066,7 @@
     "price": 6.1,
     "lowest": 6.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-01-2024"
   },
   {
@@ -21485,7 +21485,7 @@
     "discount": "-31%",
     "price": 6.9,
     "lowest": 6.9,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "28-01-2024"
   },
@@ -21935,16 +21935,6 @@
     "discount": "-27%",
     "price": 7.25,
     "lowest": 7.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-01-2024"
-  },
-  {
-    "title": "Final Fantasy VIII Remastered",
-    "type": "game",
-    "discount": "-64%",
-    "price": 7.26,
-    "lowest": 7.26,
     "stock": true,
     "status": "par",
     "last_time_updated": "28-01-2024"
@@ -25445,6 +25435,16 @@
     "discount": "-15%",
     "price": 11.0,
     "lowest": 11.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "28-01-2024"
+  },
+  {
+    "title": "Lost in Play",
+    "type": "game",
+    "discount": "-45%",
+    "price": 11.0,
+    "lowest": 11.0,
     "stock": true,
     "status": "par",
     "last_time_updated": "28-01-2024"
@@ -26680,6 +26680,16 @@
     "last_time_updated": "28-01-2024"
   },
   {
+    "title": "Field of Glory II: Medieval",
+    "type": "game",
+    "discount": "-56%",
+    "price": 12.76,
+    "lowest": 12.76,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-01-2024"
+  },
+  {
     "title": "Children of Silentown",
     "type": "game",
     "discount": "-36%",
@@ -27005,16 +27015,6 @@
     "discount": "-56%",
     "price": 13.13,
     "lowest": 13.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-01-2024"
-  },
-  {
-    "title": "Field of Glory II: Medieval",
-    "type": "game",
-    "discount": "-55%",
-    "price": 13.15,
-    "lowest": 13.15,
     "stock": true,
     "status": "par",
     "last_time_updated": "28-01-2024"
