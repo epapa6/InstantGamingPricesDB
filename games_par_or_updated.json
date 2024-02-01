@@ -90,6 +90,16 @@
     "last_time_updated": "01-02-2024"
   },
   {
+    "title": "Project Highrise: Miami Malls",
+    "type": "DLC",
+    "discount": "-50%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "01-02-2024"
+  },
+  {
     "title": "Incoming Forces",
     "type": "game",
     "discount": "-67%",
@@ -2493,16 +2503,6 @@
     "title": "Nemesis: Race Against The Pandemic",
     "type": "game",
     "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-02-2024"
-  },
-  {
-    "title": "Project Highrise: Miami Malls",
-    "type": "DLC",
-    "discount": "-50%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5815,7 +5815,7 @@
     "discount": "-93%",
     "price": 1.03,
     "lowest": 1.03,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-02-2024"
   },
@@ -5996,7 +5996,7 @@
     "price": 1.1,
     "lowest": 1.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -6453,16 +6453,6 @@
     "title": "Dungeons II",
     "type": "game",
     "discount": "-94%",
-    "price": 1.22,
-    "lowest": 1.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-02-2024"
-  },
-  {
-    "title": "Guilty Gear Isuka",
-    "type": "game",
-    "discount": "-86%",
     "price": 1.22,
     "lowest": 1.22,
     "stock": true,
@@ -7146,7 +7136,7 @@
     "price": 1.4,
     "lowest": 1.4,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -9896,7 +9886,7 @@
     "price": 2.09,
     "lowest": 2.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -11576,16 +11566,6 @@
     "price": 2.61,
     "lowest": 2.61,
     "stock": true,
-    "status": "updated",
-    "last_time_updated": "01-02-2024"
-  },
-  {
-    "title": "Dying Light The Following Enhanced Edition",
-    "type": "game",
-    "discount": "-91%",
-    "price": 2.62,
-    "lowest": 2.62,
-    "stock": true,
     "status": "par",
     "last_time_updated": "01-02-2024"
   },
@@ -11593,6 +11573,16 @@
     "title": "Deep Rock Galactic - Dark Future Pack",
     "type": "DLC",
     "discount": "-67%",
+    "price": 2.62,
+    "lowest": 2.62,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "01-02-2024"
+  },
+  {
+    "title": "Dying Light The Following Enhanced Edition",
+    "type": "game",
+    "discount": "-91%",
     "price": 2.62,
     "lowest": 2.62,
     "stock": true,
@@ -13030,16 +13020,6 @@
     "last_time_updated": "01-02-2024"
   },
   {
-    "title": "Pumped BMX +",
-    "type": "game",
-    "discount": "-69%",
-    "price": 3.05,
-    "lowest": 3.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-02-2024"
-  },
-  {
     "title": "Railway Empire - Germany",
     "type": "DLC",
     "discount": "-69%",
@@ -13167,6 +13147,16 @@
     "lowest": 3.09,
     "stock": true,
     "status": "par",
+    "last_time_updated": "01-02-2024"
+  },
+  {
+    "title": "Armored Brigade Nation Pack: Czechoslovakia - Netherlands",
+    "type": "DLC",
+    "discount": "-79%",
+    "price": 3.09,
+    "lowest": 3.09,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -13416,7 +13406,7 @@
     "price": 3.2,
     "lowest": 3.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -13433,16 +13423,6 @@
     "title": "Atari Vault",
     "type": "game",
     "discount": "-81%",
-    "price": 3.2,
-    "lowest": 3.2,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-02-2024"
-  },
-  {
-    "title": "Armored Brigade Nation Pack: Czechoslovakia - Netherlands",
-    "type": "DLC",
-    "discount": "-78%",
     "price": 3.2,
     "lowest": 3.2,
     "stock": true,
@@ -14296,7 +14276,7 @@
     "price": 3.51,
     "lowest": 3.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -15785,7 +15765,7 @@
     "discount": "-18%",
     "price": 4.11,
     "lowest": 4.11,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-02-2024"
   },
@@ -15855,7 +15835,7 @@
     "discount": "-86%",
     "price": 4.14,
     "lowest": 4.14,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-02-2024"
   },
@@ -22656,7 +22636,7 @@
     "price": 9.0,
     "lowest": 9.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -27346,7 +27326,7 @@
     "price": 17.57,
     "lowest": 17.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "01-02-2024"
   },
   {
@@ -27660,6 +27640,16 @@
     "last_time_updated": "01-02-2024"
   },
   {
+    "title": "Metal: Hellsinger - Complete Edition",
+    "type": "game",
+    "discount": "-62%",
+    "price": 18.77,
+    "lowest": 18.77,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "01-02-2024"
+  },
+  {
     "title": "La Famiglia Addams: Caos in Casa",
     "type": "game",
     "discount": "-53%",
@@ -27670,22 +27660,12 @@
     "last_time_updated": "01-02-2024"
   },
   {
-    "title": "Metal: Hellsinger - Complete Edition",
-    "type": "game",
-    "discount": "-62%",
-    "price": 18.88,
-    "lowest": 18.88,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-02-2024"
-  },
-  {
     "title": "Roboquest Deluxe Edition",
     "type": "game",
     "discount": "-36%",
     "price": 18.89,
     "lowest": 18.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "01-02-2024"
   },
@@ -28310,6 +28290,16 @@
     "last_time_updated": "01-02-2024"
   },
   {
+    "title": "War Hospital Supporter Edition",
+    "type": "game",
+    "discount": "-43%",
+    "price": 22.36,
+    "lowest": 22.36,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "01-02-2024"
+  },
+  {
     "title": "Cris Tales",
     "type": "game",
     "discount": "-44%",
@@ -28325,16 +28315,6 @@
     "discount": "-25%",
     "price": 22.46,
     "lowest": 22.46,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "01-02-2024"
-  },
-  {
-    "title": "War Hospital Supporter Edition",
-    "type": "game",
-    "discount": "-43%",
-    "price": 22.47,
-    "lowest": 22.47,
     "stock": true,
     "status": "par",
     "last_time_updated": "01-02-2024"
