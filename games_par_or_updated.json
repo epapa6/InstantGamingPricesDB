@@ -6196,7 +6196,7 @@
     "price": 1.14,
     "lowest": 1.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -6206,7 +6206,7 @@
     "price": 1.14,
     "lowest": 1.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -6236,7 +6236,7 @@
     "price": 1.15,
     "lowest": 1.15,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -6556,7 +6556,7 @@
     "price": 1.24,
     "lowest": 1.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -7650,6 +7650,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Monstrum 2",
+    "type": "game",
+    "discount": "-84%",
+    "price": 1.53,
+    "lowest": 1.53,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "Project Highrise: Las Vegas",
     "type": "DLC",
     "discount": "-78%",
@@ -7776,7 +7786,7 @@
     "price": 1.57,
     "lowest": 1.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -8026,7 +8036,7 @@
     "price": 1.61,
     "lowest": 1.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -8846,7 +8856,7 @@
     "price": 1.86,
     "lowest": 1.86,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -9156,7 +9166,7 @@
     "price": 1.96,
     "lowest": 1.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -10956,7 +10966,7 @@
     "price": 2.45,
     "lowest": 2.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -11016,7 +11026,7 @@
     "price": 2.47,
     "lowest": 2.47,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -11286,7 +11296,7 @@
     "price": 2.55,
     "lowest": 2.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -11937,6 +11947,16 @@
     "lowest": 2.8,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-02-2024"
+  },
+  {
+    "title": "Nantucket",
+    "type": "game",
+    "discount": "-84%",
+    "price": 2.8,
+    "lowest": 2.8,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -13336,7 +13356,7 @@
     "price": 3.24,
     "lowest": 3.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -13886,7 +13906,7 @@
     "price": 3.46,
     "lowest": 3.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -14076,7 +14096,7 @@
     "price": 3.5,
     "lowest": 3.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -14426,7 +14446,7 @@
     "price": 3.72,
     "lowest": 3.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -14806,7 +14826,7 @@
     "price": 3.88,
     "lowest": 3.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -14976,7 +14996,7 @@
     "price": 3.96,
     "lowest": 3.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -15526,7 +15546,7 @@
     "price": 4.04,
     "lowest": 4.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -15776,7 +15796,7 @@
     "price": 4.24,
     "lowest": 4.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -16096,16 +16116,6 @@
     "price": 4.34,
     "lowest": 4.34,
     "stock": true,
-    "status": "updated",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Dead Island: Riptide Complete Edition",
-    "type": "game",
-    "discount": "-78%",
-    "price": 4.35,
-    "lowest": 4.35,
-    "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
@@ -16396,7 +16406,7 @@
     "price": 4.5,
     "lowest": 4.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -17540,6 +17550,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Redout 2",
+    "type": "game",
+    "discount": "-83%",
+    "price": 5.11,
+    "lowest": 5.11,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "The Escapists: The Walking Dead Deluxe",
     "type": "game",
     "discount": "-71%",
@@ -17713,16 +17733,6 @@
     "title": "Construction Simulator 2015 Deluxe Edition",
     "type": "game",
     "discount": "-79%",
-    "price": 5.22,
-    "lowest": 5.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Redout 2",
-    "type": "game",
-    "discount": "-83%",
     "price": 5.22,
     "lowest": 5.22,
     "stock": true,
@@ -18266,7 +18276,7 @@
     "price": 5.65,
     "lowest": 5.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -19070,6 +19080,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Tricky Towers",
+    "type": "game",
+    "discount": "-58%",
+    "price": 6.28,
+    "lowest": 6.28,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "Aeronautica Imperialis: Flight Command",
     "type": "game",
     "discount": "-73%",
@@ -19656,7 +19676,7 @@
     "price": 6.61,
     "lowest": 6.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -19725,16 +19745,6 @@
     "discount": "-67%",
     "price": 6.62,
     "lowest": 6.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "WW2: Bunker Simulator",
-    "type": "game",
-    "discount": "-34%",
-    "price": 6.63,
-    "lowest": 6.63,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
@@ -19996,7 +20006,7 @@
     "price": 6.73,
     "lowest": 6.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -20726,7 +20736,7 @@
     "price": 7.27,
     "lowest": 7.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -21510,6 +21520,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "RPG Maker VX Ace",
+    "type": "game",
+    "discount": "-88%",
+    "price": 8.08,
+    "lowest": 8.08,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "The Guild 2 - Pirates of the European Seas",
     "type": "game",
     "discount": "-19%",
@@ -22016,7 +22036,7 @@
     "price": 8.63,
     "lowest": 8.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -22496,7 +22516,7 @@
     "price": 9.06,
     "lowest": 9.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -22586,7 +22606,7 @@
     "price": 9.2,
     "lowest": 9.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -22686,7 +22706,7 @@
     "price": 9.33,
     "lowest": 9.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -22826,7 +22846,7 @@
     "price": 9.4,
     "lowest": 9.4,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -23506,7 +23526,7 @@
     "price": 10.24,
     "lowest": 10.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -24755,7 +24775,7 @@
     "discount": "-66%",
     "price": 11.97,
     "lowest": 11.97,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
@@ -25326,7 +25346,7 @@
     "price": 12.79,
     "lowest": 12.79,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26106,7 +26126,7 @@
     "price": 14.49,
     "lowest": 14.49,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26126,7 +26146,7 @@
     "price": 14.5,
     "lowest": 14.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26196,7 +26216,7 @@
     "price": 14.79,
     "lowest": 14.79,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26336,7 +26356,7 @@
     "price": 15.01,
     "lowest": 15.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26396,7 +26416,7 @@
     "price": 15.16,
     "lowest": 15.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26616,7 +26636,7 @@
     "price": 15.72,
     "lowest": 15.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -26996,7 +27016,7 @@
     "price": 17.06,
     "lowest": 17.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -27500,21 +27520,21 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Metal: Hellsinger - Complete Edition",
+    "type": "game",
+    "discount": "-63%",
+    "price": 18.66,
+    "lowest": 18.66,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "SGS Halls of Montezuma",
     "type": "game",
     "discount": "-11%",
     "price": 18.73,
     "lowest": 18.73,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Metal: Hellsinger - Complete Edition",
-    "type": "game",
-    "discount": "-62%",
-    "price": 18.77,
-    "lowest": 18.77,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
@@ -27846,7 +27866,7 @@
     "price": 20.1,
     "lowest": 20.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -28076,7 +28096,7 @@
     "price": 21.72,
     "lowest": 21.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -28846,7 +28866,7 @@
     "price": 30.87,
     "lowest": 30.87,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -29276,7 +29296,7 @@
     "price": 40.53,
     "lowest": 40.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
