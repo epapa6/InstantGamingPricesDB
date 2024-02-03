@@ -7656,7 +7656,7 @@
     "price": 1.53,
     "lowest": 1.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -8350,19 +8350,19 @@
     "last_time_updated": "03-02-2024"
   },
   {
-    "title": "Parkasaurus",
+    "title": "Yooka-Laylee and the Impossible Lair",
     "type": "game",
-    "discount": "-92%",
+    "discount": "-94%",
     "price": 1.7,
     "lowest": 1.7,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
-    "title": "Yooka-Laylee and the Impossible Lair",
+    "title": "Parkasaurus",
     "type": "game",
-    "discount": "-94%",
+    "discount": "-92%",
     "price": 1.7,
     "lowest": 1.7,
     "stock": true,
@@ -11956,7 +11956,7 @@
     "price": 2.8,
     "lowest": 2.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -13070,6 +13070,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "The Surge 2 - The Kraken Expansion",
+    "type": "DLC",
+    "discount": "-38%",
+    "price": 3.1,
+    "lowest": 3.1,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "Adam's Venture: Origins",
     "type": "game",
     "discount": "-68%",
@@ -13177,6 +13187,16 @@
     "lowest": 3.16,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-02-2024"
+  },
+  {
+    "title": "SpiderHeck",
+    "type": "game",
+    "discount": "-79%",
+    "price": 3.17,
+    "lowest": 3.17,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -13325,16 +13345,6 @@
     "discount": "-20%",
     "price": 3.2,
     "lowest": 3.2,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "The Surge 2 - The Kraken Expansion",
-    "type": "DLC",
-    "discount": "-36%",
-    "price": 3.21,
-    "lowest": 3.21,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
@@ -16540,16 +16550,6 @@
     "last_time_updated": "03-02-2024"
   },
   {
-    "title": "Wolfstride",
-    "type": "game",
-    "discount": "-64%",
-    "price": 4.65,
-    "lowest": 4.65,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
     "title": "Farming Life",
     "type": "game",
     "discount": "-53%",
@@ -17556,7 +17556,7 @@
     "price": 5.11,
     "lowest": 5.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -18060,19 +18060,19 @@
     "last_time_updated": "03-02-2024"
   },
   {
-    "title": "Train Simulator: Liverpool-Manchester Route",
-    "type": "DLC",
-    "discount": "-73%",
+    "title": "Super Impossible Road",
+    "type": "game",
+    "discount": "-56%",
     "price": 5.45,
     "lowest": 5.45,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
-    "title": "Super Impossible Road",
-    "type": "game",
-    "discount": "-56%",
+    "title": "Train Simulator: Liverpool-Manchester Route",
+    "type": "DLC",
+    "discount": "-73%",
     "price": 5.45,
     "lowest": 5.45,
     "stock": true,
@@ -20310,6 +20310,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Warhammer 40,000: Gladius - Adeptus Mechanicus",
+    "type": "DLC",
+    "discount": "-58%",
+    "price": 6.99,
+    "lowest": 6.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "Turnip Boy Robs a Bank",
     "type": "game",
     "discount": "-53%",
@@ -20353,16 +20363,6 @@
     "title": "Cities: Skylines - Hotels & Retreats",
     "type": "DLC",
     "discount": "-13%",
-    "price": 6.99,
-    "lowest": 6.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Warhammer 40,000: Gladius - Adeptus Mechanicus",
-    "type": "DLC",
-    "discount": "-58%",
     "price": 6.99,
     "lowest": 6.99,
     "stock": true,
@@ -21526,7 +21526,7 @@
     "price": 8.08,
     "lowest": 8.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -25185,7 +25185,7 @@
     "discount": "-75%",
     "price": 12.43,
     "lowest": 12.43,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
@@ -27526,7 +27526,7 @@
     "price": 18.66,
     "lowest": 18.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -28810,6 +28810,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Bonelab",
+    "type": "game",
+    "discount": "-26%",
+    "price": 29.74,
+    "lowest": 29.74,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "Medieval Dynasty - Ultimate Edition",
     "type": "game",
     "discount": "-48%",
@@ -28817,6 +28827,16 @@
     "lowest": 29.89,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-02-2024"
+  },
+  {
+    "title": "Train Sim World 4: Deluxe Edition",
+    "type": "game",
+    "discount": "-54%",
+    "price": 29.94,
+    "lowest": 29.94,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -28835,16 +28855,6 @@
     "discount": "-50%",
     "price": 29.99,
     "lowest": 29.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Train Sim World 4: Deluxe Edition",
-    "type": "game",
-    "discount": "-54%",
-    "price": 30.05,
-    "lowest": 30.05,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
