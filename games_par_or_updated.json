@@ -2130,16 +2130,6 @@
     "last_time_updated": "03-02-2024"
   },
   {
-    "title": "Black Mirror III",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
     "title": "Cobra Kai: The Karate Kid Saga Continues",
     "type": "game",
     "discount": "-95%",
@@ -8065,7 +8055,7 @@
     "discount": "-84%",
     "price": 1.62,
     "lowest": 1.62,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
@@ -9165,7 +9155,7 @@
     "discount": "-90%",
     "price": 1.95,
     "lowest": 1.95,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-02-2024"
   },
@@ -10505,6 +10495,16 @@
     "discount": "-85%",
     "price": 2.27,
     "lowest": 2.27,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "03-02-2024"
+  },
+  {
+    "title": "Broforce",
+    "type": "game",
+    "discount": "-85%",
+    "price": 2.28,
+    "lowest": 2.28,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
@@ -12960,6 +12960,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Star Wars Empire at War: Gold Pack",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.06,
+    "lowest": 3.06,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "Hearts of Iron 2 Complete Edition",
     "type": "game",
     "discount": "-80%",
@@ -13235,16 +13245,6 @@
     "discount": "-36%",
     "price": 3.17,
     "lowest": 3.17,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Star Wars Empire at War: Gold Pack",
-    "type": "game",
-    "discount": "-84%",
-    "price": 3.18,
-    "lowest": 3.18,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
@@ -16896,7 +16896,7 @@
     "price": 4.81,
     "lowest": 4.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-02-2024"
   },
   {
@@ -21300,6 +21300,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Dragon Ball FighterZ: FighterZ Pass 3",
+    "type": "DLC",
+    "discount": "-62%",
+    "price": 7.6,
+    "lowest": 7.6,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "HUMANKIND - Together We Rule",
     "type": "DLC",
     "discount": "-62%",
@@ -21315,16 +21325,6 @@
     "discount": "-74%",
     "price": 7.68,
     "lowest": 7.68,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Dragon Ball FighterZ: FighterZ Pass 3",
-    "type": "DLC",
-    "discount": "-61%",
-    "price": 7.71,
-    "lowest": 7.71,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-02-2024"
@@ -26560,6 +26560,16 @@
     "last_time_updated": "03-02-2024"
   },
   {
+    "title": "Digimon World: Next Order",
+    "type": "game",
+    "discount": "-69%",
+    "price": 15.4,
+    "lowest": 15.4,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-02-2024"
+  },
+  {
     "title": "King Arthur: Knight's Tale",
     "type": "game",
     "discount": "-66%",
@@ -26827,16 +26837,6 @@
     "lowest": 16.0,
     "stock": true,
     "status": "par",
-    "last_time_updated": "03-02-2024"
-  },
-  {
-    "title": "Digimon World: Next Order",
-    "type": "game",
-    "discount": "-68%",
-    "price": 16.15,
-    "lowest": 16.15,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "03-02-2024"
   },
   {
