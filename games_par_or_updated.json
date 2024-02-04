@@ -7715,7 +7715,7 @@
     "discount": "-38%",
     "price": 1.55,
     "lowest": 1.55,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "04-02-2024"
   },
@@ -9686,7 +9686,7 @@
     "price": 2.07,
     "lowest": 2.07,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-02-2024"
   },
   {
@@ -10620,6 +10620,16 @@
     "last_time_updated": "04-02-2024"
   },
   {
+    "title": "Lamentum",
+    "type": "game",
+    "discount": "-85%",
+    "price": 2.37,
+    "lowest": 2.37,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-02-2024"
+  },
+  {
     "title": "Flipon",
     "type": "game",
     "discount": "-41%",
@@ -10771,16 +10781,6 @@
   },
   {
     "title": "The Last Crown: Midnight Horror",
-    "type": "game",
-    "discount": "-52%",
-    "price": 2.41,
-    "lowest": 2.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-02-2024"
-  },
-  {
-    "title": "Stay Safe",
     "type": "game",
     "discount": "-52%",
     "price": 2.41,
@@ -13046,7 +13046,7 @@
     "price": 3.14,
     "lowest": 3.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-02-2024"
   },
   {
@@ -14116,7 +14116,7 @@
     "price": 3.57,
     "lowest": 3.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-02-2024"
   },
   {
@@ -14536,7 +14536,7 @@
     "price": 3.85,
     "lowest": 3.85,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-02-2024"
   },
   {
@@ -15680,6 +15680,16 @@
     "last_time_updated": "04-02-2024"
   },
   {
+    "title": "Company of Heroes",
+    "type": "game",
+    "discount": "-68%",
+    "price": 4.2,
+    "lowest": 4.2,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "04-02-2024"
+  },
+  {
     "title": "Kingdoms of Amalur: Re-Reckoning",
     "type": "game",
     "discount": "-89%",
@@ -15693,16 +15703,6 @@
     "title": "Monument Valley: Panoramic Edition",
     "type": "game",
     "discount": "-40%",
-    "price": 4.2,
-    "lowest": 4.2,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-02-2024"
-  },
-  {
-    "title": "Company of Heroes",
-    "type": "game",
-    "discount": "-68%",
     "price": 4.2,
     "lowest": 4.2,
     "stock": true,
@@ -18210,6 +18210,16 @@
     "last_time_updated": "04-02-2024"
   },
   {
+    "title": "Wobbledogs",
+    "type": "game",
+    "discount": "-72%",
+    "price": 5.68,
+    "lowest": 5.68,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-02-2024"
+  },
+  {
     "title": "Hexamon",
     "type": "game",
     "discount": "-43%",
@@ -20533,16 +20543,6 @@
     "title": "Outward Definitive Edition",
     "type": "game",
     "discount": "-82%",
-    "price": 7.18,
-    "lowest": 7.18,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-02-2024"
-  },
-  {
-    "title": "Lamentum",
-    "type": "game",
-    "discount": "-55%",
     "price": 7.18,
     "lowest": 7.18,
     "stock": true,
@@ -24470,6 +24470,16 @@
     "last_time_updated": "04-02-2024"
   },
   {
+    "title": "Blacktail",
+    "type": "game",
+    "discount": "-61%",
+    "price": 11.81,
+    "lowest": 11.81,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-02-2024"
+  },
+  {
     "title": "8-Bit Invaders!",
     "type": "game",
     "discount": "-20%",
@@ -25650,16 +25660,6 @@
     "last_time_updated": "04-02-2024"
   },
   {
-    "title": "Wobbledogs",
-    "type": "game",
-    "discount": "-31%",
-    "price": 13.81,
-    "lowest": 13.81,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-02-2024"
-  },
-  {
     "title": "Hotel: A Resort Simulator",
     "type": "game",
     "discount": "-31%",
@@ -25897,6 +25897,16 @@
     "lowest": 14.35,
     "stock": true,
     "status": "par",
+    "last_time_updated": "04-02-2024"
+  },
+  {
+    "title": "Destiny 2: L'Eclissi",
+    "type": "DLC",
+    "discount": "-71%",
+    "price": 14.37,
+    "lowest": 14.37,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "04-02-2024"
   },
   {
