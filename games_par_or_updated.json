@@ -4410,16 +4410,6 @@
     "last_time_updated": "05-02-2024"
   },
   {
-    "title": "Cyber Hook",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "05-02-2024"
-  },
-  {
     "title": "Fated Souls 3",
     "type": "game",
     "discount": "-85%",
@@ -9445,7 +9435,7 @@
     "discount": "-95%",
     "price": 2.07,
     "lowest": 2.07,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
@@ -10541,6 +10531,16 @@
   },
   {
     "title": "The Last Crown: Midnight Horror",
+    "type": "game",
+    "discount": "-52%",
+    "price": 2.41,
+    "lowest": 2.41,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "05-02-2024"
+  },
+  {
+    "title": "Stay Safe",
     "type": "game",
     "discount": "-52%",
     "price": 2.41,
@@ -11895,7 +11895,7 @@
     "discount": "-42%",
     "price": 2.89,
     "lowest": 2.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
@@ -13590,19 +13590,19 @@
     "last_time_updated": "05-02-2024"
   },
   {
-    "title": "Destroyer: The U-Boat Hunter - Supporter Pack",
-    "type": "DLC",
-    "discount": "-65%",
+    "title": "Yuppie Psycho: Executive Edition",
+    "type": "game",
+    "discount": "-79%",
     "price": 3.49,
     "lowest": 3.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
   {
-    "title": "Yuppie Psycho: Executive Edition",
-    "type": "game",
-    "discount": "-79%",
+    "title": "Destroyer: The U-Boat Hunter - Supporter Pack",
+    "type": "DLC",
+    "discount": "-65%",
     "price": 3.49,
     "lowest": 3.49,
     "stock": true,
@@ -15955,16 +15955,6 @@
     "discount": "-68%",
     "price": 4.49,
     "lowest": 4.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "05-02-2024"
-  },
-  {
-    "title": "Roguebook Deluxe Edition",
-    "type": "game",
-    "discount": "-87%",
-    "price": 4.5,
-    "lowest": 4.5,
     "stock": true,
     "status": "par",
     "last_time_updated": "05-02-2024"
@@ -20365,7 +20355,7 @@
     "discount": "-71%",
     "price": 7.37,
     "lowest": 7.37,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
@@ -20435,16 +20425,6 @@
     "discount": "-62%",
     "price": 7.46,
     "lowest": 7.46,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "05-02-2024"
-  },
-  {
-    "title": "Greedfall Gold Edition",
-    "type": "game",
-    "discount": "-81%",
-    "price": 7.48,
-    "lowest": 7.48,
     "stock": true,
     "status": "par",
     "last_time_updated": "05-02-2024"
@@ -23650,6 +23630,16 @@
     "last_time_updated": "05-02-2024"
   },
   {
+    "title": "Return to Monkey Island",
+    "type": "game",
+    "discount": "-55%",
+    "price": 11.05,
+    "lowest": 11.05,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "05-02-2024"
+  },
+  {
     "title": "Serin Fate",
     "type": "game",
     "discount": "-34%",
@@ -25520,6 +25510,16 @@
     "last_time_updated": "05-02-2024"
   },
   {
+    "title": "Destiny 2: L'Eclissi",
+    "type": "DLC",
+    "discount": "-71%",
+    "price": 14.25,
+    "lowest": 14.25,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "05-02-2024"
+  },
+  {
     "title": "Magical Drop VI",
     "type": "game",
     "discount": "-52%",
@@ -25535,16 +25535,6 @@
     "discount": "-43%",
     "price": 14.35,
     "lowest": 14.35,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "05-02-2024"
-  },
-  {
-    "title": "Destiny 2: L'Eclissi",
-    "type": "DLC",
-    "discount": "-71%",
-    "price": 14.37,
-    "lowest": 14.37,
     "stock": true,
     "status": "par",
     "last_time_updated": "05-02-2024"
@@ -25627,6 +25617,16 @@
     "lowest": 14.69,
     "stock": true,
     "status": "par",
+    "last_time_updated": "05-02-2024"
+  },
+  {
+    "title": "Wasteland 3 Colorado Collection",
+    "type": "game",
+    "discount": "-72%",
+    "price": 14.7,
+    "lowest": 14.7,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "05-02-2024"
   },
   {
@@ -27966,7 +27966,7 @@
     "price": 25.35,
     "lowest": 25.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "05-02-2024"
   },
   {
@@ -28745,7 +28745,7 @@
     "discount": "-16%",
     "price": 42.24,
     "lowest": 42.24,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
@@ -29036,7 +29036,7 @@
     "price": 57.99,
     "lowest": 57.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "05-02-2024"
   },
   {
