@@ -60,6 +60,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "RIOT: Civil Unrest",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "05-02-2024"
+  },
+  {
     "title": "Moving Out - Movers in Paradise",
     "type": "DLC",
     "discount": "-87%",
@@ -463,16 +473,6 @@
     "title": "Cities: Skylines - Content Creator Pack: Map Pack 2",
     "type": "DLC",
     "discount": "-83%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "05-02-2024"
-  },
-  {
-    "title": "RIOT: Civil Unrest",
-    "type": "game",
-    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6695,7 +6695,7 @@
     "discount": "-93%",
     "price": 1.33,
     "lowest": 1.33,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
@@ -21016,7 +21016,7 @@
     "price": 8.05,
     "lowest": 8.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "05-02-2024"
   },
   {
@@ -23536,7 +23536,7 @@
     "price": 10.93,
     "lowest": 10.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "05-02-2024"
   },
   {
@@ -24675,7 +24675,7 @@
     "discount": "-75%",
     "price": 12.43,
     "lowest": 12.43,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "05-02-2024"
   },
@@ -27963,10 +27963,10 @@
     "title": "Destiny 2: L'Eclissi + Pass annuale",
     "type": "DLC",
     "discount": "-75%",
-    "price": 25.48,
-    "lowest": 25.48,
+    "price": 25.35,
+    "lowest": 25.35,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "05-02-2024"
   },
   {
@@ -29032,11 +29032,11 @@
   {
     "title": "Warhammer 40,000: Inquisitor - Martyr Definitive Edition",
     "type": "game",
-    "discount": "-33%",
-    "price": 60.58,
-    "lowest": 60.58,
+    "discount": "-36%",
+    "price": 57.99,
+    "lowest": 57.99,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "05-02-2024"
   },
   {
