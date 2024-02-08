@@ -60,6 +60,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "The Little Acre",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "08-02-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -4540,16 +4550,6 @@
     "last_time_updated": "08-02-2024"
   },
   {
-    "title": "The Little Acre",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-02-2024"
-  },
-  {
     "title": "The Dark Stone From Mebara",
     "type": "game",
     "discount": "-86%",
@@ -4996,7 +4996,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -5486,7 +5486,7 @@
     "price": 1.01,
     "lowest": 1.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -7736,7 +7736,7 @@
     "price": 1.61,
     "lowest": 1.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -7801,6 +7801,16 @@
   },
   {
     "title": "Dogfight 1942",
+    "type": "game",
+    "discount": "-83%",
+    "price": 1.65,
+    "lowest": 1.65,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "08-02-2024"
+  },
+  {
+    "title": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
     "type": "game",
     "discount": "-83%",
     "price": 1.65,
@@ -8440,16 +8450,6 @@
     "last_time_updated": "08-02-2024"
   },
   {
-    "title": "Plebby Quest: The Crusades",
-    "type": "game",
-    "discount": "-89%",
-    "price": 1.84,
-    "lowest": 1.84,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-02-2024"
-  },
-  {
     "title": "Lamentum",
     "type": "game",
     "discount": "-88%",
@@ -8836,7 +8836,7 @@
     "price": 1.95,
     "lowest": 1.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -9536,7 +9536,7 @@
     "price": 2.14,
     "lowest": 2.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -10146,7 +10146,7 @@
     "price": 2.31,
     "lowest": 2.31,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -10266,7 +10266,7 @@
     "price": 2.34,
     "lowest": 2.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -11356,7 +11356,7 @@
     "price": 2.74,
     "lowest": 2.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -11796,7 +11796,7 @@
     "price": 2.89,
     "lowest": 2.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -12016,7 +12016,7 @@
     "price": 2.96,
     "lowest": 2.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -12526,7 +12526,7 @@
     "price": 3.09,
     "lowest": 3.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -13266,7 +13266,7 @@
     "price": 3.4,
     "lowest": 3.4,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -16116,7 +16116,7 @@
     "price": 4.76,
     "lowest": 4.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -17456,7 +17456,7 @@
     "price": 5.5,
     "lowest": 5.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -18306,7 +18306,7 @@
     "price": 6.04,
     "lowest": 6.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -18416,7 +18416,7 @@
     "price": 6.2,
     "lowest": 6.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -19500,6 +19500,16 @@
     "last_time_updated": "08-02-2024"
   },
   {
+    "title": "Gods Will Fall",
+    "type": "game",
+    "discount": "-54%",
+    "price": 6.87,
+    "lowest": 6.87,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "08-02-2024"
+  },
+  {
     "title": "Airport Simulator 2019",
     "type": "game",
     "discount": "-66%",
@@ -19573,16 +19583,6 @@
     "title": "TinyShot",
     "type": "game",
     "discount": "-31%",
-    "price": 6.87,
-    "lowest": 6.87,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-02-2024"
-  },
-  {
-    "title": "Gods Will Fall",
-    "type": "game",
-    "discount": "-54%",
     "price": 6.87,
     "lowest": 6.87,
     "stock": true,
@@ -20596,7 +20596,7 @@
     "price": 7.81,
     "lowest": 7.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -22976,7 +22976,7 @@
     "price": 10.55,
     "lowest": 10.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -23156,7 +23156,7 @@
     "price": 10.76,
     "lowest": 10.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -23730,6 +23730,16 @@
     "last_time_updated": "08-02-2024"
   },
   {
+    "title": "Tales Of Arise",
+    "type": "game",
+    "discount": "-71%",
+    "price": 11.55,
+    "lowest": 11.55,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "08-02-2024"
+  },
+  {
     "title": "Surviving the Aftermath: New Alliances",
     "type": "DLC",
     "discount": "-23%",
@@ -23765,16 +23775,6 @@
     "discount": "-23%",
     "price": 11.58,
     "lowest": 11.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-02-2024"
-  },
-  {
-    "title": "Tales Of Arise",
-    "type": "game",
-    "discount": "-71%",
-    "price": 11.66,
-    "lowest": 11.66,
     "stock": true,
     "status": "par",
     "last_time_updated": "08-02-2024"
@@ -26216,7 +26216,7 @@
     "price": 17.35,
     "lowest": 17.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -27706,7 +27706,7 @@
     "price": 26.91,
     "lowest": 26.91,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -27776,7 +27776,7 @@
     "price": 27.77,
     "lowest": 27.77,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-02-2024"
   },
   {
@@ -28630,21 +28630,21 @@
     "last_time_updated": "08-02-2024"
   },
   {
+    "title": "Naruto X Boruto Ultimate Ninja Storm Connections Ultimate Edition",
+    "type": "game",
+    "discount": "-44%",
+    "price": 52.8,
+    "lowest": 52.8,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "08-02-2024"
+  },
+  {
     "title": "SD Gundam Battle Alliance Deluxe Edition",
     "type": "game",
     "discount": "-30%",
     "price": 52.81,
     "lowest": 52.81,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-02-2024"
-  },
-  {
-    "title": "Naruto X Boruto Ultimate Ninja Storm Connections Ultimate Edition",
-    "type": "game",
-    "discount": "-44%",
-    "price": 52.91,
-    "lowest": 52.91,
     "stock": true,
     "status": "par",
     "last_time_updated": "08-02-2024"
