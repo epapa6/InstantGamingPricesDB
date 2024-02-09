@@ -70,6 +70,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "SIMULACRA 2",
+    "type": "game",
+    "discount": "-87%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -1470,16 +1480,6 @@
     "last_time_updated": "09-02-2024"
   },
   {
-    "title": "SIMULACRA 2",
-    "type": "game",
-    "discount": "-87%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
     "title": "Agatha Christie - The ABC Murders",
     "type": "game",
     "discount": "-93%",
@@ -2253,6 +2253,16 @@
     "title": "Cities: Skylines - Coast to Coast Radio",
     "type": "DLC",
     "discount": "-75%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
+    "title": "Deathtrap",
+    "type": "game",
+    "discount": "-95%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6090,6 +6100,16 @@
     "last_time_updated": "09-02-2024"
   },
   {
+    "title": "Simulacra",
+    "type": "game",
+    "discount": "-71%",
+    "price": 1.14,
+    "lowest": 1.14,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "Vampire: The Masquerade - Coteries of New York",
     "type": "game",
     "discount": "-94%",
@@ -6121,16 +6141,6 @@
   },
   {
     "title": "1,000 Heads Among The Trees",
-    "type": "game",
-    "discount": "-71%",
-    "price": 1.14,
-    "lowest": 1.14,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
-    "title": "Simulacra",
     "type": "game",
     "discount": "-71%",
     "price": 1.14,
@@ -6296,7 +6306,7 @@
     "price": 1.2,
     "lowest": 1.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -6527,6 +6537,16 @@
     "lowest": 1.26,
     "stock": true,
     "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
+    "title": "Hammerwatch",
+    "type": "game",
+    "discount": "-87%",
+    "price": 1.27,
+    "lowest": 1.27,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -6973,16 +6993,6 @@
     "title": "Overcooked! 2 - Campfire Cook Off",
     "type": "DLC",
     "discount": "-72%",
-    "price": 1.38,
-    "lowest": 1.38,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
-    "title": "Hammerwatch",
-    "type": "game",
-    "discount": "-86%",
     "price": 1.38,
     "lowest": 1.38,
     "stock": true,
@@ -8360,6 +8370,16 @@
     "last_time_updated": "09-02-2024"
   },
   {
+    "title": "Distrust",
+    "type": "game",
+    "discount": "-87%",
+    "price": 1.7,
+    "lowest": 1.7,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "PC Building Simulator - Republic of Gamers Workshop",
     "type": "DLC",
     "discount": "-66%",
@@ -8725,6 +8745,16 @@
     "discount": "-88%",
     "price": 1.83,
     "lowest": 1.83,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
+    "title": "Plebby Quest: The Crusades",
+    "type": "game",
+    "discount": "-89%",
+    "price": 1.84,
+    "lowest": 1.84,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-02-2024"
@@ -9636,7 +9666,7 @@
     "price": 2.03,
     "lowest": 2.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -9870,19 +9900,19 @@
     "last_time_updated": "09-02-2024"
   },
   {
-    "title": "One Step From Eden",
-    "type": "game",
-    "discount": "-89%",
+    "title": "PC Building Simulator - Overclocked Edition Content",
+    "type": "DLC",
+    "discount": "-45%",
     "price": 2.19,
     "lowest": 2.19,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
-    "title": "PC Building Simulator - Overclocked Edition Content",
-    "type": "DLC",
-    "discount": "-45%",
+    "title": "One Step From Eden",
+    "type": "game",
+    "discount": "-89%",
     "price": 2.19,
     "lowest": 2.19,
     "stock": true,
@@ -10146,7 +10176,7 @@
     "price": 2.24,
     "lowest": 2.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -10897,6 +10927,16 @@
     "lowest": 2.49,
     "stock": true,
     "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
+    "title": "Ary and the Secret of Seasons",
+    "type": "game",
+    "discount": "-94%",
+    "price": 2.49,
+    "lowest": 2.49,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -13600,6 +13640,16 @@
     "last_time_updated": "09-02-2024"
   },
   {
+    "title": "Rogue Legacy",
+    "type": "game",
+    "discount": "-77%",
+    "price": 3.46,
+    "lowest": 3.46,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "Ride 2",
     "type": "game",
     "discount": "-86%",
@@ -13880,16 +13930,6 @@
     "last_time_updated": "09-02-2024"
   },
   {
-    "title": "Rogue Legacy",
-    "type": "game",
-    "discount": "-76%",
-    "price": 3.57,
-    "lowest": 3.57,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
     "title": "Age of Viking Conquest",
     "type": "game",
     "discount": "-28%",
@@ -14015,6 +14055,16 @@
     "discount": "-64%",
     "price": 3.61,
     "lowest": 3.61,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
+    "title": "Crossroads Inn",
+    "type": "game",
+    "discount": "-76%",
+    "price": 3.62,
+    "lowest": 3.62,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-02-2024"
@@ -16010,6 +16060,16 @@
     "last_time_updated": "09-02-2024"
   },
   {
+    "title": "Wolfstride",
+    "type": "game",
+    "discount": "-65%",
+    "price": 4.51,
+    "lowest": 4.51,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "Final Fantasy VII",
     "type": "game",
     "discount": "-65%",
@@ -17050,6 +17110,16 @@
     "last_time_updated": "09-02-2024"
   },
   {
+    "title": "Brewmaster: Beer Brewing Simulator",
+    "type": "game",
+    "discount": "-72%",
+    "price": 5.02,
+    "lowest": 5.02,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "Brave Deeds of Rescue Team",
     "type": "game",
     "discount": "-32%",
@@ -17165,16 +17235,6 @@
     "discount": "-69%",
     "price": 5.14,
     "lowest": 5.14,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
-    "title": "Brewmaster: Beer Brewing Simulator",
-    "type": "game",
-    "discount": "-71%",
-    "price": 5.15,
-    "lowest": 5.15,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-02-2024"
@@ -19140,6 +19200,16 @@
     "last_time_updated": "09-02-2024"
   },
   {
+    "title": "King Of The Castle",
+    "type": "game",
+    "discount": "-34%",
+    "price": 6.56,
+    "lowest": 6.56,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-02-2024"
+  },
+  {
     "title": "Capcom Beat 'Em Up Bundle",
     "type": "game",
     "discount": "-67%",
@@ -19390,16 +19460,6 @@
     "last_time_updated": "09-02-2024"
   },
   {
-    "title": "Ary and the Secret of Seasons",
-    "type": "game",
-    "discount": "-83%",
-    "price": 6.65,
-    "lowest": 6.65,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
     "title": "Disney Pixar Cars: Radiator Springs Adventures",
     "type": "game",
     "discount": "-66%",
@@ -19465,16 +19525,6 @@
     "discount": "-24%",
     "price": 6.66,
     "lowest": 6.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
-    "title": "King Of The Castle",
-    "type": "game",
-    "discount": "-33%",
-    "price": 6.67,
-    "lowest": 6.67,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-02-2024"
@@ -21186,7 +21236,7 @@
     "price": 8.12,
     "lowest": 8.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -21755,16 +21805,6 @@
     "discount": "-75%",
     "price": 8.81,
     "lowest": 8.81,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-02-2024"
-  },
-  {
-    "title": "SD Gundam Battle Alliance",
-    "type": "game",
-    "discount": "-82%",
-    "price": 8.83,
-    "lowest": 8.83,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-02-2024"
@@ -22666,7 +22706,7 @@
     "price": 9.95,
     "lowest": 9.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -23896,7 +23936,7 @@
     "price": 11.44,
     "lowest": 11.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-02-2024"
   },
   {
@@ -24617,6 +24657,16 @@
     "lowest": 12.37,
     "stock": true,
     "status": "par",
+    "last_time_updated": "09-02-2024"
+  },
+  {
+    "title": "MX vs ATV Legends",
+    "type": "game",
+    "discount": "-69%",
+    "price": 12.39,
+    "lowest": 12.39,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "09-02-2024"
   },
   {
