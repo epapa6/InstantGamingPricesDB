@@ -70,6 +70,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Sacred Gold",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "10-02-2024"
+  },
+  {
     "title": "Sonic Adventure 2",
     "type": "game",
     "discount": "-90%",
@@ -353,16 +363,6 @@
     "title": "Morbid: The Seven Acolytes",
     "type": "game",
     "discount": "-96%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
-    "title": "Sacred Gold",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -10810,6 +10810,16 @@
     "last_time_updated": "10-02-2024"
   },
   {
+    "title": "Stay Safe",
+    "type": "game",
+    "discount": "-52%",
+    "price": 2.41,
+    "lowest": 2.41,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "10-02-2024"
+  },
+  {
     "title": "Size Matters",
     "type": "game",
     "discount": "-75%",
@@ -10856,7 +10866,7 @@
     "price": 2.44,
     "lowest": 2.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -12756,7 +12766,7 @@
     "price": 3.03,
     "lowest": 3.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -15450,16 +15460,6 @@
     "last_time_updated": "10-02-2024"
   },
   {
-    "title": "Ancestors Legacy: Complete Edition",
-    "type": "game",
-    "discount": "-91%",
-    "price": 4.12,
-    "lowest": 4.12,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
     "title": "NARUTO: Ultimate Ninja STORM",
     "type": "game",
     "discount": "-79%",
@@ -15980,6 +15980,16 @@
     "last_time_updated": "10-02-2024"
   },
   {
+    "title": "Final Fantasy VII",
+    "type": "game",
+    "discount": "-66%",
+    "price": 4.41,
+    "lowest": 4.41,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-02-2024"
+  },
+  {
     "title": "Deck of Ashes",
     "type": "game",
     "discount": "-78%",
@@ -16155,16 +16165,6 @@
     "discount": "-35%",
     "price": 4.49,
     "lowest": 4.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
-    "title": "Final Fantasy VII",
-    "type": "game",
-    "discount": "-65%",
-    "price": 4.52,
-    "lowest": 4.52,
     "stock": true,
     "status": "par",
     "last_time_updated": "10-02-2024"
@@ -22040,19 +22040,19 @@
     "last_time_updated": "10-02-2024"
   },
   {
-    "title": "Farming Simulator 19",
+    "title": "Counter Strike: Source",
     "type": "game",
-    "discount": "-50%",
+    "discount": "-8%",
     "price": 8.99,
     "lowest": 8.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
-    "title": "Counter Strike: Source",
+    "title": "Farming Simulator 19",
     "type": "game",
-    "discount": "-8%",
+    "discount": "-50%",
     "price": 8.99,
     "lowest": 8.99,
     "stock": true,
@@ -23227,6 +23227,16 @@
     "lowest": 10.29,
     "stock": true,
     "status": "par",
+    "last_time_updated": "10-02-2024"
+  },
+  {
+    "title": "The Long Dark",
+    "type": "game",
+    "discount": "-66%",
+    "price": 10.3,
+    "lowest": 10.3,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -26315,7 +26325,7 @@
     "discount": "-60%",
     "price": 16.17,
     "lowest": 16.17,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-02-2024"
   },
@@ -29065,7 +29075,7 @@
     "discount": "-53%",
     "price": 44.75,
     "lowest": 44.75,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-02-2024"
   },
