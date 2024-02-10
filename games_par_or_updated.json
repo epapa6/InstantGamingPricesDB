@@ -70,6 +70,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Hatred",
+    "type": "game",
+    "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "10-02-2024"
+  },
+  {
     "title": "Sacred Gold",
     "type": "game",
     "discount": "-90%",
@@ -133,16 +143,6 @@
     "title": "Mr. Prepper",
     "type": "game",
     "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
-    "title": "Hatred",
-    "type": "game",
-    "discount": "-80%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5726,7 +5726,7 @@
     "price": 1.04,
     "lowest": 1.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -5907,6 +5907,16 @@
     "lowest": 1.1,
     "stock": true,
     "status": "par",
+    "last_time_updated": "10-02-2024"
+  },
+  {
+    "title": "E.T. Armies",
+    "type": "game",
+    "discount": "-93%",
+    "price": 1.1,
+    "lowest": 1.1,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -6410,16 +6420,6 @@
     "last_time_updated": "10-02-2024"
   },
   {
-    "title": "E.T. Armies",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.21,
-    "lowest": 1.21,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
     "title": "Dungeons II",
     "type": "game",
     "discount": "-94%",
@@ -6516,7 +6516,7 @@
     "price": 1.25,
     "lowest": 1.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -7003,16 +7003,6 @@
     "title": "Star Wars Republic Commando",
     "type": "game",
     "discount": "-86%",
-    "price": 1.38,
-    "lowest": 1.38,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
-    "title": "Lumberjack's Dynasty",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.38,
     "lowest": 1.38,
     "stock": true,
@@ -8096,7 +8086,7 @@
     "price": 1.61,
     "lowest": 1.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -8526,7 +8516,7 @@
     "price": 1.73,
     "lowest": 1.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -11316,7 +11306,7 @@
     "price": 2.61,
     "lowest": 2.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -12316,7 +12306,7 @@
     "price": 2.94,
     "lowest": 2.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -12346,7 +12336,7 @@
     "price": 2.96,
     "lowest": 2.96,
     "stock": false,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -13097,6 +13087,16 @@
     "lowest": 3.18,
     "stock": true,
     "status": "par",
+    "last_time_updated": "10-02-2024"
+  },
+  {
+    "title": "Strange Brigade - Season Pass",
+    "type": "DLC",
+    "discount": "-91%",
+    "price": 3.19,
+    "lowest": 3.19,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -13950,19 +13950,19 @@
     "last_time_updated": "10-02-2024"
   },
   {
-    "title": "The Fisherman Fishing Planet",
-    "type": "game",
-    "discount": "-88%",
+    "title": "City of Gangsters: Criminal Record",
+    "type": "DLC",
+    "discount": "-40%",
     "price": 3.53,
     "lowest": 3.53,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
-    "title": "City of Gangsters: Criminal Record",
-    "type": "DLC",
-    "discount": "-40%",
+    "title": "The Fisherman Fishing Planet",
+    "type": "game",
+    "discount": "-88%",
     "price": 3.53,
     "lowest": 3.53,
     "stock": true,
@@ -14356,7 +14356,7 @@
     "price": 3.75,
     "lowest": 3.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -15336,7 +15336,7 @@
     "price": 4.07,
     "lowest": 4.07,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -15436,7 +15436,7 @@
     "price": 4.16,
     "lowest": 4.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -17686,7 +17686,7 @@
     "price": 5.42,
     "lowest": 5.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -18776,7 +18776,7 @@
     "price": 6.28,
     "lowest": 6.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -19716,7 +19716,7 @@
     "price": 6.81,
     "lowest": 6.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -19986,7 +19986,7 @@
     "price": 6.93,
     "lowest": 6.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -20260,6 +20260,16 @@
     "last_time_updated": "10-02-2024"
   },
   {
+    "title": "Rogue Lords - Blood Moon Edition",
+    "type": "game",
+    "discount": "-76%",
+    "price": 7.02,
+    "lowest": 7.02,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-02-2024"
+  },
+  {
     "title": "The Crow's Eye",
     "type": "game",
     "discount": "-28%",
@@ -20325,16 +20335,6 @@
     "discount": "-27%",
     "price": 7.13,
     "lowest": 7.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
-    "title": "Rogue Lords - Blood Moon Edition",
-    "type": "game",
-    "discount": "-76%",
-    "price": 7.16,
-    "lowest": 7.16,
     "stock": true,
     "status": "par",
     "last_time_updated": "10-02-2024"
@@ -20836,7 +20836,7 @@
     "price": 7.68,
     "lowest": 7.68,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -22446,7 +22446,7 @@
     "price": 9.45,
     "lowest": 9.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -22556,7 +22556,7 @@
     "price": 9.63,
     "lowest": 9.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -23096,7 +23096,7 @@
     "price": 10.21,
     "lowest": 10.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -23656,7 +23656,7 @@
     "price": 11.03,
     "lowest": 11.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -25233,10 +25233,10 @@
     "title": "Destiny 2: L'Eclissi",
     "type": "DLC",
     "discount": "-73%",
-    "price": 13.7,
-    "lowest": 13.7,
+    "price": 13.58,
+    "lowest": 13.58,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -26026,7 +26026,7 @@
     "price": 15.7,
     "lowest": 15.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -26396,7 +26396,7 @@
     "price": 16.94,
     "lowest": 16.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -26906,7 +26906,7 @@
     "price": 18.03,
     "lowest": 18.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-02-2024"
   },
   {
@@ -27260,6 +27260,16 @@
     "last_time_updated": "10-02-2024"
   },
   {
+    "title": "Dirt 5",
+    "type": "game",
+    "discount": "-64%",
+    "price": 19.93,
+    "lowest": 19.93,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-02-2024"
+  },
+  {
     "title": "South Park: Snow Day!",
     "type": "game",
     "discount": "-33%",
@@ -27315,16 +27325,6 @@
     "discount": "-60%",
     "price": 20.02,
     "lowest": 20.02,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-02-2024"
-  },
-  {
-    "title": "Dirt 5",
-    "type": "game",
-    "discount": "-64%",
-    "price": 20.04,
-    "lowest": 20.04,
     "stock": true,
     "status": "par",
     "last_time_updated": "10-02-2024"
