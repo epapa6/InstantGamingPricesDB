@@ -70,6 +70,26 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Cossacks: Back to War",
+    "type": "game",
+    "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "11-02-2024"
+  },
+  {
+    "title": "KnightShift",
+    "type": "game",
+    "discount": "-89%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "11-02-2024"
+  },
+  {
     "title": "Stealth Bastard Deluxe",
     "type": "game",
     "discount": "-89%",
@@ -1050,16 +1070,6 @@
     "last_time_updated": "11-02-2024"
   },
   {
-    "title": "Cossacks: Back to War",
-    "type": "game",
-    "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-02-2024"
-  },
-  {
     "title": "Joe Danger + Joe Danger 2: The Movie",
     "type": "game",
     "discount": "-96%",
@@ -2003,16 +2013,6 @@
     "title": "Alien Breed 3: Descent",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-02-2024"
-  },
-  {
-    "title": "KnightShift",
-    "type": "game",
-    "discount": "-89%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5460,19 +5460,19 @@
     "last_time_updated": "11-02-2024"
   },
   {
-    "title": "1971 Project Helios",
+    "title": "Inferno Climber",
     "type": "game",
-    "discount": "-90%",
+    "discount": "-92%",
     "price": 1.04,
     "lowest": 1.04,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
-    "title": "Inferno Climber",
+    "title": "1971 Project Helios",
     "type": "game",
-    "discount": "-92%",
+    "discount": "-90%",
     "price": 1.04,
     "lowest": 1.04,
     "stock": true,
@@ -6566,7 +6566,7 @@
     "price": 1.37,
     "lowest": 1.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -6966,7 +6966,7 @@
     "price": 1.47,
     "lowest": 1.47,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -7845,7 +7845,17 @@
     "discount": "-57%",
     "price": 1.73,
     "lowest": 1.73,
-    "stock": true,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "11-02-2024"
+  },
+  {
+    "title": "Disciples II: Rise of the Elves",
+    "type": "game",
+    "discount": "-71%",
+    "price": 1.73,
+    "lowest": 1.73,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-02-2024"
   },
@@ -7863,16 +7873,6 @@
     "title": "Europa Universalis IV: Sabaton Soundtrack",
     "type": "DLC",
     "discount": "-42%",
-    "price": 1.73,
-    "lowest": 1.73,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-02-2024"
-  },
-  {
-    "title": "Disciples II: Rise of the Elves",
-    "type": "game",
-    "discount": "-71%",
     "price": 1.73,
     "lowest": 1.73,
     "stock": true,
@@ -14610,6 +14610,16 @@
     "last_time_updated": "11-02-2024"
   },
   {
+    "title": "Dead by Daylight: Leatherface",
+    "type": "DLC",
+    "discount": "-10%",
+    "price": 4.49,
+    "lowest": 4.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "11-02-2024"
+  },
+  {
     "title": "Farming Simulator 22 - OXBO Pack",
     "type": "DLC",
     "discount": "-25%",
@@ -14643,16 +14653,6 @@
     "title": "Train Sim World: DB BR 155 Loco",
     "type": "DLC",
     "discount": "-68%",
-    "price": 4.49,
-    "lowest": 4.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-02-2024"
-  },
-  {
-    "title": "Dead by Daylight: Leatherface",
-    "type": "DLC",
-    "discount": "-10%",
     "price": 4.49,
     "lowest": 4.49,
     "stock": true,
@@ -14910,19 +14910,19 @@
     "last_time_updated": "11-02-2024"
   },
   {
-    "title": "Vampire Survivors",
+    "title": "Lethal League Blaze",
     "type": "game",
-    "discount": "-7%",
+    "discount": "-77%",
     "price": 4.66,
     "lowest": 4.66,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
-    "title": "Lethal League Blaze",
+    "title": "Vampire Survivors",
     "type": "game",
-    "discount": "-77%",
+    "discount": "-7%",
     "price": 4.66,
     "lowest": 4.66,
     "stock": true,
@@ -17187,6 +17187,16 @@
     "lowest": 6.13,
     "stock": true,
     "status": "par",
+    "last_time_updated": "11-02-2024"
+  },
+  {
+    "title": "Dragon Ball FighterZ: FighterZ Pass 2",
+    "type": "DLC",
+    "discount": "-75%",
+    "price": 6.17,
+    "lowest": 6.17,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -20940,6 +20950,16 @@
     "last_time_updated": "11-02-2024"
   },
   {
+    "title": "The Surge 1 & 2 Dual Pack",
+    "type": "game",
+    "discount": "-76%",
+    "price": 9.62,
+    "lowest": 9.62,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "11-02-2024"
+  },
+  {
     "title": "Starpoint Gemini 3",
     "type": "game",
     "discount": "-68%",
@@ -21445,7 +21465,7 @@
     "discount": "-67%",
     "price": 10.03,
     "lowest": 10.03,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-02-2024"
   },
@@ -21656,7 +21676,7 @@
     "price": 10.5,
     "lowest": 10.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -21996,7 +22016,7 @@
     "price": 11.01,
     "lowest": 11.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -22016,7 +22036,7 @@
     "price": 11.05,
     "lowest": 11.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -23716,7 +23736,7 @@
     "price": 14.05,
     "lowest": 14.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -24006,7 +24026,7 @@
     "price": 14.97,
     "lowest": 14.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
@@ -25066,7 +25086,7 @@
     "price": 17.94,
     "lowest": 17.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-02-2024"
   },
   {
