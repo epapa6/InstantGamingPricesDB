@@ -80,6 +80,16 @@
     "last_time_updated": "12-02-2024"
   },
   {
+    "title": "Chaos on Deponia",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "12-02-2024"
+  },
+  {
     "title": "Lost Words: Beyond The Page",
     "type": "game",
     "discount": "-93%",
@@ -1143,16 +1153,6 @@
     "title": "Commandos: Behind Enemy Lines",
     "type": "game",
     "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
-    "title": "Chaos on Deponia",
-    "type": "game",
-    "discount": "-95%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -3313,6 +3313,16 @@
     "title": "Displaced",
     "type": "game",
     "discount": "-83%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "12-02-2024"
+  },
+  {
+    "title": "DATE A LIVE Rio Reincarnation Deluxe Pack",
+    "type": "DLC",
+    "discount": "-88%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -7410,16 +7420,6 @@
     "last_time_updated": "12-02-2024"
   },
   {
-    "title": "Armello",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.62,
-    "lowest": 1.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
     "title": "Reventure",
     "type": "game",
     "discount": "-68%",
@@ -7836,7 +7836,7 @@
     "price": 1.77,
     "lowest": 1.77,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -10160,16 +10160,6 @@
     "last_time_updated": "12-02-2024"
   },
   {
-    "title": "Destroy All Humans!",
-    "type": "game",
-    "discount": "-91%",
-    "price": 2.62,
-    "lowest": 2.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
     "title": "Star Wars X-Wing Alliance",
     "type": "game",
     "discount": "-73%",
@@ -11027,6 +11017,16 @@
     "lowest": 2.93,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-02-2024"
+  },
+  {
+    "title": "Euro Truck Simulator 2: Cabin Accessories",
+    "type": "DLC",
+    "discount": "-27%",
+    "price": 2.93,
+    "lowest": 2.93,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -12190,19 +12190,19 @@
     "last_time_updated": "12-02-2024"
   },
   {
-    "title": "Slime Rancher",
+    "title": "Monster Sanctuary",
     "type": "game",
-    "discount": "-82%",
+    "discount": "-83%",
     "price": 3.4,
     "lowest": 3.4,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
-    "title": "Monster Sanctuary",
+    "title": "Slime Rancher",
     "type": "game",
-    "discount": "-83%",
+    "discount": "-82%",
     "price": 3.4,
     "lowest": 3.4,
     "stock": true,
@@ -12696,7 +12696,7 @@
     "price": 3.64,
     "lowest": 3.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -17136,7 +17136,7 @@
     "price": 6.34,
     "lowest": 6.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -17145,7 +17145,7 @@
     "discount": "-79%",
     "price": 6.37,
     "lowest": 6.37,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-02-2024"
   },
@@ -19176,7 +19176,7 @@
     "price": 7.82,
     "lowest": 7.82,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -21000,6 +21000,16 @@
     "last_time_updated": "12-02-2024"
   },
   {
+    "title": "The Last Stand: Aftermath",
+    "type": "game",
+    "discount": "-59%",
+    "price": 9.99,
+    "lowest": 9.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "12-02-2024"
+  },
+  {
     "title": "JackHammer: Demolition Dodgeball",
     "type": "game",
     "discount": "-23%",
@@ -21053,16 +21063,6 @@
     "title": "Bus Simulator 21 Next Stop \u2013 Gold Upgrade",
     "type": "DLC",
     "discount": "-33%",
-    "price": 9.99,
-    "lowest": 9.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
-    "title": "The Last Stand: Aftermath",
-    "type": "game",
-    "discount": "-59%",
     "price": 9.99,
     "lowest": 9.99,
     "stock": true,
@@ -23720,13 +23720,13 @@
     "last_time_updated": "12-02-2024"
   },
   {
-    "title": "Rogue Legacy 2",
+    "title": "Capcom Arcade 2nd Stadium Bundle",
     "type": "game",
-    "discount": "-39%",
-    "price": 14.95,
-    "lowest": 14.95,
+    "discount": "-63%",
+    "price": 14.92,
+    "lowest": 14.92,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -23920,16 +23920,6 @@
     "last_time_updated": "12-02-2024"
   },
   {
-    "title": "Capcom Arcade 2nd Stadium Bundle",
-    "type": "game",
-    "discount": "-62%",
-    "price": 15.28,
-    "lowest": 15.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
     "title": "Marvel's Midnight Suns Season Pass",
     "type": "DLC",
     "discount": "-69%",
@@ -23986,7 +23976,7 @@
     "price": 15.5,
     "lowest": 15.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -24366,7 +24356,7 @@
     "price": 16.74,
     "lowest": 16.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -25106,7 +25096,7 @@
     "price": 19.52,
     "lowest": 19.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -25316,7 +25306,7 @@
     "price": 20.53,
     "lowest": 20.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-02-2024"
   },
   {
@@ -26270,21 +26260,21 @@
     "last_time_updated": "12-02-2024"
   },
   {
+    "title": "Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey",
+    "type": "game",
+    "discount": "-36%",
+    "price": 31.92,
+    "lowest": 31.92,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-02-2024"
+  },
+  {
     "title": "JoJo's Bizarre Adventure: All-Star Battle R Ultimate Edition",
     "type": "game",
     "discount": "-62%",
     "price": 31.99,
     "lowest": 31.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
-    "title": "Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey",
-    "type": "game",
-    "discount": "-36%",
-    "price": 32.07,
-    "lowest": 32.07,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-02-2024"
@@ -26385,16 +26375,6 @@
     "discount": "-32%",
     "price": 33.27,
     "lowest": 33.27,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-02-2024"
-  },
-  {
-    "title": "Cities: Skylines - New Player Bundle",
-    "type": "game",
-    "discount": "-47%",
-    "price": 33.68,
-    "lowest": 33.68,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-02-2024"
@@ -26605,7 +26585,7 @@
     "discount": "-21%",
     "price": 39.49,
     "lowest": 39.49,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "12-02-2024"
   },
