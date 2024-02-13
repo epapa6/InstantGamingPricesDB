@@ -3740,6 +3740,16 @@
     "last_time_updated": "13-02-2024"
   },
   {
+    "title": "Lead and Gold: Gang of The Wild West",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "13-02-2024"
+  },
+  {
     "title": "Krater",
     "type": "game",
     "discount": "-93%",
@@ -5393,16 +5403,6 @@
     "title": "Lego Batman 3: Beyond Gotham",
     "type": "game",
     "discount": "-94%",
-    "price": 1.03,
-    "lowest": 1.03,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "13-02-2024"
-  },
-  {
-    "title": "Ever Forward",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.03,
     "lowest": 1.03,
     "stock": true,
@@ -8745,7 +8745,7 @@
     "discount": "-79%",
     "price": 2.05,
     "lowest": 2.05,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-02-2024"
   },
@@ -10785,7 +10785,7 @@
     "discount": "-80%",
     "price": 2.86,
     "lowest": 2.86,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-02-2024"
   },
@@ -22205,7 +22205,7 @@
     "discount": "-70%",
     "price": 11.87,
     "lowest": 11.87,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "13-02-2024"
   },
@@ -24615,7 +24615,7 @@
     "discount": "-29%",
     "price": 17.69,
     "lowest": 17.69,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "13-02-2024"
   },
@@ -25655,7 +25655,7 @@
     "discount": "-32%",
     "price": 23.79,
     "lowest": 23.79,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "13-02-2024"
   },
@@ -26566,7 +26566,7 @@
     "price": 39.9,
     "lowest": 39.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "13-02-2024"
   },
   {
