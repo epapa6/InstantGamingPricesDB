@@ -70,6 +70,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Punch Club",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "15-02-2024"
+  },
+  {
     "title": "Lust for Darkness",
     "type": "game",
     "discount": "-93%",
@@ -240,16 +250,6 @@
     "last_time_updated": "15-02-2024"
   },
   {
-    "title": "Punch Club",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-02-2024"
-  },
-  {
     "title": "Katamari Damacy REROLL",
     "type": "game",
     "discount": "-95%",
@@ -383,6 +383,16 @@
     "title": "Postal 2: Paradise Lost",
     "type": "DLC",
     "discount": "-83%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-02-2024"
+  },
+  {
+    "title": "PC Building Simulator - EVGA Workshop",
+    "type": "DLC",
+    "discount": "-80%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -7880,16 +7890,6 @@
     "last_time_updated": "15-02-2024"
   },
   {
-    "title": "Mars: War Logs",
-    "type": "game",
-    "discount": "-64%",
-    "price": 1.79,
-    "lowest": 1.79,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-02-2024"
-  },
-  {
     "title": "Nira",
     "type": "game",
     "discount": "-78%",
@@ -10010,6 +10010,16 @@
     "last_time_updated": "15-02-2024"
   },
   {
+    "title": "Lost Ruins",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.56,
+    "lowest": 2.56,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-02-2024"
+  },
+  {
     "title": "War Party",
     "type": "game",
     "discount": "-74%",
@@ -10035,6 +10045,16 @@
     "discount": "-68%",
     "price": 2.58,
     "lowest": 2.58,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-02-2024"
+  },
+  {
+    "title": "Disney G-Force",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.59,
+    "lowest": 2.59,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-02-2024"
@@ -12460,6 +12480,16 @@
     "last_time_updated": "15-02-2024"
   },
   {
+    "title": "Star Renegades",
+    "type": "game",
+    "discount": "-86%",
+    "price": 3.58,
+    "lowest": 3.58,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-02-2024"
+  },
+  {
     "title": "Bug Fables: The Everlasting Sapling",
     "type": "game",
     "discount": "-82%",
@@ -14555,16 +14585,6 @@
     "discount": "-70%",
     "price": 4.56,
     "lowest": 4.56,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-02-2024"
-  },
-  {
-    "title": "Crusader Kings III: Northern Lords",
-    "type": "DLC",
-    "discount": "-65%",
-    "price": 4.58,
-    "lowest": 4.58,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-02-2024"
@@ -18525,7 +18545,7 @@
     "discount": "-72%",
     "price": 7.08,
     "lowest": 7.08,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-02-2024"
   },
@@ -19090,19 +19110,19 @@
     "last_time_updated": "15-02-2024"
   },
   {
-    "title": "Gordian Quest",
+    "title": "Surviving Mars Digital Deluxe Edition",
     "type": "game",
-    "discount": "-53%",
+    "discount": "-80%",
     "price": 7.82,
     "lowest": 7.82,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-02-2024"
   },
   {
-    "title": "Surviving Mars Digital Deluxe Edition",
+    "title": "Gordian Quest",
     "type": "game",
-    "discount": "-80%",
+    "discount": "-53%",
     "price": 7.82,
     "lowest": 7.82,
     "stock": true,
@@ -19125,7 +19145,7 @@
     "discount": "-81%",
     "price": 7.86,
     "lowest": 7.86,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-02-2024"
   },
@@ -19576,7 +19596,7 @@
     "price": 8.37,
     "lowest": 8.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-02-2024"
   },
   {
@@ -21536,7 +21556,7 @@
     "price": 10.68,
     "lowest": 10.68,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-02-2024"
   },
   {
@@ -23210,16 +23230,6 @@
     "last_time_updated": "15-02-2024"
   },
   {
-    "title": "Destiny 2: L'Eclissi",
-    "type": "DLC",
-    "discount": "-73%",
-    "price": 13.47,
-    "lowest": 13.47,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-02-2024"
-  },
-  {
     "title": "The Mummy Demastered",
     "type": "game",
     "discount": "-33%",
@@ -23745,7 +23755,7 @@
     "discount": "-25%",
     "price": 14.9,
     "lowest": 14.9,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-02-2024"
   },
@@ -24127,6 +24137,16 @@
     "lowest": 15.89,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-02-2024"
+  },
+  {
+    "title": "River City Girls 2",
+    "type": "game",
+    "discount": "-53%",
+    "price": 15.96,
+    "lowest": 15.96,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "15-02-2024"
   },
   {
@@ -24670,6 +24690,16 @@
     "last_time_updated": "15-02-2024"
   },
   {
+    "title": "Dead Cells: The Fatal Seed Bundle",
+    "type": "game",
+    "discount": "-30%",
+    "price": 17.61,
+    "lowest": 17.61,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-02-2024"
+  },
+  {
     "title": "Endless Space 2 Definitive Edition",
     "type": "game",
     "discount": "-81%",
@@ -25043,6 +25073,16 @@
     "title": "Monster Energy Supercross: The Official Videogame 4",
     "type": "game",
     "discount": "-37%",
+    "price": 19.03,
+    "lowest": 19.03,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "15-02-2024"
+  },
+  {
+    "title": "Dead Cells: Road to the Sea Bundle",
+    "type": "game",
+    "discount": "-43%",
     "price": 19.03,
     "lowest": 19.03,
     "stock": true,
@@ -26375,7 +26415,7 @@
     "discount": "-3%",
     "price": 32.97,
     "lowest": 32.97,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-02-2024"
   },
