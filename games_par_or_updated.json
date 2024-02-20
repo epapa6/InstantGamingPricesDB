@@ -7486,7 +7486,7 @@
     "price": 1.62,
     "lowest": 1.62,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -8006,7 +8006,7 @@
     "price": 1.81,
     "lowest": 1.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -9260,6 +9260,16 @@
     "last_time_updated": "20-02-2024"
   },
   {
+    "title": "Stronghold Crusader 2: Special Edition",
+    "type": "game",
+    "discount": "-95%",
+    "price": 2.22,
+    "lowest": 2.22,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-02-2024"
+  },
+  {
     "title": "Kingdom Come: Deliverance A Woman's Lot",
     "type": "DLC",
     "discount": "-72%",
@@ -9536,7 +9546,7 @@
     "price": 2.3,
     "lowest": 2.3,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -9593,16 +9603,6 @@
     "title": "Jurassic World Evolution 2: Early Cretaceous Pack",
     "type": "DLC",
     "discount": "-71%",
-    "price": 2.33,
-    "lowest": 2.33,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-02-2024"
-  },
-  {
-    "title": "Stronghold Crusader 2: Special Edition",
-    "type": "game",
-    "discount": "-94%",
     "price": 2.33,
     "lowest": 2.33,
     "stock": true,
@@ -14886,7 +14886,7 @@
     "price": 4.62,
     "lowest": 4.62,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -15646,7 +15646,7 @@
     "price": 5.0,
     "lowest": 5.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -16406,7 +16406,7 @@
     "price": 5.63,
     "lowest": 5.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -17326,7 +17326,7 @@
     "price": 6.36,
     "lowest": 6.36,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -18066,7 +18066,7 @@
     "price": 6.71,
     "lowest": 6.71,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -18216,7 +18216,7 @@
     "price": 6.84,
     "lowest": 6.84,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -22296,7 +22296,7 @@
     "price": 11.55,
     "lowest": 11.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -23076,7 +23076,7 @@
     "price": 12.7,
     "lowest": 12.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -23167,6 +23167,16 @@
     "lowest": 12.91,
     "stock": true,
     "status": "par",
+    "last_time_updated": "20-02-2024"
+  },
+  {
+    "title": "Monster Hunter: World - Iceborne Digital Deluxe",
+    "type": "DLC",
+    "discount": "-74%",
+    "price": 12.92,
+    "lowest": 12.92,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -23365,16 +23375,6 @@
     "discount": "-57%",
     "price": 13.01,
     "lowest": 13.01,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "20-02-2024"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Digital Deluxe",
-    "type": "DLC",
-    "discount": "-74%",
-    "price": 13.03,
-    "lowest": 13.03,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-02-2024"
@@ -25016,7 +25016,7 @@
     "price": 17.93,
     "lowest": 17.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -25226,7 +25226,7 @@
     "price": 18.7,
     "lowest": 18.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -25600,19 +25600,19 @@
     "last_time_updated": "20-02-2024"
   },
   {
-    "title": "Need for Speed Unbound",
-    "type": "game",
-    "discount": "-70%",
+    "title": "Park Beyond: Annual Pass",
+    "type": "DLC",
+    "discount": "-30%",
     "price": 20.99,
     "lowest": 20.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
-    "title": "Park Beyond: Annual Pass",
-    "type": "DLC",
-    "discount": "-30%",
+    "title": "Need for Speed Unbound",
+    "type": "game",
+    "discount": "-70%",
     "price": 20.99,
     "lowest": 20.99,
     "stock": true,
