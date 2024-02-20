@@ -6596,7 +6596,7 @@
     "price": 1.36,
     "lowest": 1.36,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -7166,7 +7166,7 @@
     "price": 1.52,
     "lowest": 1.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -8836,7 +8836,7 @@
     "price": 2.01,
     "lowest": 2.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -8996,7 +8996,7 @@
     "price": 2.13,
     "lowest": 2.13,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -9045,16 +9045,6 @@
     "discount": "-57%",
     "price": 2.13,
     "lowest": 2.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-02-2024"
-  },
-  {
-    "title": "Mortal Kombat 11 Ultimate Add-On Bundle",
-    "type": "DLC",
-    "discount": "-96%",
-    "price": 2.14,
-    "lowest": 2.14,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-02-2024"
@@ -11686,7 +11676,7 @@
     "price": 3.05,
     "lowest": 3.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -14300,16 +14290,6 @@
     "last_time_updated": "20-02-2024"
   },
   {
-    "title": "Delta Force \u2014 Black Hawk Down: Team Sabre",
-    "type": "game",
-    "discount": "-57%",
-    "price": 4.28,
-    "lowest": 4.28,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-02-2024"
-  },
-  {
     "title": "Ancient Enemy",
     "type": "game",
     "discount": "-71%",
@@ -15185,7 +15165,7 @@
     "discount": "-52%",
     "price": 4.84,
     "lowest": 4.84,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "20-02-2024"
   },
@@ -15980,6 +15960,16 @@
     "last_time_updated": "20-02-2024"
   },
   {
+    "title": "Scorn",
+    "type": "game",
+    "discount": "-87%",
+    "price": 5.3,
+    "lowest": 5.3,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-02-2024"
+  },
+  {
     "title": "Darksiders III Deluxe Edition",
     "type": "game",
     "discount": "-89%",
@@ -16177,16 +16167,6 @@
     "lowest": 5.4,
     "stock": true,
     "status": "par",
-    "last_time_updated": "20-02-2024"
-  },
-  {
-    "title": "Scorn",
-    "type": "game",
-    "discount": "-86%",
-    "price": 5.42,
-    "lowest": 5.42,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -17186,7 +17166,7 @@
     "price": 6.14,
     "lowest": 6.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -17256,7 +17236,7 @@
     "price": 6.26,
     "lowest": 6.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -17346,7 +17326,7 @@
     "price": 6.32,
     "lowest": 6.32,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -18816,7 +18796,7 @@
     "price": 7.19,
     "lowest": 7.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -18906,7 +18886,7 @@
     "price": 7.31,
     "lowest": 7.31,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -19576,7 +19556,7 @@
     "price": 8.1,
     "lowest": 8.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -19980,16 +19960,6 @@
     "last_time_updated": "20-02-2024"
   },
   {
-    "title": "Crime O'Clock",
-    "type": "game",
-    "discount": "-56%",
-    "price": 8.62,
-    "lowest": 8.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-02-2024"
-  },
-  {
     "title": "Curse of the Sea Rats",
     "type": "game",
     "discount": "-57%",
@@ -20066,7 +20036,7 @@
     "price": 8.71,
     "lowest": 8.71,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -20730,6 +20700,16 @@
     "last_time_updated": "20-02-2024"
   },
   {
+    "title": "Pillars of Eternity II: Deadfire Deluxe Edition",
+    "type": "game",
+    "discount": "-76%",
+    "price": 9.41,
+    "lowest": 9.41,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-02-2024"
+  },
+  {
     "title": "Dragon Star Varnir Complete Deluxe Edition Bundle",
     "type": "game",
     "discount": "-79%",
@@ -20825,16 +20805,6 @@
     "discount": "-52%",
     "price": 9.55,
     "lowest": 9.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-02-2024"
-  },
-  {
-    "title": "Pillars of Eternity II: Deadfire Deluxe Edition",
-    "type": "game",
-    "discount": "-76%",
-    "price": 9.58,
-    "lowest": 9.58,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-02-2024"
@@ -21626,7 +21596,7 @@
     "price": 10.59,
     "lowest": 10.59,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -21786,7 +21756,7 @@
     "price": 10.78,
     "lowest": 10.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -22416,7 +22386,7 @@
     "price": 11.63,
     "lowest": 11.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -24140,6 +24110,16 @@
     "last_time_updated": "20-02-2024"
   },
   {
+    "title": "Border Bots VR",
+    "type": "game",
+    "discount": "-25%",
+    "price": 14.99,
+    "lowest": 14.99,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-02-2024"
+  },
+  {
     "title": "Gravity Circuit",
     "type": "game",
     "discount": "-12%",
@@ -24186,7 +24166,7 @@
     "price": 15.03,
     "lowest": 15.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -24696,7 +24676,7 @@
     "price": 16.48,
     "lowest": 16.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -25800,6 +25780,16 @@
     "last_time_updated": "20-02-2024"
   },
   {
+    "title": "They Are Billions",
+    "type": "game",
+    "discount": "-26%",
+    "price": 22.13,
+    "lowest": 22.13,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-02-2024"
+  },
+  {
     "title": "SD GUNDAM G GENERATION CROSS RAYS: Season Pass",
     "type": "DLC",
     "discount": "-45%",
@@ -26190,13 +26180,23 @@
     "last_time_updated": "20-02-2024"
   },
   {
+    "title": "Farthest Frontier",
+    "type": "game",
+    "discount": "-15%",
+    "price": 24.98,
+    "lowest": 24.98,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-02-2024"
+  },
+  {
     "title": "Lego 2K Drive",
     "type": "game",
     "discount": "-58%",
     "price": 25.27,
     "lowest": 25.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -26866,7 +26866,7 @@
     "price": 37.49,
     "lowest": 37.49,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
@@ -27006,7 +27006,7 @@
     "price": 40.93,
     "lowest": 40.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-02-2024"
   },
   {
