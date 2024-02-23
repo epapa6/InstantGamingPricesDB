@@ -60,6 +60,26 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Punch Club",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-02-2024"
+  },
+  {
+    "title": "Little Orpheus",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-02-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -520,16 +540,6 @@
     "last_time_updated": "23-02-2024"
   },
   {
-    "title": "Monster Train - The Last Divinity",
-    "type": "DLC",
-    "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
     "title": "RIOT: Civil Unrest",
     "type": "game",
     "discount": "-94%",
@@ -693,16 +703,6 @@
     "title": "Otxo",
     "type": "game",
     "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
-    "title": "Punch Club",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1543,16 +1543,6 @@
     "title": "Boreal Blade",
     "type": "game",
     "discount": "-75%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
-    "title": "Little Orpheus",
-    "type": "game",
-    "discount": "-92%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6106,7 +6096,7 @@
     "price": 1.18,
     "lowest": 1.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-02-2024"
   },
   {
@@ -7280,6 +7270,16 @@
     "last_time_updated": "23-02-2024"
   },
   {
+    "title": "Operation Thunderstorm",
+    "type": "game",
+    "discount": "-70%",
+    "price": 1.49,
+    "lowest": 1.49,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "23-02-2024"
+  },
+  {
     "title": "Worms Reloaded: The \"Pre-order Forts and Hats\" DLC Pack",
     "type": "DLC",
     "discount": "-25%",
@@ -7416,7 +7416,7 @@
     "price": 1.52,
     "lowest": 1.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-02-2024"
   },
   {
@@ -7503,16 +7503,6 @@
     "title": "WRATH: Aeon of Ruin",
     "type": "game",
     "discount": "-94%",
-    "price": 1.55,
-    "lowest": 1.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
-    "title": "Codename: Panzers, Phase One",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.55,
     "lowest": 1.55,
     "stock": true,
@@ -8740,6 +8730,16 @@
     "last_time_updated": "23-02-2024"
   },
   {
+    "title": "Karateka",
+    "type": "game",
+    "discount": "-50%",
+    "price": 1.99,
+    "lowest": 1.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-02-2024"
+  },
+  {
     "title": "Move or Die",
     "type": "game",
     "discount": "-87%",
@@ -8903,16 +8903,6 @@
     "title": "Way of Redemption",
     "type": "game",
     "discount": "-72%",
-    "price": 1.99,
-    "lowest": 1.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
-    "title": "Karateka",
-    "type": "game",
-    "discount": "-50%",
     "price": 1.99,
     "lowest": 1.99,
     "stock": true,
@@ -11156,7 +11146,7 @@
     "price": 2.79,
     "lowest": 2.79,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-02-2024"
   },
   {
@@ -13756,7 +13746,7 @@
     "price": 3.87,
     "lowest": 3.87,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-02-2024"
   },
   {
@@ -19905,7 +19895,7 @@
     "discount": "-61%",
     "price": 7.73,
     "lowest": 7.73,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-02-2024"
   },
@@ -20556,7 +20546,7 @@
     "price": 8.43,
     "lowest": 8.43,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-02-2024"
   },
   {
@@ -20645,16 +20635,6 @@
     "discount": "-70%",
     "price": 8.56,
     "lowest": 8.56,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
-    "title": "Feed the Cups",
-    "type": "game",
-    "discount": "-46%",
-    "price": 8.58,
-    "lowest": 8.58,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-02-2024"
@@ -21555,7 +21535,7 @@
     "discount": "-76%",
     "price": 9.62,
     "lowest": 9.62,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-02-2024"
   },
@@ -22316,7 +22296,7 @@
     "price": 10.52,
     "lowest": 10.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-02-2024"
   },
   {
@@ -23130,6 +23110,16 @@
     "last_time_updated": "23-02-2024"
   },
   {
+    "title": "Aseprite",
+    "type": "game",
+    "discount": "-31%",
+    "price": 11.59,
+    "lowest": 11.59,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-02-2024"
+  },
+  {
     "title": "Commandos 2 & Praetorians: Hd Remaster Double Pack",
     "type": "game",
     "discount": "-71%",
@@ -23305,7 +23295,7 @@
     "discount": "-52%",
     "price": 11.99,
     "lowest": 11.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-02-2024"
   },
@@ -25280,16 +25270,6 @@
     "last_time_updated": "23-02-2024"
   },
   {
-    "title": "Aseprite",
-    "type": "game",
-    "discount": "-5%",
-    "price": 15.99,
-    "lowest": 15.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
     "title": "Train Sim World: Ruhr-Sieg Nord: Hagen \u2013 Finnentrop Route",
     "type": "DLC",
     "discount": "-36%",
@@ -26890,6 +26870,16 @@
     "last_time_updated": "23-02-2024"
   },
   {
+    "title": "My Time at Sandrock",
+    "type": "game",
+    "discount": "-33%",
+    "price": 23.49,
+    "lowest": 23.49,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-02-2024"
+  },
+  {
     "title": "The Forgotten City - Digital Collector's Edition",
     "type": "game",
     "discount": "-25%",
@@ -27125,7 +27115,7 @@
     "discount": "-63%",
     "price": 25.55,
     "lowest": 25.55,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-02-2024"
   },
@@ -27315,16 +27305,6 @@
     "discount": "-53%",
     "price": 28.49,
     "lowest": 28.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-02-2024"
-  },
-  {
-    "title": "My Time at Sandrock",
-    "type": "game",
-    "discount": "-17%",
-    "price": 28.88,
-    "lowest": 28.88,
     "stock": true,
     "status": "par",
     "last_time_updated": "23-02-2024"
