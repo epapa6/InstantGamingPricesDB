@@ -60,9 +60,49 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "RIOT: Civil Unrest",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-02-2024"
+  },
+  {
+    "title": "Encased: A Sci-Fi Post-Apocalyptic RPG",
+    "type": "game",
+    "discount": "-97%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-02-2024"
+  },
+  {
     "title": "Hunting Simulator",
     "type": "game",
     "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-02-2024"
+  },
+  {
+    "title": "The Night of the Rabbit",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-02-2024"
+  },
+  {
+    "title": "One Finger Death Punch 2",
+    "type": "game",
+    "discount": "-85%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -600,16 +640,6 @@
     "last_time_updated": "25-02-2024"
   },
   {
-    "title": "RIOT: Civil Unrest",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
     "title": "Beat Cop",
     "type": "game",
     "discount": "-93%",
@@ -673,16 +703,6 @@
     "title": "Generation Zero - US Weapons Pack",
     "type": "DLC",
     "discount": "-67%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "Encased: A Sci-Fi Post-Apocalyptic RPG",
-    "type": "game",
-    "discount": "-97%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1280,16 +1300,6 @@
     "last_time_updated": "25-02-2024"
   },
   {
-    "title": "The Night of the Rabbit",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
     "title": "Golf With Your Friends - Caddy Pack",
     "type": "DLC",
     "discount": "-75%",
@@ -1753,16 +1763,6 @@
     "title": "Hidden & Dangerous 2: Courage Under Fire",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "One Finger Death Punch 2",
-    "type": "game",
-    "discount": "-85%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5845,7 +5845,7 @@
     "discount": "-88%",
     "price": 1.13,
     "lowest": 1.13,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-02-2024"
   },
@@ -6705,16 +6705,6 @@
     "discount": "-55%",
     "price": 1.36,
     "lowest": 1.36,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "Silent World",
-    "type": "game",
-    "discount": "-69%",
-    "price": 1.37,
-    "lowest": 1.37,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-02-2024"
@@ -13270,6 +13260,16 @@
     "last_time_updated": "25-02-2024"
   },
   {
+    "title": "Disney Pixar Cars Mater-National Championship",
+    "type": "game",
+    "discount": "-81%",
+    "price": 3.65,
+    "lowest": 3.65,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-02-2024"
+  },
+  {
     "title": "WRC 5: FIA World Rally Championship",
     "type": "game",
     "discount": "-63%",
@@ -13473,16 +13473,6 @@
     "title": "Remnant: From the Ashes - Swamps of Corsus",
     "type": "DLC",
     "discount": "-62%",
-    "price": 3.76,
-    "lowest": 3.76,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "Disney Pixar Cars Mater-National Championship",
-    "type": "game",
-    "discount": "-81%",
     "price": 3.76,
     "lowest": 3.76,
     "stock": true,
@@ -14595,7 +14585,7 @@
     "discount": "-83%",
     "price": 4.21,
     "lowest": 4.21,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-02-2024"
   },
@@ -17150,16 +17140,6 @@
     "last_time_updated": "25-02-2024"
   },
   {
-    "title": "Farm Together",
-    "type": "game",
-    "discount": "-71%",
-    "price": 5.77,
-    "lowest": 5.77,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
     "title": "Field of Glory II: Medieval - Swords and Scimitars",
     "type": "DLC",
     "discount": "-61%",
@@ -17307,6 +17287,16 @@
     "lowest": 5.89,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-02-2024"
+  },
+  {
+    "title": "Outward Definitive Edition",
+    "type": "game",
+    "discount": "-85%",
+    "price": 5.9,
+    "lowest": 5.9,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-02-2024"
   },
   {
@@ -17685,16 +17675,6 @@
     "discount": "-65%",
     "price": 6.01,
     "lowest": 6.01,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "Outward Definitive Edition",
-    "type": "game",
-    "discount": "-85%",
-    "price": 6.02,
-    "lowest": 6.02,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-02-2024"
@@ -20556,7 +20536,7 @@
     "price": 8.55,
     "lowest": 8.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-02-2024"
   },
   {
@@ -21936,7 +21916,7 @@
     "price": 10.14,
     "lowest": 10.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-02-2024"
   },
   {
@@ -22820,6 +22800,16 @@
     "last_time_updated": "25-02-2024"
   },
   {
+    "title": "Worldless",
+    "type": "game",
+    "discount": "-43%",
+    "price": 11.41,
+    "lowest": 11.41,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-02-2024"
+  },
+  {
     "title": "Thymesia",
     "type": "game",
     "discount": "-54%",
@@ -23130,6 +23120,16 @@
     "last_time_updated": "25-02-2024"
   },
   {
+    "title": "Next Space Rebels",
+    "type": "game",
+    "discount": "-40%",
+    "price": 11.91,
+    "lowest": 11.91,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-02-2024"
+  },
+  {
     "title": "Flynn: Son of Crimson",
     "type": "game",
     "discount": "-40%",
@@ -23245,16 +23245,6 @@
     "discount": "-8%",
     "price": 12.0,
     "lowest": 12.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "Next Space Rebels",
-    "type": "game",
-    "discount": "-40%",
-    "price": 12.04,
-    "lowest": 12.04,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-02-2024"
@@ -25865,16 +25855,6 @@
     "discount": "-38%",
     "price": 18.69,
     "lowest": 18.69,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-02-2024"
-  },
-  {
-    "title": "Xenonauts 2",
-    "type": "game",
-    "discount": "-53%",
-    "price": 18.7,
-    "lowest": 18.7,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-02-2024"
