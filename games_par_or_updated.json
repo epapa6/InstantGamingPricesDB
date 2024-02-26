@@ -70,9 +70,29 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "Worms Ultimate Mayhem",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "Desperados: Wanted Dead or Alive",
     "type": "game",
     "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
+    "title": "Dying Light - Astronaut Bundle",
+    "type": "DLC",
+    "discount": "-67%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -1630,16 +1650,6 @@
     "last_time_updated": "26-02-2024"
   },
   {
-    "title": "Worms Ultimate Mayhem",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
     "title": "Colt Canyon",
     "type": "game",
     "discount": "-93%",
@@ -1843,16 +1853,6 @@
     "title": "Midnight Protocol",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
-    "title": "Dying Light - Astronaut Bundle",
-    "type": "DLC",
-    "discount": "-67%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -4126,7 +4126,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -6630,16 +6630,6 @@
     "last_time_updated": "26-02-2024"
   },
   {
-    "title": "Silent World",
-    "type": "game",
-    "discount": "-69%",
-    "price": 1.37,
-    "lowest": 1.37,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
     "title": "Star Wars Republic Commando",
     "type": "game",
     "discount": "-86%",
@@ -6693,16 +6683,6 @@
     "title": "Vikings: Wolves of Midgard",
     "type": "game",
     "discount": "-95%",
-    "price": 1.39,
-    "lowest": 1.39,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
-    "title": "Clid The Snail",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.39,
     "lowest": 1.39,
     "stock": true,
@@ -9030,6 +9010,16 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "Streets of Rogue",
+    "type": "game",
+    "discount": "-89%",
+    "price": 2.08,
+    "lowest": 2.08,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "Shadow Warrior",
     "type": "game",
     "discount": "-93%",
@@ -9690,6 +9680,16 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "The Witness",
+    "type": "game",
+    "discount": "-94%",
+    "price": 2.33,
+    "lowest": 2.33,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "S.T.A.L.K.E.R.: Call of Pripyat",
     "type": "game",
     "discount": "-88%",
@@ -9747,16 +9747,6 @@
     "lowest": 2.33,
     "stock": true,
     "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
-    "title": "The Witness",
-    "type": "game",
-    "discount": "-94%",
-    "price": 2.33,
-    "lowest": 2.33,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -11096,7 +11086,7 @@
     "price": 2.86,
     "lowest": 2.86,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -11206,7 +11196,7 @@
     "price": 2.89,
     "lowest": 2.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -12480,6 +12470,16 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "Dead Rising 2 Off The Record",
+    "type": "game",
+    "discount": "-83%",
+    "price": 3.34,
+    "lowest": 3.34,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "Cities: Skylines \u2013 Calm The Mind Radio",
     "type": "DLC",
     "discount": "-16%",
@@ -12906,7 +12906,7 @@
     "price": 3.54,
     "lowest": 3.54,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -16696,7 +16696,7 @@
     "price": 5.66,
     "lowest": 5.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -17160,6 +17160,16 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "Pathfinder: Wrath of the Righteous - Season Pass",
+    "type": "DLC",
+    "discount": "-79%",
+    "price": 5.98,
+    "lowest": 5.98,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "Black The Fall Collector's Edition",
     "type": "game",
     "discount": "-67%",
@@ -17405,16 +17415,6 @@
     "discount": "-38%",
     "price": 6.09,
     "lowest": 6.09,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
-    "title": "Pathfinder: Wrath of the Righteous - Season Pass",
-    "type": "DLC",
-    "discount": "-79%",
-    "price": 6.1,
-    "lowest": 6.1,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-02-2024"
@@ -17677,6 +17677,16 @@
     "lowest": 6.44,
     "stock": true,
     "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
+    "title": "Risk of Rain 2",
+    "type": "game",
+    "discount": "-74%",
+    "price": 6.46,
+    "lowest": 6.46,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -19476,7 +19486,7 @@
     "price": 7.53,
     "lowest": 7.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -20060,6 +20070,16 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "En Garde!",
+    "type": "game",
+    "discount": "-59%",
+    "price": 8.19,
+    "lowest": 8.19,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "The Banner Saga 3",
     "type": "game",
     "discount": "-67%",
@@ -20095,16 +20115,6 @@
     "discount": "-17%",
     "price": 8.25,
     "lowest": 8.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
-    "title": "En Garde!",
-    "type": "game",
-    "discount": "-58%",
-    "price": 8.3,
-    "lowest": 8.3,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-02-2024"
@@ -20605,7 +20615,7 @@
     "discount": "-28%",
     "price": 8.98,
     "lowest": 8.98,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-02-2024"
   },
@@ -21195,7 +21205,7 @@
     "discount": "-75%",
     "price": 9.75,
     "lowest": 9.75,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-02-2024"
   },
@@ -22926,7 +22936,7 @@
     "price": 12.05,
     "lowest": 12.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -26115,16 +26125,6 @@
     "discount": "-43%",
     "price": 22.72,
     "lowest": 22.72,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
-    "title": "Werewolf: The Apocalypse - Earthblood Champion of Gaia Edition",
-    "type": "game",
-    "discount": "-43%",
-    "price": 22.76,
-    "lowest": 22.76,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-02-2024"
