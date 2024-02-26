@@ -5506,7 +5506,7 @@
     "price": 1.03,
     "lowest": 1.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -6640,6 +6640,16 @@
     "last_time_updated": "26-02-2024"
   },
   {
+    "title": "Silent World",
+    "type": "game",
+    "discount": "-69%",
+    "price": 1.37,
+    "lowest": 1.37,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
     "title": "Star Wars Republic Commando",
     "type": "game",
     "discount": "-86%",
@@ -7365,6 +7375,16 @@
     "discount": "-92%",
     "price": 1.57,
     "lowest": 1.57,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "26-02-2024"
+  },
+  {
+    "title": "Hotline Miami",
+    "type": "game",
+    "discount": "-84%",
+    "price": 1.58,
+    "lowest": 1.58,
     "stock": true,
     "status": "par",
     "last_time_updated": "26-02-2024"
@@ -13170,16 +13190,6 @@
     "last_time_updated": "26-02-2024"
   },
   {
-    "title": "Symphony of War: The Nephilim Saga",
-    "type": "game",
-    "discount": "-82%",
-    "price": 3.67,
-    "lowest": 3.67,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "26-02-2024"
-  },
-  {
     "title": "Aquarium Designer",
     "type": "game",
     "discount": "-55%",
@@ -14336,7 +14346,7 @@
     "price": 4.17,
     "lowest": 4.17,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -19006,7 +19016,7 @@
     "price": 7.03,
     "lowest": 7.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "26-02-2024"
   },
   {
@@ -26795,7 +26805,7 @@
     "discount": "-57%",
     "price": 29.99,
     "lowest": 29.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "26-02-2024"
   },
