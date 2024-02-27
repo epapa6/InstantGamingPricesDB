@@ -2316,7 +2316,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -6516,7 +6516,7 @@
     "price": 1.34,
     "lowest": 1.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -6797,6 +6797,16 @@
     "lowest": 1.42,
     "stock": true,
     "status": "par",
+    "last_time_updated": "27-02-2024"
+  },
+  {
+    "title": "Samorost 2",
+    "type": "game",
+    "discount": "-72%",
+    "price": 1.42,
+    "lowest": 1.42,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -7225,16 +7235,6 @@
     "discount": "-88%",
     "price": 1.54,
     "lowest": 1.54,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
-    "title": "Samorost 2",
-    "type": "game",
-    "discount": "-69%",
-    "price": 1.55,
-    "lowest": 1.55,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-02-2024"
@@ -8366,7 +8366,7 @@
     "price": 1.95,
     "lowest": 1.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -9166,7 +9166,7 @@
     "price": 2.17,
     "lowest": 2.17,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -9936,7 +9936,7 @@
     "price": 2.45,
     "lowest": 2.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -10930,16 +10930,6 @@
     "last_time_updated": "27-02-2024"
   },
   {
-    "title": "White Noise 2",
-    "type": "game",
-    "discount": "-72%",
-    "price": 2.8,
-    "lowest": 2.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
     "title": "Rise of Industry",
     "type": "game",
     "discount": "-90%",
@@ -11316,7 +11306,7 @@
     "price": 2.95,
     "lowest": 2.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -12576,7 +12566,7 @@
     "price": 3.45,
     "lowest": 3.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -12775,7 +12765,7 @@
     "discount": "-92%",
     "price": 3.5,
     "lowest": 3.5,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "27-02-2024"
   },
@@ -13220,6 +13210,16 @@
     "last_time_updated": "27-02-2024"
   },
   {
+    "title": "Zone of the Enders the 2nd Runner: M\u2200RS",
+    "type": "game",
+    "discount": "-87%",
+    "price": 3.79,
+    "lowest": 3.79,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-02-2024"
+  },
+  {
     "title": "One Piece: Pirate Warriors 3",
     "type": "game",
     "discount": "-90%",
@@ -13246,7 +13246,7 @@
     "price": 3.81,
     "lowest": 3.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -13505,16 +13505,6 @@
     "discount": "-54%",
     "price": 3.89,
     "lowest": 3.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
-    "title": "Zone of the Enders the 2nd Runner: M\u2200RS",
-    "type": "game",
-    "discount": "-87%",
-    "price": 3.9,
-    "lowest": 3.9,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-02-2024"
@@ -14076,7 +14066,7 @@
     "price": 4.0,
     "lowest": 4.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -16296,7 +16286,7 @@
     "price": 5.35,
     "lowest": 5.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -16540,6 +16530,16 @@
     "last_time_updated": "27-02-2024"
   },
   {
+    "title": "\u98ce\u5e06\u7eaa\u5143 Sailing Era",
+    "type": "game",
+    "discount": "-77%",
+    "price": 5.55,
+    "lowest": 5.55,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "27-02-2024"
+  },
+  {
     "title": "Mad Games Tycoon",
     "type": "game",
     "discount": "-63%",
@@ -16736,7 +16736,7 @@
     "price": 5.71,
     "lowest": 5.71,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -16786,7 +16786,7 @@
     "price": 5.76,
     "lowest": 5.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -17376,7 +17376,7 @@
     "price": 6.05,
     "lowest": 6.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -17456,7 +17456,7 @@
     "price": 6.21,
     "lowest": 6.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -17540,6 +17540,16 @@
     "last_time_updated": "27-02-2024"
   },
   {
+    "title": "One Lonely Outpost",
+    "type": "game",
+    "discount": "-68%",
+    "price": 6.32,
+    "lowest": 6.32,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-02-2024"
+  },
+  {
     "title": "Death's Door",
     "type": "game",
     "discount": "-68%",
@@ -17586,7 +17596,7 @@
     "price": 6.37,
     "lowest": 6.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -18326,7 +18336,7 @@
     "price": 6.73,
     "lowest": 6.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -18336,7 +18346,7 @@
     "price": 6.75,
     "lowest": 6.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -18940,16 +18950,6 @@
     "last_time_updated": "27-02-2024"
   },
   {
-    "title": "Surviving the Aftermath: Shattered Hope",
-    "type": "DLC",
-    "discount": "-30%",
-    "price": 7.03,
-    "lowest": 7.03,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
     "title": "The Crow's Eye",
     "type": "game",
     "discount": "-28%",
@@ -19086,7 +19086,7 @@
     "price": 7.24,
     "lowest": 7.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -19526,7 +19526,7 @@
     "price": 7.68,
     "lowest": 7.68,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -19657,6 +19657,16 @@
     "lowest": 7.89,
     "stock": true,
     "status": "par",
+    "last_time_updated": "27-02-2024"
+  },
+  {
+    "title": "Wolfenstein II: The New Colossus- Deluxe Edition",
+    "type": "game",
+    "discount": "-74%",
+    "price": 7.9,
+    "lowest": 7.9,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -19883,16 +19893,6 @@
     "title": "Inscryption",
     "type": "game",
     "discount": "-60%",
-    "price": 8.09,
-    "lowest": 8.09,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
-    "title": "Wolfenstein II: The New Colossus- Deluxe Edition",
-    "type": "game",
-    "discount": "-73%",
     "price": 8.09,
     "lowest": 8.09,
     "stock": true,
@@ -21130,6 +21130,16 @@
     "last_time_updated": "27-02-2024"
   },
   {
+    "title": "Star Renegades Deluxe Edition",
+    "type": "game",
+    "discount": "-68%",
+    "price": 9.6,
+    "lowest": 9.6,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-02-2024"
+  },
+  {
     "title": "Starpoint Gemini 3",
     "type": "game",
     "discount": "-68%",
@@ -21336,7 +21346,7 @@
     "price": 9.96,
     "lowest": 9.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -21796,7 +21806,7 @@
     "price": 10.47,
     "lowest": 10.47,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -21816,7 +21826,7 @@
     "price": 10.49,
     "lowest": 10.49,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -22500,16 +22510,6 @@
     "last_time_updated": "27-02-2024"
   },
   {
-    "title": "Worldless",
-    "type": "game",
-    "discount": "-43%",
-    "price": 11.41,
-    "lowest": 11.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
     "title": "Thymesia",
     "type": "game",
     "discount": "-54%",
@@ -22656,7 +22656,7 @@
     "price": 11.58,
     "lowest": 11.58,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -22846,7 +22846,7 @@
     "price": 11.95,
     "lowest": 11.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -24246,7 +24246,7 @@
     "price": 14.57,
     "lowest": 14.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "27-02-2024"
   },
   {
@@ -25430,6 +25430,16 @@
     "last_time_updated": "27-02-2024"
   },
   {
+    "title": "Metal: Hellsinger - Complete Edition",
+    "type": "game",
+    "discount": "-59%",
+    "price": 18.03,
+    "lowest": 18.03,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "27-02-2024"
+  },
+  {
     "title": "Trailblazers",
     "type": "game",
     "discount": "-40%",
@@ -25465,16 +25475,6 @@
     "discount": "-35%",
     "price": 18.12,
     "lowest": 18.12,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "27-02-2024"
-  },
-  {
-    "title": "Metal: Hellsinger - Complete Edition",
-    "type": "game",
-    "discount": "-59%",
-    "price": 18.14,
-    "lowest": 18.14,
     "stock": true,
     "status": "par",
     "last_time_updated": "27-02-2024"
@@ -26805,6 +26805,16 @@
     "discount": "-66%",
     "price": 31.02,
     "lowest": 31.02,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "27-02-2024"
+  },
+  {
+    "title": "Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey",
+    "type": "game",
+    "discount": "-38%",
+    "price": 31.24,
+    "lowest": 31.24,
     "stock": true,
     "status": "updated",
     "last_time_updated": "27-02-2024"
