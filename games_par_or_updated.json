@@ -1790,16 +1790,6 @@
     "last_time_updated": "28-02-2024"
   },
   {
-    "title": "Broken Sword 3 - the Sleeping Dragon",
-    "type": "game",
-    "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-02-2024"
-  },
-  {
     "title": "Hotshot Racing",
     "type": "game",
     "discount": "-95%",
@@ -5700,6 +5690,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "Observation",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.13,
+    "lowest": 1.13,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "Blood Bowl: Chaos Edition",
     "type": "game",
     "discount": "-92%",
@@ -6096,7 +6096,7 @@
     "price": 1.23,
     "lowest": 1.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -6300,6 +6300,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "Gomo",
+    "type": "game",
+    "discount": "-74%",
+    "price": 1.32,
+    "lowest": 1.32,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "Lumberjack's Dynasty",
     "type": "game",
     "discount": "-93%",
@@ -6343,16 +6353,6 @@
     "title": "Steel Rats",
     "type": "game",
     "discount": "-87%",
-    "price": 1.32,
-    "lowest": 1.32,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-02-2024"
-  },
-  {
-    "title": "Gomo",
-    "type": "game",
-    "discount": "-74%",
     "price": 1.32,
     "lowest": 1.32,
     "stock": true,
@@ -7196,7 +7196,7 @@
     "price": 1.52,
     "lowest": 1.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -9145,7 +9145,7 @@
     "discount": "-88%",
     "price": 2.09,
     "lowest": 2.09,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "28-02-2024"
   },
@@ -9706,7 +9706,7 @@
     "price": 2.27,
     "lowest": 2.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -11046,7 +11046,7 @@
     "price": 2.8,
     "lowest": 2.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -12000,6 +12000,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "Ori and the Blind Forest Definitive Edition",
+    "type": "game",
+    "discount": "-85%",
+    "price": 3.08,
+    "lowest": 3.08,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "Lethis - Path of Progress",
     "type": "game",
     "discount": "-85%",
@@ -12300,6 +12310,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "Dead Rising 2 Off The Record",
+    "type": "game",
+    "discount": "-84%",
+    "price": 3.23,
+    "lowest": 3.23,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "The Sojourn",
     "type": "game",
     "discount": "-87%",
@@ -12595,16 +12615,6 @@
     "discount": "-76%",
     "price": 3.33,
     "lowest": 3.33,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-02-2024"
-  },
-  {
-    "title": "Dead Rising 2 Off The Record",
-    "type": "game",
-    "discount": "-83%",
-    "price": 3.34,
-    "lowest": 3.34,
     "stock": true,
     "status": "par",
     "last_time_updated": "28-02-2024"
@@ -13647,6 +13657,16 @@
     "lowest": 3.86,
     "stock": true,
     "status": "par",
+    "last_time_updated": "28-02-2024"
+  },
+  {
+    "title": "The Talos Principle: Road to Gehenna",
+    "type": "DLC",
+    "discount": "-74%",
+    "price": 3.87,
+    "lowest": 3.87,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -15440,6 +15460,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "Nova Lands",
+    "type": "game",
+    "discount": "-76%",
+    "price": 4.75,
+    "lowest": 4.75,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "Surviving Mars: Future Contemporary Cosmetic Pack",
     "type": "DLC",
     "discount": "-4%",
@@ -16866,7 +16896,7 @@
     "price": 5.56,
     "lowest": 5.56,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -25990,6 +26020,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "Blood Bowl 3 Brutal Edition",
+    "type": "game",
+    "discount": "-63%",
+    "price": 18.34,
+    "lowest": 18.34,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "Dune: Spice Wars",
     "type": "game",
     "discount": "-47%",
@@ -26005,16 +26045,6 @@
     "discount": "-63%",
     "price": 18.41,
     "lowest": 18.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "28-02-2024"
-  },
-  {
-    "title": "Blood Bowl 3 Brutal Edition",
-    "type": "game",
-    "discount": "-63%",
-    "price": 18.46,
-    "lowest": 18.46,
     "stock": true,
     "status": "par",
     "last_time_updated": "28-02-2024"
@@ -26190,6 +26220,16 @@
     "last_time_updated": "28-02-2024"
   },
   {
+    "title": "TT Isle Of Man: Ride on the Edge 3 - Racing Fan Edition",
+    "type": "game",
+    "discount": "-68%",
+    "price": 19.31,
+    "lowest": 19.31,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "28-02-2024"
+  },
+  {
     "title": "Serious Sam 4 Deluxe Edition",
     "type": "game",
     "discount": "-61%",
@@ -26257,6 +26297,16 @@
     "lowest": 19.75,
     "stock": true,
     "status": "par",
+    "last_time_updated": "28-02-2024"
+  },
+  {
+    "title": "JoJo\u2019s Bizarre Adventure: All Star Battle R Deluxe Edition",
+    "type": "game",
+    "discount": "-72%",
+    "price": 19.82,
+    "lowest": 19.82,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "28-02-2024"
   },
   {
@@ -27365,7 +27415,7 @@
     "discount": "-57%",
     "price": 29.99,
     "lowest": 29.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "28-02-2024"
   },
