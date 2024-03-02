@@ -80,6 +80,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Time For Quest",
+    "type": "game",
+    "discount": "-87%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Bang Bang Racing",
     "type": "game",
     "discount": "-90%",
@@ -2813,16 +2823,6 @@
     "title": "Ylands Exploration Pack",
     "type": "DLC",
     "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Time For Quest",
-    "type": "game",
-    "discount": "-87%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5596,7 +5596,7 @@
     "price": 1.07,
     "lowest": 1.07,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -6300,17 +6300,17 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Nex Machina",
+    "title": "Lumberjack's Dynasty",
     "type": "game",
     "discount": "-93%",
     "price": 1.32,
     "lowest": 1.32,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Lumberjack's Dynasty",
+    "title": "Nex Machina",
     "type": "game",
     "discount": "-93%",
     "price": 1.32,
@@ -8520,6 +8520,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Mutazione",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.99,
+    "lowest": 1.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Move or Die",
     "type": "game",
     "discount": "-87%",
@@ -8563,16 +8573,6 @@
     "title": "The Elder Scrolls Adventures: Redguard",
     "type": "game",
     "discount": "-67%",
-    "price": 1.99,
-    "lowest": 1.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Mutazione",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.99,
     "lowest": 1.99,
     "stock": true,
@@ -11600,19 +11600,19 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "FatalZone",
+    "title": "Star Wars Battlefront (Classic, 2004)",
     "type": "game",
-    "discount": "-40%",
+    "discount": "-69%",
     "price": 2.99,
     "lowest": 2.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Star Wars Battlefront (Classic, 2004)",
+    "title": "FatalZone",
     "type": "game",
-    "discount": "-69%",
+    "discount": "-40%",
     "price": 2.99,
     "lowest": 2.99,
     "stock": true,
@@ -14375,16 +14375,6 @@
     "discount": "-93%",
     "price": 4.16,
     "lowest": 4.16,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Cassette Beasts: Pier of the Unknown",
-    "type": "DLC",
-    "discount": "-39%",
-    "price": 4.17,
-    "lowest": 4.17,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -21440,6 +21430,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Cardboard Town",
+    "type": "game",
+    "discount": "-50%",
+    "price": 9.66,
+    "lowest": 9.66,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Veritas",
     "type": "game",
     "discount": "-10%",
@@ -22445,6 +22445,16 @@
     "discount": "-15%",
     "price": 10.93,
     "lowest": 10.93,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Barony",
+    "type": "game",
+    "discount": "-44%",
+    "price": 10.98,
+    "lowest": 10.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -24355,7 +24365,7 @@
     "discount": "-65%",
     "price": 13.95,
     "lowest": 13.95,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -27485,7 +27495,7 @@
     "discount": "-6%",
     "price": 31.97,
     "lowest": 31.97,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
