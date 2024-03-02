@@ -80,6 +80,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Bang Bang Racing",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -4210,16 +4220,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Bang Bang Racing",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "Civilization V - Cradle of Civilization Map Pack: Mesopotamia",
     "type": "DLC",
     "discount": "-67%",
@@ -5590,6 +5590,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "WRC 9 Barcelona SSS",
+    "type": "DLC",
+    "discount": "-73%",
+    "price": 1.07,
+    "lowest": 1.07,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Pathway",
     "type": "game",
     "discount": "-92%",
@@ -5606,7 +5616,7 @@
     "price": 1.08,
     "lowest": 1.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -5705,7 +5715,7 @@
     "discount": "-95%",
     "price": 1.13,
     "lowest": 1.13,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -5913,16 +5923,6 @@
     "title": "Blackguards 2",
     "type": "game",
     "discount": "-88%",
-    "price": 1.18,
-    "lowest": 1.18,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "WRC 9 Barcelona SSS",
-    "type": "DLC",
-    "discount": "-70%",
     "price": 1.18,
     "lowest": 1.18,
     "stock": true,
@@ -6300,17 +6300,17 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Lumberjack's Dynasty",
+    "title": "Nex Machina",
     "type": "game",
     "discount": "-93%",
     "price": 1.32,
     "lowest": 1.32,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Nex Machina",
+    "title": "Lumberjack's Dynasty",
     "type": "game",
     "discount": "-93%",
     "price": 1.32,
@@ -6525,7 +6525,7 @@
     "discount": "-95%",
     "price": 1.36,
     "lowest": 1.36,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -8896,7 +8896,7 @@
     "price": 2.01,
     "lowest": 2.01,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -9096,7 +9096,7 @@
     "price": 2.1,
     "lowest": 2.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -16726,7 +16726,7 @@
     "price": 5.51,
     "lowest": 5.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -16866,7 +16866,7 @@
     "price": 5.64,
     "lowest": 5.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -18136,7 +18136,7 @@
     "price": 6.53,
     "lowest": 6.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -21236,7 +21236,7 @@
     "price": 9.35,
     "lowest": 9.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -21936,7 +21936,7 @@
     "price": 10.11,
     "lowest": 10.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -22415,16 +22415,6 @@
     "discount": "-46%",
     "price": 10.89,
     "lowest": 10.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Aquatico",
-    "type": "game",
-    "discount": "-56%",
-    "price": 10.9,
-    "lowest": 10.9,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -23616,7 +23606,7 @@
     "price": 12.33,
     "lowest": 12.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -24116,7 +24106,7 @@
     "price": 13.02,
     "lowest": 13.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -25156,7 +25146,7 @@
     "price": 15.89,
     "lowest": 15.89,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -27146,7 +27136,7 @@
     "price": 26.21,
     "lowest": 26.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
