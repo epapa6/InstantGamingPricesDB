@@ -60,6 +60,26 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Call of the Sea",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Youropa",
+    "type": "game",
+    "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -201,16 +221,6 @@
   },
   {
     "title": "Honey, I Joined a Cult",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Call of the Sea",
     "type": "game",
     "discount": "-95%",
     "price": 1.0,
@@ -1121,16 +1131,6 @@
   },
   {
     "title": "Blade Assault",
-    "type": "game",
-    "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Youropa",
     "type": "game",
     "discount": "-93%",
     "price": 1.0,
@@ -5600,6 +5600,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "WRC 9 Audi Quattro A2 1984",
+    "type": "DLC",
+    "discount": "-73%",
+    "price": 1.08,
+    "lowest": 1.08,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Lords and Villeins",
     "type": "game",
     "discount": "-96%",
@@ -5825,16 +5835,6 @@
     "discount": "-71%",
     "price": 1.14,
     "lowest": 1.14,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Doom 64",
-    "type": "game",
-    "discount": "-77%",
-    "price": 1.16,
-    "lowest": 1.16,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -6356,7 +6356,7 @@
     "price": 1.33,
     "lowest": 1.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -8890,6 +8890,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Strange Brigade",
+    "type": "game",
+    "discount": "-96%",
+    "price": 2.01,
+    "lowest": 2.01,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Nail'd",
     "type": "game",
     "discount": "-60%",
@@ -8946,7 +8956,7 @@
     "price": 2.03,
     "lowest": 2.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -9080,21 +9090,21 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Close to the Sun",
+    "type": "game",
+    "discount": "-89%",
+    "price": 2.1,
+    "lowest": 2.1,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Undead Horde",
     "type": "game",
     "discount": "-87%",
     "price": 2.11,
     "lowest": 2.11,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Strange Brigade",
-    "type": "game",
-    "discount": "-96%",
-    "price": 2.12,
-    "lowest": 2.12,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -9365,16 +9375,6 @@
     "discount": "-73%",
     "price": 2.2,
     "lowest": 2.2,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Close to the Sun",
-    "type": "game",
-    "discount": "-89%",
-    "price": 2.21,
-    "lowest": 2.21,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -10046,7 +10046,7 @@
     "price": 2.44,
     "lowest": 2.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -13016,7 +13016,7 @@
     "price": 3.52,
     "lowest": 3.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -13065,16 +13065,6 @@
     "discount": "-28%",
     "price": 3.57,
     "lowest": 3.57,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Warhammer 40,000: Gladius - Craftworld Aeldari",
-    "type": "DLC",
-    "discount": "-79%",
-    "price": 3.58,
-    "lowest": 3.58,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -16730,6 +16720,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "\u98ce\u5e06\u7eaa\u5143 Sailing Era",
+    "type": "game",
+    "discount": "-78%",
+    "price": 5.51,
+    "lowest": 5.51,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Katana Zero",
     "type": "game",
     "discount": "-63%",
@@ -16860,6 +16860,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Monster Hunter: World - Kit Deluxe",
+    "type": "DLC",
+    "discount": "-44%",
+    "price": 5.64,
+    "lowest": 5.64,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Mokoko X",
     "type": "game",
     "discount": "-42%",
@@ -16975,16 +16985,6 @@
     "discount": "-71%",
     "price": 5.74,
     "lowest": 5.74,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Monster Hunter: World - Kit Deluxe",
-    "type": "DLC",
-    "discount": "-42%",
-    "price": 5.75,
-    "lowest": 5.75,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -17896,7 +17896,7 @@
     "price": 6.43,
     "lowest": 6.43,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -17966,7 +17966,7 @@
     "price": 6.48,
     "lowest": 6.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -18127,6 +18127,16 @@
     "lowest": 6.52,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Europa Universalis IV: Cradle of Civilization",
+    "type": "DLC",
+    "discount": "-67%",
+    "price": 6.53,
+    "lowest": 6.53,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -19506,7 +19516,7 @@
     "price": 7.39,
     "lowest": 7.39,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -21216,6 +21226,16 @@
     "price": 9.31,
     "lowest": 9.31,
     "stock": true,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "The Legend of Heroes: Trails of Cold Steel II",
+    "type": "game",
+    "discount": "-77%",
+    "price": 9.35,
+    "lowest": 9.35,
+    "stock": true,
     "status": "updated",
     "last_time_updated": "02-03-2024"
   },
@@ -21325,16 +21345,6 @@
     "discount": "-62%",
     "price": 9.44,
     "lowest": 9.44,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "The Legend of Heroes: Trails of Cold Steel II",
-    "type": "game",
-    "discount": "-76%",
-    "price": 9.46,
-    "lowest": 9.46,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -21920,6 +21930,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "X Rebirth Collector's Edition",
+    "type": "game",
+    "discount": "-82%",
+    "price": 10.11,
+    "lowest": 10.11,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Cave Digger 2: Dig Harder",
     "type": "game",
     "discount": "-59%",
@@ -21973,16 +21993,6 @@
     "title": "Session: Skate Sim Supporter Edition",
     "type": "game",
     "discount": "-79%",
-    "price": 10.22,
-    "lowest": 10.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "X Rebirth Collector's Edition",
-    "type": "game",
-    "discount": "-81%",
     "price": 10.22,
     "lowest": 10.22,
     "stock": true,
@@ -22416,7 +22426,7 @@
     "price": 10.9,
     "lowest": 10.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -23600,6 +23610,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Metal Gear Survive",
+    "type": "game",
+    "discount": "-69%",
+    "price": 12.33,
+    "lowest": 12.33,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "De-Exit - Eternal Matters",
     "type": "game",
     "discount": "-38%",
@@ -23645,16 +23665,6 @@
     "discount": "-79%",
     "price": 12.43,
     "lowest": 12.43,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Metal Gear Survive",
-    "type": "game",
-    "discount": "-69%",
-    "price": 12.44,
-    "lowest": 12.44,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -23950,6 +23960,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Earth Defense Force: World Brothers",
+    "type": "game",
+    "discount": "-68%",
+    "price": 12.99,
+    "lowest": 12.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "CLeM",
     "type": "game",
     "discount": "-18%",
@@ -23993,16 +24013,6 @@
     "title": "Return of the Obra Dinn",
     "type": "game",
     "discount": "-33%",
-    "price": 12.99,
-    "lowest": 12.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Earth Defense Force: World Brothers",
-    "type": "game",
-    "discount": "-68%",
     "price": 12.99,
     "lowest": 12.99,
     "stock": true,
@@ -24100,21 +24110,21 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Farming Simulator 22",
+    "type": "game",
+    "discount": "-35%",
+    "price": 13.02,
+    "lowest": 13.02,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Dungeon Encounters",
     "type": "game",
     "discount": "-56%",
     "price": 13.09,
     "lowest": 13.09,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Farming Simulator 22",
-    "type": "game",
-    "discount": "-34%",
-    "price": 13.13,
-    "lowest": 13.13,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -24650,16 +24660,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Euro Truck Simulator 2 Gold Edition",
-    "type": "game",
-    "discount": "-52%",
-    "price": 14.45,
-    "lowest": 14.45,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "Dream Cycle",
     "type": "game",
     "discount": "-28%",
@@ -24966,7 +24966,7 @@
     "price": 15.32,
     "lowest": 15.32,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -24986,7 +24986,7 @@
     "price": 15.47,
     "lowest": 15.47,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -25147,6 +25147,16 @@
     "lowest": 15.88,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "TT Isle of Man: Ride on the Edge 3",
+    "type": "game",
+    "discount": "-68%",
+    "price": 15.89,
+    "lowest": 15.89,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -25335,16 +25345,6 @@
     "discount": "-34%",
     "price": 16.41,
     "lowest": 16.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "TT Isle of Man: Ride on the Edge 3",
-    "type": "game",
-    "discount": "-67%",
-    "price": 16.47,
-    "lowest": 16.47,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -25585,7 +25585,7 @@
     "discount": "-14%",
     "price": 17.25,
     "lowest": 17.25,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -26216,7 +26216,7 @@
     "price": 19.5,
     "lowest": 19.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -27137,6 +27137,16 @@
     "lowest": 25.99,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Wild West Dynasty - Ultimate Edition",
+    "type": "game",
+    "discount": "-29%",
+    "price": 26.21,
+    "lowest": 26.21,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-03-2024"
   },
   {
