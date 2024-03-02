@@ -60,9 +60,39 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Drift21",
+    "type": "game",
+    "discount": "-97%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Call of the Sea",
     "type": "game",
     "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Fahrenheit: Indigo Prophecy Remastered",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Alone in the Dark Anthology",
+    "type": "game",
+    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -133,16 +163,6 @@
     "title": "Mr. Prepper",
     "type": "game",
     "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Drift21",
-    "type": "game",
-    "discount": "-97%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -500,16 +520,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Fahrenheit: Indigo Prophecy Remastered",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "Broken Sword: Director's Cut",
     "type": "game",
     "discount": "-80%",
@@ -773,16 +783,6 @@
     "title": "Farm Frenzy: Refreshed",
     "type": "game",
     "discount": "-86%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Alone in the Dark Anthology",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6830,19 +6830,19 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Fairy Fencer F",
+    "title": "Jagged Alliance 2: Wildfire",
     "type": "game",
-    "discount": "-82%",
+    "discount": "-84%",
     "price": 1.45,
     "lowest": 1.45,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Jagged Alliance 2: Wildfire",
+    "title": "Fairy Fencer F",
     "type": "game",
-    "discount": "-84%",
+    "discount": "-82%",
     "price": 1.45,
     "lowest": 1.45,
     "stock": true,
@@ -6955,7 +6955,7 @@
     "discount": "-93%",
     "price": 1.48,
     "lowest": 1.48,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -7750,19 +7750,19 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Europa Universalis IV: Sabaton Soundtrack",
-    "type": "DLC",
-    "discount": "-42%",
+    "title": "Divekick",
+    "type": "game",
+    "discount": "-57%",
     "price": 1.73,
     "lowest": 1.73,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Divekick",
-    "type": "game",
-    "discount": "-57%",
+    "title": "Europa Universalis IV: Sabaton Soundtrack",
+    "type": "DLC",
+    "discount": "-42%",
     "price": 1.73,
     "lowest": 1.73,
     "stock": true,
@@ -10326,7 +10326,7 @@
     "price": 2.51,
     "lowest": 2.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -10555,7 +10555,7 @@
     "discount": "-91%",
     "price": 2.6,
     "lowest": 2.6,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -12835,7 +12835,7 @@
     "discount": "-93%",
     "price": 3.47,
     "lowest": 3.47,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -14736,7 +14736,7 @@
     "price": 4.37,
     "lowest": 4.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -17640,6 +17640,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Ben 10",
+    "type": "game",
+    "discount": "-76%",
+    "price": 6.12,
+    "lowest": 6.12,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Space Pioneer",
     "type": "game",
     "discount": "-39%",
@@ -17850,16 +17860,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Ben 10",
-    "type": "game",
-    "discount": "-74%",
-    "price": 6.42,
-    "lowest": 6.42,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "RUN: The world in-between",
     "type": "game",
     "discount": "-36%",
@@ -17990,6 +17990,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Dead by Daylight - the Saw Chapter",
+    "type": "DLC",
+    "discount": "-7%",
+    "price": 6.49,
+    "lowest": 6.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Dead by Daylight - End Transmission",
     "type": "DLC",
     "discount": "-7%",
@@ -18001,16 +18011,6 @@
   },
   {
     "title": "Dead by Daylight - Forged in Fog Chapter",
-    "type": "DLC",
-    "discount": "-7%",
-    "price": 6.49,
-    "lowest": 6.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Dead by Daylight - the Saw Chapter",
     "type": "DLC",
     "discount": "-7%",
     "price": 6.49,
@@ -19440,16 +19440,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Dragon Ball Xenoverse 2 - Hero of Justice Pack Set",
-    "type": "DLC",
-    "discount": "-57%",
-    "price": 7.3,
-    "lowest": 7.3,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "WRC Generations",
     "type": "game",
     "discount": "-82%",
@@ -19527,6 +19517,16 @@
     "lowest": 7.41,
     "stock": true,
     "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Wolfenstein II: The New Colossus- Deluxe Edition",
+    "type": "game",
+    "discount": "-75%",
+    "price": 7.42,
+    "lowest": 7.42,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -19815,7 +19815,7 @@
     "discount": "-89%",
     "price": 7.61,
     "lowest": 7.61,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -23396,7 +23396,7 @@
     "price": 12.09,
     "lowest": 12.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -24595,7 +24595,7 @@
     "discount": "-43%",
     "price": 14.35,
     "lowest": 14.35,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -25425,7 +25425,7 @@
     "discount": "-34%",
     "price": 16.59,
     "lowest": 16.59,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -27500,19 +27500,19 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "title": "F1 23 Champions Edition",
     "type": "game",
-    "discount": "-36%",
+    "discount": "-64%",
     "price": 31.99,
     "lowest": 31.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "F1 23 Champions Edition",
+    "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
     "type": "game",
-    "discount": "-64%",
+    "discount": "-36%",
     "price": 31.99,
     "lowest": 31.99,
     "stock": true,
