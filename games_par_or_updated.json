@@ -90,6 +90,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Deathtrap",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "Alone in the Dark Anthology",
     "type": "game",
     "discount": "-93%",
@@ -111,6 +121,16 @@
   },
   {
     "title": "Youropa",
+    "type": "game",
+    "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "02-03-2024"
+  },
+  {
+    "title": "Colt Canyon",
     "type": "game",
     "discount": "-93%",
     "price": 1.0,
@@ -730,16 +750,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Deathtrap",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "Otxo",
     "type": "game",
     "discount": "-92%",
@@ -1243,16 +1253,6 @@
     "title": "Paper Beast",
     "type": "game",
     "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Colt Canyon",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -8960,6 +8960,16 @@
     "last_time_updated": "02-03-2024"
   },
   {
+    "title": "Europa Universalis IV: Rights of Man Content Pack",
+    "type": "DLC",
+    "discount": "-66%",
+    "price": 2.04,
+    "lowest": 2.04,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "02-03-2024"
+  },
+  {
     "title": "For the King",
     "type": "game",
     "discount": "-90%",
@@ -9265,16 +9275,6 @@
     "discount": "-86%",
     "price": 2.17,
     "lowest": 2.17,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
-    "title": "Europa Universalis IV: Rights of Man Content Pack",
-    "type": "DLC",
-    "discount": "-64%",
-    "price": 2.18,
-    "lowest": 2.18,
     "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
@@ -10615,7 +10615,7 @@
     "discount": "-80%",
     "price": 2.61,
     "lowest": 2.61,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -12355,7 +12355,7 @@
     "discount": "-60%",
     "price": 3.21,
     "lowest": 3.21,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -12490,19 +12490,19 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "The Evil Within: Season Pass",
+    "title": "Scum Weapon Skins pack",
     "type": "DLC",
-    "discount": "-67%",
+    "discount": "-34%",
     "price": 3.3,
     "lowest": 3.3,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Scum Weapon Skins pack",
+    "title": "The Evil Within: Season Pass",
     "type": "DLC",
-    "discount": "-34%",
+    "discount": "-67%",
     "price": 3.3,
     "lowest": 3.3,
     "stock": true,
@@ -13365,7 +13365,7 @@
     "discount": "-85%",
     "price": 3.76,
     "lowest": 3.76,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -14705,7 +14705,7 @@
     "discount": "-45%",
     "price": 4.36,
     "lowest": 4.36,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -16680,16 +16680,6 @@
     "last_time_updated": "02-03-2024"
   },
   {
-    "title": "Stronghold: Warlords",
-    "type": "game",
-    "discount": "-84%",
-    "price": 5.5,
-    "lowest": 5.5,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "02-03-2024"
-  },
-  {
     "title": "Final Fantasy IV: The After Years",
     "type": "game",
     "discount": "-62%",
@@ -17235,7 +17225,7 @@
     "discount": "-41%",
     "price": 5.93,
     "lowest": 5.93,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -17646,7 +17636,7 @@
     "price": 6.12,
     "lowest": 6.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -17735,7 +17725,7 @@
     "discount": "-65%",
     "price": 6.26,
     "lowest": 6.26,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -19435,7 +19425,7 @@
     "discount": "-9%",
     "price": 7.3,
     "lowest": 7.3,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -19526,7 +19516,7 @@
     "price": 7.42,
     "lowest": 7.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "02-03-2024"
   },
   {
@@ -24595,7 +24585,7 @@
     "discount": "-43%",
     "price": 14.35,
     "lowest": 14.35,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
@@ -27495,7 +27485,7 @@
     "discount": "-6%",
     "price": 31.97,
     "lowest": 31.97,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "02-03-2024"
   },
