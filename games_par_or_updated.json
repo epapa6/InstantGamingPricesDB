@@ -5,7 +5,7 @@
     "discount": "-83%",
     "price": 0.8,
     "lowest": 0.8,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -70,6 +70,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Foretales",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Revita",
     "type": "game",
     "discount": "-94%",
@@ -93,6 +103,16 @@
     "title": "Treasure Hunter Simulator",
     "type": "game",
     "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
+    "title": "Cook, Serve, Delicious! 3?!",
+    "type": "game",
+    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -463,16 +483,6 @@
     "title": "Banners of Ruin",
     "type": "game",
     "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Foretales",
-    "type": "game",
-    "discount": "-95%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1280,16 +1290,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Truck Mechanic Simulator 2015",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Goat Simulator: PAYDAY",
     "type": "DLC",
     "discount": "-80%",
@@ -1363,16 +1363,6 @@
     "title": "Ever Forward",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Cook, Serve, Delicious! 3?!",
-    "type": "game",
-    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5926,7 +5916,7 @@
     "price": 1.22,
     "lowest": 1.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -9065,7 +9055,7 @@
     "discount": "-91%",
     "price": 2.16,
     "lowest": 2.16,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -10160,16 +10150,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Maneater",
-    "type": "game",
-    "discount": "-93%",
-    "price": 2.51,
-    "lowest": 2.51,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Batman: Arkham Origins Blackgate",
     "type": "game",
     "discount": "-83%",
@@ -10350,16 +10330,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Iron Harvest 1920+",
-    "type": "game",
-    "discount": "-91%",
-    "price": 2.59,
-    "lowest": 2.59,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "The Survivalists - Monkey Business Pack",
     "type": "DLC",
     "discount": "-13%",
@@ -10475,7 +10445,7 @@
     "discount": "-89%",
     "price": 2.65,
     "lowest": 2.65,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -10680,19 +10650,19 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "SpiderHeck",
-    "type": "game",
-    "discount": "-82%",
+    "title": "Endless Space 2 - Celestial Worlds",
+    "type": "DLC",
+    "discount": "-10%",
     "price": 2.69,
     "lowest": 2.69,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Endless Space 2 - Celestial Worlds",
-    "type": "DLC",
-    "discount": "-10%",
+    "title": "SpiderHeck",
+    "type": "game",
+    "discount": "-82%",
     "price": 2.69,
     "lowest": 2.69,
     "stock": true,
@@ -11795,7 +11765,7 @@
     "discount": "-70%",
     "price": 3.04,
     "lowest": 3.04,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -12935,7 +12905,7 @@
     "discount": "-76%",
     "price": 3.62,
     "lowest": 3.62,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -14340,6 +14310,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Planet Zoo: Oceania Pack",
+    "type": "DLC",
+    "discount": "-57%",
+    "price": 4.3,
+    "lowest": 4.3,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Undercover Missions: Operation Kursk K-141",
     "type": "game",
     "discount": "-57%",
@@ -14885,7 +14865,7 @@
     "discount": "-7%",
     "price": 4.66,
     "lowest": 4.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -15157,6 +15137,16 @@
     "lowest": 4.86,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
+    "title": "Contra: Rogue Corps",
+    "type": "game",
+    "discount": "-88%",
+    "price": 4.86,
+    "lowest": 4.86,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -15757,16 +15747,6 @@
     "lowest": 5.04,
     "stock": true,
     "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Contra: Rogue Corps",
-    "type": "game",
-    "discount": "-87%",
-    "price": 5.05,
-    "lowest": 5.05,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -16426,7 +16406,7 @@
     "price": 5.53,
     "lowest": 5.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -17516,7 +17496,7 @@
     "price": 6.42,
     "lowest": 6.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -20016,7 +19996,7 @@
     "price": 8.3,
     "lowest": 8.3,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -23195,16 +23175,6 @@
     "discount": "-38%",
     "price": 12.34,
     "lowest": 12.34,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Autobahn Police Simulator 3",
-    "type": "game",
-    "discount": "-59%",
-    "price": 12.35,
-    "lowest": 12.35,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
