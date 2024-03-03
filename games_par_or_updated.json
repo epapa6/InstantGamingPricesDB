@@ -70,6 +70,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Sacred Gold",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Swords Fantasy: Battlefield",
     "type": "game",
     "discount": "-90%",
@@ -253,16 +263,6 @@
     "title": "Shady Part of Me",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Turnip Boy Commits Tax Evasion",
-    "type": "game",
-    "discount": "-92%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -580,16 +580,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Broken Sword: Director's Cut",
-    "type": "game",
-    "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Founders' Fortune",
     "type": "game",
     "discount": "-95%",
@@ -773,16 +763,6 @@
     "title": "Monster Train - The Last Divinity",
     "type": "DLC",
     "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Sacred Gold",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5315,7 +5295,7 @@
     "discount": "-96%",
     "price": 1.03,
     "lowest": 1.03,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -5390,19 +5370,19 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Stronghold Crusader HD",
+    "title": "Hellpoint",
     "type": "game",
-    "discount": "-87%",
+    "discount": "-97%",
     "price": 1.06,
     "lowest": 1.06,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Hellpoint",
+    "title": "Stronghold Crusader HD",
     "type": "game",
-    "discount": "-97%",
+    "discount": "-87%",
     "price": 1.06,
     "lowest": 1.06,
     "stock": true,
@@ -5615,7 +5595,7 @@
     "discount": "-84%",
     "price": 1.13,
     "lowest": 1.13,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -5837,6 +5817,16 @@
     "lowest": 1.18,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
+    "title": "Project Highrise",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.19,
+    "lowest": 1.19,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -6930,6 +6920,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Monster Monpiece - Deluxe Pack",
+    "type": "DLC",
+    "discount": "-85%",
+    "price": 1.49,
+    "lowest": 1.49,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Gothic 3: Forsaken Gods Enhanced Edition",
     "type": "game",
     "discount": "-85%",
@@ -7290,16 +7290,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Monster Monpiece - Deluxe Pack",
-    "type": "DLC",
-    "discount": "-84%",
-    "price": 1.6,
-    "lowest": 1.6,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Killing Floor 2",
     "type": "game",
     "discount": "-94%",
@@ -7346,7 +7336,7 @@
     "price": 1.64,
     "lowest": 1.64,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -8160,6 +8150,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Strange Brigade",
+    "type": "game",
+    "discount": "-96%",
+    "price": 1.9,
+    "lowest": 1.9,
+    "stock": false,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Train Sim World 2: BR Class 20 'Chopper' Loco Add-On",
     "type": "DLC",
     "discount": "-86%",
@@ -8167,6 +8167,16 @@
     "lowest": 1.9,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
+    "title": "Cities: Skylines - Snowfall",
+    "type": "DLC",
+    "discount": "-85%",
+    "price": 1.91,
+    "lowest": 1.91,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -8207,6 +8217,16 @@
     "lowest": 1.92,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
+    "title": "The Fabled Woods",
+    "type": "game",
+    "discount": "-81%",
+    "price": 1.92,
+    "lowest": 1.92,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -8730,16 +8750,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Strange Brigade",
-    "type": "game",
-    "discount": "-96%",
-    "price": 2.01,
-    "lowest": 2.01,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Rising Storm 2: Vietnam Pulling Rank",
     "type": "DLC",
     "discount": "-69%",
@@ -8935,16 +8945,6 @@
     "discount": "-79%",
     "price": 2.09,
     "lowest": 2.09,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Close to the Sun",
-    "type": "game",
-    "discount": "-89%",
-    "price": 2.1,
-    "lowest": 2.1,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -9270,19 +9270,19 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Stronghold Crusader 2: Special Edition",
-    "type": "game",
-    "discount": "-95%",
+    "title": "Kingdom Come: Deliverance A Woman's Lot",
+    "type": "DLC",
+    "discount": "-72%",
     "price": 2.22,
     "lowest": 2.22,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Kingdom Come: Deliverance A Woman's Lot",
-    "type": "DLC",
-    "discount": "-72%",
+    "title": "Stronghold Crusader 2: Special Edition",
+    "type": "game",
+    "discount": "-95%",
     "price": 2.22,
     "lowest": 2.22,
     "stock": true,
@@ -9503,16 +9503,6 @@
     "title": "Alpine - The Simulation Game",
     "type": "game",
     "discount": "-89%",
-    "price": 2.27,
-    "lowest": 2.27,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Coast Guard",
-    "type": "game",
-    "discount": "-85%",
     "price": 2.27,
     "lowest": 2.27,
     "stock": true,
@@ -10190,19 +10180,19 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Disney Pixar Wall-E",
+    "title": "Batman: Arkham Origins Blackgate",
     "type": "game",
-    "discount": "-87%",
+    "discount": "-83%",
     "price": 2.52,
     "lowest": 2.52,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Batman: Arkham Origins Blackgate",
+    "title": "Disney Pixar Wall-E",
     "type": "game",
-    "discount": "-83%",
+    "discount": "-87%",
     "price": 2.52,
     "lowest": 2.52,
     "stock": true,
@@ -10373,16 +10363,6 @@
     "title": "Iron Harvest 1920+",
     "type": "game",
     "discount": "-91%",
-    "price": 2.59,
-    "lowest": 2.59,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Hunting Simulator 2",
-    "type": "game",
-    "discount": "-94%",
     "price": 2.59,
     "lowest": 2.59,
     "stock": true,
@@ -10810,6 +10790,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Ricky Raccoon",
+    "type": "game",
+    "discount": "-70%",
+    "price": 2.7,
+    "lowest": 2.7,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Planet Zoo: Pacchetto Animali Sudest asiatico",
     "type": "DLC",
     "discount": "-73%",
@@ -10845,16 +10835,6 @@
     "discount": "-63%",
     "price": 2.74,
     "lowest": 2.74,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "A Rose In The Twilight",
-    "type": "game",
-    "discount": "-86%",
-    "price": 2.75,
-    "lowest": 2.75,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -11065,16 +11045,6 @@
     "discount": "-81%",
     "price": 2.86,
     "lowest": 2.86,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "theHunter: Call of the Wild - Emerald Coast Australia",
-    "type": "DLC",
-    "discount": "-64%",
-    "price": 2.87,
-    "lowest": 2.87,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -12025,16 +11995,6 @@
     "discount": "-76%",
     "price": 3.13,
     "lowest": 3.13,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Ricky Raccoon",
-    "type": "game",
-    "discount": "-65%",
-    "price": 3.14,
-    "lowest": 3.14,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -13490,6 +13450,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Overcooked! 2",
+    "type": "game",
+    "discount": "-83%",
+    "price": 3.94,
+    "lowest": 3.94,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Zombie Solitaire",
     "type": "game",
     "discount": "-56%",
@@ -14095,16 +14065,6 @@
     "discount": "-92%",
     "price": 4.1,
     "lowest": 4.1,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Destiny 2: The Witch Queen",
-    "type": "DLC",
-    "discount": "-86%",
-    "price": 4.13,
-    "lowest": 4.13,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -15130,6 +15090,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Brewmaster: Beer Brewing Simulator",
+    "type": "game",
+    "discount": "-73%",
+    "price": 4.82,
+    "lowest": 4.82,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "KryptCrawler",
     "type": "game",
     "discount": "-27%",
@@ -15446,7 +15416,7 @@
     "price": 4.97,
     "lowest": 4.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -15916,7 +15886,7 @@
     "price": 5.18,
     "lowest": 5.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -16046,7 +16016,7 @@
     "price": 5.21,
     "lowest": 5.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -16880,19 +16850,19 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Session: Skate Sim Schoolyard",
-    "type": "DLC",
-    "discount": "-26%",
+    "title": "Outlast Trinity",
+    "type": "game",
+    "discount": "-87%",
     "price": 5.89,
     "lowest": 5.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Outlast Trinity",
-    "type": "game",
-    "discount": "-87%",
+    "title": "Session: Skate Sim Schoolyard",
+    "type": "DLC",
+    "discount": "-26%",
     "price": 5.89,
     "lowest": 5.89,
     "stock": true,
@@ -16955,16 +16925,6 @@
     "discount": "-61%",
     "price": 5.9,
     "lowest": 5.9,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Star Control: Origins",
-    "type": "game",
-    "discount": "-80%",
-    "price": 5.91,
-    "lowest": 5.91,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -17505,16 +17465,6 @@
     "discount": "-19%",
     "price": 6.3,
     "lowest": 6.3,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "TerraTech",
-    "type": "game",
-    "discount": "-75%",
-    "price": 6.31,
-    "lowest": 6.31,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -18310,16 +18260,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Tour de France 2023",
-    "type": "game",
-    "discount": "-83%",
-    "price": 6.73,
-    "lowest": 6.73,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Beyond Contact",
     "type": "game",
     "discount": "-66%",
@@ -19020,6 +18960,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "WRC Generations",
+    "type": "game",
+    "discount": "-82%",
+    "price": 7.17,
+    "lowest": 7.17,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Call of the Sea Deluxe Edition",
     "type": "game",
     "discount": "-75%",
@@ -19130,11 +19080,11 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "WRC Generations",
+    "title": "Rush: A Disney & Pixar Adventure",
     "type": "game",
-    "discount": "-82%",
-    "price": 7.31,
-    "lowest": 7.31,
+    "discount": "-57%",
+    "price": 7.3,
+    "lowest": 7.3,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -19487,6 +19437,16 @@
     "lowest": 7.54,
     "stock": true,
     "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
+    "title": "Doom Eternal",
+    "type": "game",
+    "discount": "-81%",
+    "price": 7.57,
+    "lowest": 7.57,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "03-03-2024"
   },
   {
@@ -20560,6 +20520,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Cultist Simulator: Anthology Edition",
+    "type": "game",
+    "discount": "-77%",
+    "price": 8.99,
+    "lowest": 8.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Master of Magic: Scourge of the Seas",
     "type": "DLC",
     "discount": "-30%",
@@ -20583,16 +20553,6 @@
     "title": "Dishonored: Death of the Outsider Deluxe Bundle",
     "type": "game",
     "discount": "-85%",
-    "price": 8.99,
-    "lowest": 8.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Cultist Simulator: Anthology Edition",
-    "type": "game",
-    "discount": "-77%",
     "price": 8.99,
     "lowest": 8.99,
     "stock": true,
@@ -20700,16 +20660,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Amazing Cultivation Simulator",
-    "type": "game",
-    "discount": "-57%",
-    "price": 9.0,
-    "lowest": 9.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Ace Combat 7: Skies Unknown - TOP GUN: Maverick Aircraft Set -",
     "type": "DLC",
     "discount": "-55%",
@@ -20785,16 +20735,6 @@
     "discount": "-39%",
     "price": 9.2,
     "lowest": 9.2,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Fallout 4: Season Pass",
-    "type": "DLC",
-    "discount": "-74%",
-    "price": 9.26,
-    "lowest": 9.26,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -21090,16 +21030,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Cardboard Town",
-    "type": "game",
-    "discount": "-50%",
-    "price": 9.66,
-    "lowest": 9.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Veritas",
     "type": "game",
     "discount": "-10%",
@@ -21200,6 +21130,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Blacktail",
+    "type": "game",
+    "discount": "-67%",
+    "price": 9.83,
+    "lowest": 9.83,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Skabma - Snowfall",
     "type": "game",
     "discount": "-51%",
@@ -21290,6 +21230,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Barony",
+    "type": "game",
+    "discount": "-49%",
+    "price": 9.94,
+    "lowest": 9.94,
+    "stock": false,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Alchemic Cutie",
     "type": "game",
     "discount": "-41%",
@@ -21350,9 +21300,9 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "JackHammer: Demolition Dodgeball",
+    "title": "Balatro",
     "type": "game",
-    "discount": "-23%",
+    "discount": "-29%",
     "price": 9.99,
     "lowest": 9.99,
     "stock": false,
@@ -21360,12 +21310,12 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Balatro",
+    "title": "JackHammer: Demolition Dodgeball",
     "type": "game",
-    "discount": "-29%",
+    "discount": "-23%",
     "price": 9.99,
     "lowest": 9.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -21730,16 +21680,6 @@
     "last_time_updated": "03-03-2024"
   },
   {
-    "title": "Noita",
-    "type": "game",
-    "discount": "-45%",
-    "price": 10.4,
-    "lowest": 10.4,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
     "title": "Bibots",
     "type": "game",
     "discount": "-20%",
@@ -22020,6 +21960,16 @@
     "last_time_updated": "03-03-2024"
   },
   {
+    "title": "Zombie Cure Lab",
+    "type": "game",
+    "discount": "-57%",
+    "price": 10.72,
+    "lowest": 10.72,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "03-03-2024"
+  },
+  {
     "title": "Dragon Star Varnir DLC Bundle",
     "type": "game",
     "discount": "-71%",
@@ -22105,16 +22055,6 @@
     "discount": "-15%",
     "price": 10.93,
     "lowest": 10.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "03-03-2024"
-  },
-  {
-    "title": "Barony",
-    "type": "game",
-    "discount": "-44%",
-    "price": 10.98,
-    "lowest": 10.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "03-03-2024"
@@ -22665,7 +22605,7 @@
     "discount": "-67%",
     "price": 11.7,
     "lowest": 11.7,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -26835,7 +26775,7 @@
     "discount": "-60%",
     "price": 28.32,
     "lowest": 28.32,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -26955,7 +26895,7 @@
     "discount": "-54%",
     "price": 29.94,
     "lowest": 29.94,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
@@ -27675,7 +27615,7 @@
     "discount": "-23%",
     "price": 53.79,
     "lowest": 53.79,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "03-03-2024"
   },
