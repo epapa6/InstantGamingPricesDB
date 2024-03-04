@@ -6376,7 +6376,7 @@
     "price": 1.41,
     "lowest": 1.41,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -6720,16 +6720,6 @@
     "last_time_updated": "04-03-2024"
   },
   {
-    "title": "Monster Monpiece - Deluxe Pack",
-    "type": "DLC",
-    "discount": "-85%",
-    "price": 1.49,
-    "lowest": 1.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
     "title": "Gothic 3: Forsaken Gods Enhanced Edition",
     "type": "game",
     "discount": "-85%",
@@ -6826,7 +6816,7 @@
     "price": 1.53,
     "lowest": 1.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -8390,16 +8380,6 @@
     "last_time_updated": "04-03-2024"
   },
   {
-    "title": "Quantic Pinball",
-    "type": "game",
-    "discount": "-50%",
-    "price": 2.0,
-    "lowest": 2.0,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
     "title": "Ghostly Matter",
     "type": "game",
     "discount": "-80%",
@@ -8453,6 +8433,16 @@
     "title": "Reprisal Universe",
     "type": "game",
     "discount": "-71%",
+    "price": 2.0,
+    "lowest": 2.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "04-03-2024"
+  },
+  {
+    "title": "Quantic Pinball",
+    "type": "game",
+    "discount": "-50%",
     "price": 2.0,
     "lowest": 2.0,
     "stock": true,
@@ -9256,7 +9246,7 @@
     "price": 2.28,
     "lowest": 2.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -9307,6 +9297,16 @@
     "lowest": 2.31,
     "stock": true,
     "status": "par",
+    "last_time_updated": "04-03-2024"
+  },
+  {
+    "title": "Kingdom Two Crowns",
+    "type": "game",
+    "discount": "-88%",
+    "price": 2.32,
+    "lowest": 2.32,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -9526,7 +9526,7 @@
     "price": 2.4,
     "lowest": 2.4,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -9536,7 +9536,7 @@
     "price": 2.4,
     "lowest": 2.4,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -9635,16 +9635,6 @@
     "discount": "-75%",
     "price": 2.42,
     "lowest": 2.42,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
-    "title": "Kingdom Two Crowns",
-    "type": "game",
-    "discount": "-88%",
-    "price": 2.43,
-    "lowest": 2.43,
     "stock": true,
     "status": "par",
     "last_time_updated": "04-03-2024"
@@ -10436,7 +10426,7 @@
     "price": 2.69,
     "lowest": 2.69,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -16166,7 +16156,7 @@
     "price": 5.61,
     "lowest": 5.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -16956,7 +16946,7 @@
     "price": 6.14,
     "lowest": 6.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -18456,7 +18446,7 @@
     "price": 7.04,
     "lowest": 7.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -18965,7 +18955,7 @@
     "discount": "-8%",
     "price": 7.55,
     "lowest": 7.55,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "04-03-2024"
   },
@@ -21840,6 +21830,16 @@
     "last_time_updated": "04-03-2024"
   },
   {
+    "title": "Worldless",
+    "type": "game",
+    "discount": "-43%",
+    "price": 11.38,
+    "lowest": 11.38,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-03-2024"
+  },
+  {
     "title": "Thymesia",
     "type": "game",
     "discount": "-54%",
@@ -22450,6 +22450,16 @@
     "last_time_updated": "04-03-2024"
   },
   {
+    "title": "Metal Gear Survive",
+    "type": "game",
+    "discount": "-69%",
+    "price": 12.22,
+    "lowest": 12.22,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-03-2024"
+  },
+  {
     "title": "Wintermoor Tactics Club: Wintermost Edition",
     "type": "game",
     "discount": "-18%",
@@ -22565,16 +22575,6 @@
     "discount": "-51%",
     "price": 12.31,
     "lowest": 12.31,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
-    "title": "Metal Gear Survive",
-    "type": "game",
-    "discount": "-69%",
-    "price": 12.33,
-    "lowest": 12.33,
     "stock": true,
     "status": "par",
     "last_time_updated": "04-03-2024"
@@ -25046,7 +25046,7 @@
     "price": 19.6,
     "lowest": 19.6,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
