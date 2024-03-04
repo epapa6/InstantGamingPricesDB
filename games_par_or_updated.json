@@ -50,16 +50,6 @@
     "last_time_updated": "25-01-2024"
   },
   {
-    "title": "Gothic 3",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
     "title": "Joe Danger + Joe Danger 2: The Movie",
     "type": "game",
     "discount": "-96%",
@@ -4956,7 +4946,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -5376,7 +5366,7 @@
     "price": 1.06,
     "lowest": 1.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -6886,7 +6876,7 @@
     "price": 1.53,
     "lowest": 1.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -6936,7 +6926,7 @@
     "price": 1.53,
     "lowest": 1.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -7436,7 +7426,7 @@
     "price": 1.7,
     "lowest": 1.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -7836,7 +7826,7 @@
     "price": 1.86,
     "lowest": 1.86,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -8825,7 +8815,7 @@
     "discount": "-91%",
     "price": 2.13,
     "lowest": 2.13,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "04-03-2024"
   },
@@ -8856,7 +8846,7 @@
     "price": 2.13,
     "lowest": 2.13,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -9216,7 +9206,7 @@
     "price": 2.26,
     "lowest": 2.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -9786,7 +9776,7 @@
     "price": 2.45,
     "lowest": 2.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -10096,7 +10086,7 @@
     "price": 2.53,
     "lowest": 2.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -12646,7 +12636,7 @@
     "price": 3.57,
     "lowest": 3.57,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -13330,16 +13320,6 @@
     "last_time_updated": "04-03-2024"
   },
   {
-    "title": "Northgard: Nidhogg, Clan of the Dragon",
-    "type": "DLC",
-    "discount": "-11%",
-    "price": 3.99,
-    "lowest": 3.99,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
     "title": "Melvor Idle: Atlas of Discovery",
     "type": "DLC",
     "discount": "-20%",
@@ -13413,6 +13393,16 @@
     "title": "Cities: Skylines - Content Creator Pack: Mid-Century Modern",
     "type": "DLC",
     "discount": "-33%",
+    "price": 3.99,
+    "lowest": 3.99,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "04-03-2024"
+  },
+  {
+    "title": "Northgard: Nidhogg, Clan of the Dragon",
+    "type": "DLC",
+    "discount": "-11%",
     "price": 3.99,
     "lowest": 3.99,
     "stock": true,
@@ -16036,7 +16026,7 @@
     "price": 5.45,
     "lowest": 5.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -16076,7 +16066,7 @@
     "price": 5.48,
     "lowest": 5.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -16146,7 +16136,7 @@
     "price": 5.5,
     "lowest": 5.5,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -17346,7 +17336,7 @@
     "price": 6.48,
     "lowest": 6.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -18286,7 +18276,7 @@
     "price": 6.98,
     "lowest": 6.98,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -18840,19 +18830,19 @@
     "last_time_updated": "04-03-2024"
   },
   {
-    "title": "Vengeful Rites",
-    "type": "game",
-    "discount": "-63%",
+    "title": "Battlestar Galactica Deadlock: Armistice",
+    "type": "DLC",
+    "discount": "-23%",
     "price": 7.48,
     "lowest": 7.48,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
-    "title": "Battlestar Galactica Deadlock: Armistice",
-    "type": "DLC",
-    "discount": "-23%",
+    "title": "Vengeful Rites",
+    "type": "game",
+    "discount": "-63%",
     "price": 7.48,
     "lowest": 7.48,
     "stock": true,
@@ -19395,7 +19385,7 @@
     "discount": "-87%",
     "price": 8.01,
     "lowest": 8.01,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "04-03-2024"
   },
@@ -22720,16 +22710,6 @@
     "last_time_updated": "04-03-2024"
   },
   {
-    "title": "Autobahn Police Simulator 3",
-    "type": "game",
-    "discount": "-59%",
-    "price": 12.35,
-    "lowest": 12.35,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
     "title": "Tails: The Backbone Preludes",
     "type": "game",
     "discount": "-17%",
@@ -23890,6 +23870,16 @@
     "last_time_updated": "04-03-2024"
   },
   {
+    "title": "Pathfinder: Wrath of the Righteous \u2013 Season Pass 2",
+    "type": "DLC",
+    "discount": "-48%",
+    "price": 15.07,
+    "lowest": 15.07,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-03-2024"
+  },
+  {
     "title": "Beat Arena",
     "type": "game",
     "discount": "-37%",
@@ -23925,16 +23915,6 @@
     "discount": "-48%",
     "price": 15.17,
     "lowest": 15.17,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
-    "title": "Pathfinder: Wrath of the Righteous \u2013 Season Pass 2",
-    "type": "DLC",
-    "discount": "-48%",
-    "price": 15.18,
-    "lowest": 15.18,
     "stock": true,
     "status": "par",
     "last_time_updated": "04-03-2024"
@@ -25370,6 +25350,16 @@
     "last_time_updated": "04-03-2024"
   },
   {
+    "title": "Dying Light 2 Stay Human",
+    "type": "game",
+    "discount": "-66%",
+    "price": 20.37,
+    "lowest": 20.37,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "04-03-2024"
+  },
+  {
     "title": "Various Daylife",
     "type": "game",
     "discount": "-30%",
@@ -25866,7 +25856,7 @@
     "price": 23.88,
     "lowest": 23.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "04-03-2024"
   },
   {
@@ -26106,16 +26096,6 @@
     "price": 26.55,
     "lowest": 26.55,
     "stock": true,
-    "status": "par",
-    "last_time_updated": "04-03-2024"
-  },
-  {
-    "title": "Expeditions: A MudRunner Game",
-    "type": "game",
-    "discount": "-33%",
-    "price": 26.98,
-    "lowest": 26.98,
-    "stock": false,
     "status": "par",
     "last_time_updated": "04-03-2024"
   },
@@ -26585,7 +26565,7 @@
     "discount": "-60%",
     "price": 35.49,
     "lowest": 35.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "04-03-2024"
   },
