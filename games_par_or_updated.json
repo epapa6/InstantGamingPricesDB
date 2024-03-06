@@ -60,9 +60,49 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Morkredd",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "06-03-2024"
+  },
+  {
+    "title": "Thunder Wolves",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "06-03-2024"
+  },
+  {
+    "title": "Dungeons II - A Game of Winter",
+    "type": "DLC",
+    "discount": "-87%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "06-03-2024"
+  },
+  {
     "title": "Double Cross",
     "type": "game",
     "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "06-03-2024"
+  },
+  {
+    "title": "Path to Mnemosyne",
+    "type": "game",
+    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -940,16 +980,6 @@
     "last_time_updated": "06-03-2024"
   },
   {
-    "title": "Morkredd",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
     "title": "Cook, Serve, Delicious! 3?!",
     "type": "game",
     "discount": "-94%",
@@ -1640,16 +1670,6 @@
     "last_time_updated": "06-03-2024"
   },
   {
-    "title": "Thunder Wolves",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
     "title": "Imperial Glory",
     "type": "game",
     "discount": "-80%",
@@ -1733,16 +1753,6 @@
     "title": "Dungeons II - A Song of Sand and Fire",
     "type": "DLC",
     "discount": "-75%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
-    "title": "Dungeons II - A Game of Winter",
-    "type": "DLC",
-    "discount": "-87%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -3513,16 +3523,6 @@
     "title": "Ogre",
     "type": "game",
     "discount": "-96%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
-    "title": "Path to Mnemosyne",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6646,7 +6646,7 @@
     "price": 1.42,
     "lowest": 1.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "06-03-2024"
   },
   {
@@ -9045,7 +9045,7 @@
     "discount": "-86%",
     "price": 2.16,
     "lowest": 2.16,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "06-03-2024"
   },
@@ -13966,7 +13966,7 @@
     "price": 4.05,
     "lowest": 4.05,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "06-03-2024"
   },
   {
@@ -14726,7 +14726,7 @@
     "price": 4.54,
     "lowest": 4.54,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "06-03-2024"
   },
   {
@@ -18256,7 +18256,7 @@
     "price": 6.81,
     "lowest": 6.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "06-03-2024"
   },
   {
@@ -18446,7 +18446,7 @@
     "price": 6.92,
     "lowest": 6.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "06-03-2024"
   },
   {
@@ -19085,7 +19085,7 @@
     "discount": "-23%",
     "price": 7.49,
     "lowest": 7.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "06-03-2024"
   },
@@ -19590,6 +19590,16 @@
     "last_time_updated": "06-03-2024"
   },
   {
+    "title": "Feed the Cups",
+    "type": "game",
+    "discount": "-49%",
+    "price": 8.06,
+    "lowest": 8.06,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "06-03-2024"
+  },
+  {
     "title": "Not a Hero",
     "type": "game",
     "discount": "-59%",
@@ -19755,16 +19765,6 @@
     "discount": null,
     "price": 8.15,
     "lowest": 8.15,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
-    "title": "Feed the Cups",
-    "type": "game",
-    "discount": "-48%",
-    "price": 8.17,
-    "lowest": 8.17,
     "stock": true,
     "status": "par",
     "last_time_updated": "06-03-2024"
@@ -23200,6 +23200,16 @@
     "last_time_updated": "06-03-2024"
   },
   {
+    "title": "Destroy All Humans! 2 - Reprobed: Dressed to Skill Edition",
+    "type": "game",
+    "discount": "-76%",
+    "price": 12.94,
+    "lowest": 12.94,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "06-03-2024"
+  },
+  {
     "title": "Daydream: Forgotten Sorrow",
     "type": "game",
     "discount": "-34%",
@@ -23590,6 +23600,16 @@
     "last_time_updated": "06-03-2024"
   },
   {
+    "title": "Nightingale",
+    "type": "game",
+    "discount": "-53%",
+    "price": 13.76,
+    "lowest": 13.76,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "06-03-2024"
+  },
+  {
     "title": "What Happened",
     "type": "game",
     "discount": "-34%",
@@ -23730,16 +23750,6 @@
     "last_time_updated": "06-03-2024"
   },
   {
-    "title": "Nightingale",
-    "type": "game",
-    "discount": "-52%",
-    "price": 14.0,
-    "lowest": 14.0,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "06-03-2024"
-  },
-  {
     "title": "DjMax Respect V - V Extension Pack",
     "type": "DLC",
     "discount": "-33%",
@@ -23845,16 +23855,6 @@
     "discount": "-27%",
     "price": 14.14,
     "lowest": 14.14,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
-    "title": "Destroy All Humans! 2 - Reprobed: Dressed to Skill Edition",
-    "type": "game",
-    "discount": "-74%",
-    "price": 14.15,
-    "lowest": 14.15,
     "stock": true,
     "status": "par",
     "last_time_updated": "06-03-2024"
@@ -24755,6 +24755,16 @@
     "discount": "-23%",
     "price": 16.96,
     "lowest": 16.96,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "06-03-2024"
+  },
+  {
+    "title": "Winter Survival",
+    "type": "game",
+    "discount": "-32%",
+    "price": 16.99,
+    "lowest": 16.99,
     "stock": true,
     "status": "par",
     "last_time_updated": "06-03-2024"
@@ -26176,7 +26186,7 @@
     "price": 23.28,
     "lowest": 23.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "06-03-2024"
   },
   {
@@ -26925,16 +26935,6 @@
     "discount": "-58%",
     "price": 33.42,
     "lowest": 33.42,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "06-03-2024"
-  },
-  {
-    "title": "Cities: Skylines - New Player Bundle",
-    "type": "game",
-    "discount": "-47%",
-    "price": 33.68,
-    "lowest": 33.68,
     "stock": true,
     "status": "par",
     "last_time_updated": "06-03-2024"
