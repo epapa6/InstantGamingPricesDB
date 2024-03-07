@@ -356,7 +356,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -1996,7 +1996,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -5470,6 +5470,16 @@
     "last_time_updated": "07-03-2024"
   },
   {
+    "title": "Lords of Magic: Special Edition",
+    "type": "game",
+    "discount": "-78%",
+    "price": 1.09,
+    "lowest": 1.09,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "07-03-2024"
+  },
+  {
     "title": "Lords and Villeins",
     "type": "game",
     "discount": "-96%",
@@ -5906,7 +5916,7 @@
     "price": 1.21,
     "lowest": 1.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -6196,7 +6206,7 @@
     "price": 1.33,
     "lowest": 1.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -6606,7 +6616,7 @@
     "price": 1.42,
     "lowest": 1.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -7383,6 +7393,16 @@
     "title": "Rugby 20",
     "type": "game",
     "discount": "-92%",
+    "price": 1.66,
+    "lowest": 1.66,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "07-03-2024"
+  },
+  {
+    "title": "Eternal Edge +",
+    "type": "game",
+    "discount": "-87%",
     "price": 1.66,
     "lowest": 1.66,
     "stock": true,
@@ -8236,7 +8256,7 @@
     "price": 1.94,
     "lowest": 1.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -8766,7 +8786,7 @@
     "price": 2.04,
     "lowest": 2.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -9036,7 +9056,7 @@
     "price": 2.18,
     "lowest": 2.18,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -9046,7 +9066,7 @@
     "price": 2.19,
     "lowest": 2.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -9730,13 +9750,13 @@
     "last_time_updated": "07-03-2024"
   },
   {
-    "title": "Eternal Edge +",
+    "title": "Flower",
     "type": "game",
-    "discount": "-81%",
+    "discount": "-63%",
     "price": 2.4,
     "lowest": 2.4,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -10925,7 +10945,7 @@
     "discount": "-86%",
     "price": 2.82,
     "lowest": 2.82,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "07-03-2024"
   },
@@ -11956,7 +11976,7 @@
     "price": 3.15,
     "lowest": 3.15,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -12056,7 +12076,7 @@
     "price": 3.2,
     "lowest": 3.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -12135,7 +12155,7 @@
     "discount": "-92%",
     "price": 3.21,
     "lowest": 3.21,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-03-2024"
   },
@@ -12256,7 +12276,7 @@
     "price": 3.27,
     "lowest": 3.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -14330,6 +14350,16 @@
     "last_time_updated": "07-03-2024"
   },
   {
+    "title": "Dead Island: Riptide Complete Edition",
+    "type": "game",
+    "discount": "-78%",
+    "price": 4.35,
+    "lowest": 4.35,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "07-03-2024"
+  },
+  {
     "title": "Escape Simulator: Steampunk",
     "type": "DLC",
     "discount": "-12%",
@@ -16116,7 +16146,7 @@
     "price": 5.35,
     "lowest": 5.35,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -19506,7 +19536,7 @@
     "price": 8.03,
     "lowest": 8.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -19856,7 +19886,7 @@
     "price": 8.44,
     "lowest": 8.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -21236,7 +21266,7 @@
     "price": 10.11,
     "lowest": 10.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -21636,7 +21666,7 @@
     "price": 10.81,
     "lowest": 10.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -22996,7 +23026,7 @@
     "price": 12.66,
     "lowest": 12.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -23187,6 +23217,16 @@
     "lowest": 12.98,
     "stock": true,
     "status": "par",
+    "last_time_updated": "07-03-2024"
+  },
+  {
+    "title": "Farming Simulator 22",
+    "type": "game",
+    "discount": "-35%",
+    "price": 12.98,
+    "lowest": 12.98,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -24086,7 +24126,7 @@
     "price": 15.04,
     "lowest": 15.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -24606,7 +24646,7 @@
     "price": 16.47,
     "lowest": 16.47,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -25010,19 +25050,19 @@
     "last_time_updated": "07-03-2024"
   },
   {
-    "title": "Mortal Kombat: Komplete Edition",
+    "title": "City Bus Manager",
     "type": "game",
-    "discount": "-11%",
+    "discount": "-36%",
     "price": 17.89,
     "lowest": 17.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
-    "title": "City Bus Manager",
+    "title": "Mortal Kombat: Komplete Edition",
     "type": "game",
-    "discount": "-36%",
+    "discount": "-11%",
     "price": 17.89,
     "lowest": 17.89,
     "stock": true,
@@ -25466,7 +25506,7 @@
     "price": 19.48,
     "lowest": 19.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -25696,7 +25736,17 @@
     "price": 20.28,
     "lowest": 20.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
+    "last_time_updated": "07-03-2024"
+  },
+  {
+    "title": "NieR Replicant ver.1.22474487139",
+    "type": "game",
+    "discount": "-66%",
+    "price": 20.3,
+    "lowest": 20.3,
+    "stock": true,
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
@@ -26726,7 +26776,7 @@
     "price": 31.11,
     "lowest": 31.11,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "07-03-2024"
   },
   {
