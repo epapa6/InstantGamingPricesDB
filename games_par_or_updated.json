@@ -5265,7 +5265,7 @@
     "discount": "-95%",
     "price": 1.01,
     "lowest": 1.01,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "08-03-2024"
   },
@@ -5476,7 +5476,7 @@
     "price": 1.06,
     "lowest": 1.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -7416,7 +7416,7 @@
     "price": 1.63,
     "lowest": 1.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -9190,6 +9190,16 @@
     "last_time_updated": "08-03-2024"
   },
   {
+    "title": "Dying Light - Savvy Gamer Bundle",
+    "type": "DLC",
+    "discount": "-27%",
+    "price": 2.19,
+    "lowest": 2.19,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "08-03-2024"
+  },
+  {
     "title": "Tales of Vesperia: Definitive Edition",
     "type": "game",
     "discount": "-95%",
@@ -9203,16 +9213,6 @@
     "title": "PC Building Simulator - Overclocked Edition Content",
     "type": "DLC",
     "discount": "-45%",
-    "price": 2.19,
-    "lowest": 2.19,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
-    "title": "Dying Light - Savvy Gamer Bundle",
-    "type": "DLC",
-    "discount": "-27%",
     "price": 2.19,
     "lowest": 2.19,
     "stock": true,
@@ -12465,16 +12465,6 @@
     "discount": "-53%",
     "price": 3.32,
     "lowest": 3.32,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
-    "title": "The Elder Scrolls IV: Oblivion GOTY Edition",
-    "type": "game",
-    "discount": "-78%",
-    "price": 3.33,
-    "lowest": 3.33,
     "stock": true,
     "status": "par",
     "last_time_updated": "08-03-2024"
@@ -19626,7 +19616,7 @@
     "price": 7.81,
     "lowest": 7.81,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -19980,6 +19970,16 @@
     "last_time_updated": "08-03-2024"
   },
   {
+    "title": "WRC 10: FIA World Rally Championship - Deluxe Edition",
+    "type": "game",
+    "discount": "-87%",
+    "price": 8.12,
+    "lowest": 8.12,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "08-03-2024"
+  },
+  {
     "title": "Octodad: Dadliest Catch",
     "type": "game",
     "discount": "-42%",
@@ -20185,16 +20185,6 @@
     "discount": "-51%",
     "price": 8.39,
     "lowest": 8.39,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
-    "title": "WRC 10: FIA World Rally Championship - Deluxe Edition",
-    "type": "game",
-    "discount": "-87%",
-    "price": 8.42,
-    "lowest": 8.42,
     "stock": true,
     "status": "par",
     "last_time_updated": "08-03-2024"
@@ -21076,7 +21066,7 @@
     "price": 9.52,
     "lowest": 9.52,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -21087,6 +21077,16 @@
     "lowest": 9.59,
     "stock": true,
     "status": "par",
+    "last_time_updated": "08-03-2024"
+  },
+  {
+    "title": "Neptunia Virtual Stars",
+    "type": "game",
+    "discount": "-72%",
+    "price": 9.6,
+    "lowest": 9.6,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -21165,16 +21165,6 @@
     "discount": "-22%",
     "price": 9.73,
     "lowest": 9.73,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
-    "title": "Neptunia Virtual Stars",
-    "type": "game",
-    "discount": "-71%",
-    "price": 9.75,
-    "lowest": 9.75,
     "stock": true,
     "status": "par",
     "last_time_updated": "08-03-2024"
@@ -22670,16 +22660,6 @@
     "last_time_updated": "08-03-2024"
   },
   {
-    "title": "Destiny 2: Edizione Leggendaria",
-    "type": "DLC",
-    "discount": "-85%",
-    "price": 11.82,
-    "lowest": 11.82,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
     "title": "Sockventure",
     "type": "game",
     "discount": "-12%",
@@ -23360,6 +23340,16 @@
     "last_time_updated": "08-03-2024"
   },
   {
+    "title": "Nioh 2: The Complete Edition",
+    "type": "game",
+    "discount": "-79%",
+    "price": 12.6,
+    "lowest": 12.6,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "08-03-2024"
+  },
+  {
     "title": "Gas Guzzlers Extreme Gold Pack",
     "type": "game",
     "discount": "-60%",
@@ -23420,21 +23410,21 @@
     "last_time_updated": "08-03-2024"
   },
   {
+    "title": "Monster Hunter: World - Iceborne Digital Deluxe",
+    "type": "DLC",
+    "discount": "-75%",
+    "price": 12.7,
+    "lowest": 12.7,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "08-03-2024"
+  },
+  {
     "title": "Legions of Steel",
     "type": "game",
     "discount": "-35%",
     "price": 12.72,
     "lowest": 12.72,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne Digital Deluxe",
-    "type": "DLC",
-    "discount": "-74%",
-    "price": 12.81,
-    "lowest": 12.81,
     "stock": true,
     "status": "par",
     "last_time_updated": "08-03-2024"
@@ -23707,16 +23697,6 @@
     "lowest": 12.99,
     "stock": true,
     "status": "par",
-    "last_time_updated": "08-03-2024"
-  },
-  {
-    "title": "Nioh 2: The Complete Edition",
-    "type": "game",
-    "discount": "-78%",
-    "price": 13.01,
-    "lowest": 13.01,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -27016,7 +26996,7 @@
     "price": 30.55,
     "lowest": 30.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-03-2024"
   },
   {
@@ -27416,7 +27396,7 @@
     "price": 39.34,
     "lowest": 39.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "08-03-2024"
   },
   {
