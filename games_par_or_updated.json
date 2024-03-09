@@ -5856,7 +5856,7 @@
     "price": 1.2,
     "lowest": 1.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -6626,7 +6626,7 @@
     "price": 1.42,
     "lowest": 1.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -6646,6 +6646,16 @@
     "price": 1.42,
     "lowest": 1.42,
     "stock": true,
+    "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
+    "title": "Chaser",
+    "type": "game",
+    "discount": "-71%",
+    "price": 1.44,
+    "lowest": 1.44,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-03-2024"
   },
@@ -6673,16 +6683,6 @@
     "title": "Lamentum",
     "type": "game",
     "discount": "-91%",
-    "price": 1.44,
-    "lowest": 1.44,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "Chaser",
-    "type": "game",
-    "discount": "-71%",
     "price": 1.44,
     "lowest": 1.44,
     "stock": true,
@@ -6997,6 +6997,16 @@
     "lowest": 1.52,
     "stock": true,
     "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
+    "title": "Real Farm",
+    "type": "game",
+    "discount": "-92%",
+    "price": 1.52,
+    "lowest": 1.52,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -7335,16 +7345,6 @@
     "discount": "-88%",
     "price": 1.62,
     "lowest": 1.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "Real Farm",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.63,
-    "lowest": 1.63,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-03-2024"
@@ -7876,7 +7876,7 @@
     "price": 1.78,
     "lowest": 1.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -8976,7 +8976,7 @@
     "price": 2.09,
     "lowest": 2.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -10610,19 +10610,19 @@
     "last_time_updated": "09-03-2024"
   },
   {
-    "title": "Strayed Lights",
+    "title": "To The Rescue!",
     "type": "game",
-    "discount": "-89%",
+    "discount": "-87%",
     "price": 2.66,
     "lowest": 2.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
-    "title": "To The Rescue!",
+    "title": "Strayed Lights",
     "type": "game",
-    "discount": "-87%",
+    "discount": "-89%",
     "price": 2.66,
     "lowest": 2.66,
     "stock": true,
@@ -10856,7 +10856,7 @@
     "price": 2.73,
     "lowest": 2.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -11416,7 +11416,7 @@
     "price": 2.98,
     "lowest": 2.98,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -11826,7 +11826,7 @@
     "price": 3.02,
     "lowest": 3.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -12146,7 +12146,7 @@
     "price": 3.19,
     "lowest": 3.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -13326,7 +13326,7 @@
     "price": 3.88,
     "lowest": 3.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -14766,7 +14766,7 @@
     "price": 4.56,
     "lowest": 4.56,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -15816,7 +15816,7 @@
     "price": 5.09,
     "lowest": 5.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -16600,6 +16600,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "Cities: Skylines - Plazas & Promenades",
+    "type": "DLC",
+    "discount": "-62%",
+    "price": 5.64,
+    "lowest": 5.64,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "Mokoko X",
     "type": "game",
     "discount": "-42%",
@@ -16716,7 +16726,7 @@
     "price": 5.73,
     "lowest": 5.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -16925,16 +16935,6 @@
     "discount": "-58%",
     "price": 5.89,
     "lowest": 5.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "Cities: Skylines - Plazas & Promenades",
-    "type": "DLC",
-    "discount": "-61%",
-    "price": 5.9,
-    "lowest": 5.9,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-03-2024"
@@ -17386,7 +17386,7 @@
     "price": 6.19,
     "lowest": 6.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -18085,7 +18085,7 @@
     "discount": "-67%",
     "price": 6.65,
     "lowest": 6.65,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-03-2024"
   },
@@ -19546,7 +19546,7 @@
     "price": 7.8,
     "lowest": 7.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -20996,7 +20996,7 @@
     "price": 9.53,
     "lowest": 9.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -21280,6 +21280,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "Bus Simulator 21 Next Stop \u2013 Gold Upgrade",
+    "type": "DLC",
+    "discount": "-33%",
+    "price": 9.99,
+    "lowest": 9.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "JackHammer: Demolition Dodgeball",
     "type": "game",
     "discount": "-23%",
@@ -21343,16 +21353,6 @@
     "title": "Warhammer 40,000: Battlesector - Necrons Faction Pack",
     "type": "DLC",
     "discount": "-40%",
-    "price": 9.99,
-    "lowest": 9.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "Bus Simulator 21 Next Stop \u2013 Gold Upgrade",
-    "type": "DLC",
-    "discount": "-33%",
     "price": 9.99,
     "lowest": 9.99,
     "stock": true,
@@ -21876,7 +21876,7 @@
     "price": 10.72,
     "lowest": 10.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -23160,6 +23160,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "Another Fisherman's Tale",
+    "type": "game",
+    "discount": "-38%",
+    "price": 12.44,
+    "lowest": 12.44,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "Hadean Tactics",
     "type": "game",
     "discount": "-36%",
@@ -23215,16 +23225,6 @@
     "discount": "-37%",
     "price": 12.5,
     "lowest": 12.5,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "Another Fisherman's Tale",
-    "type": "game",
-    "discount": "-37%",
-    "price": 12.55,
-    "lowest": 12.55,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-03-2024"
@@ -24025,7 +24025,7 @@
     "discount": "-52%",
     "price": 14.28,
     "lowest": 14.28,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-03-2024"
   },
@@ -26150,6 +26150,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "Hellsweeper VR Deluxe Edition",
+    "type": "game",
+    "discount": "-44%",
+    "price": 22.47,
+    "lowest": 22.47,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "Taxi Life: A City Driving Simulator",
     "type": "game",
     "discount": "-25%",
@@ -26175,16 +26185,6 @@
     "discount": "-25%",
     "price": 22.54,
     "lowest": 22.54,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "Hellsweeper VR Deluxe Edition",
-    "type": "game",
-    "discount": "-44%",
-    "price": 22.58,
-    "lowest": 22.58,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-03-2024"
@@ -26395,7 +26395,7 @@
     "discount": "-66%",
     "price": 23.99,
     "lowest": 23.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-03-2024"
   },
@@ -27446,7 +27446,7 @@
     "price": 44.07,
     "lowest": 44.07,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
