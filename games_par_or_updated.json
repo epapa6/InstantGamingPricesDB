@@ -70,6 +70,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "The King's Bird",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "King's Bounty: Dark Side",
     "type": "game",
     "discount": "-92%",
@@ -1543,16 +1553,6 @@
     "title": "Dear Esther: Landmark Edition",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "The King's Bird",
-    "type": "game",
-    "discount": "-94%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -7676,7 +7676,7 @@
     "price": 1.73,
     "lowest": 1.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "09-03-2024"
   },
   {
@@ -12960,6 +12960,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "The Disney Afternoon Collection",
+    "type": "game",
+    "discount": "-82%",
+    "price": 3.66,
+    "lowest": 3.66,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "WRC 5: FIA World Rally Championship",
     "type": "game",
     "discount": "-63%",
@@ -13125,16 +13135,6 @@
     "discount": "-24%",
     "price": 3.77,
     "lowest": 3.77,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "09-03-2024"
-  },
-  {
-    "title": "The Disney Afternoon Collection",
-    "type": "game",
-    "discount": "-81%",
-    "price": 3.78,
-    "lowest": 3.78,
     "stock": true,
     "status": "par",
     "last_time_updated": "09-03-2024"
@@ -19150,6 +19150,16 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "Doom Eternal",
+    "type": "game",
+    "discount": "-81%",
+    "price": 7.45,
+    "lowest": 7.45,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "Vengeful Rites",
     "type": "game",
     "discount": "-63%",
@@ -22520,16 +22530,6 @@
     "last_time_updated": "09-03-2024"
   },
   {
-    "title": "Nioh 2: The Complete Edition",
-    "type": "game",
-    "discount": "-80%",
-    "price": 11.78,
-    "lowest": 11.78,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "09-03-2024"
-  },
-  {
     "title": "8-Bit Invaders!",
     "type": "game",
     "discount": "-20%",
@@ -25250,6 +25250,26 @@
     "last_time_updated": "09-03-2024"
   },
   {
+    "title": "Rhapsody: A Musical Adventure Deluxe Edition",
+    "type": "game",
+    "discount": "-20%",
+    "price": 17.94,
+    "lowest": 17.94,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
+    "title": "La Pucelle: Ragnarok Deluxe Edition",
+    "type": "game",
+    "discount": "-20%",
+    "price": 17.94,
+    "lowest": 17.94,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "09-03-2024"
+  },
+  {
     "title": "Dragon Ball FighterZ Ultimate Edition",
     "type": "game",
     "discount": "-84%",
@@ -27045,7 +27065,7 @@
     "discount": "-58%",
     "price": 33.42,
     "lowest": 33.42,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "09-03-2024"
   },
