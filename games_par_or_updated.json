@@ -50,6 +50,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Duke Nukem Forever",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "World War I",
     "type": "game",
     "discount": "-80%",
@@ -80,9 +90,9 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
-    "type": "DLC",
-    "discount": "-90%",
+    "title": "Villagers",
+    "type": "game",
+    "discount": "-92%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -173,16 +183,6 @@
     "title": "Assetto corsa - Japanese Pack",
     "type": "DLC",
     "discount": "-67%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "Duke Nukem Forever",
-    "type": "game",
-    "discount": "-95%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -2670,16 +2670,6 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Villagers",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
     "title": "Boreal Blade",
     "type": "game",
     "discount": "-75%",
@@ -2803,6 +2793,16 @@
     "title": "Worms Rumble",
     "type": "game",
     "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
+    "title": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
+    "type": "DLC",
+    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5390,16 +5390,6 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Reigns: Her Majesty",
-    "type": "game",
-    "discount": "-63%",
-    "price": 1.1,
-    "lowest": 1.1,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
     "title": "Lords and Villeins",
     "type": "game",
     "discount": "-96%",
@@ -7775,7 +7765,17 @@
     "discount": "-89%",
     "price": 1.8,
     "lowest": 1.8,
-    "stock": true,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
+    "title": "Farming Simulator 22 - ERO Grapeliner Series 7000",
+    "type": "DLC",
+    "discount": "-10%",
+    "price": 1.8,
+    "lowest": 1.8,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-03-2024"
   },
@@ -7793,16 +7793,6 @@
     "title": "Yooka-Laylee",
     "type": "game",
     "discount": "-95%",
-    "price": 1.8,
-    "lowest": 1.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "Farming Simulator 22 - ERO Grapeliner Series 7000",
-    "type": "DLC",
-    "discount": "-10%",
     "price": 1.8,
     "lowest": 1.8,
     "stock": true,
@@ -9830,22 +9820,12 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Welcome to ParadiZe - Military Cosmetic Pack",
-    "type": "DLC",
-    "discount": "-17%",
-    "price": 2.49,
-    "lowest": 2.49,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
     "title": "Taxi Life - VIP Vintage Convertible Car",
     "type": "DLC",
     "discount": "-38%",
     "price": 2.49,
     "lowest": 2.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-03-2024"
   },
@@ -9901,6 +9881,16 @@
   },
   {
     "title": "Welcome to ParadiZe - Phantasm Cosmetic Pack",
+    "type": "DLC",
+    "discount": "-17%",
+    "price": 2.49,
+    "lowest": 2.49,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
+    "title": "Welcome to ParadiZe - Military Cosmetic Pack",
     "type": "DLC",
     "discount": "-17%",
     "price": 2.49,
@@ -10900,6 +10890,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Strange Brigade Deluxe Edition",
+    "type": "game",
+    "discount": "-96%",
+    "price": 2.87,
+    "lowest": 2.87,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Neverwinter Nights: Enhanced Edition",
     "type": "game",
     "discount": "-85%",
@@ -11205,16 +11205,6 @@
     "discount": "-80%",
     "price": 2.97,
     "lowest": 2.97,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "Strange Brigade Deluxe Edition",
-    "type": "game",
-    "discount": "-96%",
-    "price": 2.98,
-    "lowest": 2.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "10-03-2024"
@@ -11646,7 +11636,7 @@
     "price": 3.04,
     "lowest": 3.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -12276,7 +12266,7 @@
     "price": 3.34,
     "lowest": 3.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -13830,16 +13820,6 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Crusader Kings III: Wards & Wardens",
-    "type": "DLC",
-    "discount": "-17%",
-    "price": 4.14,
-    "lowest": 4.14,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
     "title": "Left Alive Day One Edition",
     "type": "game",
     "discount": "-93%",
@@ -14910,6 +14890,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Siege of Centauri",
+    "type": "game",
+    "discount": "-67%",
+    "price": 4.86,
+    "lowest": 4.86,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "The Fridge is Red",
     "type": "game",
     "discount": "-67%",
@@ -15640,19 +15630,19 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Planet Zoo: Eurasia Animal Pack",
+    "title": "Taxi Life - Supporter Pack",
     "type": "DLC",
-    "discount": "-48%",
+    "discount": "-42%",
     "price": 5.19,
     "lowest": 5.19,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Taxi Life - Supporter Pack",
+    "title": "Planet Zoo: Eurasia Animal Pack",
     "type": "DLC",
-    "discount": "-42%",
+    "discount": "-48%",
     "price": 5.19,
     "lowest": 5.19,
     "stock": true,
@@ -15876,7 +15866,7 @@
     "price": 5.29,
     "lowest": 5.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -16346,7 +16336,7 @@
     "price": 5.63,
     "lowest": 5.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -16370,6 +16360,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Kingdom Eighties",
+    "type": "game",
+    "discount": "-52%",
+    "price": 5.66,
+    "lowest": 5.66,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Rome: Total War - Collection",
     "type": "game",
     "discount": "-43%",
@@ -16383,16 +16383,6 @@
     "title": "Xanadu Next",
     "type": "game",
     "discount": "-62%",
-    "price": 5.66,
-    "lowest": 5.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "Kingdom Eighties",
-    "type": "game",
-    "discount": "-52%",
     "price": 5.66,
     "lowest": 5.66,
     "stock": true,
@@ -17036,7 +17026,7 @@
     "price": 6.04,
     "lowest": 6.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -17376,7 +17366,7 @@
     "price": 6.44,
     "lowest": 6.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -18356,7 +18346,7 @@
     "price": 6.96,
     "lowest": 6.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -19220,6 +19210,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Zoo Tycoon: Ultimate Animal Collection",
+    "type": "game",
+    "discount": "-55%",
+    "price": 7.62,
+    "lowest": 7.62,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Feed the Cups",
     "type": "game",
     "discount": "-51%",
@@ -19640,16 +19640,6 @@
     "last_time_updated": "10-03-2024"
   },
   {
-    "title": "Siege of Centauri",
-    "type": "game",
-    "discount": "-45%",
-    "price": 8.11,
-    "lowest": 8.11,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
     "title": "Worms Ultimate Mayhem - Four Pack",
     "type": "game",
     "discount": "-38%",
@@ -19990,6 +19980,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Toss",
+    "type": "game",
+    "discount": "-57%",
+    "price": 8.52,
+    "lowest": 8.52,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Afghanistan '11",
     "type": "game",
     "discount": "-70%",
@@ -20216,7 +20216,7 @@
     "price": 8.85,
     "lowest": 8.85,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -20640,6 +20640,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Battle Brothers",
+    "type": "game",
+    "discount": "-67%",
+    "price": 9.36,
+    "lowest": 9.36,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "The Longest Road on Earth",
     "type": "game",
     "discount": "-6%",
@@ -20770,6 +20780,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Train Simulator: The Rhine Railway: Mannheim - Karlsruhe Route",
+    "type": "DLC",
+    "discount": "-57%",
+    "price": 9.49,
+    "lowest": 9.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Dust Fleet",
     "type": "game",
     "discount": "-53%",
@@ -20783,16 +20803,6 @@
     "title": "Sprawl",
     "type": "game",
     "discount": "-36%",
-    "price": 9.49,
-    "lowest": 9.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "Train Simulator: The Rhine Railway: Mannheim - Karlsruhe Route",
-    "type": "DLC",
-    "discount": "-57%",
     "price": 9.49,
     "lowest": 9.49,
     "stock": true,
@@ -20945,7 +20955,7 @@
     "discount": "-51%",
     "price": 9.86,
     "lowest": 9.86,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-03-2024"
   },
@@ -24000,6 +24010,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Pathfinder: Wrath of the Righteous \u2013 Season Pass 2",
+    "type": "DLC",
+    "discount": "-48%",
+    "price": 14.96,
+    "lowest": 14.96,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Crusader Kings III: Legends of the Dead",
     "type": "DLC",
     "discount": "-25%",
@@ -24115,16 +24135,6 @@
     "discount": "-57%",
     "price": 15.05,
     "lowest": 15.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "Pathfinder: Wrath of the Righteous \u2013 Season Pass 2",
-    "type": "DLC",
-    "discount": "-48%",
-    "price": 15.07,
-    "lowest": 15.07,
     "stock": true,
     "status": "par",
     "last_time_updated": "10-03-2024"
@@ -24916,7 +24926,7 @@
     "price": 17.56,
     "lowest": 17.56,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -25075,16 +25085,6 @@
     "discount": "-28%",
     "price": 17.93,
     "lowest": 17.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
-  },
-  {
-    "title": "La Pucelle: Ragnarok Deluxe Edition",
-    "type": "game",
-    "discount": "-20%",
-    "price": 17.94,
-    "lowest": 17.94,
     "stock": true,
     "status": "par",
     "last_time_updated": "10-03-2024"
@@ -25265,7 +25265,7 @@
     "discount": "-47%",
     "price": 18.39,
     "lowest": 18.39,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-03-2024"
   },
@@ -25963,10 +25963,10 @@
     "title": "Hellsweeper VR Deluxe Edition",
     "type": "game",
     "discount": "-44%",
-    "price": 22.47,
-    "lowest": 22.47,
+    "price": 22.36,
+    "lowest": 22.36,
     "stock": true,
-    "status": "par",
+    "status": "updated",
     "last_time_updated": "10-03-2024"
   },
   {
@@ -26210,6 +26210,16 @@
     "last_time_updated": "10-03-2024"
   },
   {
+    "title": "Destiny 2: L'Eclissi + Pass annuale",
+    "type": "DLC",
+    "discount": "-76%",
+    "price": 24.44,
+    "lowest": 24.44,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "10-03-2024"
+  },
+  {
     "title": "Atelier Totori ~The Adventurer of Arland~ DX",
     "type": "game",
     "discount": "-39%",
@@ -26238,16 +26248,6 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "29-02-2024"
-  },
-  {
-    "title": "Destiny 2: L'Eclissi + Pass annuale",
-    "type": "DLC",
-    "discount": "-75%",
-    "price": 24.55,
-    "lowest": 24.55,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "10-03-2024"
   },
   {
     "title": "The Centennial Case : A Shijima Story",
@@ -27035,7 +27035,7 @@
     "discount": "-19%",
     "price": 39.34,
     "lowest": 39.34,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "10-03-2024"
   },
