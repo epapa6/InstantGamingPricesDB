@@ -976,7 +976,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -5136,7 +5136,7 @@
     "price": 1.02,
     "lowest": 1.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -5323,16 +5323,6 @@
     "title": "Lords and Villeins",
     "type": "game",
     "discount": "-96%",
-    "price": 1.1,
-    "lowest": 1.1,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
-    "title": "WRC 6: World Rally Championship",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.1,
     "lowest": 1.1,
     "stock": true,
@@ -6160,16 +6150,6 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "StarDrive 2",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.34,
-    "lowest": 1.34,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
     "title": "Tropico 3",
     "type": "game",
     "discount": "-87%",
@@ -6876,7 +6856,7 @@
     "price": 1.55,
     "lowest": 1.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -7490,16 +7470,6 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Zombie Army Trilogy",
-    "type": "game",
-    "discount": "-96%",
-    "price": 1.75,
-    "lowest": 1.75,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
     "title": "Gonner2",
     "type": "game",
     "discount": "-87%",
@@ -7676,7 +7646,7 @@
     "price": 1.8,
     "lowest": 1.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -7885,7 +7855,7 @@
     "discount": "-92%",
     "price": 1.87,
     "lowest": 1.87,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
@@ -8790,6 +8760,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Warlock: Master of the Arcane - Complete Edition",
+    "type": "game",
+    "discount": "-91%",
+    "price": 2.14,
+    "lowest": 2.14,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Ironcast",
     "type": "game",
     "discount": "-84%",
@@ -8946,7 +8926,7 @@
     "price": 2.21,
     "lowest": 2.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -10026,7 +10006,7 @@
     "price": 2.56,
     "lowest": 2.56,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -10916,7 +10896,7 @@
     "price": 2.92,
     "lowest": 2.92,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -14076,7 +14056,7 @@
     "price": 4.44,
     "lowest": 4.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -15876,7 +15856,7 @@
     "price": 5.46,
     "lowest": 5.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -16826,7 +16806,7 @@
     "price": 6.13,
     "lowest": 6.13,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -19876,7 +19856,7 @@
     "price": 8.75,
     "lowest": 8.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -21000,6 +20980,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Road Maintenance Simulator",
+    "type": "game",
+    "discount": "-59%",
+    "price": 10.19,
+    "lowest": 10.19,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Railway Empire - Japan",
     "type": "DLC",
     "discount": "-22%",
@@ -21055,16 +21045,6 @@
     "discount": "-31%",
     "price": 10.29,
     "lowest": 10.29,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
-    "title": "Road Maintenance Simulator",
-    "type": "game",
-    "discount": "-59%",
-    "price": 10.3,
-    "lowest": 10.3,
     "stock": true,
     "status": "par",
     "last_time_updated": "11-03-2024"
@@ -21376,7 +21356,7 @@
     "price": 10.74,
     "lowest": 10.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -21676,7 +21656,7 @@
     "price": 11.16,
     "lowest": 11.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -22580,6 +22560,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Another Fisherman's Tale",
+    "type": "game",
+    "discount": "-38%",
+    "price": 12.33,
+    "lowest": 12.33,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "De-Exit - Eternal Matters",
     "type": "game",
     "discount": "-38%",
@@ -22635,16 +22625,6 @@
     "discount": "-79%",
     "price": 12.43,
     "lowest": 12.43,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
-    "title": "Another Fisherman's Tale",
-    "type": "game",
-    "discount": "-38%",
-    "price": 12.44,
-    "lowest": 12.44,
     "stock": true,
     "status": "par",
     "last_time_updated": "11-03-2024"
@@ -23616,7 +23596,7 @@
     "price": 14.7,
     "lowest": 14.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -23816,7 +23796,7 @@
     "price": 15.1,
     "lowest": 15.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -24740,6 +24720,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Rhapsody: A Musical Adventure Deluxe Edition",
+    "type": "game",
+    "discount": "-20%",
+    "price": 17.94,
+    "lowest": 17.94,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Welcome to ParadiZe",
     "type": "game",
     "discount": "-40%",
@@ -25026,7 +25016,7 @@
     "price": 19.16,
     "lowest": 19.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -26286,7 +26276,7 @@
     "price": 30.72,
     "lowest": 30.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
