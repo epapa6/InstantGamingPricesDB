@@ -80,6 +80,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Marooners",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -3030,16 +3040,6 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Marooners",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
     "title": "Crowntakers",
     "type": "game",
     "discount": "-90%",
@@ -5160,6 +5160,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Lego Batman 3: Beyond Gotham",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.03,
+    "lowest": 1.03,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "DarkEnd",
     "type": "game",
     "discount": "-35%",
@@ -5675,7 +5685,7 @@
     "discount": "-94%",
     "price": 1.2,
     "lowest": 1.2,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
@@ -6986,7 +6996,7 @@
     "price": 1.6,
     "lowest": 1.6,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -7076,7 +7086,7 @@
     "price": 1.61,
     "lowest": 1.61,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -9585,7 +9595,7 @@
     "discount": "-86%",
     "price": 2.45,
     "lowest": 2.45,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
@@ -9650,6 +9660,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "City of Gangsters: Atlantic City",
+    "type": "DLC",
+    "discount": "-58%",
+    "price": 2.49,
+    "lowest": 2.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Garden Life - Eco-friendly Decoration Set",
     "type": "DLC",
     "discount": "-17%",
@@ -9673,16 +9693,6 @@
     "title": "Quake Live",
     "type": "game",
     "discount": "-75%",
-    "price": 2.49,
-    "lowest": 2.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
-    "title": "City of Gangsters: Atlantic City",
-    "type": "DLC",
-    "discount": "-58%",
     "price": 2.49,
     "lowest": 2.49,
     "stock": true,
@@ -10620,6 +10630,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Shantae and the Seven Sirens",
+    "type": "game",
+    "discount": "-89%",
+    "price": 2.84,
+    "lowest": 2.84,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "IL-2 Sturmovik: Cliffs of Dover",
     "type": "game",
     "discount": "-72%",
@@ -10703,16 +10723,6 @@
     "title": "WRC 9 Edition Deluxe FIA World Rally Championship",
     "type": "game",
     "discount": "-94%",
-    "price": 2.88,
-    "lowest": 2.88,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "11-03-2024"
-  },
-  {
-    "title": "Neverwinter Nights: Enhanced Edition",
-    "type": "game",
-    "discount": "-85%",
     "price": 2.88,
     "lowest": 2.88,
     "stock": true,
@@ -12890,19 +12900,19 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Wolfenstein: The Old Blood",
-    "type": "game",
-    "discount": "-81%",
+    "title": "Dredge - Blackstone Key",
+    "type": "DLC",
+    "discount": "-22%",
     "price": 3.89,
     "lowest": 3.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Dredge - Blackstone Key",
-    "type": "DLC",
-    "discount": "-22%",
+    "title": "Wolfenstein: The Old Blood",
+    "type": "game",
+    "discount": "-81%",
     "price": 3.89,
     "lowest": 3.89,
     "stock": true,
@@ -13480,9 +13490,9 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Port Royale 4",
+    "title": "Subterrain",
     "type": "game",
-    "discount": "-90%",
+    "discount": "-76%",
     "price": 4.01,
     "lowest": 4.01,
     "stock": true,
@@ -14350,6 +14360,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Hearts of Iron IV: Together for Victory",
+    "type": "DLC",
+    "discount": "-69%",
+    "price": 4.62,
+    "lowest": 4.62,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Farming Life",
     "type": "game",
     "discount": "-53%",
@@ -14930,7 +14950,7 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Cities: Skylines - Content Creator Pack: Shopping Malls",
+    "title": "Hearts of Iron IV: Axis Armor Pack",
     "type": "DLC",
     "discount": "-17%",
     "price": 4.99,
@@ -14970,7 +14990,7 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "Hearts of Iron IV: Axis Armor Pack",
+    "title": "Cities: Skylines - Content Creator Pack: Shopping Malls",
     "type": "DLC",
     "discount": "-17%",
     "price": 4.99,
@@ -15786,7 +15806,7 @@
     "price": 5.36,
     "lowest": 5.36,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -16357,6 +16377,16 @@
     "lowest": 5.86,
     "stock": true,
     "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
+    "title": "Karnage Chronicles",
+    "type": "game",
+    "discount": "-75%",
+    "price": 5.86,
+    "lowest": 5.86,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -16997,6 +17027,16 @@
     "lowest": 6.3,
     "stock": true,
     "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
+    "title": "Warhammer 40,000: Inquisitor - Martyr - Sororitas Class",
+    "type": "DLC",
+    "discount": "-58%",
+    "price": 6.32,
+    "lowest": 6.32,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -17760,16 +17800,6 @@
     "last_time_updated": "11-03-2024"
   },
   {
-    "title": "The Case of the Golden Idol",
-    "type": "game",
-    "discount": "-62%",
-    "price": 6.75,
-    "lowest": 6.75,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
     "title": "The Tale of Bistun",
     "type": "game",
     "discount": "-55%",
@@ -17827,6 +17857,16 @@
     "lowest": 6.81,
     "stock": true,
     "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
+    "title": "La Mia Amica Peppa Pig",
+    "type": "game",
+    "discount": "-83%",
+    "price": 6.81,
+    "lowest": 6.81,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -18953,16 +18993,6 @@
     "title": "Feed the Cups",
     "type": "game",
     "discount": "-51%",
-    "price": 7.67,
-    "lowest": 7.67,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "11-03-2024"
-  },
-  {
-    "title": "La Mia Amica Peppa Pig",
-    "type": "game",
-    "discount": "-81%",
     "price": 7.67,
     "lowest": 7.67,
     "stock": true,
@@ -20660,6 +20690,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Dragon Ball FighterZ - FighterZ Edition",
+    "type": "game",
+    "discount": "-89%",
+    "price": 9.8,
+    "lowest": 9.8,
+    "stock": false,
+    "status": "updated",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Oxygen",
     "type": "game",
     "discount": "-34%",
@@ -22080,12 +22120,22 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Rico",
+    "type": "game",
+    "discount": "-41%",
+    "price": 11.81,
+    "lowest": 11.81,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "We Were Here Forever",
     "type": "game",
     "discount": "-34%",
     "price": 11.83,
     "lowest": 11.83,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
@@ -22225,7 +22275,7 @@
     "discount": "-40%",
     "price": 11.96,
     "lowest": 11.96,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
@@ -23816,7 +23866,7 @@
     "price": 15.0,
     "lowest": 15.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "11-03-2024"
   },
   {
@@ -24790,6 +24840,16 @@
     "last_time_updated": "11-03-2024"
   },
   {
+    "title": "Rhapsody: A Musical Adventure Deluxe Edition",
+    "type": "game",
+    "discount": "-20%",
+    "price": 17.94,
+    "lowest": 17.94,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "11-03-2024"
+  },
+  {
     "title": "Rail Route",
     "type": "game",
     "discount": "-28%",
@@ -25215,7 +25275,7 @@
     "discount": "-36%",
     "price": 19.89,
     "lowest": 19.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
@@ -26615,7 +26675,7 @@
     "discount": "-26%",
     "price": 36.99,
     "lowest": 36.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "11-03-2024"
   },
