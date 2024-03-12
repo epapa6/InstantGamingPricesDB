@@ -60,9 +60,29 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Guns of Icarus Alliance",
+    "type": "game",
+    "discount": "-75%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Thief of Thieves",
     "type": "game",
     "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "12-03-2024"
+  },
+  {
+    "title": "12 is Better Than 6",
+    "type": "game",
+    "discount": "-86%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -923,16 +943,6 @@
     "title": "Black Mirror I",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "Guns of Icarus Alliance",
-    "type": "game",
-    "discount": "-75%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1883,16 +1893,6 @@
     "title": "Caveblazers",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "12 is Better Than 6",
-    "type": "game",
-    "discount": "-86%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6160,6 +6160,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Call of Cthulhu: Dark Corners of the Earth",
+    "type": "game",
+    "discount": "-73%",
+    "price": 1.35,
+    "lowest": 1.35,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Offspring Fling!",
     "type": "game",
     "discount": "-77%",
@@ -6830,16 +6840,6 @@
     "last_time_updated": "12-03-2024"
   },
   {
-    "title": "Call of Cthulhu: Dark Corners of the Earth",
-    "type": "game",
-    "discount": "-69%",
-    "price": 1.54,
-    "lowest": 1.54,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
     "title": "Arizona Sunshine - The Damned",
     "type": "DLC",
     "discount": "-69%",
@@ -7030,6 +7030,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Deep Sky Derelicts - New Prospect",
+    "type": "DLC",
+    "discount": "-77%",
+    "price": 1.6,
+    "lowest": 1.6,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "BattleTech Digital Deluxe Content",
     "type": "DLC",
     "discount": "-88%",
@@ -7080,6 +7090,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Fallout 4 - Contraptions Workshop",
+    "type": "DLC",
+    "discount": "-68%",
+    "price": 1.61,
+    "lowest": 1.61,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "LostWinds",
     "type": "game",
     "discount": "-84%",
@@ -7106,7 +7126,7 @@
     "price": 1.63,
     "lowest": 1.63,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -7395,7 +7415,7 @@
     "discount": "-94%",
     "price": 1.73,
     "lowest": 1.73,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-03-2024"
   },
@@ -7496,7 +7516,7 @@
     "price": 1.76,
     "lowest": 1.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -7586,7 +7606,7 @@
     "price": 1.78,
     "lowest": 1.78,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -7786,7 +7806,7 @@
     "price": 1.84,
     "lowest": 1.84,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -7820,29 +7840,9 @@
     "last_time_updated": "12-03-2024"
   },
   {
-    "title": "Fallout 4 - Contraptions Workshop",
-    "type": "DLC",
-    "discount": "-63%",
-    "price": 1.86,
-    "lowest": 1.86,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
     "title": "Street Power Football",
     "type": "game",
     "discount": "-94%",
-    "price": 1.86,
-    "lowest": 1.86,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "Reigns: Game of Thrones",
-    "type": "game",
-    "discount": "-53%",
     "price": 1.86,
     "lowest": 1.86,
     "stock": true,
@@ -8736,7 +8736,7 @@
     "price": 2.09,
     "lowest": 2.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -9276,7 +9276,7 @@
     "price": 2.27,
     "lowest": 2.27,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -9666,7 +9666,7 @@
     "price": 2.43,
     "lowest": 2.43,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -10760,6 +10760,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Weedcraft Inc",
+    "type": "game",
+    "discount": "-85%",
+    "price": 2.85,
+    "lowest": 2.85,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Call of Duty: Modern Warfare 3 Collection 4 - Final Assault",
     "type": "DLC",
     "discount": "-80%",
@@ -10846,7 +10856,7 @@
     "price": 2.87,
     "lowest": 2.87,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -12686,7 +12696,7 @@
     "price": 3.72,
     "lowest": 3.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -13840,6 +13850,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Planet Zoo: Oceania Pack",
+    "type": "DLC",
+    "discount": "-57%",
+    "price": 4.28,
+    "lowest": 4.28,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Ancient Enemy",
     "type": "game",
     "discount": "-71%",
@@ -13910,6 +13930,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "City of Gangsters",
+    "type": "game",
+    "discount": "-85%",
+    "price": 4.33,
+    "lowest": 4.33,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Disney Fairies: Tinker Bell's Adventure",
     "type": "game",
     "discount": "-78%",
@@ -13967,6 +13997,16 @@
     "lowest": 4.35,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-03-2024"
+  },
+  {
+    "title": "Biotope",
+    "type": "game",
+    "discount": "-78%",
+    "price": 4.35,
+    "lowest": 4.35,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -14135,16 +14175,6 @@
     "discount": "-50%",
     "price": 4.46,
     "lowest": 4.46,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "Biotope",
-    "type": "game",
-    "discount": "-77%",
-    "price": 4.47,
-    "lowest": 4.47,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-03-2024"
@@ -14455,7 +14485,7 @@
     "discount": "-77%",
     "price": 4.66,
     "lowest": 4.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "12-03-2024"
   },
@@ -16780,6 +16810,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Gordian Quest",
+    "type": "game",
+    "discount": "-64%",
+    "price": 6.0,
+    "lowest": 6.0,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Last Night of Winter",
     "type": "game",
     "discount": "-27%",
@@ -16826,7 +16866,7 @@
     "price": 6.03,
     "lowest": 6.03,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -16837,6 +16877,16 @@
     "lowest": 6.04,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-03-2024"
+  },
+  {
+    "title": "Blooming Business: Casino",
+    "type": "game",
+    "discount": "-76%",
+    "price": 6.05,
+    "lowest": 6.05,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -20036,7 +20086,7 @@
     "price": 8.96,
     "lowest": 8.96,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -20353,6 +20403,16 @@
     "title": "Detective Gallo",
     "type": "game",
     "discount": "-38%",
+    "price": 9.31,
+    "lowest": 9.31,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "12-03-2024"
+  },
+  {
+    "title": "Wonder Boy: The Dragon's Trap",
+    "type": "game",
+    "discount": "-53%",
     "price": 9.31,
     "lowest": 9.31,
     "stock": true,
@@ -21196,7 +21256,7 @@
     "price": 10.51,
     "lowest": 10.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -21456,7 +21516,7 @@
     "price": 10.95,
     "lowest": 10.95,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -22386,7 +22446,7 @@
     "price": 12.1,
     "lowest": 12.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -22486,7 +22546,7 @@
     "price": 12.22,
     "lowest": 12.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -23236,7 +23296,7 @@
     "price": 13.55,
     "lowest": 13.55,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -23615,16 +23675,6 @@
     "discount": "-56%",
     "price": 14.58,
     "lowest": 14.58,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "One Piece Odyssey",
-    "type": "game",
-    "discount": "-76%",
-    "price": 14.59,
-    "lowest": 14.59,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-03-2024"
@@ -24490,6 +24540,16 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "Welcome to ParadiZe",
+    "type": "game",
+    "discount": "-43%",
+    "price": 17.19,
+    "lowest": 17.19,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "SaGa Frontier Remastered",
     "type": "game",
     "discount": "-31%",
@@ -24765,16 +24825,6 @@
     "discount": "-20%",
     "price": 17.94,
     "lowest": 17.94,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "Welcome to ParadiZe",
-    "type": "game",
-    "discount": "-40%",
-    "price": 17.99,
-    "lowest": 17.99,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-03-2024"
@@ -25590,6 +25640,26 @@
     "last_time_updated": "12-03-2024"
   },
   {
+    "title": "The Thaumaturge",
+    "type": "game",
+    "discount": "-36%",
+    "price": 22.29,
+    "lowest": 22.29,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
+    "title": "Farming Simulator 22 - Year 1 Season Pass",
+    "type": "DLC",
+    "discount": "-25%",
+    "price": 22.41,
+    "lowest": 22.41,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "12-03-2024"
+  },
+  {
     "title": "Victoria 3: Sphere of Influence",
     "type": "DLC",
     "discount": "-25%",
@@ -25745,16 +25815,6 @@
     "discount": "-42%",
     "price": 23.19,
     "lowest": 23.19,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "The Thaumaturge",
-    "type": "game",
-    "discount": "-33%",
-    "price": 23.49,
-    "lowest": 23.49,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-03-2024"
@@ -26017,6 +26077,16 @@
     "lowest": 26.59,
     "stock": true,
     "status": "par",
+    "last_time_updated": "12-03-2024"
+  },
+  {
+    "title": "Train Sim World 4: Special Edition",
+    "type": "game",
+    "discount": "-74%",
+    "price": 26.82,
+    "lowest": 26.82,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "12-03-2024"
   },
   {
@@ -26755,16 +26825,6 @@
     "discount": "-28%",
     "price": 43.49,
     "lowest": 43.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "12-03-2024"
-  },
-  {
-    "title": "Atomic Heart Premium Edition",
-    "type": "game",
-    "discount": "-56%",
-    "price": 43.96,
-    "lowest": 43.96,
     "stock": true,
     "status": "par",
     "last_time_updated": "12-03-2024"
