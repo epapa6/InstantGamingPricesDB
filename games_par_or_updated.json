@@ -55,7 +55,7 @@
     "discount": "-97%",
     "price": 1.0,
     "lowest": 1.0,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-03-2024"
   },
@@ -1946,7 +1946,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -5970,6 +5970,16 @@
     "last_time_updated": "15-03-2024"
   },
   {
+    "title": "Dark: Cult of The Dead",
+    "type": "DLC",
+    "discount": "-78%",
+    "price": 1.29,
+    "lowest": 1.29,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-03-2024"
+  },
+  {
     "title": "Lumberjack's Dynasty",
     "type": "game",
     "discount": "-93%",
@@ -6106,7 +6116,7 @@
     "price": 1.33,
     "lowest": 1.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -7393,16 +7403,6 @@
     "title": "Rezrog",
     "type": "game",
     "discount": "-83%",
-    "price": 1.69,
-    "lowest": 1.69,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-03-2024"
-  },
-  {
-    "title": "Dark: Cult of The Dead",
-    "type": "DLC",
-    "discount": "-72%",
     "price": 1.69,
     "lowest": 1.69,
     "stock": true,
@@ -8856,7 +8856,7 @@
     "price": 2.12,
     "lowest": 2.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -8947,6 +8947,16 @@
     "lowest": 2.13,
     "stock": true,
     "status": "par",
+    "last_time_updated": "15-03-2024"
+  },
+  {
+    "title": "Mount & Blade: With Fire & Sword",
+    "type": "game",
+    "discount": "-79%",
+    "price": 2.14,
+    "lowest": 2.14,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -10666,7 +10676,7 @@
     "price": 2.76,
     "lowest": 2.76,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -11976,7 +11986,7 @@
     "price": 3.19,
     "lowest": 3.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -12610,6 +12620,16 @@
     "last_time_updated": "15-03-2024"
   },
   {
+    "title": "Comanche",
+    "type": "game",
+    "discount": "-82%",
+    "price": 3.5,
+    "lowest": 3.5,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "15-03-2024"
+  },
+  {
     "title": "Before I Forget",
     "type": "game",
     "discount": "-47%",
@@ -12750,16 +12770,6 @@
     "last_time_updated": "15-03-2024"
   },
   {
-    "title": "Comanche",
-    "type": "game",
-    "discount": "-82%",
-    "price": 3.61,
-    "lowest": 3.61,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-03-2024"
-  },
-  {
     "title": "Shelter",
     "type": "game",
     "discount": "-76%",
@@ -12856,7 +12866,7 @@
     "price": 3.73,
     "lowest": 3.73,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -14025,16 +14035,6 @@
     "discount": "-35%",
     "price": 4.26,
     "lowest": 4.26,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "15-03-2024"
-  },
-  {
-    "title": "Planet Zoo: Oceania Pack",
-    "type": "DLC",
-    "discount": "-57%",
-    "price": 4.28,
-    "lowest": 4.28,
     "stock": true,
     "status": "par",
     "last_time_updated": "15-03-2024"
@@ -16916,7 +16916,7 @@
     "price": 6.1,
     "lowest": 6.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -18995,7 +18995,7 @@
     "discount": "-51%",
     "price": 7.67,
     "lowest": 7.67,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-03-2024"
   },
@@ -19756,7 +19756,7 @@
     "price": 8.53,
     "lowest": 8.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -20690,19 +20690,19 @@
     "last_time_updated": "15-03-2024"
   },
   {
-    "title": "UBOAT",
+    "title": "Overlord: Ultimate Evil Collection",
     "type": "game",
-    "discount": "-66%",
+    "discount": "-63%",
     "price": 9.77,
     "lowest": 9.77,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
-    "title": "Overlord: Ultimate Evil Collection",
+    "title": "UBOAT",
     "type": "game",
-    "discount": "-63%",
+    "discount": "-66%",
     "price": 9.77,
     "lowest": 9.77,
     "stock": true,
@@ -21036,7 +21036,7 @@
     "price": 10.0,
     "lowest": 10.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -24626,7 +24626,7 @@
     "price": 17.26,
     "lowest": 17.26,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
@@ -26396,7 +26396,7 @@
     "price": 29.06,
     "lowest": 29.06,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "15-03-2024"
   },
   {
