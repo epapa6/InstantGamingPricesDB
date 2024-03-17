@@ -5215,7 +5215,7 @@
     "discount": "-94%",
     "price": 1.03,
     "lowest": 1.03,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-03-2024"
   },
@@ -6615,7 +6615,7 @@
     "discount": "-93%",
     "price": 1.46,
     "lowest": 1.46,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-03-2024"
   },
@@ -7626,7 +7626,7 @@
     "price": 1.74,
     "lowest": 1.74,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-03-2024"
   },
   {
@@ -9396,7 +9396,7 @@
     "price": 2.28,
     "lowest": 2.28,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-03-2024"
   },
   {
@@ -11856,7 +11856,7 @@
     "price": 3.08,
     "lowest": 3.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-03-2024"
   },
   {
@@ -12436,7 +12436,7 @@
     "price": 3.37,
     "lowest": 3.37,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-03-2024"
   },
   {
@@ -13490,6 +13490,16 @@
     "last_time_updated": "17-03-2024"
   },
   {
+    "title": "Tokyo Dark",
+    "type": "game",
+    "discount": "-78%",
+    "price": 3.99,
+    "lowest": 3.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "17-03-2024"
+  },
+  {
     "title": "Euro Truck Simulator 2: Special Transport",
     "type": "DLC",
     "discount": "-20%",
@@ -13643,16 +13653,6 @@
     "title": "Astalon: Tears of the Earth",
     "type": "game",
     "discount": "-80%",
-    "price": 3.99,
-    "lowest": 3.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-03-2024"
-  },
-  {
-    "title": "Tokyo Dark",
-    "type": "game",
-    "discount": "-78%",
     "price": 3.99,
     "lowest": 3.99,
     "stock": true,
@@ -14851,16 +14851,6 @@
   },
   {
     "title": "SimCity 4 Deluxe Edition",
-    "type": "game",
-    "discount": "-77%",
-    "price": 4.66,
-    "lowest": 4.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-03-2024"
-  },
-  {
-    "title": "A Game of Thrones: The Board Game - Digital Edition",
     "type": "game",
     "discount": "-77%",
     "price": 4.66,
@@ -16165,7 +16155,7 @@
     "discount": "-85%",
     "price": 5.42,
     "lowest": 5.42,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-03-2024"
   },
@@ -16515,7 +16505,7 @@
     "discount": "-77%",
     "price": 5.71,
     "lowest": 5.71,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-03-2024"
   },
@@ -24266,7 +24256,7 @@
     "price": 15.14,
     "lowest": 15.14,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "17-03-2024"
   },
   {
@@ -24880,6 +24870,16 @@
     "last_time_updated": "17-03-2024"
   },
   {
+    "title": "Metal: Hellsinger - Complete Edition",
+    "type": "game",
+    "discount": "-66%",
+    "price": 17.04,
+    "lowest": 17.04,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "17-03-2024"
+  },
+  {
     "title": "The Occupation",
     "type": "game",
     "discount": "-43%",
@@ -24895,16 +24895,6 @@
     "discount": "-15%",
     "price": 17.05,
     "lowest": 17.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "17-03-2024"
-  },
-  {
-    "title": "Metal: Hellsinger - Complete Edition",
-    "type": "game",
-    "discount": "-61%",
-    "price": 17.15,
-    "lowest": 17.15,
     "stock": true,
     "status": "par",
     "last_time_updated": "17-03-2024"
@@ -25750,6 +25740,16 @@
     "last_time_updated": "17-03-2024"
   },
   {
+    "title": "Age of Wonders: Planetfall Premium Edition",
+    "type": "game",
+    "discount": "-60%",
+    "price": 20.22,
+    "lowest": 20.22,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "17-03-2024"
+  },
+  {
     "title": "River City Saga: Three Kingdoms",
     "type": "game",
     "discount": "-32%",
@@ -25780,6 +25780,16 @@
     "last_time_updated": "17-03-2024"
   },
   {
+    "title": "Taxi Life: A City Driving Simulator",
+    "type": "game",
+    "discount": "-32%",
+    "price": 20.48,
+    "lowest": 20.48,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "17-03-2024"
+  },
+  {
     "title": "Train Simulator - US Routes Starter Pack",
     "type": "game",
     "discount": "-49%",
@@ -25787,16 +25797,6 @@
     "lowest": 20.49,
     "stock": true,
     "status": "par",
-    "last_time_updated": "17-03-2024"
-  },
-  {
-    "title": "Taxi Life: A City Driving Simulator",
-    "type": "game",
-    "discount": "-31%",
-    "price": 20.59,
-    "lowest": 20.59,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "17-03-2024"
   },
   {
@@ -27155,7 +27155,7 @@
     "discount": "-20%",
     "price": 39.89,
     "lowest": 39.89,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "17-03-2024"
   },
