@@ -50,6 +50,16 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Sonic Adventure 2",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "18-03-2024"
+  },
+  {
     "title": "The Anacrusis",
     "type": "game",
     "discount": "-90%",
@@ -72,16 +82,6 @@
   {
     "title": "Graveyard Keeper - Stranger Sins",
     "type": "DLC",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "18-03-2024"
-  },
-  {
-    "title": "Sonic Adventure 2",
-    "type": "game",
     "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
@@ -9116,7 +9116,7 @@
     "price": 2.25,
     "lowest": 2.25,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "18-03-2024"
   },
   {
@@ -10480,6 +10480,16 @@
     "last_time_updated": "18-03-2024"
   },
   {
+    "title": "Giant Machines 2017",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.69,
+    "lowest": 2.69,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "18-03-2024"
+  },
+  {
     "title": "Endless Space 2 - Celestial Worlds",
     "type": "DLC",
     "discount": "-10%",
@@ -10751,16 +10761,6 @@
   },
   {
     "title": "Animal Doctor",
-    "type": "game",
-    "discount": "-86%",
-    "price": 2.8,
-    "lowest": 2.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "18-03-2024"
-  },
-  {
-    "title": "Giant Machines 2017",
     "type": "game",
     "discount": "-86%",
     "price": 2.8,
@@ -12396,7 +12396,7 @@
     "price": 3.44,
     "lowest": 3.44,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "18-03-2024"
   },
   {
@@ -12996,7 +12996,7 @@
     "price": 3.83,
     "lowest": 3.83,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "18-03-2024"
   },
   {
@@ -15536,7 +15536,7 @@
     "price": 5.08,
     "lowest": 5.08,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "18-03-2024"
   },
   {
@@ -20640,6 +20640,16 @@
     "last_time_updated": "18-03-2024"
   },
   {
+    "title": "Monster Hunter: World - Iceborne",
+    "type": "DLC",
+    "discount": "-76%",
+    "price": 9.65,
+    "lowest": 9.65,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "18-03-2024"
+  },
+  {
     "title": "Veritas",
     "type": "game",
     "discount": "-10%",
@@ -20705,16 +20715,6 @@
     "discount": "-73%",
     "price": 9.75,
     "lowest": 9.75,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "18-03-2024"
-  },
-  {
-    "title": "Monster Hunter: World - Iceborne",
-    "type": "DLC",
-    "discount": "-76%",
-    "price": 9.76,
-    "lowest": 9.76,
     "stock": true,
     "status": "par",
     "last_time_updated": "18-03-2024"
@@ -21950,16 +21950,6 @@
     "last_time_updated": "18-03-2024"
   },
   {
-    "title": "Dave The Diver",
-    "type": "game",
-    "discount": "-44%",
-    "price": 11.25,
-    "lowest": 11.25,
-    "stock": true,
-    "status": "updated",
-    "last_time_updated": "18-03-2024"
-  },
-  {
     "title": "Ikenfell",
     "type": "game",
     "discount": "-44%",
@@ -23136,7 +23126,7 @@
     "price": 12.99,
     "lowest": 12.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "18-03-2024"
   },
   {
@@ -23430,6 +23420,16 @@
     "last_time_updated": "18-03-2024"
   },
   {
+    "title": "Protodroid DeLTA",
+    "type": "game",
+    "discount": "-31%",
+    "price": 13.71,
+    "lowest": 13.71,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "18-03-2024"
+  },
+  {
     "title": "Bread & Fred",
     "type": "game",
     "discount": "-7%",
@@ -23465,16 +23465,6 @@
     "discount": "-75%",
     "price": 13.8,
     "lowest": 13.8,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "18-03-2024"
-  },
-  {
-    "title": "Protodroid DeLTA",
-    "type": "game",
-    "discount": "-31%",
-    "price": 13.82,
-    "lowest": 13.82,
     "stock": true,
     "status": "par",
     "last_time_updated": "18-03-2024"
@@ -25533,8 +25523,8 @@
     "title": "The Outlast Trials",
     "type": "game",
     "discount": "-47%",
-    "price": 20.79,
-    "lowest": 20.79,
+    "price": 20.68,
+    "lowest": 20.68,
     "stock": true,
     "status": "updated",
     "last_time_updated": "18-03-2024"
@@ -26155,7 +26145,7 @@
     "discount": "-59%",
     "price": 24.66,
     "lowest": 24.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "18-03-2024"
   },
