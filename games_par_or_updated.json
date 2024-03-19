@@ -1790,16 +1790,6 @@
     "last_time_updated": "19-03-2024"
   },
   {
-    "title": "Dark",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "19-03-2024"
-  },
-  {
     "title": "Hot Brass",
     "type": "game",
     "discount": "-93%",
@@ -6560,6 +6550,16 @@
     "last_time_updated": "19-03-2024"
   },
   {
+    "title": "Aggelos",
+    "type": "game",
+    "discount": "-91%",
+    "price": 1.42,
+    "lowest": 1.42,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "19-03-2024"
+  },
+  {
     "title": "Lamentum",
     "type": "game",
     "discount": "-91%",
@@ -6687,6 +6687,16 @@
     "lowest": 1.46,
     "stock": true,
     "status": "par",
+    "last_time_updated": "19-03-2024"
+  },
+  {
+    "title": "Inertial Drift",
+    "type": "game",
+    "discount": "-93%",
+    "price": 1.47,
+    "lowest": 1.47,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "19-03-2024"
   },
   {
@@ -8750,6 +8760,16 @@
     "last_time_updated": "19-03-2024"
   },
   {
+    "title": "Train Sim World 2: East Coastway: Brighton - Eastbourne & Seaford Route",
+    "type": "DLC",
+    "discount": "-93%",
+    "price": 2.05,
+    "lowest": 2.05,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "19-03-2024"
+  },
+  {
     "title": "HyperBrawl Tournament",
     "type": "game",
     "discount": "-66%",
@@ -9235,7 +9255,7 @@
     "discount": "-89%",
     "price": 2.24,
     "lowest": 2.24,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "19-03-2024"
   },
@@ -10140,6 +10160,16 @@
     "last_time_updated": "19-03-2024"
   },
   {
+    "title": "Diluvion: Resubmerged",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.53,
+    "lowest": 2.53,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "19-03-2024"
+  },
+  {
     "title": "Shakes on a Plane",
     "type": "game",
     "discount": "-83%",
@@ -10960,16 +10990,6 @@
     "last_time_updated": "19-03-2024"
   },
   {
-    "title": "Diluvion: Resubmerged",
-    "type": "game",
-    "discount": "-86%",
-    "price": 2.84,
-    "lowest": 2.84,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "19-03-2024"
-  },
-  {
     "title": "IL-2 Sturmovik: Cliffs of Dover",
     "type": "game",
     "discount": "-72%",
@@ -11290,16 +11310,6 @@
     "last_time_updated": "19-03-2024"
   },
   {
-    "title": "Inertial Drift",
-    "type": "game",
-    "discount": "-85%",
-    "price": 2.93,
-    "lowest": 2.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "19-03-2024"
-  },
-  {
     "title": "Rising Storm 2: Vietnam - Sgt Joe's Support Bundle DLC",
     "type": "DLC",
     "discount": "-80%",
@@ -11336,7 +11346,7 @@
     "price": 2.94,
     "lowest": 2.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "19-03-2024"
   },
   {
@@ -12590,6 +12600,16 @@
     "last_time_updated": "19-03-2024"
   },
   {
+    "title": "Jurassic World Evolution 2: Prehistoric Marine Species Pack",
+    "type": "DLC",
+    "discount": "-57%",
+    "price": 3.44,
+    "lowest": 3.44,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "19-03-2024"
+  },
+  {
     "title": "Accel World VS. Sword Art Online Deluxe Edition",
     "type": "game",
     "discount": "-93%",
@@ -13016,7 +13036,7 @@
     "price": 3.72,
     "lowest": 3.72,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "19-03-2024"
   },
   {
@@ -14265,16 +14285,6 @@
     "discount": "-65%",
     "price": 4.25,
     "lowest": 4.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "19-03-2024"
-  },
-  {
-    "title": "Planet Zoo: Oceania Pack",
-    "type": "DLC",
-    "discount": "-57%",
-    "price": 4.26,
-    "lowest": 4.26,
     "stock": true,
     "status": "par",
     "last_time_updated": "19-03-2024"
@@ -15893,16 +15903,6 @@
     "title": "Wargame: European Escalation",
     "type": "game",
     "discount": "-48%",
-    "price": 5.2,
-    "lowest": 5.2,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "19-03-2024"
-  },
-  {
-    "title": "Train Sim World 2: East Coastway: Brighton - Eastbourne & Seaford Route",
-    "type": "DLC",
-    "discount": "-83%",
     "price": 5.2,
     "lowest": 5.2,
     "stock": true,
@@ -19616,7 +19616,7 @@
     "price": 8.02,
     "lowest": 8.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "19-03-2024"
   },
   {
@@ -22700,6 +22700,16 @@
     "last_time_updated": "19-03-2024"
   },
   {
+    "title": "Assetto Corsa Competizione GT2 Pack",
+    "type": "DLC",
+    "discount": "-33%",
+    "price": 11.99,
+    "lowest": 11.99,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "19-03-2024"
+  },
+  {
     "title": "Cuisineer",
     "type": "game",
     "discount": "-52%",
@@ -23275,16 +23285,6 @@
     "discount": "-34%",
     "price": 12.88,
     "lowest": 12.88,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "19-03-2024"
-  },
-  {
-    "title": "Assetto Corsa Competizione GT2 Pack",
-    "type": "DLC",
-    "discount": "-28%",
-    "price": 12.89,
-    "lowest": 12.89,
     "stock": true,
     "status": "par",
     "last_time_updated": "19-03-2024"
@@ -26716,7 +26716,7 @@
     "price": 29.0,
     "lowest": 29.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "19-03-2024"
   },
   {
