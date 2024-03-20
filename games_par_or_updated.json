@@ -50,6 +50,26 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Girlfriend Rescue",
+    "type": "game",
+    "discount": "-80%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
+    "title": "The Troma Project",
+    "type": "game",
+    "discount": "-87%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "Destroyer: The U-Boat Hunter",
     "type": "game",
     "discount": "-97%",
@@ -491,16 +511,6 @@
   },
   {
     "title": "Worms World Party Remastered",
-    "type": "game",
-    "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
-    "title": "Beat Cop",
     "type": "game",
     "discount": "-93%",
     "price": 1.0,
@@ -3160,16 +3170,6 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Girlfriend Rescue",
-    "type": "game",
-    "discount": "-80%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
     "title": "Children of Morta: Paws and Claws",
     "type": "DLC",
     "discount": "-50%",
@@ -4193,16 +4193,6 @@
     "title": "Trapped Dead Lockdown",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
-    "title": "The Troma Project",
-    "type": "game",
-    "discount": "-87%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5650,6 +5640,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "Krater Collector's Edition",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.14,
+    "lowest": 1.14,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "1,000 Heads Among The Trees",
     "type": "game",
     "discount": "-71%",
@@ -5950,16 +5950,6 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Krater Collector's Edition",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.25,
-    "lowest": 1.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
     "title": "F.E.A.R Platinum Edition",
     "type": "game",
     "discount": "-98%",
@@ -6136,7 +6126,7 @@
     "price": 1.29,
     "lowest": 1.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -7006,7 +6996,7 @@
     "price": 1.53,
     "lowest": 1.53,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -7400,16 +7390,6 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Rugby 20",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.66,
-    "lowest": 1.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
     "title": "Predator: Hunting Grounds - City Hunter Predator DLC Pack",
     "type": "DLC",
     "discount": "-67%",
@@ -7440,19 +7420,19 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Strange Brigade",
+    "title": "MX Nitro",
     "type": "game",
-    "discount": "-97%",
+    "discount": "-80%",
     "price": 1.67,
     "lowest": 1.67,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "MX Nitro",
+    "title": "Strange Brigade",
     "type": "game",
-    "discount": "-80%",
+    "discount": "-97%",
     "price": 1.67,
     "lowest": 1.67,
     "stock": true,
@@ -7856,7 +7836,7 @@
     "price": 1.8,
     "lowest": 1.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -7950,19 +7930,19 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Party Hard 2",
-    "type": "game",
-    "discount": "-91%",
+    "title": "F.E.A.R. 2 Reborn",
+    "type": "DLC",
+    "discount": "-97%",
     "price": 1.84,
     "lowest": 1.84,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "F.E.A.R. 2 Reborn",
-    "type": "DLC",
-    "discount": "-97%",
+    "title": "Party Hard 2",
+    "type": "game",
+    "discount": "-91%",
     "price": 1.84,
     "lowest": 1.84,
     "stock": true,
@@ -8286,7 +8266,7 @@
     "price": 1.94,
     "lowest": 1.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -8875,7 +8855,7 @@
     "discount": "-93%",
     "price": 2.06,
     "lowest": 2.06,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "20-03-2024"
   },
@@ -9146,7 +9126,7 @@
     "price": 2.19,
     "lowest": 2.19,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -9796,7 +9776,7 @@
     "price": 2.38,
     "lowest": 2.38,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -9956,7 +9936,7 @@
     "price": 2.45,
     "lowest": 2.45,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -10450,6 +10430,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "Resident Evil 7 Banned Footage Vol.1",
+    "type": "DLC",
+    "discount": "-74%",
+    "price": 2.59,
+    "lowest": 2.59,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "The Survivalists - Monkey Business Pack",
     "type": "DLC",
     "discount": "-13%",
@@ -10590,6 +10580,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "BPM: Bullets Per Minute",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.63,
+    "lowest": 2.63,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "Mirage: Arcane Warfare",
     "type": "game",
     "discount": "-74%",
@@ -10716,7 +10716,7 @@
     "price": 2.66,
     "lowest": 2.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -12040,6 +12040,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "Rain World: Downpour",
+    "type": "DLC",
+    "discount": "-79%",
+    "price": 3.08,
+    "lowest": 3.08,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "The Bard's Tale IV: Barrows Deep",
     "type": "game",
     "discount": "-91%",
@@ -12250,16 +12260,6 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Rain World: Downpour",
-    "type": "DLC",
-    "discount": "-78%",
-    "price": 3.19,
-    "lowest": 3.19,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
     "title": "Warhammer 40,000: Inquisitor - Prophecy",
     "type": "game",
     "discount": "-87%",
@@ -12296,7 +12296,7 @@
     "price": 3.2,
     "lowest": 3.2,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -12786,7 +12786,7 @@
     "price": 3.42,
     "lowest": 3.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -12815,6 +12815,16 @@
     "discount": "-31%",
     "price": 3.45,
     "lowest": 3.45,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
+    "title": "Warhammer 40,000: Dawn of War - Game of the Year Edition",
+    "type": "game",
+    "discount": "-73%",
+    "price": 3.46,
+    "lowest": 3.46,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-03-2024"
@@ -13230,6 +13240,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "Just Cause 3: Air, Land & Sea Expansion Pass",
+    "type": "DLC",
+    "discount": "-75%",
+    "price": 3.71,
+    "lowest": 3.71,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "Crusader Kings II: Horse Lords Content Pack",
     "type": "DLC",
     "discount": "-38%",
@@ -13335,6 +13355,16 @@
     "discount": "-85%",
     "price": 3.76,
     "lowest": 3.76,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
+    "title": "Elex II",
+    "type": "game",
+    "discount": "-92%",
+    "price": 3.77,
+    "lowest": 3.77,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-03-2024"
@@ -14826,7 +14856,7 @@
     "price": 4.42,
     "lowest": 4.42,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -15930,6 +15960,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "TerraTech Deluxe Edition",
+    "type": "game",
+    "discount": "-84%",
+    "price": 4.99,
+    "lowest": 4.99,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "Tennis World Tour 2 Ace Edition",
     "type": "game",
     "discount": "-92%",
@@ -16456,7 +16496,7 @@
     "price": 5.34,
     "lowest": 5.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -17260,6 +17300,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "Trailmakers Deluxe Edition",
+    "type": "game",
+    "discount": "-93%",
+    "price": 5.99,
+    "lowest": 5.99,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "Apocalypse Party",
     "type": "game",
     "discount": "-40%",
@@ -17456,7 +17506,7 @@
     "price": 6.02,
     "lowest": 6.02,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -17537,6 +17587,16 @@
     "lowest": 6.13,
     "stock": true,
     "status": "par",
+    "last_time_updated": "20-03-2024"
+  },
+  {
+    "title": "Turnip Boy Robs a Bank",
+    "type": "game",
+    "discount": "-58%",
+    "price": 6.16,
+    "lowest": 6.16,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -17895,16 +17955,6 @@
     "discount": "-33%",
     "price": 6.52,
     "lowest": 6.52,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
-    "title": "Turnip Boy Robs a Bank",
-    "type": "game",
-    "discount": "-56%",
-    "price": 6.53,
-    "lowest": 6.53,
     "stock": true,
     "status": "par",
     "last_time_updated": "20-03-2024"
@@ -19576,7 +19626,7 @@
     "price": 7.75,
     "lowest": 7.75,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -22246,7 +22296,7 @@
     "price": 10.94,
     "lowest": 10.94,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -23346,7 +23396,7 @@
     "price": 12.23,
     "lowest": 12.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -24480,16 +24530,6 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Rogue Legacy 2",
-    "type": "game",
-    "discount": "-40%",
-    "price": 14.62,
-    "lowest": 14.62,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
     "title": "Blade Prince Academy",
     "type": "game",
     "discount": "-27%",
@@ -25306,7 +25346,7 @@
     "price": 16.93,
     "lowest": 16.93,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -25940,6 +25980,16 @@
     "last_time_updated": "20-03-2024"
   },
   {
+    "title": "Age of Wonders: Planetfall Premium Edition",
+    "type": "game",
+    "discount": "-62%",
+    "price": 19.11,
+    "lowest": 19.11,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "20-03-2024"
+  },
+  {
     "title": "Ghostwire: Tokyo",
     "type": "game",
     "discount": "-68%",
@@ -26210,16 +26260,6 @@
     "last_time_updated": "20-03-2024"
   },
   {
-    "title": "Age of Wonders: Planetfall Premium Edition",
-    "type": "game",
-    "discount": "-60%",
-    "price": 20.22,
-    "lowest": 20.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "20-03-2024"
-  },
-  {
     "title": "River City Saga: Three Kingdoms",
     "type": "game",
     "discount": "-32%",
@@ -26346,7 +26386,7 @@
     "price": 21.21,
     "lowest": 21.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
@@ -27166,7 +27206,7 @@
     "price": 29.88,
     "lowest": 29.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "20-03-2024"
   },
   {
