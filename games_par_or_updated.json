@@ -60,6 +60,16 @@
     "last_time_updated": "23-03-2024"
   },
   {
+    "title": "Massive Chalice",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "23-03-2024"
+  },
+  {
     "title": "Orwell: Ignorance is Strength",
     "type": "game",
     "discount": "-90%",
@@ -2013,16 +2023,6 @@
     "title": "Bounty Train",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-03-2024"
-  },
-  {
-    "title": "Massive Chalice",
-    "type": "game",
-    "discount": "-95%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -8985,7 +8985,7 @@
     "discount": "-90%",
     "price": 2.08,
     "lowest": 2.08,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-03-2024"
   },
@@ -11776,7 +11776,7 @@
     "price": 2.99,
     "lowest": 2.99,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "23-03-2024"
   },
   {
@@ -21520,16 +21520,6 @@
     "last_time_updated": "23-03-2024"
   },
   {
-    "title": "Sludge Life 2",
-    "type": "game",
-    "discount": "-38%",
-    "price": 9.17,
-    "lowest": 9.17,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-03-2024"
-  },
-  {
     "title": "Strategic Command: American Civil War - Wars in the Americas",
     "type": "DLC",
     "discount": "-45%",
@@ -22565,7 +22555,7 @@
     "discount": "-29%",
     "price": 10.49,
     "lowest": 10.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "23-03-2024"
   },
@@ -27080,6 +27070,16 @@
     "last_time_updated": "23-03-2024"
   },
   {
+    "title": "Farming Simulator 22 - Year 2 Season Pass",
+    "type": "DLC",
+    "discount": "-26%",
+    "price": 22.2,
+    "lowest": 22.2,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "23-03-2024"
+  },
+  {
     "title": "Dawn of the Monsters",
     "type": "game",
     "discount": "-11%",
@@ -27103,16 +27103,6 @@
     "title": "War Hospital Supporter Edition",
     "type": "game",
     "discount": "-50%",
-    "price": 22.31,
-    "lowest": 22.31,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "23-03-2024"
-  },
-  {
-    "title": "Farming Simulator 22 - Year 2 Season Pass",
-    "type": "DLC",
-    "discount": "-26%",
     "price": 22.31,
     "lowest": 22.31,
     "stock": true,
