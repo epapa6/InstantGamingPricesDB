@@ -60,6 +60,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Cobra Kai: The Karate Kid Saga Continues",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "MX vs ATV Reflex",
     "type": "game",
     "discount": "-95%",
@@ -83,6 +93,16 @@
     "title": "Alone In The Dark: The New Nightmare",
     "type": "game",
     "discount": "-86%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
+    "title": "Battle vs Chess",
+    "type": "game",
+    "discount": "-96%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -600,16 +620,6 @@
     "last_time_updated": "24-03-2024"
   },
   {
-    "title": "Cobra Kai: The Karate Kid Saga Continues",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
     "title": "Syberia",
     "type": "game",
     "discount": "-92%",
@@ -913,16 +923,6 @@
     "title": "Serial Cleaner",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Battle vs Chess",
-    "type": "game",
-    "discount": "-96%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -6706,7 +6706,7 @@
     "price": 1.46,
     "lowest": 1.46,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -6836,7 +6836,7 @@
     "price": 1.48,
     "lowest": 1.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -7875,6 +7875,16 @@
     "discount": "-88%",
     "price": 1.82,
     "lowest": 1.82,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
+    "title": "Dead Cells: The Queen and the Sea",
+    "type": "DLC",
+    "discount": "-63%",
+    "price": 1.83,
+    "lowest": 1.83,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -8976,7 +8986,7 @@
     "price": 2.12,
     "lowest": 2.12,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -9626,7 +9636,7 @@
     "price": 2.29,
     "lowest": 2.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -10470,6 +10480,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Phoenix Point: Year One Edition",
+    "type": "game",
+    "discount": "-89%",
+    "price": 2.54,
+    "lowest": 2.54,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Train Sim World 2: CSX C40-8W Loco",
     "type": "DLC",
     "discount": "-82%",
@@ -10745,16 +10765,6 @@
     "discount": "-54%",
     "price": 2.64,
     "lowest": 2.64,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Phoenix Point: Year One Edition",
-    "type": "game",
-    "discount": "-89%",
-    "price": 2.65,
-    "lowest": 2.65,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -12715,7 +12725,7 @@
     "discount": "-63%",
     "price": 3.33,
     "lowest": 3.33,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "24-03-2024"
   },
@@ -15980,16 +15990,6 @@
     "last_time_updated": "24-03-2024"
   },
   {
-    "title": "Dead by Daylight: Spark of Madness",
-    "type": "DLC",
-    "discount": "-29%",
-    "price": 4.97,
-    "lowest": 4.97,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
     "title": "Frozenheim",
     "type": "game",
     "discount": "-71%",
@@ -16816,7 +16816,7 @@
     "price": 5.36,
     "lowest": 5.36,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -17936,7 +17936,7 @@
     "price": 6.3,
     "lowest": 6.3,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -21280,6 +21280,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Sludge Life 2",
+    "type": "game",
+    "discount": "-38%",
+    "price": 9.17,
+    "lowest": 9.17,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Strategic Command: American Civil War - Wars in the Americas",
     "type": "DLC",
     "discount": "-45%",
@@ -21436,6 +21446,16 @@
     "price": 9.37,
     "lowest": 9.37,
     "stock": true,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
+    "title": "American Theft 80s",
+    "type": "game",
+    "discount": "-52%",
+    "price": 9.37,
+    "lowest": 9.37,
+    "stock": true,
     "status": "updated",
     "last_time_updated": "24-03-2024"
   },
@@ -21575,16 +21595,6 @@
     "discount": "-57%",
     "price": 9.49,
     "lowest": 9.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "American Theft 80s",
-    "type": "game",
-    "discount": "-51%",
-    "price": 9.56,
-    "lowest": 9.56,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -22600,6 +22610,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Neon White",
+    "type": "game",
+    "discount": "-53%",
+    "price": 10.87,
+    "lowest": 10.87,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Remedium",
     "type": "game",
     "discount": "-39%",
@@ -22645,16 +22665,6 @@
     "discount": "-64%",
     "price": 10.94,
     "lowest": 10.94,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Neon White",
-    "type": "game",
-    "discount": "-52%",
-    "price": 10.98,
-    "lowest": 10.98,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -24376,7 +24386,7 @@
     "price": 13.43,
     "lowest": 13.43,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -25980,6 +25990,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Age of Empires II HD Edition",
+    "type": "game",
+    "discount": "-10%",
+    "price": 17.99,
+    "lowest": 17.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Project Zomboid",
     "type": "game",
     "discount": "-8%",
@@ -25993,16 +26013,6 @@
     "title": "LEGO Star Wars: The Skywalker Saga Galactic Edition",
     "type": "game",
     "discount": "-74%",
-    "price": 17.99,
-    "lowest": 17.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Age of Empires II HD Edition",
-    "type": "game",
-    "discount": "-10%",
     "price": 17.99,
     "lowest": 17.99,
     "stock": true,
@@ -26610,6 +26620,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Hellsweeper VR Deluxe Edition",
+    "type": "game",
+    "discount": "-46%",
+    "price": 21.44,
+    "lowest": 21.44,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Gigantosaurus The Game",
     "type": "game",
     "discount": "-14%",
@@ -26635,16 +26655,6 @@
     "discount": "-64%",
     "price": 21.51,
     "lowest": 21.51,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Hellsweeper VR Deluxe Edition",
-    "type": "game",
-    "discount": "-46%",
-    "price": 21.55,
-    "lowest": 21.55,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -26796,7 +26806,7 @@
     "price": 22.09,
     "lowest": 22.09,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
