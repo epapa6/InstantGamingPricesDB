@@ -50,9 +50,29 @@
     "last_time_updated": "25-01-2024"
   },
   {
+    "title": "Industria",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Manual Samuel",
     "type": "game",
     "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
+    "title": "Beholder",
+    "type": "game",
+    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -331,16 +351,6 @@
   },
   {
     "title": "Darksiders Warmastered Edition",
-    "type": "game",
-    "discount": "-95%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Industria",
     "type": "game",
     "discount": "-95%",
     "price": 1.0,
@@ -4853,16 +4863,6 @@
     "title": "Timelock VR",
     "type": "game",
     "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "24-03-2024"
-  },
-  {
-    "title": "Beholder",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -9646,7 +9646,7 @@
     "price": 2.29,
     "lowest": 2.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -10565,6 +10565,16 @@
     "discount": "-68%",
     "price": 2.58,
     "lowest": 2.58,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
+    "title": "Disney G-Force",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.59,
+    "lowest": 2.59,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -17246,7 +17256,7 @@
     "price": 5.7,
     "lowest": 5.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -18296,7 +18306,7 @@
     "price": 6.51,
     "lowest": 6.51,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -21006,7 +21016,7 @@
     "price": 8.84,
     "lowest": 8.84,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
@@ -21380,6 +21390,16 @@
     "last_time_updated": "24-03-2024"
   },
   {
+    "title": "Endzone - A World Apart Complete Edition",
+    "type": "game",
+    "discount": "-80%",
+    "price": 9.06,
+    "lowest": 9.06,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "24-03-2024"
+  },
+  {
     "title": "Time Rift",
     "type": "game",
     "discount": "-9%",
@@ -21395,6 +21415,16 @@
     "discount": "-24%",
     "price": 9.1,
     "lowest": 9.1,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "24-03-2024"
+  },
+  {
+    "title": "Sludge Life 2",
+    "type": "game",
+    "discount": "-38%",
+    "price": 9.17,
+    "lowest": 9.17,
     "stock": true,
     "status": "par",
     "last_time_updated": "24-03-2024"
@@ -22665,7 +22695,7 @@
     "discount": "-47%",
     "price": 10.64,
     "lowest": 10.64,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "24-03-2024"
   },
@@ -26246,7 +26276,7 @@
     "price": 18.22,
     "lowest": 18.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "24-03-2024"
   },
   {
