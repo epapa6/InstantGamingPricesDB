@@ -60,6 +60,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Alan Wake's: American Nightmare",
+    "type": "game",
+    "discount": "-86%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Relicta",
     "type": "game",
     "discount": "-95%",
@@ -500,16 +510,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Alan Wake's: American Nightmare",
-    "type": "game",
-    "discount": "-86%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "SCP: Secret Files",
     "type": "game",
     "discount": "-92%",
@@ -816,7 +816,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -1760,16 +1760,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Moving Out - The Employees of the Month Pack",
-    "type": "DLC",
-    "discount": "-58%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Joe Danger",
     "type": "game",
     "discount": "-93%",
@@ -1973,6 +1963,16 @@
     "title": "Dungeons II - A Song of Sand and Fire",
     "type": "DLC",
     "discount": "-75%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Shadows: Awakening - Necrophage's Curse",
+    "type": "DLC",
+    "discount": "-80%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -2933,16 +2933,6 @@
     "title": "Warhammer: End Times - Vermintide Schluesselschloss",
     "type": "DLC",
     "discount": "-67%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Dead Mans Draw",
-    "type": "game",
-    "discount": "-85%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5275,7 +5265,7 @@
     "discount": "-94%",
     "price": 1.03,
     "lowest": 1.03,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -5690,6 +5680,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Overcooked! 2 - Carnival of Chaos",
+    "type": "DLC",
+    "discount": "-77%",
+    "price": 1.15,
+    "lowest": 1.15,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Red Faction",
     "type": "game",
     "discount": "-88%",
@@ -5925,16 +5925,6 @@
     "discount": "-87%",
     "price": 1.25,
     "lowest": 1.25,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Overcooked! 2 - Carnival of Chaos",
-    "type": "DLC",
-    "discount": "-75%",
-    "price": 1.26,
-    "lowest": 1.26,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -6625,16 +6615,6 @@
     "discount": "-71%",
     "price": 1.44,
     "lowest": 1.44,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Vendetta - Curse of Raven's Cry Deluxe Edition",
-    "type": "game",
-    "discount": "-96%",
-    "price": 1.46,
-    "lowest": 1.46,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -7655,7 +7635,7 @@
     "discount": "-82%",
     "price": 1.77,
     "lowest": 1.77,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -8373,6 +8353,16 @@
     "title": "Gas Station Simulator - Can Touch This",
     "type": "DLC",
     "discount": "-33%",
+    "price": 1.99,
+    "lowest": 1.99,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Move or Die",
+    "type": "game",
+    "discount": "-87%",
     "price": 1.99,
     "lowest": 1.99,
     "stock": true,
@@ -10546,7 +10536,7 @@
     "price": 2.6,
     "lowest": 2.6,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -12415,7 +12405,7 @@
     "discount": "-60%",
     "price": 3.26,
     "lowest": 3.26,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -13220,6 +13210,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "De Blob 2",
+    "type": "game",
+    "discount": "-82%",
+    "price": 3.62,
+    "lowest": 3.62,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Toasterball",
     "type": "game",
     "discount": "-64%",
@@ -13237,16 +13237,6 @@
     "lowest": 3.62,
     "stock": true,
     "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "De Blob 2",
-    "type": "game",
-    "discount": "-82%",
-    "price": 3.62,
-    "lowest": 3.62,
-    "stock": true,
-    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -14476,7 +14466,7 @@
     "price": 4.21,
     "lowest": 4.21,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -14746,7 +14736,7 @@
     "price": 4.33,
     "lowest": 4.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -15026,7 +15016,7 @@
     "price": 4.48,
     "lowest": 4.48,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -15035,7 +15025,7 @@
     "discount": "-42%",
     "price": 4.49,
     "lowest": 4.49,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -15306,7 +15296,7 @@
     "price": 4.65,
     "lowest": 4.65,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -16566,7 +16556,7 @@
     "price": 5.33,
     "lowest": 5.33,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -16926,7 +16916,7 @@
     "price": 5.66,
     "lowest": 5.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -17670,16 +17660,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Star Ocean The Last Hope 4K & Full HD Remaster",
-    "type": "game",
-    "discount": "-70%",
-    "price": 6.26,
-    "lowest": 6.26,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Train Simulator: London to Brighton Route",
     "type": "DLC",
     "discount": "-69%",
@@ -18366,7 +18346,7 @@
     "price": 6.66,
     "lowest": 6.66,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -19380,6 +19360,26 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Battlestar Galactica Deadlock Season One",
+    "type": "game",
+    "discount": "-90%",
+    "price": 7.36,
+    "lowest": 7.36,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Starpoint Gemini Warlords Gold Pack",
+    "type": "game",
+    "discount": "-87%",
+    "price": 7.36,
+    "lowest": 7.36,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "The Pegasus Expedition",
     "type": "game",
     "discount": "-63%",
@@ -19480,6 +19480,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "PowerWash Simulator SpongeBob SquarePants Special Pack",
+    "type": "DLC",
+    "discount": "-6%",
+    "price": 7.49,
+    "lowest": 7.49,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "SCUM Vehicle Skins pack",
     "type": "DLC",
     "discount": "-23%",
@@ -19493,16 +19503,6 @@
     "title": "Fallout 4 GOTY Edition",
     "type": "game",
     "discount": "-81%",
-    "price": 7.49,
-    "lowest": 7.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "PowerWash Simulator SpongeBob SquarePants Special Pack",
-    "type": "DLC",
-    "discount": "-6%",
     "price": 7.49,
     "lowest": 7.49,
     "stock": true,
@@ -19667,6 +19667,16 @@
     "lowest": 7.53,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Aeterna Noctis",
+    "type": "game",
+    "discount": "-75%",
+    "price": 7.53,
+    "lowest": 7.53,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -20276,7 +20286,7 @@
     "price": 8.23,
     "lowest": 8.23,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -21056,7 +21066,7 @@
     "price": 9.04,
     "lowest": 9.04,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -21075,16 +21085,6 @@
     "discount": "-24%",
     "price": 9.1,
     "lowest": 9.1,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Sludge Life 2",
-    "type": "game",
-    "discount": "-38%",
-    "price": 9.17,
-    "lowest": 9.17,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -22400,16 +22400,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "MORDHAU Supporter Bundle",
-    "type": "game",
-    "discount": "-61%",
-    "price": 10.81,
-    "lowest": 10.81,
-    "stock": false,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "V Rising",
     "type": "game",
     "discount": "-46%",
@@ -22466,7 +22456,7 @@
     "price": 10.9,
     "lowest": 10.9,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -24695,7 +24685,7 @@
     "discount": "-41%",
     "price": 14.53,
     "lowest": 14.53,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -24707,6 +24697,16 @@
     "lowest": 14.64,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Skull Island: Rise of Kong",
+    "type": "game",
+    "discount": "-63%",
+    "price": 14.7,
+    "lowest": 14.7,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -24885,16 +24885,6 @@
     "discount": "-37%",
     "price": 15.11,
     "lowest": 15.11,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Skull Island: Rise of Kong",
-    "type": "game",
-    "discount": "-62%",
-    "price": 15.12,
-    "lowest": 15.12,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -26500,6 +26490,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Redout 2 Ultimate Edition",
+    "type": "game",
+    "discount": "-47%",
+    "price": 21.69,
+    "lowest": 21.69,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Potion Tycoon Supporter Bundle",
     "type": "game",
     "discount": "-19%",
@@ -26525,16 +26525,6 @@
     "discount": "-22%",
     "price": 21.89,
     "lowest": 21.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Redout 2 Ultimate Edition",
-    "type": "game",
-    "discount": "-47%",
-    "price": 21.92,
-    "lowest": 21.92,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -26686,7 +26676,7 @@
     "price": 22.68,
     "lowest": 22.68,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -27838,6 +27828,16 @@
     "stock": true,
     "status": "par",
     "last_time_updated": "05-03-2024"
+  },
+  {
+    "title": "HUMANKIND Collection",
+    "type": "game",
+    "discount": "-29%",
+    "price": 46.22,
+    "lowest": 46.22,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
   },
   {
     "title": "Blue Reflection: Second Light",
