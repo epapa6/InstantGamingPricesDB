@@ -80,6 +80,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Cook, Serve, Delicious! 3?!",
+    "type": "game",
+    "discount": "-94%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Deponia",
     "type": "game",
     "discount": "-90%",
@@ -93,6 +103,16 @@
     "title": "Knights and Merchants",
     "type": "game",
     "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Lust for Darkness",
+    "type": "game",
+    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -790,6 +810,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Pathway",
+    "type": "game",
+    "discount": "-93%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Guts and Glory",
     "type": "game",
     "discount": "-93%",
@@ -850,16 +880,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Evil Genius",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Syberia 2",
     "type": "game",
     "discount": "-92%",
@@ -891,16 +911,6 @@
   },
   {
     "title": "Legend of Keepers: Career of a Dungeon Manager",
-    "type": "game",
-    "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Cook, Serve, Delicious! 3?!",
     "type": "game",
     "discount": "-94%",
     "price": 1.0,
@@ -1203,16 +1213,6 @@
     "title": "Rapture Rejects",
     "type": "game",
     "discount": "-94%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Lust for Darkness",
-    "type": "game",
-    "discount": "-93%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -5430,16 +5430,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Pathway",
-    "type": "game",
-    "discount": "-92%",
-    "price": 1.08,
-    "lowest": 1.08,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "WRC 9 Audi Quattro A2 1984",
     "type": "DLC",
     "discount": "-73%",
@@ -6405,7 +6395,7 @@
     "discount": "-94%",
     "price": 1.39,
     "lowest": 1.39,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -7346,7 +7336,7 @@
     "price": 1.67,
     "lowest": 1.67,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -10035,7 +10025,7 @@
     "discount": "-69%",
     "price": 2.46,
     "lowest": 2.46,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -10547,6 +10537,16 @@
     "lowest": 2.6,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Mail Time",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.6,
+    "lowest": 2.6,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -11086,7 +11086,7 @@
     "price": 2.8,
     "lowest": 2.8,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -11246,7 +11246,7 @@
     "price": 2.88,
     "lowest": 2.88,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -11516,7 +11516,7 @@
     "price": 2.97,
     "lowest": 2.97,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -12106,7 +12106,7 @@
     "price": 3.1,
     "lowest": 3.1,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -12216,7 +12216,7 @@
     "price": 3.16,
     "lowest": 3.16,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -12710,16 +12710,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Castlevania: Lords of Shadow 2 Digital Bundle",
-    "type": "game",
-    "discount": "-89%",
-    "price": 3.38,
-    "lowest": 3.38,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "NieR: Automata - 3C3C1D119440927",
     "type": "DLC",
     "discount": "-66%",
@@ -12785,16 +12775,6 @@
     "discount": "-57%",
     "price": 3.41,
     "lowest": 3.41,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Star Wars: Squadrons",
-    "type": "game",
-    "discount": "-91%",
-    "price": 3.42,
-    "lowest": 3.42,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -13257,6 +13237,16 @@
     "lowest": 3.62,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "De Blob 2",
+    "type": "game",
+    "discount": "-82%",
+    "price": 3.62,
+    "lowest": 3.62,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -14335,7 +14325,7 @@
     "discount": "-18%",
     "price": 4.09,
     "lowest": 4.09,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -14477,6 +14467,16 @@
     "lowest": 4.2,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Wanted: Dead",
+    "type": "game",
+    "discount": "-85%",
+    "price": 4.21,
+    "lowest": 4.21,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -14740,6 +14740,26 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "War for the Overworld",
+    "type": "game",
+    "discount": "-85%",
+    "price": 4.33,
+    "lowest": 4.33,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "ArcaniA Gold Edition",
+    "type": "game",
+    "discount": "-78%",
+    "price": 4.33,
+    "lowest": 4.33,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Rising Storm 2: Vietnam Born in the USA",
     "type": "DLC",
     "discount": "-34%",
@@ -14930,16 +14950,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "War for the Overworld",
-    "type": "game",
-    "discount": "-85%",
-    "price": 4.44,
-    "lowest": 4.44,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Storyteller",
     "type": "game",
     "discount": "-68%",
@@ -15007,6 +15017,16 @@
     "lowest": 4.47,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Stellaris: Toxoids Species Pack",
+    "type": "DLC",
+    "discount": "-55%",
+    "price": 4.48,
+    "lowest": 4.48,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -15280,6 +15300,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Sniper Elite V2 Remastered",
+    "type": "game",
+    "discount": "-86%",
+    "price": 4.65,
+    "lowest": 4.65,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Armored Brigade Nation Pack: France - Belgium",
     "type": "DLC",
     "discount": "-69%",
@@ -15520,9 +15550,9 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Warhammer 40.000: Dawn of War III",
-    "type": "game",
-    "discount": "-88%",
+    "title": "Warhammer Age of Sigmar: Realms of Ruin - Kurdoss Valentian, The Craven King",
+    "type": "DLC",
+    "discount": "-3%",
     "price": 4.85,
     "lowest": 4.85,
     "stock": true,
@@ -15530,9 +15560,9 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Warhammer Age of Sigmar: Realms of Ruin - Kurdoss Valentian, The Craven King",
-    "type": "DLC",
-    "discount": "-3%",
+    "title": "Warhammer 40.000: Dawn of War III",
+    "type": "game",
+    "discount": "-88%",
     "price": 4.85,
     "lowest": 4.85,
     "stock": true,
@@ -16376,7 +16406,7 @@
     "price": 5.24,
     "lowest": 5.24,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -16527,6 +16557,16 @@
     "lowest": 5.32,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "A Plague Tale Innocence",
+    "type": "game",
+    "discount": "-87%",
+    "price": 5.33,
+    "lowest": 5.33,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -16880,6 +16920,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Mega Man X Legacy Collection",
+    "type": "game",
+    "discount": "-72%",
+    "price": 5.66,
+    "lowest": 5.66,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Fireball Wizard",
     "type": "game",
     "discount": "-19%",
@@ -16905,16 +16955,6 @@
     "discount": "-29%",
     "price": 5.69,
     "lowest": 5.69,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "A Plague Tale Innocence",
-    "type": "game",
-    "discount": "-86%",
-    "price": 5.7,
-    "lowest": 5.7,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -17275,7 +17315,7 @@
     "discount": "-80%",
     "price": 5.96,
     "lowest": 5.96,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -17535,16 +17575,6 @@
     "discount": "-76%",
     "price": 6.05,
     "lowest": 6.05,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
-    "type": "game",
-    "discount": "-85%",
-    "price": 6.06,
-    "lowest": 6.06,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -18330,6 +18360,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "The Elder Scrolls V: Skyrim Addon Pack",
+    "type": "DLC",
+    "discount": "-83%",
+    "price": 6.66,
+    "lowest": 6.66,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Trigon: Space Story",
     "type": "game",
     "discount": "-67%",
@@ -18725,7 +18765,7 @@
     "discount": "-11%",
     "price": 6.94,
     "lowest": 6.94,
-    "stock": false,
+    "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -19810,6 +19850,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "K\u0101domon: Hyper Auto Battlers",
+    "type": "game",
+    "discount": "-21%",
+    "price": 7.89,
+    "lowest": 7.89,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Monster Sanctuary - Deluxe Edition",
     "type": "game",
     "discount": "-74%",
@@ -20185,7 +20235,7 @@
     "discount": "-67%",
     "price": 8.18,
     "lowest": 8.18,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -20217,6 +20267,16 @@
     "lowest": 8.22,
     "stock": false,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Farming Simulator 19",
+    "type": "game",
+    "discount": "-54%",
+    "price": 8.23,
+    "lowest": 8.23,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -20830,16 +20890,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Farming Simulator 19",
-    "type": "game",
-    "discount": "-50%",
-    "price": 8.99,
-    "lowest": 8.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Steel Division: Normandy 44",
     "type": "game",
     "discount": "-78%",
@@ -21000,6 +21050,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Dysmantle",
+    "type": "game",
+    "discount": "-55%",
+    "price": 9.04,
+    "lowest": 9.04,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Time Rift",
     "type": "game",
     "discount": "-9%",
@@ -21015,6 +21075,16 @@
     "discount": "-24%",
     "price": 9.1,
     "lowest": 9.1,
+    "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Sludge Life 2",
+    "type": "game",
+    "discount": "-38%",
+    "price": 9.17,
+    "lowest": 9.17,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -21455,7 +21525,7 @@
     "discount": "-66%",
     "price": 9.77,
     "lowest": 9.77,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -21926,7 +21996,7 @@
     "price": 10.22,
     "lowest": 10.22,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -22330,19 +22400,19 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "V Rising",
+    "title": "MORDHAU Supporter Bundle",
     "type": "game",
-    "discount": "-46%",
+    "discount": "-61%",
     "price": 10.81,
     "lowest": 10.81,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "MORDHAU Supporter Bundle",
+    "title": "V Rising",
     "type": "game",
-    "discount": "-61%",
+    "discount": "-46%",
     "price": 10.81,
     "lowest": 10.81,
     "stock": true,
@@ -22387,6 +22457,16 @@
     "lowest": 10.89,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Treehouse Riddle",
+    "type": "game",
+    "discount": "-26%",
+    "price": 10.9,
+    "lowest": 10.9,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -22895,16 +22975,6 @@
     "discount": "-42%",
     "price": 11.5,
     "lowest": 11.5,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "GetsuFumaDen: Undying Moon Deluxe",
-    "type": "game",
-    "discount": "-67%",
-    "price": 11.53,
-    "lowest": 11.53,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -23566,7 +23636,7 @@
     "price": 12.29,
     "lowest": 12.29,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -23975,7 +24045,7 @@
     "discount": "-84%",
     "price": 12.99,
     "lowest": 12.99,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -24316,7 +24386,7 @@
     "price": 13.86,
     "lowest": 13.86,
     "stock": false,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -24625,7 +24695,7 @@
     "discount": "-41%",
     "price": 14.53,
     "lowest": 14.53,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -25866,7 +25936,7 @@
     "price": 18.34,
     "lowest": 18.34,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -26610,6 +26680,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Dragon Quest Builders 2",
+    "type": "game",
+    "discount": "-55%",
+    "price": 22.68,
+    "lowest": 22.68,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Terminator: Dark Fate - Defiance",
     "type": "game",
     "discount": "-42%",
@@ -26786,16 +26866,6 @@
     "price": 24.11,
     "lowest": 24.11,
     "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Destiny 2: L'Eclissi + Pass annuale",
-    "type": "DLC",
-    "discount": "-76%",
-    "price": 24.44,
-    "lowest": 24.44,
-    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -27195,7 +27265,7 @@
     "discount": "-31%",
     "price": 30.98,
     "lowest": 30.98,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
