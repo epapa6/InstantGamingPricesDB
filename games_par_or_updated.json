@@ -60,9 +60,39 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "The Guild 2",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Relicta",
+    "type": "game",
+    "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Red Wings: Aces of the Sky",
     "type": "game",
     "discount": "-95%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Knights and Merchants",
+    "type": "game",
+    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": false,
@@ -810,16 +840,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "The Guild 2",
-    "type": "game",
-    "discount": "-90%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Evil Genius",
     "type": "game",
     "discount": "-90%",
@@ -840,9 +860,9 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Relicta",
+    "title": "My Little Riding Champion",
     "type": "game",
-    "discount": "-95%",
+    "discount": "-97%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -1043,16 +1063,6 @@
     "title": "Sacred 3",
     "type": "game",
     "discount": "-93%",
-    "price": 1.0,
-    "lowest": 1.0,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Knights and Merchants",
-    "type": "game",
-    "discount": "-90%",
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
@@ -2276,7 +2286,7 @@
     "price": 1.0,
     "lowest": 1.0,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -3087,6 +3097,16 @@
     "lowest": 1.0,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Super Magbot",
+    "type": "game",
+    "discount": "-90%",
+    "price": 1.0,
+    "lowest": 1.0,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -5670,6 +5690,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Red Faction",
+    "type": "game",
+    "discount": "-88%",
+    "price": 1.15,
+    "lowest": 1.15,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Sigma Theory: Global Cold War",
     "type": "game",
     "discount": "-94%",
@@ -6260,16 +6290,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Speedrunners",
-    "type": "game",
-    "discount": "-91%",
-    "price": 1.35,
-    "lowest": 1.35,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Call of Cthulhu: Dark Corners of the Earth",
     "type": "game",
     "discount": "-73%",
@@ -6356,7 +6376,7 @@
     "price": 1.38,
     "lowest": 1.38,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -6385,7 +6405,7 @@
     "discount": "-94%",
     "price": 1.39,
     "lowest": 1.39,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -7260,6 +7280,26 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Euro Truck Simulator",
+    "type": "game",
+    "discount": "-67%",
+    "price": 1.66,
+    "lowest": 1.66,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "MotoGP 17",
+    "type": "game",
+    "discount": "-89%",
+    "price": 1.66,
+    "lowest": 1.66,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Homebrew Patent Unkown",
     "type": "game",
     "discount": "-89%",
@@ -7282,16 +7322,6 @@
   {
     "title": "Predator: Hunting Grounds - City Hunter Predator DLC Pack",
     "type": "DLC",
-    "discount": "-67%",
-    "price": 1.66,
-    "lowest": 1.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Euro Truck Simulator",
-    "type": "game",
     "discount": "-67%",
     "price": 1.66,
     "lowest": 1.66,
@@ -7323,16 +7353,6 @@
     "title": "River City Super Sports Challenge ~All Stars Special~",
     "type": "game",
     "discount": "-92%",
-    "price": 1.66,
-    "lowest": 1.66,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "MotoGP 17",
-    "type": "game",
-    "discount": "-89%",
     "price": 1.66,
     "lowest": 1.66,
     "stock": true,
@@ -9980,6 +10000,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Strange Brigade Deluxe Edition",
+    "type": "game",
+    "discount": "-97%",
+    "price": 2.42,
+    "lowest": 2.42,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Diluvion: Resubmerged",
     "type": "game",
     "discount": "-88%",
@@ -10350,16 +10380,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Strange Brigade Deluxe Edition",
-    "type": "game",
-    "discount": "-97%",
-    "price": 2.53,
-    "lowest": 2.53,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Shakes on a Plane",
     "type": "game",
     "discount": "-83%",
@@ -10540,6 +10560,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Bee Simulator",
+    "type": "game",
+    "discount": "-87%",
+    "price": 2.6,
+    "lowest": 2.6,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Panzer Corps Gold",
     "type": "game",
     "discount": "-91%",
@@ -10573,16 +10603,6 @@
     "title": "Raiden Legacy Steam Edition",
     "type": "game",
     "discount": "-74%",
-    "price": 2.6,
-    "lowest": 2.6,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Bee Simulator",
-    "type": "game",
-    "discount": "-87%",
     "price": 2.6,
     "lowest": 2.6,
     "stock": true,
@@ -12256,6 +12276,16 @@
     "price": 3.16,
     "lowest": 3.16,
     "stock": true,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Strange Brigade - Season Pass",
+    "type": "DLC",
+    "discount": "-91%",
+    "price": 3.16,
+    "lowest": 3.16,
+    "stock": true,
     "status": "updated",
     "last_time_updated": "25-03-2024"
   },
@@ -13315,7 +13345,7 @@
     "discount": "-63%",
     "price": 3.66,
     "lowest": 3.66,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -14083,16 +14113,6 @@
     "title": "WRC 10 Arena Panzerplatte SSS",
     "type": "DLC",
     "discount": "-20%",
-    "price": 3.99,
-    "lowest": 3.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Tokyo Dark",
-    "type": "game",
-    "discount": "-78%",
     "price": 3.99,
     "lowest": 3.99,
     "stock": true,
@@ -17006,7 +17026,7 @@
     "price": 5.7,
     "lowest": 5.7,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -17293,16 +17313,6 @@
     "title": "Tandem: A Tale of Shadows",
     "type": "game",
     "discount": "-39%",
-    "price": 5.93,
-    "lowest": 5.93,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Super Magbot",
-    "type": "game",
-    "discount": "-41%",
     "price": 5.93,
     "lowest": 5.93,
     "stock": true,
@@ -17740,6 +17750,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Star Ocean The Last Hope 4K & Full HD Remaster",
+    "type": "game",
+    "discount": "-70%",
+    "price": 6.26,
+    "lowest": 6.26,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Train Simulator: London to Brighton Route",
     "type": "DLC",
     "discount": "-69%",
@@ -18165,16 +18185,6 @@
     "discount": "-48%",
     "price": 6.53,
     "lowest": 6.53,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Star Ocean The Last Hope 4K & Full HD Remaster",
-    "type": "game",
-    "discount": "-69%",
-    "price": 6.56,
-    "lowest": 6.56,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -20860,6 +20870,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Streets of Rage 4",
+    "type": "game",
+    "discount": "-64%",
+    "price": 8.97,
+    "lowest": 8.97,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Card Shark",
     "type": "game",
     "discount": "-54%",
@@ -20907,6 +20927,16 @@
     "lowest": 8.99,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Subterrain: Mines of Titan",
+    "type": "game",
+    "discount": "-55%",
+    "price": 8.99,
+    "lowest": 8.99,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -21115,16 +21145,6 @@
     "discount": "-24%",
     "price": 9.1,
     "lowest": 9.1,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Sludge Life 2",
-    "type": "game",
-    "discount": "-38%",
-    "price": 9.17,
-    "lowest": 9.17,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -21400,16 +21420,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Subterrain: Mines of Titan",
-    "type": "game",
-    "discount": "-53%",
-    "price": 9.49,
-    "lowest": 9.49,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Sweet Transit",
     "type": "game",
     "discount": "-68%",
@@ -21587,6 +21597,16 @@
     "lowest": 9.77,
     "stock": true,
     "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
+    "title": "Gas Station Simulator - Tidal Wave",
+    "type": "DLC",
+    "discount": "-34%",
+    "price": 9.79,
+    "lowest": 9.79,
+    "stock": true,
+    "status": "updated",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -22030,16 +22050,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Arma 3: Apex",
-    "type": "DLC",
-    "discount": "-49%",
-    "price": 10.22,
-    "lowest": 10.22,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Train Simulator: Norddeutsche-Bahn: Kiel - L\u00fcbeck Route",
     "type": "DLC",
     "discount": "-53%",
@@ -22155,16 +22165,6 @@
     "discount": "-30%",
     "price": 10.48,
     "lowest": 10.48,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Gas Station Simulator - Tidal Wave",
-    "type": "DLC",
-    "discount": "-29%",
-    "price": 10.49,
-    "lowest": 10.49,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
@@ -23280,6 +23280,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Call of Duty: Black Ops - Mac Edition",
+    "type": "game",
+    "discount": "-70%",
+    "price": 11.87,
+    "lowest": 11.87,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Catch & Release",
     "type": "game",
     "discount": "-41%",
@@ -23293,16 +23303,6 @@
     "title": "Street Fighter V Season 5 Premium Pass",
     "type": "DLC",
     "discount": "-60%",
-    "price": 11.87,
-    "lowest": 11.87,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Call of Duty: Black Ops - Mac Edition",
-    "type": "game",
-    "discount": "-70%",
     "price": 11.87,
     "lowest": 11.87,
     "stock": true,
@@ -23786,7 +23786,7 @@
     "price": 12.36,
     "lowest": 12.36,
     "stock": true,
-    "status": "updated",
+    "status": "par",
     "last_time_updated": "25-03-2024"
   },
   {
@@ -24880,16 +24880,6 @@
     "last_time_updated": "25-03-2024"
   },
   {
-    "title": "Streets of Rage 4",
-    "type": "game",
-    "discount": "-40%",
-    "price": 14.99,
-    "lowest": 14.99,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
     "title": "Gravity Circuit",
     "type": "game",
     "discount": "-12%",
@@ -25035,7 +25025,7 @@
     "discount": "-62%",
     "price": 15.32,
     "lowest": 15.32,
-    "stock": true,
+    "stock": false,
     "status": "par",
     "last_time_updated": "25-03-2024"
   },
@@ -26230,6 +26220,16 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Euro Truck Simulator 2 Collector's Bundle",
+    "type": "game",
+    "discount": "-1%",
+    "price": 19.89,
+    "lowest": 19.89,
+    "stock": false,
+    "status": "par",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Hotel: A Resort Simulator - Lake Edition",
     "type": "game",
     "discount": "-32%",
@@ -26243,16 +26243,6 @@
     "title": "Agatha Christie - Hercule Poirot: The London Case",
     "type": "game",
     "discount": "-34%",
-    "price": 19.89,
-    "lowest": 19.89,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Euro Truck Simulator 2 Collector's Bundle",
-    "type": "game",
-    "discount": "-1%",
     "price": 19.89,
     "lowest": 19.89,
     "stock": true,
@@ -27520,21 +27510,21 @@
     "last_time_updated": "25-03-2024"
   },
   {
+    "title": "Arizona Sunshine 2 VR Deluxe Edition",
+    "type": "game",
+    "discount": "-44%",
+    "price": 33.32,
+    "lowest": 33.32,
+    "stock": true,
+    "status": "updated",
+    "last_time_updated": "25-03-2024"
+  },
+  {
     "title": "Final Fantasy VII Remake Intergrade",
     "type": "game",
     "discount": "-58%",
     "price": 33.42,
     "lowest": 33.42,
-    "stock": true,
-    "status": "par",
-    "last_time_updated": "25-03-2024"
-  },
-  {
-    "title": "Arizona Sunshine 2 VR Deluxe Edition",
-    "type": "game",
-    "discount": "-44%",
-    "price": 33.43,
-    "lowest": 33.43,
     "stock": true,
     "status": "par",
     "last_time_updated": "25-03-2024"
